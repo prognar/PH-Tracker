@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T12:00:00Z",
+  "lastUpdated": "2025-12-10T21:39:00.520Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -36,7 +36,11 @@
         "restaurantFocus": "Primary"
       },
       "history": [
-        { "date": "2025-12-10", "likelihood": 85, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 85,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -64,7 +68,11 @@
         "globalUnits": "31,000+"
       },
       "history": [
-        { "date": "2025-12-10", "likelihood": 70, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 70,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -92,7 +100,11 @@
         "dealStyle": "LBO"
       },
       "history": [
-        { "date": "2025-12-10", "likelihood": 65, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 65,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -119,7 +131,11 @@
         "recentDeals": "Limited restaurant"
       },
       "history": [
-        { "date": "2025-12-10", "likelihood": 50, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 50,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -147,7 +163,11 @@
         "timeHorizon": "Long-term"
       },
       "history": [
-        { "date": "2025-12-10", "likelihood": 45, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 45,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -174,7 +194,11 @@
         "focus": "Casual dining"
       },
       "history": [
-        { "date": "2025-12-10", "likelihood": 40, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 40,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -201,11 +225,21 @@
         "structure": "Complex"
       },
       "history": [
-        { "date": "2025-12-10", "likelihood": 35, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 35,
+          "note": "Initial assessment"
+        }
       ]
     }
   ],
   "timeline": [
+    {
+      "date": "2025-12-10",
+      "event": "Yum! Brands: Don't Count On Pizza Hut Sale To Boost This Indebted Business (YUM) - Seeking Alpha",
+      "impact": "low",
+      "type": "news"
+    },
     {
       "date": "2025-11-04",
       "event": "Yum! Brands announces strategic review",
@@ -255,5 +289,14 @@
       "type": "competitor"
     }
   ],
-  "recentNews": []
+  "recentNews": [
+    {
+      "date": "2025-12-10",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "date": "2025-12-10",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    }
+  ]
 }
