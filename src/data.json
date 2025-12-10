@@ -1,0 +1,259 @@
+{
+  "lastUpdated": "2025-12-10T12:00:00Z",
+  "dealStatus": "active_review",
+  "estimatedValuation": {
+    "low": 3500000000,
+    "high": 4200000000
+  },
+  "keyStats": {
+    "globalUnits": 20000,
+    "usMarketShare": 18.7,
+    "operatingProfitShare": 11
+  },
+  "buyers": [
+    {
+      "id": "roark-inspire",
+      "name": "Roark Capital / Inspire Brands",
+      "type": "Private Equity",
+      "likelihood": 85,
+      "trend": "up",
+      "estimatedBid": "$3.5B - $4.5B",
+      "rationale": "Roark has a proven track record with restaurant turnarounds (Arby's, Subway, Dunkin'). Inspire Brands lacks a pizza concept. They manage ~$37B in assets and recently acquired Dave's Hot Chicken.",
+      "pros": [
+        "Deep restaurant expertise",
+        "No current pizza brand",
+        "Track record with struggling chains",
+        "Strong franchisee relationships"
+      ],
+      "cons": [
+        "Already integrating Subway",
+        "High debt load from recent deals",
+        "Pizza Hut would be massive undertaking"
+      ],
+      "keyMetrics": {
+        "aum": "$37B",
+        "portfolioBrands": "23+",
+        "restaurantFocus": "Primary"
+      },
+      "history": [
+        { "date": "2025-12-10", "likelihood": 85, "note": "Initial assessment" }
+      ]
+    },
+    {
+      "id": "rbi",
+      "name": "Restaurant Brands International",
+      "type": "Strategic Acquirer",
+      "likelihood": 70,
+      "trend": "stable",
+      "estimatedBid": "$4.0B - $5.0B",
+      "rationale": "RBI (Burger King, Tim Hortons, Popeyes) has been rumored to want a pizza brand. Global infrastructure could support Pizza Hut's international operations.",
+      "pros": [
+        "No pizza in portfolio",
+        "Global franchise infrastructure",
+        "Publicly traded - access to capital",
+        "Experience with turnarounds (BK)"
+      ],
+      "cons": [
+        "Still executing Burger King turnaround",
+        "3G Capital reducing stake",
+        "May prefer smaller acquisition"
+      ],
+      "keyMetrics": {
+        "marketCap": "$28B",
+        "brands": "4",
+        "globalUnits": "31,000+"
+      },
+      "history": [
+        { "date": "2025-12-10", "likelihood": 70, "note": "Initial assessment" }
+      ]
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo Global Management",
+      "type": "Private Equity",
+      "likelihood": 65,
+      "trend": "up",
+      "estimatedBid": "$3.0B - $4.0B",
+      "rationale": "Apollo recently pursued Papa John's and has extensive QSR experience (former CKE owner). They know the pizza space and have capital to deploy.",
+      "pros": [
+        "Recent pizza interest (Papa John's bid)",
+        "Deep QSR experience",
+        "Massive capital reserves",
+        "Turnaround expertise"
+      ],
+      "cons": [
+        "Papa John's deal fell through",
+        "May wait for cheaper opportunity",
+        "Less operational focus than Roark"
+      ],
+      "keyMetrics": {
+        "aum": "$650B+",
+        "qsrExperience": "CKE, Chuck E. Cheese",
+        "dealStyle": "LBO"
+      },
+      "history": [
+        { "date": "2025-12-10", "likelihood": 65, "note": "Initial assessment" }
+      ]
+    },
+    {
+      "id": "sycamore",
+      "name": "Sycamore Partners",
+      "type": "Private Equity",
+      "likelihood": 50,
+      "trend": "stable",
+      "estimatedBid": "$2.5B - $3.5B",
+      "rationale": "Consumer-focused PE firm with retail turnaround experience. Could see Pizza Hut as a fixer-upper opportunity at the right price.",
+      "pros": [
+        "Consumer brand expertise",
+        "Turnaround track record",
+        "Patient capital approach"
+      ],
+      "cons": [
+        "Less restaurant-specific experience",
+        "Would need operating partners",
+        "Smaller fund size"
+      ],
+      "keyMetrics": {
+        "aum": "$10B+",
+        "focus": "Consumer/Retail",
+        "recentDeals": "Limited restaurant"
+      },
+      "history": [
+        { "date": "2025-12-10", "likelihood": 50, "note": "Initial assessment" }
+      ]
+    },
+    {
+      "id": "middle-east-swf",
+      "name": "Middle Eastern Sovereign Wealth",
+      "type": "Sovereign Wealth",
+      "likelihood": 45,
+      "trend": "up",
+      "estimatedBid": "$4.5B - $6.0B",
+      "rationale": "Gulf sovereign wealth funds (PIF, QIA, Mubadala) have been actively investing in global consumer brands and hospitality.",
+      "pros": [
+        "Massive capital",
+        "Long-term investment horizon",
+        "Global ambitions",
+        "Pizza Hut strong in Middle East"
+      ],
+      "cons": [
+        "Less operational expertise",
+        "Would need management partner",
+        "Regulatory scrutiny"
+      ],
+      "keyMetrics": {
+        "capitalAvailable": "$1T+",
+        "investmentStyle": "Strategic",
+        "timeHorizon": "Long-term"
+      },
+      "history": [
+        { "date": "2025-12-10", "likelihood": 45, "note": "Initial assessment" }
+      ]
+    },
+    {
+      "id": "triartisan",
+      "name": "TriArtisan Capital Partners",
+      "type": "Private Equity",
+      "likelihood": 40,
+      "trend": "stable",
+      "estimatedBid": "$2.5B - $3.5B",
+      "rationale": "Recently acquired Denny's, owns P.F. Chang's. Building a casual dining portfolio but Pizza Hut might be too large.",
+      "pros": [
+        "Active in restaurant M&A",
+        "Recent Denny's deal shows appetite",
+        "Operational expertise"
+      ],
+      "cons": [
+        "Pizza Hut may be too large",
+        "Already digesting Denny's",
+        "Focused on casual dining"
+      ],
+      "keyMetrics": {
+        "recentDeal": "Denny's $322M",
+        "portfolio": "P.F. Chang's, Denny's",
+        "focus": "Casual dining"
+      },
+      "history": [
+        { "date": "2025-12-10", "likelihood": 40, "note": "Initial assessment" }
+      ]
+    },
+    {
+      "id": "asian-strategic",
+      "name": "Asian Strategic Buyer",
+      "type": "Strategic",
+      "likelihood": 35,
+      "trend": "up",
+      "estimatedBid": "Varies by structure",
+      "rationale": "Pizza Hut's international business is stronger than US. China is 2nd largest market. Asian operators may want full control.",
+      "pros": [
+        "Strong international operations",
+        "Local market expertise",
+        "Growth potential in Asia"
+      ],
+      "cons": [
+        "Complex regulatory approvals",
+        "Would need US partner",
+        "Yum China already operates Pizza Hut"
+      ],
+      "keyMetrics": {
+        "pizzaHutChina": "4,000+ units",
+        "growth": "Positive",
+        "structure": "Complex"
+      },
+      "history": [
+        { "date": "2025-12-10", "likelihood": 35, "note": "Initial assessment" }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-11-04",
+      "event": "Yum! Brands announces strategic review",
+      "impact": "high",
+      "type": "official"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Goldman Sachs & Barclays retained as advisors",
+      "impact": "high",
+      "type": "official"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "CEO Turner: 'May be better executed outside of Yum'",
+      "impact": "high",
+      "type": "official"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "YUM stock up 7% on news",
+      "impact": "medium",
+      "type": "market"
+    },
+    {
+      "date": "2025-11-21",
+      "event": "Seeking Alpha analysis estimates $3.5B-$4.2B valuation",
+      "impact": "medium",
+      "type": "analysis"
+    },
+    {
+      "date": "2025-10-15",
+      "event": "Pizza Hut UK franchisee in talks with Directional Capital",
+      "impact": "medium",
+      "type": "related"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Pizza Hut Q3: US same-store sales down 6%",
+      "impact": "high",
+      "type": "financial"
+    },
+    {
+      "date": "2025-02-25",
+      "event": "Roark acquires Dave's Hot Chicken",
+      "impact": "low",
+      "type": "competitor"
+    }
+  ],
+  "recentNews": []
+}
