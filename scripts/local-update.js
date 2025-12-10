@@ -54,15 +54,36 @@ const MEDIUM_IMPACT_KEYWORDS = [
   "restaurant brands pizza", "pizza hut interested", "pizza hut bidder"
 ];
 
-const BUYER_KEYWORDS = {
-  "roark-inspire": ["roark capital", "inspire brands", "arby's owner", "subway owner", "dunkin owner"],
-  "rbi": ["restaurant brands international", "burger king owner", "tim hortons owner", "popeyes owner", "rbi"],
-  "apollo": ["apollo global", "apollo management", "apollo pizza"],
-  "sycamore": ["sycamore partners", "sycamore capital"],
-  "middle-east-swf": ["saudi", "pif", "qia", "mubadala", "sovereign wealth", "middle east"],
-  "triartisan": ["triartisan", "denny's owner", "p.f. chang's owner"],
-  "asian-strategic": ["yum china", "asian buyer", "china pizza hut"]
-};
+// Load buyer keywords from data.json
+function loadBuyerKeywords() {
+  try {
+    const dataPath = path.join(__dirname, "../src/data.json");
+    const data = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
+    const keywords = {};
+    for (const buyer of data.buyers) {
+      if (buyer.newsKeywords) {
+        keywords[buyer.id] = buyer.newsKeywords;
+      }
+    }
+    return keywords;
+  } catch (e) {
+    // Fallback if data.json can't be read
+    return {
+      "roark-inspire": ["roark capital", "inspire brands"],
+      "flynn-group": ["flynn group", "flynn restaurant", "greg flynn"],
+      "rbi": ["restaurant brands international", "burger king owner"],
+      "apollo": ["apollo global", "apollo management"],
+      "blackstone": ["blackstone pizza", "blackstone restaurant"],
+      "sycamore": ["sycamore partners"],
+      "triartisan-yadav": ["triartisan", "yadav enterprises"],
+      "middle-east-swf": ["sovereign wealth", "middle east pizza"],
+      "sun-holdings": ["sun holdings"],
+      "asian-strategic": ["yum china pizza"]
+    };
+  }
+}
+
+const BUYER_KEYWORDS = loadBuyerKeywords();
 
 // Fetch URL content
 function fetchUrl(url) {
