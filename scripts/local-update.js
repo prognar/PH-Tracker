@@ -94,7 +94,6 @@ const NEWS_SOURCES = [
     name: "Google News - Chequan Lewis",
     url: "https://news.google.com/rss/search?q=%22Chequan+Lewis%22+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
     type: "rss"
-<<<<<<< HEAD
   },
   // People to watch
   {
@@ -106,8 +105,6 @@ const NEWS_SOURCES = [
     name: "Google News - Ron Bellamy Flynn",
     url: "https://news.google.com/rss/search?q=%22Ron+Bellamy%22+Flynn+OR+%22Ronald+Bellamy%22+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
     type: "rss"
-=======
->>>>>>> da4a77e15a0691f1b36267dd1c734bc39b542fca
   }
 ];
 
@@ -142,14 +139,10 @@ const MEDIUM_IMPACT_KEYWORDS = [
   "former pizza hut", "ex-pizza hut", "leaves pizza hut", "left pizza hut",
   "pizza hut executive", "pizza hut ceo", "pizza hut cmo", "pizza hut cfo",
   "pizza hut president", "departs pizza hut", "exits pizza hut",
-<<<<<<< HEAD
   "pizza hut leadership", "pizza hut management change",
   // People to watch
   "steve ritchie pizza", "steve ritchie prosper", "steve ritchie restaurant",
   "ron bellamy flynn", "ron bellamy pizza", "ronald bellamy"
-=======
-  "pizza hut leadership", "pizza hut management change"
->>>>>>> da4a77e15a0691f1b36267dd1c734bc39b542fca
 ];
 
 const LOW_IMPACT_KEYWORDS = [
@@ -514,8 +507,4 @@ async function updateTracker() {
 updateTracker().catch(err => {
   console.error("❌ Error:", err);
   process.exit(1);
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> da4a77e15a0691f1b36267dd1c734bc39b542fca
