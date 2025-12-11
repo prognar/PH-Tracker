@@ -471,7 +471,9 @@
       "currentLeadership": [
         {"name": "Aaron Powell", "role": "CEO, Pizza Hut Division"},
         {"name": "Chris Turner", "role": "CEO, Yum! Brands (as of Sept 30, 2025)"},
-        {"name": "David Gibbs", "role": "Former CEO, Yum! Brands (retired Sept 30, 2025)"}
+        {"name": "David Gibbs", "role": "Former CEO, Yum! Brands (retired Sept 30, 2025)"},
+        {"name": "Steve Ritchie", "role": "CEO, Prosper Growth Partners (Bain Capital)", "linkedinUrl": "https://www.linkedin.com/in/stritchie/", "notes": "Former Papa John's CEO - potential acquirer or advisor"},
+        {"name": "Ron Bellamy", "role": "President & COO, Flynn Group", "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/", "notes": "Key decision maker at largest PH franchisee"}
       ],
       "signalInterpretation": "High exec turnover pre-sale often indicates: (1) insiders know deal is coming, (2) new owner already placing people, (3) brand distress worse than reported. Graves going to Inspire/Roark is especially notable - could signal relationship building or that Roark is already conducting due diligence with friendly insiders."
     },

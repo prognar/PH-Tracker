@@ -24,34 +24,138 @@ const __dirname = path.dirname(__filename);
 
 // News sources to check
 const NEWS_SOURCES = [
+  // General Pizza Hut acquisition news
   {
-    name: "Google News",
+    name: "Google News - Pizza Hut Sale",
     url: "https://news.google.com/rss/search?q=Pizza+Hut+sale+acquisition+Yum+Brands&hl=en-US&gl=US&ceid=US:en",
     type: "rss"
   },
   {
-    name: "Google News - Roark",
-    url: "https://news.google.com/rss/search?q=Roark+Capital+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
+    name: "Google News - Pizza Hut Deal",
+    url: "https://news.google.com/rss/search?q=Pizza+Hut+deal+buyer+bid&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  // Buyer-specific searches
+  {
+    name: "Google News - Roark Pizza",
+    url: "https://news.google.com/rss/search?q=Roark+Capital+Pizza+Hut+OR+Inspire+Brands+pizza&hl=en-US&gl=US&ceid=US:en",
     type: "rss"
   },
   {
-    name: "Google News - RBI",
+    name: "Google News - Flynn Pizza Hut",
+    url: "https://news.google.com/rss/search?q=Flynn+Restaurant+Group+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - RBI Pizza",
     url: "https://news.google.com/rss/search?q=Restaurant+Brands+International+Pizza&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Apollo Pizza",
+    url: "https://news.google.com/rss/search?q=Apollo+Global+Pizza+Hut+OR+Apollo+pizza+acquisition&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Blackstone Restaurant",
+    url: "https://news.google.com/rss/search?q=Blackstone+pizza+OR+Blackstone+restaurant+acquisition&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  // Deal process / SEC filings
+  {
+    name: "Google News - Yum Brands Filing",
+    url: "https://news.google.com/rss/search?q=Yum+Brands+SEC+filing+OR+Yum+Brands+8-K&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  // Franchisee news
+  {
+    name: "Google News - Pizza Hut Franchisee",
+    url: "https://news.google.com/rss/search?q=Pizza+Hut+franchisee+acquisition+OR+Pizza+Hut+franchisee+sale&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  // Executive movements - critical signal!
+  {
+    name: "Google News - Pizza Hut Executive",
+    url: "https://news.google.com/rss/search?q=%22former+Pizza+Hut%22+OR+%22ex-Pizza+Hut%22+OR+%22leaves+Pizza+Hut%22+OR+%22Pizza+Hut+executive%22&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Pizza Hut Leadership",
+    url: "https://news.google.com/rss/search?q=Pizza+Hut+CEO+OR+Pizza+Hut+president+OR+Pizza+Hut+CMO+OR+Pizza+Hut+CFO&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  // Specific known executives who left
+  {
+    name: "Google News - David Graves",
+    url: "https://news.google.com/rss/search?q=%22David+Graves%22+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Chequan Lewis",
+    url: "https://news.google.com/rss/search?q=%22Chequan+Lewis%22+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  // People to watch
+  {
+    name: "Google News - Steve Ritchie",
+    url: "https://news.google.com/rss/search?q=%22Steve+Ritchie%22+pizza+OR+%22Steve+Ritchie%22+restaurant+OR+%22Steve+Ritchie%22+Prosper&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Ron Bellamy Flynn",
+    url: "https://news.google.com/rss/search?q=%22Ron+Bellamy%22+Flynn+OR+%22Ronald+Bellamy%22+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
     type: "rss"
   }
 ];
 
 // Keywords that indicate significant news
 const HIGH_IMPACT_KEYWORDS = [
+  // Deal announcements
   "acquires pizza hut", "to buy pizza hut", "pizza hut sold", "pizza hut deal",
   "pizza hut acquisition", "bid for pizza hut", "offer for pizza hut",
-  "pizza hut buyer", "yum sells pizza hut", "pizza hut sale complete"
+  "pizza hut buyer", "yum sells pizza hut", "pizza hut sale complete",
+  // Deal process (late stage)
+  "definitive agreement", "binding offer", "exclusivity",
+  "regulatory approval", "antitrust clearance", "expected to close",
+  "shareholder vote", "deal closing"
 ];
 
 const MEDIUM_IMPACT_KEYWORDS = [
+  // Deal process (early/mid stage)
   "pizza hut strategic", "pizza hut review", "pizza hut talks",
+  "due diligence", "management presentation", "data room",
+  "preliminary interest", "indicative bid", "non-binding",
+  // Buyer activity
   "roark pizza", "apollo pizza hut", "inspire brands pizza",
-  "restaurant brands pizza", "pizza hut interested", "pizza hut bidder"
+  "restaurant brands pizza", "pizza hut interested", "pizza hut bidder",
+  "flynn pizza hut", "blackstone pizza",
+  // Financing signals
+  "lbo financing", "debt financing", "committed financing",
+  // Franchisee signals
+  "pizza hut franchisee", "franchisee meeting", "town hall",
+  // Valuation
+  "pizza hut valuation", "ebitda multiple", "enterprise value",
+  // Executive movements (major signal!)
+  "former pizza hut", "ex-pizza hut", "leaves pizza hut", "left pizza hut",
+  "pizza hut executive", "pizza hut ceo", "pizza hut cmo", "pizza hut cfo",
+  "pizza hut president", "departs pizza hut", "exits pizza hut",
+  "pizza hut leadership", "pizza hut management change",
+  // People to watch
+  "steve ritchie pizza", "steve ritchie prosper", "steve ritchie restaurant",
+  "ron bellamy flynn", "ron bellamy pizza", "ronald bellamy"
+];
+
+const LOW_IMPACT_KEYWORDS = [
+  // Geographic/structural
+  "pizza hut international", "master franchise", "carve-out",
+  "pizza hut china", "pizza hut australia",
+  // Distress signals
+  "pizza hut closures", "pizza hut bankruptcy", "restructuring",
+  // Industry context
+  "pizza industry", "qsr m&a", "restaurant consolidation",
+  // General executive news
+  "pizza hut appoints", "pizza hut names", "pizza hut hires",
+  "joins pizza hut", "pizza hut promotes"
 ];
 
 // Load buyer keywords from data.json
@@ -164,6 +268,13 @@ function analyzeNewsItem(item) {
     }
   }
   
+  // Check for low impact keywords
+  for (const keyword of LOW_IMPACT_KEYWORDS) {
+    if (text.includes(keyword)) {
+      return { relevant: true, impact: "low" };
+    }
+  }
+  
   // Check if it mentions Pizza Hut in acquisition context
   if (text.includes("pizza hut") && 
       (text.includes("sale") || text.includes("buy") || text.includes("acqui") || 
@@ -193,8 +304,25 @@ function detectBuyer(text) {
 function detectSentiment(text) {
   const lowerText = text.toLowerCase();
   
-  const positiveWords = ["confirms", "in talks", "interested", "bidding", "considering", "frontrunner", "leading", "close to", "nearing"];
-  const negativeWords = ["denies", "pulls out", "withdraws", "not interested", "unlikely", "rejects", "walks away", "falls through"];
+  const positiveWords = [
+    // Active interest
+    "confirms", "in talks", "interested", "bidding", "considering",
+    "frontrunner", "leading", "close to", "nearing", "pursuing",
+    // Deal progress
+    "due diligence", "data room", "exclusivity", "binding offer",
+    "definitive agreement", "finalizing", "expected to close",
+    // Financing
+    "secured financing", "committed financing", "raises capital"
+  ];
+  
+  const negativeWords = [
+    // Withdrawal
+    "denies", "pulls out", "withdraws", "not interested", "unlikely",
+    "rejects", "walks away", "falls through", "collapses",
+    // Deal problems
+    "talks stall", "negotiations break", "regulatory concerns",
+    "antitrust issues", "financing falls", "price gap"
+  ];
   
   let score = 0;
   for (const word of positiveWords) {
