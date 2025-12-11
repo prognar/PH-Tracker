@@ -44,7 +44,8 @@ const WHAT_TO_WATCH = [
 const STORAGE_KEYS = {
   EXECUTIVES: 'pizzahut_executives',
   LEADERS: 'pizzahut_current_leadership',
-  TIMELINE: 'pizzahut_custom_timeline'
+  TIMELINE: 'pizzahut_custom_timeline',
+  KEYWORDS: 'pizzahut_custom_keywords'
 };
 
 const loadFromStorage = (key, fallback) => {
@@ -77,6 +78,9 @@ const PizzaHutTracker = () => {
   const [executives, setExecutives] = useState(() => loadFromStorage(STORAGE_KEYS.EXECUTIVES, defaultExecs));
   const [currentLeadership, setCurrentLeadership] = useState(() => loadFromStorage(STORAGE_KEYS.LEADERS, defaultLeaders));
   const [customTimeline, setCustomTimeline] = useState(() => loadFromStorage(STORAGE_KEYS.TIMELINE, []));
+  const [customKeywords, setCustomKeywords] = useState(() => loadFromStorage(STORAGE_KEYS.KEYWORDS, []));
+  
+  const [newKeyword, setNewKeyword] = useState({ phrase: '', category: 'deal', notes: '' });
   
   const [newExecutive, setNewExecutive] = useState({
     name: '', formerRole: '', newRole: '', newCompany: '', significance: '',
@@ -96,6 +100,13 @@ const PizzaHutTracker = () => {
   useEffect(() => { saveToStorage(STORAGE_KEYS.EXECUTIVES, executives); }, [executives]);
   useEffect(() => { saveToStorage(STORAGE_KEYS.LEADERS, currentLeadership); }, [currentLeadership]);
   useEffect(() => { saveToStorage(STORAGE_KEYS.TIMELINE, customTimeline); }, [customTimeline]);
+  useEffect(() => { saveToStorage(STORAGE_KEYS.KEYWORDS, customKeywords); }, [customKeywords]);
+
+  const handleAddKeyword = () => {
+    if (!newKeyword.phrase) return;
+    setCustomKeywords([...customKeywords, { ...newKeyword, id: Date.now().toString() }]);
+    setNewKeyword({ phrase: '', category: 'deal', notes: '' });
+  };
 
   const sortedBuyers = [...buyers].sort((a, b) => {
     if (sortBy === 'likelihood') return b.likelihood - a.likelihood;
@@ -473,9 +484,39 @@ const PizzaHutTracker = () => {
               )}
             </section>
             <section className="bg-slate-800/30 backdrop-blur border border-slate-700/50 rounded-xl p-6">
+              <h3 className="text-lg font-semibold text-white flex items-center gap-2 mb-4"><Search className="w-5 h-5 text-blue-400" />Add Keywords/Phrases to Track</h3>
+              <p className="text-slate-400 text-sm mb-4">Add search terms for the news scraper to monitor:</p>
+              <div className="grid md:grid-cols-4 gap-4">
+                <div className="md:col-span-2"><label className="block text-slate-400 text-sm mb-1">Keyword/Phrase *</label><input type="text" value={newKeyword.phrase} onChange={(e) => setNewKeyword({...newKeyword, phrase: e.target.value})} placeholder='e.g., "Pizza Hut financing" or "Roark pizza deal"' className="w-full bg-slate-900/50 border border-slate-700/50 rounded-lg px-3 py-2 text-white placeholder-slate-600 focus:outline-none" /></div>
+                <div><label className="block text-slate-400 text-sm mb-1">Category</label><select value={newKeyword.category} onChange={(e) => setNewKeyword({...newKeyword, category: e.target.value})} className="w-full bg-slate-900/50 border border-slate-700/50 rounded-lg px-3 py-2 text-white focus:outline-none"><option value="deal">Deal Process</option><option value="buyer">Buyer Activity</option><option value="executive">Executive</option><option value="franchisee">Franchisee</option><option value="financial">Financial</option><option value="other">Other</option></select></div>
+                <div className="flex gap-2">
+                  <div className="flex-1"><label className="block text-slate-400 text-sm mb-1">Notes</label><input type="text" value={newKeyword.notes} onChange={(e) => setNewKeyword({...newKeyword, notes: e.target.value})} placeholder="Optional" className="w-full bg-slate-900/50 border border-slate-700/50 rounded-lg px-3 py-2 text-white placeholder-slate-600 focus:outline-none" /></div>
+                  <div className="flex items-end"><button onClick={handleAddKeyword} disabled={!newKeyword.phrase} className="px-4 py-2 bg-blue-500/20 hover:bg-blue-500/30 border border-blue-500/30 rounded-lg text-blue-300 font-medium disabled:opacity-50"><Plus className="w-4 h-4" /></button></div>
+                </div>
+              </div>
+              {customKeywords.length > 0 && (
+                <div className="mt-4 pt-4 border-t border-slate-700/50">
+                  <h4 className="text-slate-400 text-sm mb-2">Custom Keywords ({customKeywords.length})</h4>
+                  <div className="flex flex-wrap gap-2">
+                    {customKeywords.map((kw) => (
+                      <div key={kw.id} className="flex items-center gap-2 bg-slate-900/50 rounded-lg px-3 py-1.5 group">
+                        <span className={'px-2 py-0.5 rounded text-xs ' + (kw.category === 'deal' ? 'bg-amber-500/20 text-amber-300' : kw.category === 'buyer' ? 'bg-emerald-500/20 text-emerald-300' : kw.category === 'executive' ? 'bg-purple-500/20 text-purple-300' : 'bg-slate-500/20 text-slate-300')}>{kw.category}</span>
+                        <span className="text-white text-sm">{kw.phrase}</span>
+                        {kw.notes && <span className="text-slate-500 text-xs">({kw.notes})</span>}
+                        <button onClick={() => setCustomKeywords(customKeywords.filter(k => k.id !== kw.id))} className="text-slate-500 hover:text-red-400 opacity-0 group-hover:opacity-100 ml-1"><X className="w-3 h-3" /></button>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+              <div className="mt-4 pt-4 border-t border-slate-700/50">
+                <p className="text-slate-500 text-xs">These keywords will be used when you manually run news searches. To add them to the automated scraper, copy from the export below and update scripts/local-update.js</p>
+              </div>
+            </section>
+            <section className="bg-slate-800/30 backdrop-blur border border-slate-700/50 rounded-xl p-6">
               <h3 className="text-lg font-semibold text-white flex items-center gap-2 mb-4"><Save className="w-5 h-5 text-slate-400" />Export Your Data</h3>
               <p className="text-slate-400 text-sm mb-4">Copy this JSON to back up or share your custom data:</p>
-              <textarea readOnly value={JSON.stringify({ executives: executives.filter(e => e.id), currentLeadership: currentLeadership.filter(l => l.id), customTimeline }, null, 2)} className="w-full h-48 bg-slate-900/50 border border-slate-700/50 rounded-lg px-3 py-2 text-slate-300 text-xs font-mono focus:outline-none" />
+              <textarea readOnly value={JSON.stringify({ executives: executives.filter(e => e.id), currentLeadership: currentLeadership.filter(l => l.id), customTimeline, customKeywords }, null, 2)} className="w-full h-48 bg-slate-900/50 border border-slate-700/50 rounded-lg px-3 py-2 text-slate-300 text-xs font-mono focus:outline-none" />
             </section>
           </div>
         )}
