@@ -84,6 +84,19 @@ const PizzaHutTracker = () => {
     });
   };
 
+  const formatTimestamp = (dateString) => {
+    const date = new Date(dateString);
+    return date.toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric'
+    }) + ' at ' + date.toLocaleTimeString('en-US', {
+      hour: 'numeric',
+      minute: '2-digit',
+      hour12: true
+    });
+  };
+
   const formatCurrency = (num) => {
     return `$${(num / 1000000000).toFixed(1)}B`;
   };
@@ -150,7 +163,7 @@ const PizzaHutTracker = () => {
             <div className="text-right">
               <div className="flex items-center gap-2 text-slate-400 text-sm">
                 <Clock className="w-4 h-4" />
-                <span>Auto-updated: {formatDate(lastUpdated)}</span>
+                <span>Updated: {formatTimestamp(lastUpdated)}</span>
               </div>
               <div className="mt-2 flex items-center gap-2">
                 <span className="px-3 py-1 bg-emerald-500/10 border border-emerald-500/20 rounded-full text-emerald-400 text-xs font-medium inline-flex items-center gap-1">
