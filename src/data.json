@@ -1,0 +1,507 @@
+{
+  "lastUpdated": "2025-12-10T12:00:00Z",
+  "dealStatus": "active_review",
+  "estimatedValuation": {
+    "low": 3500000000,
+    "high": 4200000000
+  },
+  "keyStats": {
+    "globalUnits": 20000,
+    "usUnits": 6500,
+    "intlUnits": 13500,
+    "usMarketShare": 18.7,
+    "operatingProfitShare": 11,
+    "systemSales": 12800000000,
+    "consecutiveQuartersDecline": 7
+  },
+  "advisors": {
+    "seller": ["Goldman Sachs", "Barclays"],
+    "potentialBuyerAdvisors": []
+  },
+  "buyers": [
+    {
+      "id": "roark-inspire",
+      "name": "Roark Capital / Inspire Brands",
+      "type": "Private Equity",
+      "likelihood": 88,
+      "trend": "up",
+      "estimatedBid": "$3.5B - $4.5B",
+      "rationale": "Roark has a proven track record with restaurant turnarounds (Arby's, Subway, Dunkin'). Inspire Brands lacks a pizza concept. They manage ~$37B in assets and recently acquired Dave's Hot Chicken.",
+      "pros": [
+        "Deep restaurant expertise with 23+ brands",
+        "No current pizza brand in portfolio",
+        "Track record turning around struggling chains",
+        "Strong franchisee relationships",
+        "Recently raised fresh capital",
+        "KEY: Hired David Graves (ex-Pizza Hut CBO) as Arby's President - insider knowledge"
+      ],
+      "cons": [
+        "Already integrating Subway ($9.6B deal)",
+        "High debt load from recent acquisitions",
+        "Pizza Hut would be their largest turnaround yet"
+      ],
+      "keyMetrics": {
+        "aum": "$37B",
+        "portfolioBrands": "23+",
+        "recentDeal": "Dave's Hot Chicken (Feb 2025)",
+        "restaurantFocus": "Primary",
+        "insiderConnection": "David Graves (ex-Pizza Hut CBO)"
+      },
+      "newsKeywords": ["roark capital", "inspire brands", "arby's owner", "subway owner", "dunkin owner", "david graves arby"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 85, "note": "Initial assessment - top candidate per industry analysts" },
+        { "date": "2025-12-10", "likelihood": 88, "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship" }
+      ]
+    },
+    {
+      "id": "flynn-group",
+      "name": "Flynn Restaurant Group",
+      "type": "Strategic Franchisee",
+      "likelihood": 75,
+      "trend": "up",
+      "estimatedBid": "$3.0B - $4.0B",
+      "rationale": "World's largest franchisee already operates ~20% of US Pizza Huts (1,027 units) plus Australia (300 units). Deep operational knowledge and proven ability to turn around struggling Pizza Hut locations. Has backing from Main Post Partners and Ontario Teachers' Pension.",
+      "pros": [
+        "Already largest Pizza Hut franchisee globally",
+        "Proven Pizza Hut turnaround success (NPC acquisition)",
+        "Deep operational expertise across 2,900+ units",
+        "Strong financial backing (Main Post, Ontario Teachers')",
+        "International expansion experience (Australia, NZ)"
+      ],
+      "cons": [
+        "Franchisee-to-franchisor transition is complex",
+        "Would need significant capital raise",
+        "May prefer to stay as operator vs owner"
+      ],
+      "keyMetrics": {
+        "pizzaHutUnits": "1,327 (US + Australia)",
+        "totalUnits": "2,900+",
+        "annualSales": "$4.5B",
+        "brands": "7 (incl. Applebee's, Wendy's, Taco Bell)"
+      },
+      "newsKeywords": ["flynn group", "flynn restaurant", "greg flynn", "largest franchisee"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 75, "note": "Added - critical missing buyer, already largest PH franchisee" }
+      ]
+    },
+    {
+      "id": "rbi",
+      "name": "Restaurant Brands International",
+      "type": "Strategic Acquirer",
+      "likelihood": 68,
+      "trend": "stable",
+      "estimatedBid": "$4.0B - $5.0B",
+      "rationale": "RBI (Burger King, Tim Hortons, Popeyes, Firehouse Subs) has been rumored to want a pizza brand. Global infrastructure could support Pizza Hut's international operations. Recently refranchised China operations.",
+      "pros": [
+        "No pizza in portfolio - fills gap",
+        "Global franchise infrastructure in 100+ countries",
+        "Publicly traded - access to capital markets",
+        "Experience with turnarounds (Burger King)",
+        "3G Capital operational expertise"
+      ],
+      "cons": [
+        "Still executing Burger King US turnaround",
+        "3G Capital reducing stake",
+        "May prefer smaller, growing concept"
+      ],
+      "keyMetrics": {
+        "marketCap": "$28B",
+        "brands": "4",
+        "globalUnits": "31,000+",
+        "recentDeal": "China refranchising 2025"
+      },
+      "newsKeywords": ["restaurant brands international", "rbi", "burger king owner", "tim hortons owner", "popeyes owner"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 68, "note": "Initial assessment - strong strategic fit" }
+      ]
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo Global Management",
+      "type": "Private Equity",
+      "likelihood": 65,
+      "trend": "up",
+      "estimatedBid": "$3.0B - $4.0B",
+      "rationale": "Apollo recently pursued Papa John's and has extensive QSR experience (former CKE owner, Chuck E. Cheese). They know the pizza space and have massive capital to deploy.",
+      "pros": [
+        "Recent pizza interest (Papa John's bid)",
+        "Deep QSR experience (CKE, Chuck E. Cheese)",
+        "Massive capital reserves ($650B+ AUM)",
+        "Turnaround expertise",
+        "Recently acquired The Restaurant Group (UK)"
+      ],
+      "cons": [
+        "Papa John's deal fell through",
+        "May wait for lower valuation",
+        "Less operational focus than Roark"
+      ],
+      "keyMetrics": {
+        "aum": "$650B+",
+        "qsrExperience": "CKE, Chuck E. Cheese, TRG",
+        "dealStyle": "LBO",
+        "recentInterest": "Papa John's (withdrawn)"
+      },
+      "newsKeywords": ["apollo global", "apollo management", "apollo pizza", "apollo restaurant"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 65, "note": "Initial assessment - proven pizza interest" }
+      ]
+    },
+    {
+      "id": "blackstone",
+      "name": "Blackstone",
+      "type": "Private Equity",
+      "likelihood": 55,
+      "trend": "up",
+      "estimatedBid": "$4.0B - $5.0B",
+      "rationale": "Just acquired Jersey Mike's for $8B in Jan 2025, showing strong appetite for franchise restaurants. Also owns Tropical Smoothie and invested in 7Brew. Has deep pockets and franchise expertise.",
+      "pros": [
+        "Fresh from Jersey Mike's ($8B) success",
+        "Massive capital ($1.1T AUM)",
+        "Proven franchise growth expertise (Hilton, SERVPRO)",
+        "Active restaurant acquisition strategy",
+        "Could create sandwich/pizza powerhouse"
+      ],
+      "cons": [
+        "Jersey Mike's integration ongoing",
+        "Less restaurant-turnaround experience",
+        "Pizza Hut needs operational fix, not just capital"
+      ],
+      "keyMetrics": {
+        "aum": "$1.1T",
+        "recentDeal": "Jersey Mike's $8B (Jan 2025)",
+        "restaurantPortfolio": "Jersey Mike's, Tropical Smoothie, 7Brew",
+        "franchiseExpertise": "Hilton, SERVPRO"
+      },
+      "newsKeywords": ["blackstone pizza", "blackstone restaurant", "blackstone yum"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 55, "note": "Added - major PE player with fresh restaurant appetite" }
+      ]
+    },
+    {
+      "id": "sycamore",
+      "name": "Sycamore Partners",
+      "type": "Private Equity",
+      "likelihood": 45,
+      "trend": "stable",
+      "estimatedBid": "$2.5B - $3.5B",
+      "rationale": "Consumer-focused PE firm with retail turnaround experience. Could see Pizza Hut as a fixer-upper opportunity at the right price.",
+      "pros": [
+        "Consumer brand expertise",
+        "Turnaround track record in retail",
+        "Patient capital approach"
+      ],
+      "cons": [
+        "Less restaurant-specific experience",
+        "Would need operating partners",
+        "Smaller fund size than competitors"
+      ],
+      "keyMetrics": {
+        "aum": "$10B+",
+        "focus": "Consumer/Retail",
+        "recentDeals": "Limited restaurant"
+      },
+      "newsKeywords": ["sycamore partners", "sycamore capital", "sycamore pizza"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 45, "note": "Initial assessment" }
+      ]
+    },
+    {
+      "id": "triartisan-yadav",
+      "name": "TriArtisan / Yadav Enterprises",
+      "type": "Private Equity + Franchisee",
+      "likelihood": 40,
+      "trend": "stable",
+      "estimatedBid": "$2.5B - $3.5B",
+      "rationale": "Just acquired Denny's ($620M) together. TriArtisan owns P.F. Chang's; Yadav is a major multi-brand franchisee who also bought Del Taco. Proven partnership model.",
+      "pros": [
+        "Active restaurant M&A (Denny's Nov 2025)",
+        "TriArtisan has full-service expertise",
+        "Yadav brings operational capability",
+        "Could partner with other franchisees"
+      ],
+      "cons": [
+        "Pizza Hut likely too large for them alone",
+        "Just closed Denny's - integration focus",
+        "Would need consortium partners"
+      ],
+      "keyMetrics": {
+        "recentDeal": "Denny's $620M (Nov 2025)",
+        "yadavUnits": "550+ restaurants",
+        "triartisanPortfolio": "P.F. Chang's, Denny's"
+      },
+      "newsKeywords": ["triartisan", "yadav enterprises", "denny's buyer"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 40, "note": "Updated - recent Denny's deal shows appetite" }
+      ]
+    },
+    {
+      "id": "middle-east-swf",
+      "name": "Middle Eastern Sovereign Wealth",
+      "type": "Sovereign Wealth",
+      "likelihood": 40,
+      "trend": "stable",
+      "estimatedBid": "$4.5B - $6.0B",
+      "rationale": "Gulf sovereign wealth funds (PIF, QIA, Mubadala) actively investing in global consumer brands. Americana Group (Kuwait) already operates KFC/Pizza Hut in Middle East.",
+      "pros": [
+        "Massive capital ($1T+ combined)",
+        "Long-term investment horizon",
+        "Global ambitions and brand interest",
+        "Pizza Hut strong in Middle East/Africa",
+        "Americana already a major franchisee"
+      ],
+      "cons": [
+        "Less direct operational expertise",
+        "Would need management partner",
+        "CFIUS regulatory scrutiny",
+        "Political considerations"
+      ],
+      "keyMetrics": {
+        "capitalAvailable": "$1T+",
+        "investmentStyle": "Strategic/Long-term",
+        "existingExposure": "Americana Group"
+      },
+      "newsKeywords": ["saudi pizza", "pif restaurant", "qia restaurant", "mubadala", "sovereign wealth pizza", "middle east pizza hut"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 40, "note": "Initial assessment" }
+      ]
+    },
+    {
+      "id": "sun-holdings",
+      "name": "Sun Holdings",
+      "type": "Strategic Franchisee",
+      "likelihood": 35,
+      "trend": "stable",
+      "estimatedBid": "$2.5B - $3.5B",
+      "rationale": "Second-largest US franchisee with 1,700+ units. Has been acquiring brands (Uncle Julio's, Freebirds). Could lead franchisee consortium.",
+      "pros": [
+        "Massive multi-brand operator",
+        "Track record of brand acquisitions",
+        "Deep operational expertise",
+        "Could rally other franchisees"
+      ],
+      "cons": [
+        "Pizza Hut may be too large solo",
+        "Would need PE backing",
+        "Less turnaround experience"
+      ],
+      "keyMetrics": {
+        "totalUnits": "1,700+",
+        "ranking": "#2 US franchisee",
+        "recentDeals": "Uncle Julio's, Freebirds (2024)"
+      },
+      "newsKeywords": ["sun holdings", "sun holdings pizza"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 35, "note": "Added - major franchisee, potential consortium leader" }
+      ]
+    },
+    {
+      "id": "asian-strategic",
+      "name": "Asian Strategic Buyer / Yum China",
+      "type": "Strategic",
+      "likelihood": 30,
+      "trend": "stable",
+      "estimatedBid": "Complex structure",
+      "rationale": "Yum China already operates 4,000+ Pizza Huts in China. Could seek to acquire full brand or carve out international rights. CPE just bought Burger King China.",
+      "pros": [
+        "Strong international operations",
+        "Yum China knows the brand intimately",
+        "Growth potential in Asia-Pacific",
+        "Recent precedent (Starbucks China to Boyu)"
+      ],
+      "cons": [
+        "Complex regulatory approvals (CFIUS)",
+        "Would need US partner for domestic ops",
+        "Yum China may prefer status quo"
+      ],
+      "keyMetrics": {
+        "pizzaHutChina": "4,000+ units",
+        "recentDeals": "Starbucks China to Boyu, BK China to CPE",
+        "structure": "Likely carve-out or JV"
+      },
+      "newsKeywords": ["yum china pizza", "asian buyer pizza hut", "china pizza hut"],
+      "history": [
+        { "date": "2025-12-10", "likelihood": 30, "note": "Initial assessment - complex but possible" }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-12-10",
+      "event": "Flynn Group now operates ~20% of US Pizza Hut system (1,027 units)",
+      "impact": "medium",
+      "type": "related"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Yum! Brands announces strategic review of Pizza Hut",
+      "impact": "high",
+      "type": "official"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Goldman Sachs & Barclays retained as financial advisors",
+      "impact": "high",
+      "type": "official"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "CEO Turner: 'May be better executed outside of Yum'",
+      "impact": "high",
+      "type": "official"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "YUM stock up 7% on strategic review announcement",
+      "impact": "medium",
+      "type": "market"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Denny's sold to TriArtisan/Yadav for $620M - shows buyer appetite",
+      "impact": "medium",
+      "type": "related"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Pizza Hut Q3: US same-store sales down 6%, 7th consecutive quarter of decline",
+      "impact": "high",
+      "type": "financial"
+    },
+    {
+      "date": "2025-10-15",
+      "event": "Pizza Hut UK franchisee in talks with Directional Capital",
+      "impact": "medium",
+      "type": "related"
+    },
+    {
+      "date": "2024-12-01",
+      "event": "David Graves (Pizza Hut CBO) leaves for President role at Arby's/Inspire Brands",
+      "impact": "high",
+      "type": "executive"
+    },
+    {
+      "date": "2024-11-01",
+      "event": "Chequan Lewis (Pizza Hut US President) departs for CEO role at Crunch Fitness",
+      "impact": "medium",
+      "type": "executive"
+    },
+    {
+      "date": "2025-02-25",
+      "event": "Roark acquires Dave's Hot Chicken",
+      "impact": "low",
+      "type": "competitor"
+    },
+    {
+      "date": "2025-01-16",
+      "event": "Blackstone completes Jersey Mike's acquisition ($8B)",
+      "impact": "medium",
+      "type": "competitor"
+    },
+    {
+      "date": "2025-01-30",
+      "event": "77 Pizza Hut restaurants sold at bankruptcy auction (EYM Group)",
+      "impact": "low",
+      "type": "related"
+    }
+  ],
+  "recentNews": [],
+  "watchList": {
+    "secFilings": [
+      "YUM 8-K filings",
+      "13-D filings (5%+ ownership)",
+      "Hart-Scott-Rodino filings",
+      "Schedule TO (tender offer)",
+      "Proxy statements"
+    ],
+    "dealProcessKeywords": [
+      "pizza hut data room",
+      "pizza hut management presentation",
+      "pizza hut due diligence",
+      "pizza hut binding offer",
+      "pizza hut exclusivity",
+      "pizza hut definitive agreement",
+      "yum pizza hut sale",
+      "pizza hut regulatory approval",
+      "pizza hut antitrust"
+    ],
+    "financingKeywords": [
+      "pizza hut LBO",
+      "pizza hut financing",
+      "pizza hut debt",
+      "pizza hut EBITDA",
+      "pizza hut valuation",
+      "pizza hut enterprise value"
+    ],
+    "executiveMovements": {
+      "keywords": [
+        "former pizza hut",
+        "ex-pizza hut",
+        "leaves pizza hut",
+        "left pizza hut",
+        "departs pizza hut",
+        "exits pizza hut",
+        "pizza hut executive",
+        "pizza hut leadership change"
+      ],
+      "knownDepartures": [
+        {
+          "name": "David Graves",
+          "formerRole": "Chief Brand Officer, Pizza Hut",
+          "newRole": "President, Arby's",
+          "newCompany": "Inspire Brands (Roark Capital)",
+          "significance": "CRITICAL - Went directly to top potential acquirer. May indicate inside knowledge of deal or relationship building.",
+          "dateAnnounced": "2024"
+        },
+        {
+          "name": "Chequan Lewis",
+          "formerRole": "President, Pizza Hut US",
+          "newRole": "CEO",
+          "newCompany": "Crunch Fitness",
+          "significance": "Major departure - US President role is critical. Left for non-restaurant industry.",
+          "dateAnnounced": "2024"
+        }
+      ],
+      "currentLeadership": [
+        {"name": "Aaron Powell", "role": "CEO, Pizza Hut Division"},
+        {"name": "David Gibbs", "role": "CEO, Yum! Brands"},
+        {"name": "Chris Turner", "role": "CFO, Yum! Brands"}
+      ],
+      "signalInterpretation": "High exec turnover pre-sale often indicates: (1) insiders know deal is coming, (2) new owner already placing people, (3) brand distress worse than reported. Graves going to Inspire/Roark is especially notable - could signal relationship building or that Roark is already conducting due diligence with friendly insiders."
+    },
+    "peopleToTrack": [
+      "Aaron Powell pizza hut",
+      "David Gibbs yum",
+      "Chris Turner yum",
+      "Greg Flynn pizza",
+      "Goldman Sachs pizza",
+      "Barclays pizza hut",
+      "David Graves pizza hut",
+      "Chequan Lewis pizza hut"
+    ],
+    "franchiseeKeywords": [
+      "pizza hut franchisee",
+      "pizza hut franchise association",
+      "pizza hut town hall",
+      "pizza hut franchisee letter",
+      "pizza hut system call"
+    ],
+    "competitorKeywords": [
+      "dominos market share",
+      "papa johns sale",
+      "pizza industry consolidation"
+    ],
+    "geographicKeywords": [
+      "pizza hut us sale",
+      "pizza hut international",
+      "pizza hut china sale",
+      "pizza hut australia",
+      "pizza hut master franchise"
+    ],
+    "distressKeywords": [
+      "pizza hut bankruptcy",
+      "pizza hut closures",
+      "pizza hut restructuring",
+      "pizza hut turnaround"
+    ]
+  }
+}
