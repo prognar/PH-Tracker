@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T12:00:00Z",
+  "lastUpdated": "2025-12-14T18:28:40.212Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -16,7 +16,10 @@
     "consecutiveQuartersDecline": 8
   },
   "advisors": {
-    "seller": ["Goldman Sachs", "Barclays"],
+    "seller": [
+      "Goldman Sachs",
+      "Barclays"
+    ],
     "potentialBuyerAdvisors": []
   },
   "buyers": [
@@ -48,10 +51,25 @@
         "restaurantFocus": "Primary",
         "insiderConnection": "David Graves (ex-Pizza Hut CBO)"
       },
-      "newsKeywords": ["roark capital", "inspire brands", "arby's owner", "subway owner", "dunkin owner", "david graves arby"],
+      "newsKeywords": [
+        "roark capital",
+        "inspire brands",
+        "arby's owner",
+        "subway owner",
+        "dunkin owner",
+        "david graves arby"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 85, "note": "Initial assessment - top candidate per industry analysts" },
-        { "date": "2025-12-10", "likelihood": 88, "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 85,
+          "note": "Initial assessment - top candidate per industry analysts"
+        },
+        {
+          "date": "2025-12-10",
+          "likelihood": 88,
+          "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship"
+        }
       ]
     },
     {
@@ -80,9 +98,18 @@
         "annualSales": "$4.5B",
         "brands": "7 (incl. Applebee's, Wendy's, Taco Bell)"
       },
-      "newsKeywords": ["flynn group", "flynn restaurant", "greg flynn", "largest franchisee"],
+      "newsKeywords": [
+        "flynn group",
+        "flynn restaurant",
+        "greg flynn",
+        "largest franchisee"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 75, "note": "Added - critical missing buyer, already largest PH franchisee" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 75,
+          "note": "Added - critical missing buyer, already largest PH franchisee"
+        }
       ]
     },
     {
@@ -111,9 +138,19 @@
         "globalUnits": "31,000+",
         "recentDeal": "China refranchising 2025"
       },
-      "newsKeywords": ["restaurant brands international", "rbi", "burger king owner", "tim hortons owner", "popeyes owner"],
+      "newsKeywords": [
+        "restaurant brands international",
+        "rbi",
+        "burger king owner",
+        "tim hortons owner",
+        "popeyes owner"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 68, "note": "Initial assessment - strong strategic fit" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 68,
+          "note": "Initial assessment - strong strategic fit"
+        }
       ]
     },
     {
@@ -142,9 +179,18 @@
         "dealStyle": "LBO",
         "recentInterest": "Papa John's (withdrawn)"
       },
-      "newsKeywords": ["apollo global", "apollo management", "apollo pizza", "apollo restaurant"],
+      "newsKeywords": [
+        "apollo global",
+        "apollo management",
+        "apollo pizza",
+        "apollo restaurant"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 65, "note": "Initial assessment - proven pizza interest" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 65,
+          "note": "Initial assessment - proven pizza interest"
+        }
       ]
     },
     {
@@ -173,9 +219,17 @@
         "restaurantPortfolio": "Jersey Mike's, Tropical Smoothie, 7Brew",
         "franchiseExpertise": "Hilton, SERVPRO"
       },
-      "newsKeywords": ["blackstone pizza", "blackstone restaurant", "blackstone yum"],
+      "newsKeywords": [
+        "blackstone pizza",
+        "blackstone restaurant",
+        "blackstone yum"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 55, "note": "Added - major PE player with fresh restaurant appetite" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 55,
+          "note": "Added - major PE player with fresh restaurant appetite"
+        }
       ]
     },
     {
@@ -201,9 +255,17 @@
         "focus": "Consumer/Retail",
         "recentDeals": "Limited restaurant"
       },
-      "newsKeywords": ["sycamore partners", "sycamore capital", "sycamore pizza"],
+      "newsKeywords": [
+        "sycamore partners",
+        "sycamore capital",
+        "sycamore pizza"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 45, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 45,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -230,9 +292,17 @@
         "yadavUnits": "550+ restaurants",
         "triartisanPortfolio": "P.F. Chang's, Denny's"
       },
-      "newsKeywords": ["triartisan", "yadav enterprises", "denny's buyer"],
+      "newsKeywords": [
+        "triartisan",
+        "yadav enterprises",
+        "denny's buyer"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 40, "note": "Updated - recent Denny's deal shows appetite" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 40,
+          "note": "Updated - recent Denny's deal shows appetite"
+        }
       ]
     },
     {
@@ -261,9 +331,20 @@
         "investmentStyle": "Strategic/Long-term",
         "existingExposure": "Americana Group"
       },
-      "newsKeywords": ["saudi pizza", "pif restaurant", "qia restaurant", "mubadala", "sovereign wealth pizza", "middle east pizza hut"],
+      "newsKeywords": [
+        "saudi pizza",
+        "pif restaurant",
+        "qia restaurant",
+        "mubadala",
+        "sovereign wealth pizza",
+        "middle east pizza hut"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 40, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 40,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -290,9 +371,16 @@
         "ranking": "#2 US franchisee",
         "recentDeals": "Uncle Julio's, Freebirds (2024)"
       },
-      "newsKeywords": ["sun holdings", "sun holdings pizza"],
+      "newsKeywords": [
+        "sun holdings",
+        "sun holdings pizza"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 35, "note": "Added - major franchisee, potential consortium leader" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 35,
+          "note": "Added - major franchisee, potential consortium leader"
+        }
       ]
     },
     {
@@ -319,9 +407,17 @@
         "recentDeals": "Starbucks China to Boyu, BK China to CPE",
         "structure": "Likely carve-out or JV"
       },
-      "newsKeywords": ["yum china pizza", "asian buyer pizza hut", "china pizza hut"],
+      "newsKeywords": [
+        "yum china pizza",
+        "asian buyer pizza hut",
+        "china pizza hut"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 30, "note": "Initial assessment - complex but possible" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 30,
+          "note": "Initial assessment - complex but possible"
+        }
       ]
     }
   ],
@@ -469,11 +565,30 @@
         }
       ],
       "currentLeadership": [
-        {"name": "Aaron Powell", "role": "CEO, Pizza Hut Division"},
-        {"name": "Chris Turner", "role": "CEO, Yum! Brands (as of Sept 30, 2025)"},
-        {"name": "David Gibbs", "role": "Former CEO, Yum! Brands (retired Sept 30, 2025)"},
-        {"name": "Steve Ritchie", "role": "CEO, Prosper Growth Partners (Bain Capital)", "linkedinUrl": "https://www.linkedin.com/in/stritchie/", "notes": "Former Papa John's CEO - potential acquirer or advisor"},
-        {"name": "Ron Bellamy", "role": "President & COO, Flynn Group", "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/", "notes": "Key decision maker at largest PH franchisee"}
+        {
+          "name": "Aaron Powell",
+          "role": "CEO, Pizza Hut Division"
+        },
+        {
+          "name": "Chris Turner",
+          "role": "CEO, Yum! Brands (as of Sept 30, 2025)"
+        },
+        {
+          "name": "David Gibbs",
+          "role": "Former CEO, Yum! Brands (retired Sept 30, 2025)"
+        },
+        {
+          "name": "Steve Ritchie",
+          "role": "CEO, Prosper Growth Partners (Bain Capital)",
+          "linkedinUrl": "https://www.linkedin.com/in/stritchie/",
+          "notes": "Former Papa John's CEO - potential acquirer or advisor"
+        },
+        {
+          "name": "Ron Bellamy",
+          "role": "President & COO, Flynn Group",
+          "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/",
+          "notes": "Key decision maker at largest PH franchisee"
+        }
       ],
       "signalInterpretation": "High exec turnover pre-sale often indicates: (1) insiders know deal is coming, (2) new owner already placing people, (3) brand distress worse than reported. Graves going to Inspire/Roark is especially notable - could signal relationship building or that Roark is already conducting due diligence with friendly insiders."
     },
