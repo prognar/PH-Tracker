@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T14:00:08.919Z",
+  "lastUpdated": "2025-12-17T14:00:10.177Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -423,6 +423,12 @@
   ],
   "timeline": [
     {
+      "date": "2025-12-17",
+      "event": "Former Pizza Hut restaurant could become tanning salon - Frome Times",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2025-12-10",
       "event": "Flynn Group now operates ~20% of US Pizza Hut system (1,027 units)",
       "impact": "medium",
@@ -507,7 +513,22 @@
       "type": "related"
     }
   ],
-  "recentNews": [],
+  "recentNews": [
+    {
+      "date": "2025-12-17",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Former Pizza Hut restaurant could become tanning salon - Frome Times",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNsYkpLQW0xd3M2WVhxQndzTGF3bUJuQzdnTDlmVGdodFRzNUhFTGtLdlpleWxtTFQtWWpmUWhzbGw0N014MEZHMnB2bmlPSnFJQlBXbWt2SnJna1VrUDRNZG9zZG1PSkpHeHZ4NEdKQWJJdzB6QmJCMFRQNWhQalZqQ3hEU3FYajBTZA?oc=5\" target=\"_blank\"&gt;Former Pizza Hut restaurant could become tanning salon&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Frome Times&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNsYkpLQW0xd3M2WVhxQndzTGF3bUJuQzdnTDlmVGdodFRzNUhFTGtLdlpleWxtTFQtWWpmUWhzbGw0N014MEZHMnB2bmlPSnFJQlBXbWt2SnJna1VrUDRNZG9zZG1PSkpHeHZ4NEdKQWJJdzB6QmJCMFRQNWhQalZqQ3hEU3FYajBTZA?oc=5",
+      "source": "Frome Times",
+      "date": "2025-12-17",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    }
+  ],
   "watchList": {
     "secFilings": [
       "YUM 8-K filings",
