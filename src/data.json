@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T14:00:07.069Z",
+  "lastUpdated": "2025-12-27T14:00:07.113Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -423,6 +423,12 @@
   ],
   "timeline": [
     {
+      "date": "2025-12-26",
+      "event": "Signs go up for Darlington's newest Italian restaurant at former Pizza Hut - MSN",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2025-12-17",
       "event": "Former Pizza Hut restaurant could become tanning salon - Frome Times",
       "impact": "medium",
@@ -514,6 +520,20 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2025-12-27",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Signs go up for Darlington's newest Italian restaurant at former Pizza Hut - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaDM5Y3laUjBhWHpPNEpyeW9vdHh1Z0s2Z1loRm1MYmJoRmYzaC1raGhwbFhwZ0I0RUMxc0Z2cUpRS192RUdzc3lVMGZ5dlRud2F5aWJIeWpOdHVrUGlPVFVhTW84RmlnQXhDbXlMcDRVckFabnlETm9oX2daeXBuYlE5My02dTloWGVLdlQ1VDluT2YxS05PYXBGMHVOd3VTMExRQzZIbG9takxlM3l0elQtdWhCTVo3WlBmZ1ZMbmVwT05HalBYX1FkTWF1TGZhM0NucVdYQjhSVFAzNlJ2OXotU1Q2RXRqQ0FpTU85NFhocVIzZUMwSHVzM2d6UjVrRUJJSU5qOUItNTNMR1R1WEh0OEdIU1pBNzlDcTdFc3BteEJEVWllVUt5UUZsRWNpZVBtZmtzTmhOcGtHbXZZbVhMVDBsbEFJc2NLNzlLR3lqSC1CSEZQTVpOOHRfcURl?oc=5\" target=\"_blank\"&gt;Signs go up for Darlington's newest Italian restaurant at former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaDM5Y3laUjBhWHpPNEpyeW9vdHh1Z0s2Z1loRm1MYmJoRmYzaC1raGhwbFhwZ0I0RUMxc0Z2cUpRS192RUdzc3lVMGZ5dlRud2F5aWJIeWpOdHVrUGlPVFVhTW84RmlnQXhDbXlMcDRVckFabnlETm9oX2daeXBuYlE5My02dTloWGVLdlQ1VDluT2YxS05PYXBGMHVOd3VTMExRQzZIbG9takxlM3l0elQtdWhCTVo3WlBmZ1ZMbmVwT05HalBYX1FkTWF1TGZhM0NucVdYQjhSVFAzNlJ2OXotU1Q2RXRqQ0FpTU85NFhocVIzZUMwSHVzM2d6UjVrRUJJSU5qOUItNTNMR1R1WEh0OEdIU1pBNzlDcTdFc3BteEJEVWllVUt5UUZsRWNpZVBtZmtzTmhOcGtHbXZZbVhMVDBsbEFJc2NLNzlLR3lqSC1CSEZQTVpOOHRfcURl?oc=5",
+      "source": "MSN",
+      "date": "2025-12-26",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2025-12-18",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
