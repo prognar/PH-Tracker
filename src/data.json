@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T14:00:06.818Z",
+  "lastUpdated": "2026-01-02T14:00:06.984Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -423,6 +423,24 @@
   ],
   "timeline": [
     {
+      "date": "2026-01-01",
+      "event": "KFC, Pizza Hut franchisees to consolidate as Sapphire Foods merges with Devyani International - Mone",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-01-02",
+      "event": "Mint Explainer: Why are KFC and Pizza Hut franchisees Devyani and Sapphire coming together? - livemi",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-01-01",
+      "event": "India's KFC, Pizza Hut operators to merge in $934 million deal - Reuters",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2025-12-26",
       "event": "Signs go up for Darlington's newest Italian restaurant at former Pizza Hut - MSN",
       "impact": "medium",
@@ -520,6 +538,50 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-01-02",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "India's KFC, Pizza Hut operators to merge in $934 million deal - Reuters",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmxDVW1fbm5VSVhhOWRPM2hCUzBqZWVtRUNwdXJTRkJ6NGFDVm1uejRpOVBaOEVEalRTZmhIaExWRnFBYTJZRjJudTlVckYyMlVKUzg3LXlzVWltMmxMenNDUmlESlRDNGJlVHR4VkljMzVYUTlESDg1My10OEY5NWNlODhIMk01M2F2SXNaQ0owNkx1S3ltelFpRms2azhTNFp3cnJuaThtRFIzZkFIc0QyU1JmX0FKWDVFdEZ0Q3dmQQ?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934 million deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmxDVW1fbm5VSVhhOWRPM2hCUzBqZWVtRUNwdXJTRkJ6NGFDVm1uejRpOVBaOEVEalRTZmhIaExWRnFBYTJZRjJudTlVckYyMlVKUzg3LXlzVWltMmxMenNDUmlESlRDNGJlVHR4VkljMzVYUTlESDg1My10OEY5NWNlODhIMk01M2F2SXNaQ0owNkx1S3ltelFpRms2azhTNFp3cnJuaThtRFIzZkFIc0QyU1JmX0FKWDVFdEZ0Q3dmQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-01-01",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Mint Explainer: Why are KFC and Pizza Hut franchisees Devyani and Sapphire coming together? - livemint.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVdJX01Jc3F6ZHd6dld0d0dqZk9XSGdCR2UyaUdWX095dktrd0RMcEY0UkxkVDdoek94eWR6dTB0SE41STFkOUNmWnR5MU5DeXNCbWw4aGUxNkpIX2w4MnE4U2t1a1RFZHFKN19KNkx1R18ySjI2cm5pdXRNV1FnQ3AwNld5TzhOWUxkcGw4V3ZZaUlic2JGZjJJNmhxdUY0WGNkUjJKYkZReklJaktmQ0dB0gG3AUFVX3lxTFBuWmltdG1qbkZpTGd5a0ZZeXI3aEFqcWhJWU1GekVsYWcxcGJhMGljN2EyS0FTLVpOeXNUNzFCYW1lQWFleVJkUXgzUnZPLVRQeFFCd0VZR0FRQnZMb19GS3NYV2ROUVdWZUpfbDB4UVZaTXpEX2VFeHIzS3YwV3ZVbE9tZ1ZJY05tMDYxQy1mNEdveWh2LWxMc1drWUpuQUlxRl9iRjdhQzJCcGhPZEpVVlFzNU9uWQ?oc=5\" target=\"_blank\"&gt;Mint Explainer: Why are KFC and Pizza Hut franchisees Devyani and Sapphire coming together?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;livemint.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVdJX01Jc3F6ZHd6dld0d0dqZk9XSGdCR2UyaUdWX095dktrd0RMcEY0UkxkVDdoek94eWR6dTB0SE41STFkOUNmWnR5MU5DeXNCbWw4aGUxNkpIX2w4MnE4U2t1a1RFZHFKN19KNkx1R18ySjI2cm5pdXRNV1FnQ3AwNld5TzhOWUxkcGw4V3ZZaUlic2JGZjJJNmhxdUY0WGNkUjJKYkZReklJaktmQ0dB0gG3AUFVX3lxTFBuWmltdG1qbkZpTGd5a0ZZeXI3aEFqcWhJWU1GekVsYWcxcGJhMGljN2EyS0FTLVpOeXNUNzFCYW1lQWFleVJkUXgzUnZPLVRQeFFCd0VZR0FRQnZMb19GS3NYV2ROUVdWZUpfbDB4UVZaTXpEX2VFeHIzS3YwV3ZVbE9tZ1ZJY05tMDYxQy1mNEdveWh2LWxMc1drWUpuQUlxRl9iRjdhQzJCcGhPZEpVVlFzNU9uWQ?oc=5",
+      "source": "livemint.com",
+      "date": "2026-01-02",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "India's KFC, Pizza Hut operators to merge in $934 million deal - CNBC",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVJuUEp6eE1ZWDJSR1VDZ3FqT0ppa3ZDS3dLOFpsNUU4Vk15T1Q3bkZKUGtzbDRnQndzTWVFdy0xSU5QODR3dWZQOUZMWDI5UWRQVkhLaV9FOXBqVnpCQmtsQ25fQ1VwWk1paFVVTHg2cUotS0otSmRLcWV0QW1UMkVvaVJPVUtrRHBzal81eTBFSS1LWGN4d0pQWHJfelUtUmY2U0c3MFFZdDNUVUt3ZlFZZU9PbktUdU82SDdZMGRGd9IBxwFBVV95cUxQOUh4R210WlZfcHp0RHJnenlweU1oQjk5RFAxMkZ5N1BmSi1vMnRzQ2dxWWVBSmdwZ3lRLVI5ampXU0V2d2RrR0xwMm93NDh1bzN6YlpUY3RfZDhlYWIzalJ4dWJKN09jTkVmeW5sT3N0ZU1PWjktaVA3ek1EbW9sd0xaZURXVHJ3U3FKQWwtdGxVbHlDZGVnSGJNZDN1OVoxM1JEQ0ZrUVk4cHRhbW9RNGYtcXduVmdZNjFhbzhkMUQ2eHdrWlIw?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934 million deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;CNBC&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVJuUEp6eE1ZWDJSR1VDZ3FqT0ppa3ZDS3dLOFpsNUU4Vk15T1Q3bkZKUGtzbDRnQndzTWVFdy0xSU5QODR3dWZQOUZMWDI5UWRQVkhLaV9FOXBqVnpCQmtsQ25fQ1VwWk1paFVVTHg2cUotS0otSmRLcWV0QW1UMkVvaVJPVUtrRHBzal81eTBFSS1LWGN4d0pQWHJfelUtUmY2U0c3MFFZdDNUVUt3ZlFZZU9PbktUdU82SDdZMGRGd9IBxwFBVV95cUxQOUh4R210WlZfcHp0RHJnenlweU1oQjk5RFAxMkZ5N1BmSi1vMnRzQ2dxWWVBSmdwZ3lRLVI5ampXU0V2d2RrR0xwMm93NDh1bzN6YlpUY3RfZDhlYWIzalJ4dWJKN09jTkVmeW5sT3N0ZU1PWjktaVA3ek1EbW9sd0xaZURXVHJ3U3FKQWwtdGxVbHlDZGVnSGJNZDN1OVoxM1JEQ0ZrUVk4cHRhbW9RNGYtcXduVmdZNjFhbzhkMUQ2eHdrWlIw?oc=5",
+      "source": "CNBC",
+      "date": "2026-01-01",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "KFC, Pizza Hut franchisees to consolidate as Sapphire Foods merges with Devyani International - Moneycontrol",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnB3ZExFdDY3OWcwUHY2R3hodkgzb2dwMXhjZzAyT2lQOUMyR2w5RURjSXQzNGNnaVBseV9JMzJocWw4QVltRDdKUGF3a2NseV9kVElHbkplZ3d6WktzNXVhUkNabDZQUmJ5QlUzQ2VwZFZJcUM5S1EyVl9sMExELVQ5RFRuY0l6ZlR4bFhNRlhQZ0wxOFRxT2NTZHZuTlFLN0dRa1VSX0t5SHJsS0FuYk14cWNTcVp1aU42ZG1MV3dURHVUamRQdXJtcHBMWTRBbUY1MUlZMTJibG9lOE5INHNla1REUVlFVXBKd1pRbjDSAfYBQVVfeXFMT19qM0k1MVRwdHlTZGtXaDRuQXpEYVJyeVNER0UtdzhzYnZCWEs3MEpHbHBvNWNqSXpGbTZpOGotYTcxX01McXprU01UbGpQV0hjaERnYjU5QWl4aDFIZWdKYmZHWVh2QzQ2d0Q2U3dHYU11R085dkh0Q2ZGcG15UVpKc0JQZEpDWU14dXJ1Q3JSeFBxS05WU185YjlrUWVJbTItUXJfajBBdFZRNk9yYks5VTdWSE00dElRSXlSbmphLW9HVjhKT2ZNVzlidE9Ld2t4UEFEbDJNdUg3RGF1d1NjR0c2SWJQb1M5X01ESmlCc2NESmRR?oc=5\" target=\"_blank\"&gt;KFC, Pizza Hut franchisees to consolidate as Sapphire Foods merges with Devyani International&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Moneycontrol&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnB3ZExFdDY3OWcwUHY2R3hodkgzb2dwMXhjZzAyT2lQOUMyR2w5RURjSXQzNGNnaVBseV9JMzJocWw4QVltRDdKUGF3a2NseV9kVElHbkplZ3d6WktzNXVhUkNabDZQUmJ5QlUzQ2VwZFZJcUM5S1EyVl9sMExELVQ5RFRuY0l6ZlR4bFhNRlhQZ0wxOFRxT2NTZHZuTlFLN0dRa1VSX0t5SHJsS0FuYk14cWNTcVp1aU42ZG1MV3dURHVUamRQdXJtcHBMWTRBbUY1MUlZMTJibG9lOE5INHNla1REUVlFVXBKd1pRbjDSAfYBQVVfeXFMT19qM0k1MVRwdHlTZGtXaDRuQXpEYVJyeVNER0UtdzhzYnZCWEs3MEpHbHBvNWNqSXpGbTZpOGotYTcxX01McXprU01UbGpQV0hjaERnYjU5QWl4aDFIZWdKYmZHWVh2QzQ2d0Q2U3dHYU11R085dkh0Q2ZGcG15UVpKc0JQZEpDWU14dXJ1Q3JSeFBxS05WU185YjlrUWVJbTItUXJfajBBdFZRNk9yYks5VTdWSE00dElRSXlSbmphLW9HVjhKT2ZNVzlidE9Ld2t4UEFEbDJNdUg3RGF1d1NjR0c2SWJQb1M5X01ESmlCc2NESmRR?oc=5",
+      "source": "Moneycontrol",
+      "date": "2026-01-01",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2025-12-27",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
