@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T14:00:06.984Z",
+  "lastUpdated": "2026-01-03T14:00:07.503Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -423,6 +423,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-01-02",
+      "event": "India's KFC, Pizza Hut operators to merge in $934M deal - QSR Web",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-01-01",
       "event": "KFC, Pizza Hut franchisees to consolidate as Sapphire Foods merges with Devyani International - Mone",
       "impact": "medium",
@@ -538,6 +544,20 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-01-03",
+      "summary": "Found 2 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "India's KFC, Pizza Hut operators to merge in $934M deal - QSR Web",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFdPT3JHbjRiemp5VDl1d3REN3FLRFl5YUt4LXdzUGh6eTVrcWpxQTR0T3RESnYyOWtJbnItalZBbFBrTHlqTFB0a0t5TlBCV19Ua0JiVWQ2WThnRVlDYUR1cHN1U2RRLUZhUWlWOHFjdHNndExTY3gxSFVmS1FRYmdrQWxvVkdL?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934M deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Web&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFdPT3JHbjRiemp5VDl1d3REN3FLRFl5YUt4LXdzUGh6eTVrcWpxQTR0T3RESnYyOWtJbnItalZBbFBrTHlqTFB0a0t5TlBCV19Ua0JiVWQ2WThnRVlDYUR1cHN1U2RRLUZhUWlWOHFjdHNndExTY3gxSFVmS1FRYmdrQWxvVkdL?oc=5",
+      "source": "QSR Web",
+      "date": "2026-01-02",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-01-02",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
