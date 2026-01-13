@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T12:00:00Z",
+  "lastUpdated": "2026-01-13T14:00:08.389Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -323,6 +323,188 @@
       "history": [
         { "date": "2025-12-10", "likelihood": 30, "note": "Initial assessment - complex but possible" }
       ]
+    },
+    {
+      "id": "sovereign-wealth",
+      "name": "Sovereign Wealth Fund (Saudi PIF / Mubadala / QIA)",
+      "type": "Wildcard - Sovereign",
+      "likelihood": 25,
+      "trend": "stable",
+      "estimatedBid": "$4B-5B",
+      "rationale": "Middle Eastern sovereign wealth funds are aggressively diversifying into consumer brands. Saudi PIF bought Newcastle United, invested in LIV Golf, Lucid Motors. Pizza Hut's global footprint (90+ countries) and brand recognition align with portfolio diversification strategies.",
+      "pros": [
+        "Essentially unlimited capital",
+        "Long-term investment horizon (no PE exit pressure)",
+        "Strategic interest in Western consumer brands",
+        "Could provide patient capital for turnaround",
+        "Pizza Hut already operates in GCC countries"
+      ],
+      "cons": [
+        "Political/regulatory scrutiny (CFIUS review)",
+        "No restaurant operating experience",
+        "Would need to partner with US management team",
+        "Reputational risk for some consumer segments"
+      ],
+      "keyMetrics": {
+        "pifAum": "$930B+",
+        "mubadalaAum": "$300B+",
+        "recentDeals": "Newcastle United, LIV Golf, Lucid, AMC, various F&B"
+      },
+      "newsKeywords": ["saudi pizza", "pif restaurant", "mubadala food", "sovereign wealth restaurant", "qia acquisition"],
+      "history": [
+        { "date": "2025-01-13", "likelihood": 25, "note": "Added - SWFs actively diversifying into consumer" }
+      ]
+    },
+    {
+      "id": "prosper-bain",
+      "name": "Prosper Growth Partners / Bain Capital",
+      "type": "Wildcard - Non-QSR PE",
+      "likelihood": 25,
+      "trend": "up",
+      "estimatedBid": "$3.5B-4.5B",
+      "rationale": "Steve Ritchie (former Papa John's CEO) leads Prosper Growth, backed by Bain Capital. Ritchie knows pizza intimately - took Papa John's through crisis. Bain recently backed Convive Brands acquiring PizzaExpress. Non-traditional PE firms see opportunity as QSR-focused PE pulls back.",
+      "pros": [
+        "Steve Ritchie has direct pizza turnaround experience",
+        "Bain Capital has deep pockets ($180B AUM)",
+        "Less competition from traditional restaurant PE",
+        "Ritchie knows the franchisee dynamics",
+        "Bain/Convive just acquired PizzaExpress globally"
+      ],
+      "cons": [
+        "Prosper is newer, smaller platform",
+        "Ritchie's Papa John's tenure was controversial",
+        "Would be massive step up in scale"
+      ],
+      "keyMetrics": {
+        "bainAum": "$180B",
+        "ritchieBackground": "Former Papa John's CEO",
+        "recentDeals": "PizzaExpress to Convive/Bain (Dec 2025)"
+      },
+      "newsKeywords": ["steve ritchie pizza", "prosper growth", "bain capital restaurant", "bain pizza"],
+      "history": [
+        { "date": "2025-01-13", "likelihood": 25, "note": "Added - Ritchie's pizza experience + Bain backing" }
+      ]
+    },
+    {
+      "id": "eldridge-convive",
+      "name": "Eldridge Industries / Convive Brands",
+      "type": "Wildcard - Non-QSR PE",
+      "likelihood": 20,
+      "trend": "up",
+      "estimatedBid": "$3B-4B",
+      "rationale": "Todd Boehly's Eldridge owns Convive Brands (Le Pain Quotidien, Little Beet). Just acquired CPK and PizzaExpress. Building a restaurant empire outside traditional QSR PE. Boehly also owns Chelsea FC, LA Dodgers - understands distressed turnarounds.",
+      "pros": [
+        "Actively building restaurant portfolio",
+        "Boehly has sports turnaround experience",
+        "Just bought CPK - understands pizza category",
+        "Diversified capital base (not restaurant-dependent)",
+        "Long-term holder mentality"
+      ],
+      "cons": [
+        "Pizza Hut scale is much larger than current portfolio",
+        "Less operational restaurant expertise",
+        "Convive still proving concept"
+      ],
+      "keyMetrics": {
+        "eldridgeAum": "$70B+",
+        "conviveBrands": "Le Pain, Little Beet, CPK, PizzaExpress",
+        "bohlyAssets": "Chelsea FC, LA Dodgers, Eldridge"
+      },
+      "newsKeywords": ["eldridge restaurant", "convive brands", "todd boehly restaurant", "convive pizza"],
+      "history": [
+        { "date": "2025-01-13", "likelihood": 20, "note": "Added - Boehly building restaurant empire" }
+      ]
+    },
+    {
+      "id": "kkr",
+      "name": "KKR & Co",
+      "type": "Wildcard - Mega PE",
+      "likelihood": 20,
+      "trend": "stable",
+      "estimatedBid": "$4B-5B",
+      "rationale": "KKR historically avoided restaurants but is diversifying. Recently more active in consumer. Has capital scale for Pizza Hut. Traditional QSR PE firms pulling back creates opportunity for mega-funds to enter at attractive valuations.",
+      "pros": [
+        "Massive capital base ($577B AUM)",
+        "Global operational capabilities",
+        "Can do deals others can't size",
+        "Patient capital, long hold periods",
+        "Strong franchising investment experience"
+      ],
+      "cons": [
+        "Limited restaurant track record",
+        "Board may view as non-core",
+        "Restaurant operations complexity"
+      ],
+      "keyMetrics": {
+        "aum": "$577B",
+        "investmentStyle": "Long-term, operational improvement",
+        "relevantDeals": "Various consumer, franchise businesses"
+      },
+      "newsKeywords": ["kkr restaurant", "kkr consumer", "kkr franchise", "kkr pizza"],
+      "history": [
+        { "date": "2025-01-13", "likelihood": 20, "note": "Added - Mega PE entering as QSR PE exits" }
+      ]
+    },
+    {
+      "id": "racetrac-cstore",
+      "name": "C-Store / Travel Center Operator",
+      "type": "Wildcard - Strategic",
+      "likelihood": 15,
+      "trend": "stable",
+      "estimatedBid": "$3B-3.5B (partial)",
+      "rationale": "RaceTrac just bought Potbelly. Pilot/Flying J, Love's, Wawa expanding foodservice. Pizza Hut Express already in c-stores. A c-store giant could acquire Pizza Hut to lock up exclusive food offering across thousands of locations.",
+      "pros": [
+        "Built-in real estate distribution network",
+        "C-stores pivoting to foodservice as fuel margins decline",
+        "Pizza Hut Express already proven in format",
+        "Captive customer base",
+        "Synergistic supply chain"
+      ],
+      "cons": [
+        "Different operating model than traditional QSR",
+        "May only want partial acquisition or license",
+        "Brand positioning challenges"
+      ],
+      "keyMetrics": {
+        "pilotLocations": "800+ travel centers",
+        "lovesLocations": "600+ locations",
+        "recentDeals": "RaceTrac/Potbelly, Casey's expanding QSR"
+      },
+      "newsKeywords": ["pilot pizza", "racetrac qsr", "c-store restaurant acquisition", "travel center food"],
+      "history": [
+        { "date": "2025-01-13", "likelihood": 15, "note": "Added - C-stores aggressively entering foodservice" }
+      ]
+    },
+    {
+      "id": "franchisee-consortium",
+      "name": "Franchisee Consortium (Flynn + Sun + Others)",
+      "type": "Wildcard - Consortium",
+      "likelihood": 30,
+      "trend": "up",
+      "estimatedBid": "$3.5B-4.5B",
+      "rationale": "Flynn (1,027 units), Sun Holdings, and other major franchisees could band together to buy the brand. Precedent exists - Denny's was bought by a franchisee-led group. They know the operations intimately and are most motivated to fix the brand.",
+      "pros": [
+        "Deep operational knowledge",
+        "Already own ~40% of US system",
+        "Most aligned with brand success",
+        "Ron Bellamy (Flynn COO) key decision maker",
+        "Denny's franchisee buyout precedent"
+      ],
+      "cons": [
+        "Complex to organize multiple parties",
+        "Would need significant PE backing",
+        "Franchise agreements may complicate",
+        "International operations beyond expertise"
+      ],
+      "keyMetrics": {
+        "flynnUnits": "1,027 PH units",
+        "sunUnits": "100+ PH units",
+        "combinedShare": "~40% of US system"
+      },
+      "newsKeywords": ["franchisee buyout", "flynn sun consortium", "franchisee acquisition pizza hut"],
+      "history": [
+        { "date": "2025-01-13", "likelihood": 30, "note": "Added - Franchisee-led buyout gaining traction" }
+      ]
     }
   ],
   "timeline": [
@@ -411,7 +593,146 @@
       "type": "related"
     }
   ],
-  "recentNews": [],
+  "recentNews": [
+    {
+      "date": "2026-01-13",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Whataburger Confirms New Villa Rica Location at Former Pizza Hut Site - The City Menus",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREJJT1QwOXkzV3pPcktaQUFZUnNfbGlBa3dpSHByY2RqVGY2U29SY21JR2NzUFNzVFZWUHFiQXE5SUkyTVl4RlBCdVcyOWNaMEJMeS1yYUF5NFRnRThlWUEwMV9VMWxVa084LWFMRDA3WkpicTZmUkRXQ1ZUN1JuSzVnWW8xcHFHZUNKb3pldjVXYmdQNzlyUThtWjdjQ2dXdXBiNXFjVFRUZw?oc=5\" target=\"_blank\"&gt;Whataburger Confirms New Villa Rica Location at Former Pizza Hut Site&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The City Menus&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREJJT1QwOXkzV3pPcktaQUFZUnNfbGlBa3dpSHByY2RqVGY2U29SY21JR2NzUFNzVFZWUHFiQXE5SUkyTVl4RlBCdVcyOWNaMEJMeS1yYUF5NFRnRThlWUEwMV9VMWxVa084LWFMRDA3WkpicTZmUkRXQ1ZUN1JuSzVnWW8xcHFHZUNKb3pldjVXYmdQNzlyUThtWjdjQ2dXdXBiNXFjVFRUZw?oc=5",
+      "source": "The City Menus",
+      "date": "2026-01-12",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "positive"
+    },
+    {
+      "title": "Ex-Pizza Hut MD Merrill Pereyra Takes Over Domino’s ANZ - Entrepreneur India",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzJUY3lWT252YkdZSzAzLXNkSVZHd1Z1QnJZNUVyY2p0d3RCR3dOYlZERm9oUFViNHlIQkFndzh6MzZFWVBySjlZM0F2WTZsMG5XNWc0azcwRzAzSHFYUmxsQktmMEFQSlNvcV9oMDUzN0toQ01PajR0d1FKQnZjeFJZTXYza050UTJ1WTB1VTVpS3NDLWJnS0VWR1dMRTlTRDV3cGxfQzAzcWM?oc=5\" target=\"_blank\"&gt;Ex-Pizza Hut MD Merrill Pereyra Takes Over Domino’s ANZ&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrepreneur India&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzJUY3lWT252YkdZSzAzLXNkSVZHd1Z1QnJZNUVyY2p0d3RCR3dOYlZERm9oUFViNHlIQkFndzh6MzZFWVBySjlZM0F2WTZsMG5XNWc0azcwRzAzSHFYUmxsQktmMEFQSlNvcV9oMDUzN0toQ01PajR0d1FKQnZjeFJZTXYza050UTJ1WTB1VTVpS3NDLWJnS0VWR1dMRTlTRDV3cGxfQzAzcWM?oc=5",
+      "source": "Entrepreneur India",
+      "date": "2026-01-13",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Former Pizza Hut to be transformed to 'state-of-the-art' car showroom in Derby - DerbyWorld",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBtTWRGZzlXeVR6bHFkTm1OUzc3OVZlQ01udk9CeS1lYzBYWHNTUWZZR3R6QU83MXdBYm5hMmJmT3lEMFd1Z2h6bVZtWW5VbHR0WkV1X2xhc2JuUzRqdm41M2ZjeFRQemxGd0c5SlhqRW1hQQ?oc=5\" target=\"_blank\"&gt;Former Pizza Hut to be transformed to 'state-of-the-art' car showroom in Derby&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;DerbyWorld&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtTWRGZzlXeVR6bHFkTm1OUzc3OVZlQ01udk9CeS1lYzBYWHNTUWZZR3R6QU83MXdBYm5hMmJmT3lEMFd1Z2h6bVZtWW5VbHR0WkV1X2xhc2JuUzRqdm41M2ZjeFRQemxGd0c5SlhqRW1hQQ?oc=5",
+      "source": "DerbyWorld",
+      "date": "2026-01-13",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2026-01-12",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Domino’s taps former Pizza Hut exec as new ANZ CEO - QSR Media Australia",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDhmVFVPOXhERm5MOS1LSUVJQllwN0F1N1ZtLUtHWDUxMHo3OWE0X0RBYzZwYXk3V0lSMTk2b3ZuamIwZ2RnaE5kc3JnZjB0Skl6YUV1LVNMWjlrQV9JakIxb2xOb2JqY24zZ1VvXzJMQWIyUHZaTkY2Sm82RDJXOHRHMVVxRDJHNVRNVC10SHNiT1RkM0E?oc=5\" target=\"_blank\"&gt;Domino’s taps former Pizza Hut exec as new ANZ CEO&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Media Australia&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDhmVFVPOXhERm5MOS1LSUVJQllwN0F1N1ZtLUtHWDUxMHo3OWE0X0RBYzZwYXk3V0lSMTk2b3ZuamIwZ2RnaE5kc3JnZjB0Skl6YUV1LVNMWjlrQV9JakIxb2xOb2JqY24zZ1VvXzJMQWIyUHZaTkY2Sm82RDJXOHRHMVVxRDJHNVRNVC10SHNiT1RkM0E?oc=5",
+      "source": "QSR Media Australia",
+      "date": "2026-01-12",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2026-01-03",
+      "summary": "Found 2 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "India's KFC, Pizza Hut operators to merge in $934M deal - QSR Web",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFdPT3JHbjRiemp5VDl1d3REN3FLRFl5YUt4LXdzUGh6eTVrcWpxQTR0T3RESnYyOWtJbnItalZBbFBrTHlqTFB0a0t5TlBCV19Ua0JiVWQ2WThnRVlDYUR1cHN1U2RRLUZhUWlWOHFjdHNndExTY3gxSFVmS1FRYmdrQWxvVkdL?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934M deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Web&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFdPT3JHbjRiemp5VDl1d3REN3FLRFl5YUt4LXdzUGh6eTVrcWpxQTR0T3RESnYyOWtJbnItalZBbFBrTHlqTFB0a0t5TlBCV19Ua0JiVWQ2WThnRVlDYUR1cHN1U2RRLUZhUWlWOHFjdHNndExTY3gxSFVmS1FRYmdrQWxvVkdL?oc=5",
+      "source": "QSR Web",
+      "date": "2026-01-02",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2026-01-02",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "India's KFC, Pizza Hut operators to merge in $934 million deal - Reuters",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmxDVW1fbm5VSVhhOWRPM2hCUzBqZWVtRUNwdXJTRkJ6NGFDVm1uejRpOVBaOEVEalRTZmhIaExWRnFBYTJZRjJudTlVckYyMlVKUzg3LXlzVWltMmxMenNDUmlESlRDNGJlVHR4VkljMzVYUTlESDg1My10OEY5NWNlODhIMk01M2F2SXNaQ0owNkx1S3ltelFpRms2azhTNFp3cnJuaThtRFIzZkFIc0QyU1JmX0FKWDVFdEZ0Q3dmQQ?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934 million deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmxDVW1fbm5VSVhhOWRPM2hCUzBqZWVtRUNwdXJTRkJ6NGFDVm1uejRpOVBaOEVEalRTZmhIaExWRnFBYTJZRjJudTlVckYyMlVKUzg3LXlzVWltMmxMenNDUmlESlRDNGJlVHR4VkljMzVYUTlESDg1My10OEY5NWNlODhIMk01M2F2SXNaQ0owNkx1S3ltelFpRms2azhTNFp3cnJuaThtRFIzZkFIc0QyU1JmX0FKWDVFdEZ0Q3dmQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-01-01",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Mint Explainer: Why are KFC and Pizza Hut franchisees Devyani and Sapphire coming together? - livemint.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVdJX01Jc3F6ZHd6dld0d0dqZk9XSGdCR2UyaUdWX095dktrd0RMcEY0UkxkVDdoek94eWR6dTB0SE41STFkOUNmWnR5MU5DeXNCbWw4aGUxNkpIX2w4MnE4U2t1a1RFZHFKN19KNkx1R18ySjI2cm5pdXRNV1FnQ3AwNld5TzhOWUxkcGw4V3ZZaUlic2JGZjJJNmhxdUY0WGNkUjJKYkZReklJaktmQ0dB0gG3AUFVX3lxTFBuWmltdG1qbkZpTGd5a0ZZeXI3aEFqcWhJWU1GekVsYWcxcGJhMGljN2EyS0FTLVpOeXNUNzFCYW1lQWFleVJkUXgzUnZPLVRQeFFCd0VZR0FRQnZMb19GS3NYV2ROUVdWZUpfbDB4UVZaTXpEX2VFeHIzS3YwV3ZVbE9tZ1ZJY05tMDYxQy1mNEdveWh2LWxMc1drWUpuQUlxRl9iRjdhQzJCcGhPZEpVVlFzNU9uWQ?oc=5\" target=\"_blank\"&gt;Mint Explainer: Why are KFC and Pizza Hut franchisees Devyani and Sapphire coming together?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;livemint.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVdJX01Jc3F6ZHd6dld0d0dqZk9XSGdCR2UyaUdWX095dktrd0RMcEY0UkxkVDdoek94eWR6dTB0SE41STFkOUNmWnR5MU5DeXNCbWw4aGUxNkpIX2w4MnE4U2t1a1RFZHFKN19KNkx1R18ySjI2cm5pdXRNV1FnQ3AwNld5TzhOWUxkcGw4V3ZZaUlic2JGZjJJNmhxdUY0WGNkUjJKYkZReklJaktmQ0dB0gG3AUFVX3lxTFBuWmltdG1qbkZpTGd5a0ZZeXI3aEFqcWhJWU1GekVsYWcxcGJhMGljN2EyS0FTLVpOeXNUNzFCYW1lQWFleVJkUXgzUnZPLVRQeFFCd0VZR0FRQnZMb19GS3NYV2ROUVdWZUpfbDB4UVZaTXpEX2VFeHIzS3YwV3ZVbE9tZ1ZJY05tMDYxQy1mNEdveWh2LWxMc1drWUpuQUlxRl9iRjdhQzJCcGhPZEpVVlFzNU9uWQ?oc=5",
+      "source": "livemint.com",
+      "date": "2026-01-02",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "India's KFC, Pizza Hut operators to merge in $934 million deal - CNBC",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVJuUEp6eE1ZWDJSR1VDZ3FqT0ppa3ZDS3dLOFpsNUU4Vk15T1Q3bkZKUGtzbDRnQndzTWVFdy0xSU5QODR3dWZQOUZMWDI5UWRQVkhLaV9FOXBqVnpCQmtsQ25fQ1VwWk1paFVVTHg2cUotS0otSmRLcWV0QW1UMkVvaVJPVUtrRHBzal81eTBFSS1LWGN4d0pQWHJfelUtUmY2U0c3MFFZdDNUVUt3ZlFZZU9PbktUdU82SDdZMGRGd9IBxwFBVV95cUxQOUh4R210WlZfcHp0RHJnenlweU1oQjk5RFAxMkZ5N1BmSi1vMnRzQ2dxWWVBSmdwZ3lRLVI5ampXU0V2d2RrR0xwMm93NDh1bzN6YlpUY3RfZDhlYWIzalJ4dWJKN09jTkVmeW5sT3N0ZU1PWjktaVA3ek1EbW9sd0xaZURXVHJ3U3FKQWwtdGxVbHlDZGVnSGJNZDN1OVoxM1JEQ0ZrUVk4cHRhbW9RNGYtcXduVmdZNjFhbzhkMUQ2eHdrWlIw?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934 million deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;CNBC&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVJuUEp6eE1ZWDJSR1VDZ3FqT0ppa3ZDS3dLOFpsNUU4Vk15T1Q3bkZKUGtzbDRnQndzTWVFdy0xSU5QODR3dWZQOUZMWDI5UWRQVkhLaV9FOXBqVnpCQmtsQ25fQ1VwWk1paFVVTHg2cUotS0otSmRLcWV0QW1UMkVvaVJPVUtrRHBzal81eTBFSS1LWGN4d0pQWHJfelUtUmY2U0c3MFFZdDNUVUt3ZlFZZU9PbktUdU82SDdZMGRGd9IBxwFBVV95cUxQOUh4R210WlZfcHp0RHJnenlweU1oQjk5RFAxMkZ5N1BmSi1vMnRzQ2dxWWVBSmdwZ3lRLVI5ampXU0V2d2RrR0xwMm93NDh1bzN6YlpUY3RfZDhlYWIzalJ4dWJKN09jTkVmeW5sT3N0ZU1PWjktaVA3ek1EbW9sd0xaZURXVHJ3U3FKQWwtdGxVbHlDZGVnSGJNZDN1OVoxM1JEQ0ZrUVk4cHRhbW9RNGYtcXduVmdZNjFhbzhkMUQ2eHdrWlIw?oc=5",
+      "source": "CNBC",
+      "date": "2026-01-01",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "KFC, Pizza Hut franchisees to consolidate as Sapphire Foods merges with Devyani International - Moneycontrol",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnB3ZExFdDY3OWcwUHY2R3hodkgzb2dwMXhjZzAyT2lQOUMyR2w5RURjSXQzNGNnaVBseV9JMzJocWw4QVltRDdKUGF3a2NseV9kVElHbkplZ3d6WktzNXVhUkNabDZQUmJ5QlUzQ2VwZFZJcUM5S1EyVl9sMExELVQ5RFRuY0l6ZlR4bFhNRlhQZ0wxOFRxT2NTZHZuTlFLN0dRa1VSX0t5SHJsS0FuYk14cWNTcVp1aU42ZG1MV3dURHVUamRQdXJtcHBMWTRBbUY1MUlZMTJibG9lOE5INHNla1REUVlFVXBKd1pRbjDSAfYBQVVfeXFMT19qM0k1MVRwdHlTZGtXaDRuQXpEYVJyeVNER0UtdzhzYnZCWEs3MEpHbHBvNWNqSXpGbTZpOGotYTcxX01McXprU01UbGpQV0hjaERnYjU5QWl4aDFIZWdKYmZHWVh2QzQ2d0Q2U3dHYU11R085dkh0Q2ZGcG15UVpKc0JQZEpDWU14dXJ1Q3JSeFBxS05WU185YjlrUWVJbTItUXJfajBBdFZRNk9yYks5VTdWSE00dElRSXlSbmphLW9HVjhKT2ZNVzlidE9Ld2t4UEFEbDJNdUg3RGF1d1NjR0c2SWJQb1M5X01ESmlCc2NESmRR?oc=5\" target=\"_blank\"&gt;KFC, Pizza Hut franchisees to consolidate as Sapphire Foods merges with Devyani International&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Moneycontrol&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnB3ZExFdDY3OWcwUHY2R3hodkgzb2dwMXhjZzAyT2lQOUMyR2w5RURjSXQzNGNnaVBseV9JMzJocWw4QVltRDdKUGF3a2NseV9kVElHbkplZ3d6WktzNXVhUkNabDZQUmJ5QlUzQ2VwZFZJcUM5S1EyVl9sMExELVQ5RFRuY0l6ZlR4bFhNRlhQZ0wxOFRxT2NTZHZuTlFLN0dRa1VSX0t5SHJsS0FuYk14cWNTcVp1aU42ZG1MV3dURHVUamRQdXJtcHBMWTRBbUY1MUlZMTJibG9lOE5INHNla1REUVlFVXBKd1pRbjDSAfYBQVVfeXFMT19qM0k1MVRwdHlTZGtXaDRuQXpEYVJyeVNER0UtdzhzYnZCWEs3MEpHbHBvNWNqSXpGbTZpOGotYTcxX01McXprU01UbGpQV0hjaERnYjU5QWl4aDFIZWdKYmZHWVh2QzQ2d0Q2U3dHYU11R085dkh0Q2ZGcG15UVpKc0JQZEpDWU14dXJ1Q3JSeFBxS05WU185YjlrUWVJbTItUXJfajBBdFZRNk9yYks5VTdWSE00dElRSXlSbmphLW9HVjhKT2ZNVzlidE9Ld2t4UEFEbDJNdUg3RGF1d1NjR0c2SWJQb1M5X01ESmlCc2NESmRR?oc=5",
+      "source": "Moneycontrol",
+      "date": "2026-01-01",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-12-27",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Signs go up for Darlington's newest Italian restaurant at former Pizza Hut - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaDM5Y3laUjBhWHpPNEpyeW9vdHh1Z0s2Z1loRm1MYmJoRmYzaC1raGhwbFhwZ0I0RUMxc0Z2cUpRS192RUdzc3lVMGZ5dlRud2F5aWJIeWpOdHVrUGlPVFVhTW84RmlnQXhDbXlMcDRVckFabnlETm9oX2daeXBuYlE5My02dTloWGVLdlQ1VDluT2YxS05PYXBGMHVOd3VTMExRQzZIbG9takxlM3l0elQtdWhCTVo3WlBmZ1ZMbmVwT05HalBYX1FkTWF1TGZhM0NucVdYQjhSVFAzNlJ2OXotU1Q2RXRqQ0FpTU85NFhocVIzZUMwSHVzM2d6UjVrRUJJSU5qOUItNTNMR1R1WEh0OEdIU1pBNzlDcTdFc3BteEJEVWllVUt5UUZsRWNpZVBtZmtzTmhOcGtHbXZZbVhMVDBsbEFJc2NLNzlLR3lqSC1CSEZQTVpOOHRfcURl?oc=5\" target=\"_blank\"&gt;Signs go up for Darlington's newest Italian restaurant at former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaDM5Y3laUjBhWHpPNEpyeW9vdHh1Z0s2Z1loRm1MYmJoRmYzaC1raGhwbFhwZ0I0RUMxc0Z2cUpRS192RUdzc3lVMGZ5dlRud2F5aWJIeWpOdHVrUGlPVFVhTW84RmlnQXhDbXlMcDRVckFabnlETm9oX2daeXBuYlE5My02dTloWGVLdlQ1VDluT2YxS05PYXBGMHVOd3VTMExRQzZIbG9takxlM3l0elQtdWhCTVo3WlBmZ1ZMbmVwT05HalBYX1FkTWF1TGZhM0NucVdYQjhSVFAzNlJ2OXotU1Q2RXRqQ0FpTU85NFhocVIzZUMwSHVzM2d6UjVrRUJJSU5qOUItNTNMR1R1WEh0OEdIU1pBNzlDcTdFc3BteEJEVWllVUt5UUZsRWNpZVBtZmtzTmhOcGtHbXZZbVhMVDBsbEFJc2NLNzlLR3lqSC1CSEZQTVpOOHRfcURl?oc=5",
+      "source": "MSN",
+      "date": "2025-12-26",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-12-18",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "date": "2025-12-17",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Former Pizza Hut restaurant could become tanning salon - Frome Times",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNsYkpLQW0xd3M2WVhxQndzTGF3bUJuQzdnTDlmVGdodFRzNUhFTGtLdlpleWxtTFQtWWpmUWhzbGw0N014MEZHMnB2bmlPSnFJQlBXbWt2SnJna1VrUDRNZG9zZG1PSkpHeHZ4NEdKQWJJdzB6QmJCMFRQNWhQalZqQ3hEU3FYajBTZA?oc=5\" target=\"_blank\"&gt;Former Pizza Hut restaurant could become tanning salon&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Frome Times&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNsYkpLQW0xd3M2WVhxQndzTGF3bUJuQzdnTDlmVGdodFRzNUhFTGtLdlpleWxtTFQtWWpmUWhzbGw0N014MEZHMnB2bmlPSnFJQlBXbWt2SnJna1VrUDRNZG9zZG1PSkpHeHZ4NEdKQWJJdzB6QmJCMFRQNWhQalZqQ3hEU3FYajBTZA?oc=5",
+      "source": "Frome Times",
+      "date": "2025-12-17",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    }
+  ],
   "watchList": {
     "secFilings": [
       "YUM 8-K filings",
@@ -471,7 +792,10 @@
       "currentLeadership": [
         {"name": "Aaron Powell", "role": "CEO, Pizza Hut Division"},
         {"name": "Chris Turner", "role": "CEO, Yum! Brands (as of Sept 30, 2025)"},
-        {"name": "David Gibbs", "role": "Former CEO, Yum! Brands (retired Sept 30, 2025)"}
+        {"name": "Carl Loredo", "role": "President, Pizza Hut US"},
+        {"name": "Steve Ritchie", "role": "CEO, Prosper Growth Partners", "linkedinUrl": "https://www.linkedin.com/in/stritchie/", "notes": "Former Papa John's CEO - potential acquirer"},
+        {"name": "Ron Bellamy", "role": "President & COO, Flynn Group", "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/", "notes": "Key decision maker at largest PH franchisee"},
+        {"name": "Greg Flynn", "role": "Founder & CEO, Flynn Group", "notes": "Largest Pizza Hut franchisee (1,027 units)"}
       ],
       "signalInterpretation": "High exec turnover pre-sale often indicates: (1) insiders know deal is coming, (2) new owner already placing people, (3) brand distress worse than reported. Graves going to Inspire/Roark is especially notable - could signal relationship building or that Roark is already conducting due diligence with friendly insiders."
     },

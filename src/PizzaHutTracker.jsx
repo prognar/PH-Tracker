@@ -258,6 +258,57 @@ const PizzaHutTracker = () => {
         {/* BUYERS TAB */}
         {activeTab === 'buyers' && (
           <>
+            {/* Latest News Section */}
+            {recentNews && recentNews.length > 0 && (
+              <section className="bg-slate-800/30 backdrop-blur border border-slate-700/50 rounded-xl p-6">
+                <h2 className="text-xl font-semibold text-white flex items-center gap-2 mb-4">
+                  <AlertCircle className="w-5 h-5 text-amber-400" />
+                  Latest News
+                  <span className="text-sm font-normal text-slate-500">({recentNews.length} articles)</span>
+                </h2>
+                <div className="space-y-3 max-h-96 overflow-y-auto">
+                  {recentNews.map((article, i) => (
+                    <a 
+                      key={i} 
+                      href={article.link} 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="block bg-slate-900/50 hover:bg-slate-800/50 border border-slate-700/30 hover:border-slate-600/50 rounded-lg p-4 transition-all group"
+                    >
+                      <div className="flex items-start justify-between gap-4">
+                        <div className="flex-1 min-w-0">
+                          <div className="flex items-center gap-2 mb-1">
+                            <span className="text-slate-500 text-xs font-mono">{article.date}</span>
+                            {article.impact && (
+                              <span className={'px-2 py-0.5 rounded text-xs border ' + getImpactBadge(article.impact)}>{article.impact}</span>
+                            )}
+                            {article.source && (
+                              <span className="text-slate-500 text-xs">{article.source}</span>
+                            )}
+                          </div>
+                          <h3 className="text-white text-sm font-medium group-hover:text-amber-300 transition-colors line-clamp-2">{article.title}</h3>
+                          {article.description && (
+                            <p className="text-slate-400 text-xs mt-1 line-clamp-2">{article.description}</p>
+                          )}
+                        </div>
+                        <ExternalLink className="w-4 h-4 text-slate-500 group-hover:text-amber-400 flex-shrink-0 mt-1" />
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            )}
+            
+            {/* No news message */}
+            {(!recentNews || recentNews.length === 0) && (
+              <section className="bg-slate-800/30 backdrop-blur border border-slate-700/50 rounded-xl p-6">
+                <div className="flex items-center gap-3 text-slate-400">
+                  <AlertCircle className="w-5 h-5" />
+                  <span>No recent news articles found. The scraper checks daily for updates.</span>
+                </div>
+              </section>
+            )}
+
             <section>
               <div className="flex items-center justify-between mb-6">
                 <h2 className="text-xl font-semibold text-white flex items-center gap-2"><Building2 className="w-5 h-5 text-slate-400" />Potential Buyers<span className="text-sm font-normal text-slate-500">({filteredBuyers.length} tracked)</span></h2>

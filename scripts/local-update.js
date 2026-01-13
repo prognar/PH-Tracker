@@ -94,6 +94,43 @@ const NEWS_SOURCES = [
     name: "Google News - Chequan Lewis",
     url: "https://news.google.com/rss/search?q=%22Chequan+Lewis%22+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
     type: "rss"
+  },
+  // People to watch
+  {
+    name: "Google News - Steve Ritchie",
+    url: "https://news.google.com/rss/search?q=%22Steve+Ritchie%22+pizza+OR+%22Steve+Ritchie%22+restaurant+OR+%22Steve+Ritchie%22+Prosper&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Ron Bellamy Flynn",
+    url: "https://news.google.com/rss/search?q=%22Ron+Bellamy%22+Flynn+OR+%22Ronald+Bellamy%22+Pizza+Hut&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  // Wildcard buyers
+  {
+    name: "Google News - Sovereign Wealth Restaurant",
+    url: "https://news.google.com/rss/search?q=sovereign+wealth+restaurant+OR+%22PIF%22+restaurant+OR+%22Mubadala%22+food+acquisition&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - KKR Restaurant",
+    url: "https://news.google.com/rss/search?q=KKR+restaurant+acquisition+OR+KKR+franchise&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Eldridge Convive",
+    url: "https://news.google.com/rss/search?q=%22Todd+Boehly%22+restaurant+OR+%22Convive+Brands%22+OR+%22Eldridge%22+restaurant&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Franchisee Consortium",
+    url: "https://news.google.com/rss/search?q=franchisee+buyout+pizza+OR+franchisee+consortium+restaurant&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
+  {
+    name: "Google News - Bain Capital Restaurant",
+    url: "https://news.google.com/rss/search?q=%22Bain+Capital%22+restaurant+OR+%22Bain%22+pizza+acquisition&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
   }
 ];
 
@@ -128,7 +165,17 @@ const MEDIUM_IMPACT_KEYWORDS = [
   "former pizza hut", "ex-pizza hut", "leaves pizza hut", "left pizza hut",
   "pizza hut executive", "pizza hut ceo", "pizza hut cmo", "pizza hut cfo",
   "pizza hut president", "departs pizza hut", "exits pizza hut",
-  "pizza hut leadership", "pizza hut management change"
+  "pizza hut leadership", "pizza hut management change",
+  // People to watch
+  "steve ritchie pizza", "steve ritchie prosper", "steve ritchie restaurant",
+  "ron bellamy flynn", "ron bellamy pizza", "ronald bellamy",
+  // Wildcard buyers
+  "sovereign wealth restaurant", "pif restaurant", "mubadala food",
+  "kkr restaurant", "kkr franchise", "kkr pizza",
+  "todd boehly restaurant", "eldridge restaurant", "convive brands pizza",
+  "bain capital restaurant", "bain pizza",
+  "franchisee consortium", "franchisee buyout pizza",
+  "prosper growth pizza"
 ];
 
 const LOW_IMPACT_KEYWORDS = [
@@ -212,6 +259,7 @@ function parseRSS(xml) {
   const linkRegex = /<link>([\s\S]*?)<\/link>/;
   const pubDateRegex = /<pubDate>([\s\S]*?)<\/pubDate>/;
   const descRegex = /<description>([\s\S]*?)<\/description>/;
+  const sourceRegex = /<source[^>]*>([\s\S]*?)<\/source>/;
 
   let match;
   while ((match = itemRegex.exec(xml)) !== null) {
@@ -220,16 +268,26 @@ function parseRSS(xml) {
     const link = (linkRegex.exec(item) || [])[1] || "";
     const pubDate = (pubDateRegex.exec(item) || [])[1] || "";
     const description = (descRegex.exec(item) || [])[1] || "";
+    const source = (sourceRegex.exec(item) || [])[1] || "";
 
     // Clean up CDATA and HTML entities
     const cleanTitle = title.replace(/<!\[CDATA\[|\]\]>/g, "").replace(/&amp;/g, "&").replace(/&quot;/g, '"').trim();
     const cleanDesc = description.replace(/<!\[CDATA\[|\]\]>/g, "").replace(/<[^>]*>/g, "").replace(/&amp;/g, "&").trim();
+    const cleanSource = source.replace(/<!\[CDATA\[|\]\]>/g, "").trim();
+    
+    // Try to extract source from title if not in source tag (Google News format: "Title - Source")
+    let finalSource = cleanSource;
+    if (!finalSource && cleanTitle.includes(" - ")) {
+      const parts = cleanTitle.split(" - ");
+      finalSource = parts[parts.length - 1];
+    }
 
     items.push({
       title: cleanTitle,
       link: link.trim(),
       date: pubDate ? new Date(pubDate).toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
-      description: cleanDesc
+      description: cleanDesc,
+      source: finalSource || "Unknown"
     });
   }
 
@@ -405,6 +463,9 @@ async function updateTracker() {
   // Add new events to timeline (avoid duplicates)
   const existingEvents = new Set(currentData.timeline.map(e => e.event.toLowerCase().substring(0, 50)));
   
+  // Save recent news articles with full details
+  const newsArticles = [];
+  
   for (const news of relevantNews) {
     const eventText = news.title.substring(0, 100);
     if (!existingEvents.has(eventText.toLowerCase().substring(0, 50))) {
@@ -416,7 +477,24 @@ async function updateTracker() {
       });
       existingEvents.add(eventText.toLowerCase().substring(0, 50));
     }
+    
+    // Add to news articles array
+    newsArticles.push({
+      title: news.title,
+      description: news.description,
+      link: news.link,
+      source: news.source,
+      date: news.date,
+      impact: news.impact,
+      buyerId: news.buyerId,
+      sentiment: news.sentiment
+    });
   }
+  
+  // Update recentNews - keep last 20 articles, newest first
+  const existingLinks = new Set((currentData.recentNews || []).map(n => n.link));
+  const newArticles = newsArticles.filter(n => !existingLinks.has(n.link));
+  currentData.recentNews = [...newArticles, ...(currentData.recentNews || [])].slice(0, 20);
   
   // Keep only last 50 events
   currentData.timeline = currentData.timeline.slice(0, 50);
