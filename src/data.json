@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T14:00:08.389Z",
+  "lastUpdated": "2026-01-14T14:07:45.536Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -16,7 +16,10 @@
     "consecutiveQuartersDecline": 8
   },
   "advisors": {
-    "seller": ["Goldman Sachs", "Barclays"],
+    "seller": [
+      "Goldman Sachs",
+      "Barclays"
+    ],
     "potentialBuyerAdvisors": []
   },
   "buyers": [
@@ -48,10 +51,25 @@
         "restaurantFocus": "Primary",
         "insiderConnection": "David Graves (ex-Pizza Hut CBO)"
       },
-      "newsKeywords": ["roark capital", "inspire brands", "arby's owner", "subway owner", "dunkin owner", "david graves arby"],
+      "newsKeywords": [
+        "roark capital",
+        "inspire brands",
+        "arby's owner",
+        "subway owner",
+        "dunkin owner",
+        "david graves arby"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 85, "note": "Initial assessment - top candidate per industry analysts" },
-        { "date": "2025-12-10", "likelihood": 88, "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 85,
+          "note": "Initial assessment - top candidate per industry analysts"
+        },
+        {
+          "date": "2025-12-10",
+          "likelihood": 88,
+          "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship"
+        }
       ]
     },
     {
@@ -80,9 +98,18 @@
         "annualSales": "$4.5B",
         "brands": "7 (incl. Applebee's, Wendy's, Taco Bell)"
       },
-      "newsKeywords": ["flynn group", "flynn restaurant", "greg flynn", "largest franchisee"],
+      "newsKeywords": [
+        "flynn group",
+        "flynn restaurant",
+        "greg flynn",
+        "largest franchisee"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 75, "note": "Added - critical missing buyer, already largest PH franchisee" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 75,
+          "note": "Added - critical missing buyer, already largest PH franchisee"
+        }
       ]
     },
     {
@@ -111,9 +138,19 @@
         "globalUnits": "31,000+",
         "recentDeal": "China refranchising 2025"
       },
-      "newsKeywords": ["restaurant brands international", "rbi", "burger king owner", "tim hortons owner", "popeyes owner"],
+      "newsKeywords": [
+        "restaurant brands international",
+        "rbi",
+        "burger king owner",
+        "tim hortons owner",
+        "popeyes owner"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 68, "note": "Initial assessment - strong strategic fit" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 68,
+          "note": "Initial assessment - strong strategic fit"
+        }
       ]
     },
     {
@@ -142,9 +179,18 @@
         "dealStyle": "LBO",
         "recentInterest": "Papa John's (withdrawn)"
       },
-      "newsKeywords": ["apollo global", "apollo management", "apollo pizza", "apollo restaurant"],
+      "newsKeywords": [
+        "apollo global",
+        "apollo management",
+        "apollo pizza",
+        "apollo restaurant"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 65, "note": "Initial assessment - proven pizza interest" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 65,
+          "note": "Initial assessment - proven pizza interest"
+        }
       ]
     },
     {
@@ -173,9 +219,17 @@
         "restaurantPortfolio": "Jersey Mike's, Tropical Smoothie, 7Brew",
         "franchiseExpertise": "Hilton, SERVPRO"
       },
-      "newsKeywords": ["blackstone pizza", "blackstone restaurant", "blackstone yum"],
+      "newsKeywords": [
+        "blackstone pizza",
+        "blackstone restaurant",
+        "blackstone yum"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 55, "note": "Added - major PE player with fresh restaurant appetite" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 55,
+          "note": "Added - major PE player with fresh restaurant appetite"
+        }
       ]
     },
     {
@@ -201,9 +255,17 @@
         "focus": "Consumer/Retail",
         "recentDeals": "Limited restaurant"
       },
-      "newsKeywords": ["sycamore partners", "sycamore capital", "sycamore pizza"],
+      "newsKeywords": [
+        "sycamore partners",
+        "sycamore capital",
+        "sycamore pizza"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 45, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 45,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -230,9 +292,17 @@
         "yadavUnits": "550+ restaurants",
         "triartisanPortfolio": "P.F. Chang's, Denny's"
       },
-      "newsKeywords": ["triartisan", "yadav enterprises", "denny's buyer"],
+      "newsKeywords": [
+        "triartisan",
+        "yadav enterprises",
+        "denny's buyer"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 40, "note": "Updated - recent Denny's deal shows appetite" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 40,
+          "note": "Updated - recent Denny's deal shows appetite"
+        }
       ]
     },
     {
@@ -261,9 +331,20 @@
         "investmentStyle": "Strategic/Long-term",
         "existingExposure": "Americana Group"
       },
-      "newsKeywords": ["saudi pizza", "pif restaurant", "qia restaurant", "mubadala", "sovereign wealth pizza", "middle east pizza hut"],
+      "newsKeywords": [
+        "saudi pizza",
+        "pif restaurant",
+        "qia restaurant",
+        "mubadala",
+        "sovereign wealth pizza",
+        "middle east pizza hut"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 40, "note": "Initial assessment" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 40,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -290,9 +371,16 @@
         "ranking": "#2 US franchisee",
         "recentDeals": "Uncle Julio's, Freebirds (2024)"
       },
-      "newsKeywords": ["sun holdings", "sun holdings pizza"],
+      "newsKeywords": [
+        "sun holdings",
+        "sun holdings pizza"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 35, "note": "Added - major franchisee, potential consortium leader" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 35,
+          "note": "Added - major franchisee, potential consortium leader"
+        }
       ]
     },
     {
@@ -319,160 +407,17 @@
         "recentDeals": "Starbucks China to Boyu, BK China to CPE",
         "structure": "Likely carve-out or JV"
       },
-      "newsKeywords": ["yum china pizza", "asian buyer pizza hut", "china pizza hut"],
+      "newsKeywords": [
+        "yum china pizza",
+        "asian buyer pizza hut",
+        "china pizza hut"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 30, "note": "Initial assessment - complex but possible" }
-      ]
-    },
-    {
-      "id": "sovereign-wealth",
-      "name": "Sovereign Wealth Fund (Saudi PIF / Mubadala / QIA)",
-      "type": "Wildcard - Sovereign",
-      "likelihood": 25,
-      "trend": "stable",
-      "estimatedBid": "$4B-5B",
-      "rationale": "Middle Eastern sovereign wealth funds are aggressively diversifying into consumer brands. Saudi PIF bought Newcastle United, invested in LIV Golf, Lucid Motors. Pizza Hut's global footprint (90+ countries) and brand recognition align with portfolio diversification strategies.",
-      "pros": [
-        "Essentially unlimited capital",
-        "Long-term investment horizon (no PE exit pressure)",
-        "Strategic interest in Western consumer brands",
-        "Could provide patient capital for turnaround",
-        "Pizza Hut already operates in GCC countries"
-      ],
-      "cons": [
-        "Political/regulatory scrutiny (CFIUS review)",
-        "No restaurant operating experience",
-        "Would need to partner with US management team",
-        "Reputational risk for some consumer segments"
-      ],
-      "keyMetrics": {
-        "pifAum": "$930B+",
-        "mubadalaAum": "$300B+",
-        "recentDeals": "Newcastle United, LIV Golf, Lucid, AMC, various F&B"
-      },
-      "newsKeywords": ["saudi pizza", "pif restaurant", "mubadala food", "sovereign wealth restaurant", "qia acquisition"],
-      "history": [
-        { "date": "2025-01-13", "likelihood": 25, "note": "Added - SWFs actively diversifying into consumer" }
-      ]
-    },
-    {
-      "id": "prosper-bain",
-      "name": "Prosper Growth Partners / Bain Capital",
-      "type": "Wildcard - Non-QSR PE",
-      "likelihood": 25,
-      "trend": "up",
-      "estimatedBid": "$3.5B-4.5B",
-      "rationale": "Steve Ritchie (former Papa John's CEO) leads Prosper Growth, backed by Bain Capital. Ritchie knows pizza intimately - took Papa John's through crisis. Bain recently backed Convive Brands acquiring PizzaExpress. Non-traditional PE firms see opportunity as QSR-focused PE pulls back.",
-      "pros": [
-        "Steve Ritchie has direct pizza turnaround experience",
-        "Bain Capital has deep pockets ($180B AUM)",
-        "Less competition from traditional restaurant PE",
-        "Ritchie knows the franchisee dynamics",
-        "Bain/Convive just acquired PizzaExpress globally"
-      ],
-      "cons": [
-        "Prosper is newer, smaller platform",
-        "Ritchie's Papa John's tenure was controversial",
-        "Would be massive step up in scale"
-      ],
-      "keyMetrics": {
-        "bainAum": "$180B",
-        "ritchieBackground": "Former Papa John's CEO",
-        "recentDeals": "PizzaExpress to Convive/Bain (Dec 2025)"
-      },
-      "newsKeywords": ["steve ritchie pizza", "prosper growth", "bain capital restaurant", "bain pizza"],
-      "history": [
-        { "date": "2025-01-13", "likelihood": 25, "note": "Added - Ritchie's pizza experience + Bain backing" }
-      ]
-    },
-    {
-      "id": "eldridge-convive",
-      "name": "Eldridge Industries / Convive Brands",
-      "type": "Wildcard - Non-QSR PE",
-      "likelihood": 20,
-      "trend": "up",
-      "estimatedBid": "$3B-4B",
-      "rationale": "Todd Boehly's Eldridge owns Convive Brands (Le Pain Quotidien, Little Beet). Just acquired CPK and PizzaExpress. Building a restaurant empire outside traditional QSR PE. Boehly also owns Chelsea FC, LA Dodgers - understands distressed turnarounds.",
-      "pros": [
-        "Actively building restaurant portfolio",
-        "Boehly has sports turnaround experience",
-        "Just bought CPK - understands pizza category",
-        "Diversified capital base (not restaurant-dependent)",
-        "Long-term holder mentality"
-      ],
-      "cons": [
-        "Pizza Hut scale is much larger than current portfolio",
-        "Less operational restaurant expertise",
-        "Convive still proving concept"
-      ],
-      "keyMetrics": {
-        "eldridgeAum": "$70B+",
-        "conviveBrands": "Le Pain, Little Beet, CPK, PizzaExpress",
-        "bohlyAssets": "Chelsea FC, LA Dodgers, Eldridge"
-      },
-      "newsKeywords": ["eldridge restaurant", "convive brands", "todd boehly restaurant", "convive pizza"],
-      "history": [
-        { "date": "2025-01-13", "likelihood": 20, "note": "Added - Boehly building restaurant empire" }
-      ]
-    },
-    {
-      "id": "kkr",
-      "name": "KKR & Co",
-      "type": "Wildcard - Mega PE",
-      "likelihood": 20,
-      "trend": "stable",
-      "estimatedBid": "$4B-5B",
-      "rationale": "KKR historically avoided restaurants but is diversifying. Recently more active in consumer. Has capital scale for Pizza Hut. Traditional QSR PE firms pulling back creates opportunity for mega-funds to enter at attractive valuations.",
-      "pros": [
-        "Massive capital base ($577B AUM)",
-        "Global operational capabilities",
-        "Can do deals others can't size",
-        "Patient capital, long hold periods",
-        "Strong franchising investment experience"
-      ],
-      "cons": [
-        "Limited restaurant track record",
-        "Board may view as non-core",
-        "Restaurant operations complexity"
-      ],
-      "keyMetrics": {
-        "aum": "$577B",
-        "investmentStyle": "Long-term, operational improvement",
-        "relevantDeals": "Various consumer, franchise businesses"
-      },
-      "newsKeywords": ["kkr restaurant", "kkr consumer", "kkr franchise", "kkr pizza"],
-      "history": [
-        { "date": "2025-01-13", "likelihood": 20, "note": "Added - Mega PE entering as QSR PE exits" }
-      ]
-    },
-    {
-      "id": "racetrac-cstore",
-      "name": "C-Store / Travel Center Operator",
-      "type": "Wildcard - Strategic",
-      "likelihood": 15,
-      "trend": "stable",
-      "estimatedBid": "$3B-3.5B (partial)",
-      "rationale": "RaceTrac just bought Potbelly. Pilot/Flying J, Love's, Wawa expanding foodservice. Pizza Hut Express already in c-stores. A c-store giant could acquire Pizza Hut to lock up exclusive food offering across thousands of locations.",
-      "pros": [
-        "Built-in real estate distribution network",
-        "C-stores pivoting to foodservice as fuel margins decline",
-        "Pizza Hut Express already proven in format",
-        "Captive customer base",
-        "Synergistic supply chain"
-      ],
-      "cons": [
-        "Different operating model than traditional QSR",
-        "May only want partial acquisition or license",
-        "Brand positioning challenges"
-      ],
-      "keyMetrics": {
-        "pilotLocations": "800+ travel centers",
-        "lovesLocations": "600+ locations",
-        "recentDeals": "RaceTrac/Potbelly, Casey's expanding QSR"
-      },
-      "newsKeywords": ["pilot pizza", "racetrac qsr", "c-store restaurant acquisition", "travel center food"],
-      "history": [
-        { "date": "2025-01-13", "likelihood": 15, "note": "Added - C-stores aggressively entering foodservice" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 30,
+          "note": "Initial assessment - complex but possible"
+        }
       ]
     },
     {
@@ -501,13 +446,236 @@
         "sunUnits": "100+ PH units",
         "combinedShare": "~40% of US system"
       },
-      "newsKeywords": ["franchisee buyout", "flynn sun consortium", "franchisee acquisition pizza hut"],
+      "newsKeywords": [
+        "franchisee buyout",
+        "flynn sun consortium",
+        "franchisee acquisition pizza hut"
+      ],
       "history": [
-        { "date": "2025-01-13", "likelihood": 30, "note": "Added - Franchisee-led buyout gaining traction" }
+        {
+          "date": "2025-01-13",
+          "likelihood": 30,
+          "note": "Added - Franchisee-led buyout gaining traction"
+        }
+      ]
+    },
+    {
+      "id": "sovereign-wealth",
+      "name": "Sovereign Wealth Fund (Saudi PIF / Mubadala / QIA)",
+      "type": "Wildcard - Sovereign",
+      "likelihood": 25,
+      "trend": "stable",
+      "estimatedBid": "$4B-5B",
+      "rationale": "Middle Eastern sovereign wealth funds are aggressively diversifying into consumer brands. Saudi PIF bought Newcastle United, invested in LIV Golf, Lucid Motors. Pizza Hut's global footprint (90+ countries) and brand recognition align with portfolio diversification strategies.",
+      "pros": [
+        "Essentially unlimited capital",
+        "Long-term investment horizon (no PE exit pressure)",
+        "Strategic interest in Western consumer brands",
+        "Could provide patient capital for turnaround",
+        "Pizza Hut already operates in GCC countries"
+      ],
+      "cons": [
+        "Political/regulatory scrutiny (CFIUS review)",
+        "No restaurant operating experience",
+        "Would need to partner with US management team",
+        "Reputational risk for some consumer segments"
+      ],
+      "keyMetrics": {
+        "pifAum": "$930B+",
+        "mubadalaAum": "$300B+",
+        "recentDeals": "Newcastle United, LIV Golf, Lucid, AMC, various F&B"
+      },
+      "newsKeywords": [
+        "saudi pizza",
+        "pif restaurant",
+        "mubadala food",
+        "sovereign wealth restaurant",
+        "qia acquisition"
+      ],
+      "history": [
+        {
+          "date": "2025-01-13",
+          "likelihood": 25,
+          "note": "Added - SWFs actively diversifying into consumer"
+        }
+      ]
+    },
+    {
+      "id": "prosper-bain",
+      "name": "Prosper Growth Partners / Bain Capital",
+      "type": "Wildcard - Non-QSR PE",
+      "likelihood": 25,
+      "trend": "up",
+      "estimatedBid": "$3.5B-4.5B",
+      "rationale": "Steve Ritchie (former Papa John's CEO) leads Prosper Growth, backed by Bain Capital. Ritchie knows pizza intimately - took Papa John's through crisis. Bain recently backed Convive Brands acquiring PizzaExpress. Non-traditional PE firms see opportunity as QSR-focused PE pulls back.",
+      "pros": [
+        "Steve Ritchie has direct pizza turnaround experience",
+        "Bain Capital has deep pockets ($180B AUM)",
+        "Less competition from traditional restaurant PE",
+        "Ritchie knows the franchisee dynamics",
+        "Bain/Convive just acquired PizzaExpress globally"
+      ],
+      "cons": [
+        "Prosper is newer, smaller platform",
+        "Ritchie's Papa John's tenure was controversial",
+        "Would be massive step up in scale"
+      ],
+      "keyMetrics": {
+        "bainAum": "$180B",
+        "ritchieBackground": "Former Papa John's CEO",
+        "recentDeals": "PizzaExpress to Convive/Bain (Dec 2025)"
+      },
+      "newsKeywords": [
+        "steve ritchie pizza",
+        "prosper growth",
+        "bain capital restaurant",
+        "bain pizza"
+      ],
+      "history": [
+        {
+          "date": "2025-01-13",
+          "likelihood": 25,
+          "note": "Added - Ritchie's pizza experience + Bain backing"
+        }
+      ]
+    },
+    {
+      "id": "eldridge-convive",
+      "name": "Eldridge Industries / Convive Brands",
+      "type": "Wildcard - Non-QSR PE",
+      "likelihood": 20,
+      "trend": "up",
+      "estimatedBid": "$3B-4B",
+      "rationale": "Todd Boehly's Eldridge owns Convive Brands (Le Pain Quotidien, Little Beet). Just acquired CPK and PizzaExpress. Building a restaurant empire outside traditional QSR PE. Boehly also owns Chelsea FC, LA Dodgers - understands distressed turnarounds.",
+      "pros": [
+        "Actively building restaurant portfolio",
+        "Boehly has sports turnaround experience",
+        "Just bought CPK - understands pizza category",
+        "Diversified capital base (not restaurant-dependent)",
+        "Long-term holder mentality"
+      ],
+      "cons": [
+        "Pizza Hut scale is much larger than current portfolio",
+        "Less operational restaurant expertise",
+        "Convive still proving concept"
+      ],
+      "keyMetrics": {
+        "eldridgeAum": "$70B+",
+        "conviveBrands": "Le Pain, Little Beet, CPK, PizzaExpress",
+        "bohlyAssets": "Chelsea FC, LA Dodgers, Eldridge"
+      },
+      "newsKeywords": [
+        "eldridge restaurant",
+        "convive brands",
+        "todd boehly restaurant",
+        "convive pizza"
+      ],
+      "history": [
+        {
+          "date": "2025-01-13",
+          "likelihood": 20,
+          "note": "Added - Boehly building restaurant empire"
+        }
+      ]
+    },
+    {
+      "id": "kkr",
+      "name": "KKR & Co",
+      "type": "Wildcard - Mega PE",
+      "likelihood": 20,
+      "trend": "stable",
+      "estimatedBid": "$4B-5B",
+      "rationale": "KKR historically avoided restaurants but is diversifying. Recently more active in consumer. Has capital scale for Pizza Hut. Traditional QSR PE firms pulling back creates opportunity for mega-funds to enter at attractive valuations.",
+      "pros": [
+        "Massive capital base ($577B AUM)",
+        "Global operational capabilities",
+        "Can do deals others can't size",
+        "Patient capital, long hold periods",
+        "Strong franchising investment experience"
+      ],
+      "cons": [
+        "Limited restaurant track record",
+        "Board may view as non-core",
+        "Restaurant operations complexity"
+      ],
+      "keyMetrics": {
+        "aum": "$577B",
+        "investmentStyle": "Long-term, operational improvement",
+        "relevantDeals": "Various consumer, franchise businesses"
+      },
+      "newsKeywords": [
+        "kkr restaurant",
+        "kkr consumer",
+        "kkr franchise",
+        "kkr pizza"
+      ],
+      "history": [
+        {
+          "date": "2025-01-13",
+          "likelihood": 20,
+          "note": "Added - Mega PE entering as QSR PE exits"
+        }
+      ]
+    },
+    {
+      "id": "racetrac-cstore",
+      "name": "C-Store / Travel Center Operator",
+      "type": "Wildcard - Strategic",
+      "likelihood": 15,
+      "trend": "stable",
+      "estimatedBid": "$3B-3.5B (partial)",
+      "rationale": "RaceTrac just bought Potbelly. Pilot/Flying J, Love's, Wawa expanding foodservice. Pizza Hut Express already in c-stores. A c-store giant could acquire Pizza Hut to lock up exclusive food offering across thousands of locations.",
+      "pros": [
+        "Built-in real estate distribution network",
+        "C-stores pivoting to foodservice as fuel margins decline",
+        "Pizza Hut Express already proven in format",
+        "Captive customer base",
+        "Synergistic supply chain"
+      ],
+      "cons": [
+        "Different operating model than traditional QSR",
+        "May only want partial acquisition or license",
+        "Brand positioning challenges"
+      ],
+      "keyMetrics": {
+        "pilotLocations": "800+ travel centers",
+        "lovesLocations": "600+ locations",
+        "recentDeals": "RaceTrac/Potbelly, Casey's expanding QSR"
+      },
+      "newsKeywords": [
+        "pilot pizza",
+        "racetrac qsr",
+        "c-store restaurant acquisition",
+        "travel center food"
+      ],
+      "history": [
+        {
+          "date": "2025-01-13",
+          "likelihood": 15,
+          "note": "Added - C-stores aggressively entering foodservice"
+        }
       ]
     }
   ],
   "timeline": [
+    {
+      "date": "2026-01-13",
+      "event": "Former Pizza Hut to be transformed to 'state-of-the-art' car showroom in Derby - DerbyWorld",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-01-13",
+      "event": "Ex-Pizza Hut MD Merrill Pereyra Takes Over Domino’s ANZ - Entrepreneur India",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-01-13",
+      "event": "Two Indian KFC, Pizza Hut Operators to Merge, Plus More Bold Deals - franchisetimes.com",
+      "impact": "low",
+      "type": "news"
+    },
     {
       "date": "2025-12-10",
       "event": "Flynn Group now operates ~20% of US Pizza Hut system (1,027 units)",
@@ -594,6 +762,20 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-01-14",
+      "summary": "Found 3 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Two Indian KFC, Pizza Hut Operators to Merge, Plus More Bold Deals - franchisetimes.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPMUJQa1VsZEVxWVJpMEJWanduYUpFS1dSekVBZjlCajFuc1B4cS1ucTF4cFJCWVJ6RTc2T2FqSnZIRzFSdFBRU3ozTUJ0b29kM1NMM2xfWjFYcDRhejNOSktqVGZMdGs2a1dzUWp1dFdEODQ1eUxxSTIzdmhoWm40aEJKdlBYbXVDMVBJZjRGOEhTRC1WcnNuUmFKcXVWQ3lZZzdfck5Pb3R6TGpQd0NLajRWUWp1RVdYc3NwVWRSbkRWWGROVEF4NE5sM0JsZnotdTJxVjNQc0xYajhoRmFSLTZDN18ydjZobG9qZ2J0YTdKUmVYaDdBY2x0Nzc4U0xUSUdqM0o0OVNtcG9S?oc=5\" target=\"_blank\"&gt;Two Indian KFC, Pizza Hut Operators to Merge, Plus More Bold Deals&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;franchisetimes.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMUJQa1VsZEVxWVJpMEJWanduYUpFS1dSekVBZjlCajFuc1B4cS1ucTF4cFJCWVJ6RTc2T2FqSnZIRzFSdFBRU3ozTUJ0b29kM1NMM2xfWjFYcDRhejNOSktqVGZMdGs2a1dzUWp1dFdEODQ1eUxxSTIzdmhoWm40aEJKdlBYbXVDMVBJZjRGOEhTRC1WcnNuUmFKcXVWQ3lZZzdfck5Pb3R6TGpQd0NLajRWUWp1RVdYc3NwVWRSbkRWWGROVEF4NE5sM0JsZnotdTJxVjNQc0xYajhoRmFSLTZDN18ydjZobG9qZ2J0YTdKUmVYaDdBY2x0Nzc4U0xUSUdqM0o0OVNtcG9S?oc=5",
+      "source": "franchisetimes.com",
+      "date": "2026-01-13",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-01-13",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
@@ -790,12 +972,35 @@
         }
       ],
       "currentLeadership": [
-        {"name": "Aaron Powell", "role": "CEO, Pizza Hut Division"},
-        {"name": "Chris Turner", "role": "CEO, Yum! Brands (as of Sept 30, 2025)"},
-        {"name": "Carl Loredo", "role": "President, Pizza Hut US"},
-        {"name": "Steve Ritchie", "role": "CEO, Prosper Growth Partners", "linkedinUrl": "https://www.linkedin.com/in/stritchie/", "notes": "Former Papa John's CEO - potential acquirer"},
-        {"name": "Ron Bellamy", "role": "President & COO, Flynn Group", "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/", "notes": "Key decision maker at largest PH franchisee"},
-        {"name": "Greg Flynn", "role": "Founder & CEO, Flynn Group", "notes": "Largest Pizza Hut franchisee (1,027 units)"}
+        {
+          "name": "Aaron Powell",
+          "role": "CEO, Pizza Hut Division"
+        },
+        {
+          "name": "Chris Turner",
+          "role": "CEO, Yum! Brands (as of Sept 30, 2025)"
+        },
+        {
+          "name": "Carl Loredo",
+          "role": "President, Pizza Hut US"
+        },
+        {
+          "name": "Steve Ritchie",
+          "role": "CEO, Prosper Growth Partners",
+          "linkedinUrl": "https://www.linkedin.com/in/stritchie/",
+          "notes": "Former Papa John's CEO - potential acquirer"
+        },
+        {
+          "name": "Ron Bellamy",
+          "role": "President & COO, Flynn Group",
+          "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/",
+          "notes": "Key decision maker at largest PH franchisee"
+        },
+        {
+          "name": "Greg Flynn",
+          "role": "Founder & CEO, Flynn Group",
+          "notes": "Largest Pizza Hut franchisee (1,027 units)"
+        }
       ],
       "signalInterpretation": "High exec turnover pre-sale often indicates: (1) insiders know deal is coming, (2) new owner already placing people, (3) brand distress worse than reported. Graves going to Inspire/Roark is especially notable - could signal relationship building or that Roark is already conducting due diligence with friendly insiders."
     },
