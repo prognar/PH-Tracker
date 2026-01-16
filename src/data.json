@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T14:00:10.328Z",
+  "lastUpdated": "2026-01-16T14:00:10.388Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-01-15",
+      "event": "Supreme Court Orders Pizza Hut Korea to Refund $15.5M in ＂Hidden＂ Franchise Fees to Store Owners - 알",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-01-13",
       "event": "Former Pizza Hut to be transformed to 'state-of-the-art' car showroom in Derby - DerbyWorld",
       "impact": "medium",
@@ -762,6 +768,20 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-01-16",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Supreme Court Orders Pizza Hut Korea to Refund $15.5M in ＂Hidden＂ Franchise Fees to Store Owners - 알파경제",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5wUTkwVGEwYkU5QnBTRWFGU1JpdkhQQUNGakVCX2lvRk12MzZnNk4wTFJCR3VEcTNJYmEyREJBckNfTk03TGx0ODYtQVdGSDBtU0ZhVkxJWFRHU1pSWUJUWlN2WTZueVYwc0lmbEdB0gFuQVVfeXFMTnBROTBUYTBiRTlCcFNFYUZTUml2SFBBQ0ZqRUJfaW9GTXYzNmc2TjBMUkJHdURxM0liYTJEQkFyQ19OTTdMbHQ4Ni1BV0ZIMG1TRmFWTElYVEdTWlJZQlRaU3ZZNm55VjBzSWZsR0E?oc=5\" target=\"_blank\"&gt;Supreme Court Orders Pizza Hut Korea to Refund $15.5M in ＂Hidden＂ Franchise Fees to Store Owners&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;알파경제&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wUTkwVGEwYkU5QnBTRWFGU1JpdkhQQUNGakVCX2lvRk12MzZnNk4wTFJCR3VEcTNJYmEyREJBckNfTk03TGx0ODYtQVdGSDBtU0ZhVkxJWFRHU1pSWUJUWlN2WTZueVYwc0lmbEdB0gFuQVVfeXFMTnBROTBUYTBiRTlCcFNFYUZTUml2SFBBQ0ZqRUJfaW9GTXYzNmc2TjBMUkJHdURxM0liYTJEQkFyQ19OTTdMbHQ4Ni1BV0ZIMG1TRmFWTElYVEdTWlJZQlRaU3ZZNm55VjBzSWZsR0E?oc=5",
+      "source": "알파경제",
+      "date": "2026-01-15",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-01-14",
       "summary": "Found 3 relevant news items. No specific buyers mentioned."
@@ -903,16 +923,6 @@
     {
       "date": "2025-12-17",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Former Pizza Hut restaurant could become tanning salon - Frome Times",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNsYkpLQW0xd3M2WVhxQndzTGF3bUJuQzdnTDlmVGdodFRzNUhFTGtLdlpleWxtTFQtWWpmUWhzbGw0N014MEZHMnB2bmlPSnFJQlBXbWt2SnJna1VrUDRNZG9zZG1PSkpHeHZ4NEdKQWJJdzB6QmJCMFRQNWhQalZqQ3hEU3FYajBTZA?oc=5\" target=\"_blank\"&gt;Former Pizza Hut restaurant could become tanning salon&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Frome Times&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNsYkpLQW0xd3M2WVhxQndzTGF3bUJuQzdnTDlmVGdodFRzNUhFTGtLdlpleWxtTFQtWWpmUWhzbGw0N014MEZHMnB2bmlPSnFJQlBXbWt2SnJna1VrUDRNZG9zZG1PSkpHeHZ4NEdKQWJJdzB6QmJCMFRQNWhQalZqQ3hEU3FYajBTZA?oc=5",
-      "source": "Frome Times",
-      "date": "2025-12-17",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
