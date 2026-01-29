@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T14:00:10.601Z",
+  "lastUpdated": "2026-01-29T14:00:10.268Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-01-28",
+      "event": "Plans for new hotel on Glasgow's four corners at former Pizza Hut site - glasgowlive.co.uk",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-01-15",
       "event": "Supreme Court Orders Pizza Hut Korea to Refund $15.5M in ＂Hidden＂ Franchise Fees to Store Owners - 알",
       "impact": "low",
@@ -768,6 +774,20 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-01-29",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Plans for new hotel on Glasgow's four corners at former Pizza Hut site - glasgowlive.co.uk",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNaU5pelNMcGduRXEwcjJHb3ZnQmYtbl9yenpTN3ptX205c0VsdzdUaWJIbjd6V2NZTnVHM0thYzRlRUhncVN2cm1BOVphYWk2NTNyckJVTUlKeG5nLWVCTlN6aG5zcEhMU293R3pISlh1akp4RG5PNGlxSHVXdVlvTTJhMC13ZC1iYmxNNExfONIBlAFBVV95cUxPV2dyWXNLY3QyWEV6YXhiNHhPQ1JwNmxEejJLMmVyZV93WjZJeUFFUzVSLXN4OXFHckpxNlhBcGpSaFg0TUFSQzdkMk1uRm5ITEJqTVotTXQzNm83anE3bTJDY2RuNzV0bDJBdEF5ZDNZOE5Ma1I5OFhSSXdaVUlTbGg3b3JaN1pUOG9jSW8zamIwbkNp?oc=5\" target=\"_blank\"&gt;Plans for new hotel on Glasgow's four corners at former Pizza Hut site&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;glasgowlive.co.uk&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaU5pelNMcGduRXEwcjJHb3ZnQmYtbl9yenpTN3ptX205c0VsdzdUaWJIbjd6V2NZTnVHM0thYzRlRUhncVN2cm1BOVphYWk2NTNyckJVTUlKeG5nLWVCTlN6aG5zcEhMU293R3pISlh1akp4RG5PNGlxSHVXdVlvTTJhMC13ZC1iYmxNNExfONIBlAFBVV95cUxPV2dyWXNLY3QyWEV6YXhiNHhPQ1JwNmxEejJLMmVyZV93WjZJeUFFUzVSLXN4OXFHckpxNlhBcGpSaFg0TUFSQzdkMk1uRm5ITEJqTVotTXQzNm83anE3bTJDY2RuNzV0bDJBdEF5ZDNZOE5Ma1I5OFhSSXdaVUlTbGg3b3JaN1pUOG9jSW8zamIwbkNp?oc=5",
+      "source": "glasgowlive.co.uk",
+      "date": "2026-01-28",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-01-16",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -915,14 +935,6 @@
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "date": "2025-12-18",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "date": "2025-12-17",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
   "watchList": {
