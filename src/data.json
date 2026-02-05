@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T14:00:09.572Z",
+  "lastUpdated": "2026-02-05T14:00:10.953Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,24 @@
   ],
   "timeline": [
     {
+      "date": "2026-02-05",
+      "event": "Pizza Hut Is Closing Hundreds of Locations Due to Poor Sales - Yahoo News Malaysia",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-02-05",
+      "event": "Pizza Hut shuttering 250 stores amid sales slump - Rolling Out",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-02-05",
+      "event": "Yum! to close 250 Pizza Hut stores as sales slump amid strategic review - TradingView",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-01-28",
       "event": "Plans for new hotel on Glasgow's four corners at former Pizza Hut site - glasgowlive.co.uk",
       "impact": "medium",
@@ -775,6 +793,60 @@
   ],
   "recentNews": [
     {
+      "date": "2026-02-05",
+      "summary": "Found 5 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum! to close 250 Pizza Hut stores as sales slump amid strategic review - TradingView",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTBVV1NoQjFaa0hmZmpSV1JRVXZka29QbHoxMThmQ0FBei1tV2I3NzU2OFN6N2lJTTJ5alNuRVRzbWtLNkVfVk9IYkZVdWQ2M1dNRUNPN0staFp2SGFqMTJSNnAtSFo3ODlvVy14bE5WTUY2ME1LMElNNVdrX05leVdxWnFDZkhWTC1ILVp2eEtVZTFaQ0stbGpqOU1mTHR0UjBiNzJrN0czNFFFd0pYaXVTWU1fNUJuZl9XeG40bF9NMnhXZGc?oc=5\" target=\"_blank\"&gt;Yum! to close 250 Pizza Hut stores as sales slump amid strategic review&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTBVV1NoQjFaa0hmZmpSV1JRVXZka29QbHoxMThmQ0FBei1tV2I3NzU2OFN6N2lJTTJ5alNuRVRzbWtLNkVfVk9IYkZVdWQ2M1dNRUNPN0staFp2SGFqMTJSNnAtSFo3ODlvVy14bE5WTUY2ME1LMElNNVdrX05leVdxWnFDZkhWTC1ILVp2eEtVZTFaQ0stbGpqOU1mTHR0UjBiNzJrN0czNFFFd0pYaXVTWU1fNUJuZl9XeG40bF9NMnhXZGc?oc=5",
+      "source": "TradingView",
+      "date": "2026-02-05",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut shuttering 250 stores amid sales slump - Rolling Out",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5naU9UOHV0TDN4WXpfU3BFN3J3OEpqZE9zTzVQUkNBRjh6WXc1U0Z3ZUV3X3pVS2lRdllTbDdIdkFVNWpYV2lhSnlQYjhpNTJmMXMtZS1scGZ6bEowXzVPQjNtMUxkdzVNVUhHMUpjOW5HZmkz?oc=5\" target=\"_blank\"&gt;Pizza Hut shuttering 250 stores amid sales slump&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Rolling Out&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5naU9UOHV0TDN4WXpfU3BFN3J3OEpqZE9zTzVQUkNBRjh6WXc1U0Z3ZUV3X3pVS2lRdllTbDdIdkFVNWpYV2lhSnlQYjhpNTJmMXMtZS1scGZ6bEowXzVPQjNtMUxkdzVNVUhHMUpjOW5HZmkz?oc=5",
+      "source": "Rolling Out",
+      "date": "2026-02-05",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Is Closing Hundreds of Locations Due to Poor Sales - Yahoo News Malaysia",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekpWLWFFd3VuYV9TenM5ZVZwWV9oWGwtN3R6dE15RUlNcnZBQ2h3MldfOEpxRlFWbmYxN0pXYlk2TUdicXRQbHVYY1UxZzY2Y0EyWkRmTVdVdGVxdkdvd3JXckQ2TUJONkh6UlhMZ3g4eUIweGowOHg1bHRDRDRrT1ItQ1dVeS1WYnJz?oc=5\" target=\"_blank\"&gt;Pizza Hut Is Closing Hundreds of Locations Due to Poor Sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News Malaysia&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekpWLWFFd3VuYV9TenM5ZVZwWV9oWGwtN3R6dE15RUlNcnZBQ2h3MldfOEpxRlFWbmYxN0pXYlk2TUdicXRQbHVYY1UxZzY2Y0EyWkRmTVdVdGVxdkdvd3JXckQ2TUJONkh6UlhMZ3g4eUIweGowOHg1bHRDRDRrT1ItQ1dVeS1WYnJz?oc=5",
+      "source": "Yahoo News Malaysia",
+      "date": "2026-02-05",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut is closing hundreds of locations due to poor sales - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0dCOHVzUG51RG95SlM0WVRLN3ZiZHhETUM1b3Blc1FnVUJxdmNwLWhiYlVzSFhMYlBZQkVZRzRxWDFwVkVWUEVQRFpsOUVjbFp3N1VfUWdUTDdfY3Y0RElKbU5tUHZzR1AzWThiRjhMd1VFejAwSG1GNHBxUmFoUUpsMVAtdmMxUkJtOXMzdkJLclExRmFPbUVpQzE3YnNWblY4ZEpVWFpqalJGQTRZQ1VWZWhtZ0s1RUtvV3VRTmo0X09JTUNfakE5R21MSmU5NjJZS1ZwUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut is closing hundreds of locations due to poor sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0dCOHVzUG51RG95SlM0WVRLN3ZiZHhETUM1b3Blc1FnVUJxdmNwLWhiYlVzSFhMYlBZQkVZRzRxWDFwVkVWUEVQRFpsOUVjbFp3N1VfUWdUTDdfY3Y0RElKbU5tUHZzR1AzWThiRjhMd1VFejAwSG1GNHBxUmFoUUpsMVAtdmMxUkJtOXMzdkJLclExRmFPbUVpQzE3YnNWblY4ZEpVWFpqalJGQTRZQ1VWZWhtZ0s1RUtvV3VRTmo0X09JTUNfakE5R21MSmU5NjJZS1ZwUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-02-05",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut is closing hundreds of locations due to poor sales - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQaU1rMFo0czFFX2QxMGcySDNlekFFWXRPc2VyejdQNnFUNHJIcGl5WDMwRldIZXpUdmdBd2ZGVzVyN3lxZHdmcUVsRndFa1B6cEZ4bnVvVDdiSk9RV3ZYX2tnVDRnUjEyaFp2V3VPeHhDYmNwYlhucDlld2JSMDktdlJ6dnd4eWJfeXY1MGRRak5FZ1B1U2hYMk5jd2QtY2w1ZUxBbl95NEdTQm40TUtMYkQ0Zkw?oc=5\" target=\"_blank\"&gt;Pizza Hut is closing hundreds of locations due to poor sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaU1rMFo0czFFX2QxMGcySDNlekFFWXRPc2VyejdQNnFUNHJIcGl5WDMwRldIZXpUdmdBd2ZGVzVyN3lxZHdmcUVsRndFa1B6cEZ4bnVvVDdiSk9RV3ZYX2tnVDRnUjEyaFp2V3VPeHhDYmNwYlhucDlld2JSMDktdlJ6dnd4eWJfeXY1MGRRak5FZ1B1U2hYMk5jd2QtY2w1ZUxBbl95NEdTQm40TUtMYkQ0Zkw?oc=5",
+      "source": "MSN",
+      "date": "2026-02-05",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-01-29",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -881,60 +953,6 @@
     {
       "date": "2026-01-02",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "India's KFC, Pizza Hut operators to merge in $934 million deal - Reuters",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmxDVW1fbm5VSVhhOWRPM2hCUzBqZWVtRUNwdXJTRkJ6NGFDVm1uejRpOVBaOEVEalRTZmhIaExWRnFBYTJZRjJudTlVckYyMlVKUzg3LXlzVWltMmxMenNDUmlESlRDNGJlVHR4VkljMzVYUTlESDg1My10OEY5NWNlODhIMk01M2F2SXNaQ0owNkx1S3ltelFpRms2azhTNFp3cnJuaThtRFIzZkFIc0QyU1JmX0FKWDVFdEZ0Q3dmQQ?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934 million deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmxDVW1fbm5VSVhhOWRPM2hCUzBqZWVtRUNwdXJTRkJ6NGFDVm1uejRpOVBaOEVEalRTZmhIaExWRnFBYTJZRjJudTlVckYyMlVKUzg3LXlzVWltMmxMenNDUmlESlRDNGJlVHR4VkljMzVYUTlESDg1My10OEY5NWNlODhIMk01M2F2SXNaQ0owNkx1S3ltelFpRms2azhTNFp3cnJuaThtRFIzZkFIc0QyU1JmX0FKWDVFdEZ0Q3dmQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-01-01",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Mint Explainer: Why are KFC and Pizza Hut franchisees Devyani and Sapphire coming together? - livemint.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVdJX01Jc3F6ZHd6dld0d0dqZk9XSGdCR2UyaUdWX095dktrd0RMcEY0UkxkVDdoek94eWR6dTB0SE41STFkOUNmWnR5MU5DeXNCbWw4aGUxNkpIX2w4MnE4U2t1a1RFZHFKN19KNkx1R18ySjI2cm5pdXRNV1FnQ3AwNld5TzhOWUxkcGw4V3ZZaUlic2JGZjJJNmhxdUY0WGNkUjJKYkZReklJaktmQ0dB0gG3AUFVX3lxTFBuWmltdG1qbkZpTGd5a0ZZeXI3aEFqcWhJWU1GekVsYWcxcGJhMGljN2EyS0FTLVpOeXNUNzFCYW1lQWFleVJkUXgzUnZPLVRQeFFCd0VZR0FRQnZMb19GS3NYV2ROUVdWZUpfbDB4UVZaTXpEX2VFeHIzS3YwV3ZVbE9tZ1ZJY05tMDYxQy1mNEdveWh2LWxMc1drWUpuQUlxRl9iRjdhQzJCcGhPZEpVVlFzNU9uWQ?oc=5\" target=\"_blank\"&gt;Mint Explainer: Why are KFC and Pizza Hut franchisees Devyani and Sapphire coming together?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;livemint.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVdJX01Jc3F6ZHd6dld0d0dqZk9XSGdCR2UyaUdWX095dktrd0RMcEY0UkxkVDdoek94eWR6dTB0SE41STFkOUNmWnR5MU5DeXNCbWw4aGUxNkpIX2w4MnE4U2t1a1RFZHFKN19KNkx1R18ySjI2cm5pdXRNV1FnQ3AwNld5TzhOWUxkcGw4V3ZZaUlic2JGZjJJNmhxdUY0WGNkUjJKYkZReklJaktmQ0dB0gG3AUFVX3lxTFBuWmltdG1qbkZpTGd5a0ZZeXI3aEFqcWhJWU1GekVsYWcxcGJhMGljN2EyS0FTLVpOeXNUNzFCYW1lQWFleVJkUXgzUnZPLVRQeFFCd0VZR0FRQnZMb19GS3NYV2ROUVdWZUpfbDB4UVZaTXpEX2VFeHIzS3YwV3ZVbE9tZ1ZJY05tMDYxQy1mNEdveWh2LWxMc1drWUpuQUlxRl9iRjdhQzJCcGhPZEpVVlFzNU9uWQ?oc=5",
-      "source": "livemint.com",
-      "date": "2026-01-02",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "India's KFC, Pizza Hut operators to merge in $934 million deal - CNBC",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVJuUEp6eE1ZWDJSR1VDZ3FqT0ppa3ZDS3dLOFpsNUU4Vk15T1Q3bkZKUGtzbDRnQndzTWVFdy0xSU5QODR3dWZQOUZMWDI5UWRQVkhLaV9FOXBqVnpCQmtsQ25fQ1VwWk1paFVVTHg2cUotS0otSmRLcWV0QW1UMkVvaVJPVUtrRHBzal81eTBFSS1LWGN4d0pQWHJfelUtUmY2U0c3MFFZdDNUVUt3ZlFZZU9PbktUdU82SDdZMGRGd9IBxwFBVV95cUxQOUh4R210WlZfcHp0RHJnenlweU1oQjk5RFAxMkZ5N1BmSi1vMnRzQ2dxWWVBSmdwZ3lRLVI5ampXU0V2d2RrR0xwMm93NDh1bzN6YlpUY3RfZDhlYWIzalJ4dWJKN09jTkVmeW5sT3N0ZU1PWjktaVA3ek1EbW9sd0xaZURXVHJ3U3FKQWwtdGxVbHlDZGVnSGJNZDN1OVoxM1JEQ0ZrUVk4cHRhbW9RNGYtcXduVmdZNjFhbzhkMUQ2eHdrWlIw?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934 million deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;CNBC&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVJuUEp6eE1ZWDJSR1VDZ3FqT0ppa3ZDS3dLOFpsNUU4Vk15T1Q3bkZKUGtzbDRnQndzTWVFdy0xSU5QODR3dWZQOUZMWDI5UWRQVkhLaV9FOXBqVnpCQmtsQ25fQ1VwWk1paFVVTHg2cUotS0otSmRLcWV0QW1UMkVvaVJPVUtrRHBzal81eTBFSS1LWGN4d0pQWHJfelUtUmY2U0c3MFFZdDNUVUt3ZlFZZU9PbktUdU82SDdZMGRGd9IBxwFBVV95cUxQOUh4R210WlZfcHp0RHJnenlweU1oQjk5RFAxMkZ5N1BmSi1vMnRzQ2dxWWVBSmdwZ3lRLVI5ampXU0V2d2RrR0xwMm93NDh1bzN6YlpUY3RfZDhlYWIzalJ4dWJKN09jTkVmeW5sT3N0ZU1PWjktaVA3ek1EbW9sd0xaZURXVHJ3U3FKQWwtdGxVbHlDZGVnSGJNZDN1OVoxM1JEQ0ZrUVk4cHRhbW9RNGYtcXduVmdZNjFhbzhkMUQ2eHdrWlIw?oc=5",
-      "source": "CNBC",
-      "date": "2026-01-01",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "KFC, Pizza Hut franchisees to consolidate as Sapphire Foods merges with Devyani International - Moneycontrol",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnB3ZExFdDY3OWcwUHY2R3hodkgzb2dwMXhjZzAyT2lQOUMyR2w5RURjSXQzNGNnaVBseV9JMzJocWw4QVltRDdKUGF3a2NseV9kVElHbkplZ3d6WktzNXVhUkNabDZQUmJ5QlUzQ2VwZFZJcUM5S1EyVl9sMExELVQ5RFRuY0l6ZlR4bFhNRlhQZ0wxOFRxT2NTZHZuTlFLN0dRa1VSX0t5SHJsS0FuYk14cWNTcVp1aU42ZG1MV3dURHVUamRQdXJtcHBMWTRBbUY1MUlZMTJibG9lOE5INHNla1REUVlFVXBKd1pRbjDSAfYBQVVfeXFMT19qM0k1MVRwdHlTZGtXaDRuQXpEYVJyeVNER0UtdzhzYnZCWEs3MEpHbHBvNWNqSXpGbTZpOGotYTcxX01McXprU01UbGpQV0hjaERnYjU5QWl4aDFIZWdKYmZHWVh2QzQ2d0Q2U3dHYU11R085dkh0Q2ZGcG15UVpKc0JQZEpDWU14dXJ1Q3JSeFBxS05WU185YjlrUWVJbTItUXJfajBBdFZRNk9yYks5VTdWSE00dElRSXlSbmphLW9HVjhKT2ZNVzlidE9Ld2t4UEFEbDJNdUg3RGF1d1NjR0c2SWJQb1M5X01ESmlCc2NESmRR?oc=5\" target=\"_blank\"&gt;KFC, Pizza Hut franchisees to consolidate as Sapphire Foods merges with Devyani International&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Moneycontrol&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnB3ZExFdDY3OWcwUHY2R3hodkgzb2dwMXhjZzAyT2lQOUMyR2w5RURjSXQzNGNnaVBseV9JMzJocWw4QVltRDdKUGF3a2NseV9kVElHbkplZ3d6WktzNXVhUkNabDZQUmJ5QlUzQ2VwZFZJcUM5S1EyVl9sMExELVQ5RFRuY0l6ZlR4bFhNRlhQZ0wxOFRxT2NTZHZuTlFLN0dRa1VSX0t5SHJsS0FuYk14cWNTcVp1aU42ZG1MV3dURHVUamRQdXJtcHBMWTRBbUY1MUlZMTJibG9lOE5INHNla1REUVlFVXBKd1pRbjDSAfYBQVVfeXFMT19qM0k1MVRwdHlTZGtXaDRuQXpEYVJyeVNER0UtdzhzYnZCWEs3MEpHbHBvNWNqSXpGbTZpOGotYTcxX01McXprU01UbGpQV0hjaERnYjU5QWl4aDFIZWdKYmZHWVh2QzQ2d0Q2U3dHYU11R085dkh0Q2ZGcG15UVpKc0JQZEpDWU14dXJ1Q3JSeFBxS05WU185YjlrUWVJbTItUXJfajBBdFZRNk9yYks5VTdWSE00dElRSXlSbmphLW9HVjhKT2ZNVzlidE9Ld2t4UEFEbDJNdUg3RGF1d1NjR0c2SWJQb1M5X01ESmlCc2NESmRR?oc=5",
-      "source": "Moneycontrol",
-      "date": "2026-01-01",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2025-12-27",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Signs go up for Darlington's newest Italian restaurant at former Pizza Hut - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaDM5Y3laUjBhWHpPNEpyeW9vdHh1Z0s2Z1loRm1MYmJoRmYzaC1raGhwbFhwZ0I0RUMxc0Z2cUpRS192RUdzc3lVMGZ5dlRud2F5aWJIeWpOdHVrUGlPVFVhTW84RmlnQXhDbXlMcDRVckFabnlETm9oX2daeXBuYlE5My02dTloWGVLdlQ1VDluT2YxS05PYXBGMHVOd3VTMExRQzZIbG9takxlM3l0elQtdWhCTVo3WlBmZ1ZMbmVwT05HalBYX1FkTWF1TGZhM0NucVdYQjhSVFAzNlJ2OXotU1Q2RXRqQ0FpTU85NFhocVIzZUMwSHVzM2d6UjVrRUJJSU5qOUItNTNMR1R1WEh0OEdIU1pBNzlDcTdFc3BteEJEVWllVUt5UUZsRWNpZVBtZmtzTmhOcGtHbXZZbVhMVDBsbEFJc2NLNzlLR3lqSC1CSEZQTVpOOHRfcURl?oc=5\" target=\"_blank\"&gt;Signs go up for Darlington's newest Italian restaurant at former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaDM5Y3laUjBhWHpPNEpyeW9vdHh1Z0s2Z1loRm1MYmJoRmYzaC1raGhwbFhwZ0I0RUMxc0Z2cUpRS192RUdzc3lVMGZ5dlRud2F5aWJIeWpOdHVrUGlPVFVhTW84RmlnQXhDbXlMcDRVckFabnlETm9oX2daeXBuYlE5My02dTloWGVLdlQ1VDluT2YxS05PYXBGMHVOd3VTMExRQzZIbG9takxlM3l0elQtdWhCTVo3WlBmZ1ZMbmVwT05HalBYX1FkTWF1TGZhM0NucVdYQjhSVFAzNlJ2OXotU1Q2RXRqQ0FpTU85NFhocVIzZUMwSHVzM2d6UjVrRUJJSU5qOUItNTNMR1R1WEh0OEdIU1pBNzlDcTdFc3BteEJEVWllVUt5UUZsRWNpZVBtZmtzTmhOcGtHbXZZbVhMVDBsbEFJc2NLNzlLR3lqSC1CSEZQTVpOOHRfcURl?oc=5",
-      "source": "MSN",
-      "date": "2025-12-26",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
