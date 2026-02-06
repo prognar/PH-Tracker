@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T14:00:10.953Z",
+  "lastUpdated": "2026-02-06T14:00:13.426Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-02-06",
+      "event": "Manitowoc mayor says Ziggi's Coffee still coming to former Pizza Hut - Herald Times Reporter",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-02-05",
       "event": "Pizza Hut Is Closing Hundreds of Locations Due to Poor Sales - Yahoo News Malaysia",
       "impact": "low",
@@ -792,6 +798,20 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-02-06",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Manitowoc mayor says Ziggi's Coffee still coming to former Pizza Hut - Herald Times Reporter",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPem5zQ1pNSFlzQUhmUHF3WHJaWTdJLUY3ZkpTUDJSQVkyRWg0SjhkMmtTUHF6amM2UnlvNjgtTll3VzVyZHhDaHdKVWdZWmdZemVBdjBhb3FZbnVaTGx4OHpmelVNNFdkemJ3T09HVzFLWVNXWGdFUHVPRmJYM0VORTAwRlE2WDFrVVpBY1J4azFJaE0xQ2x3b2FOa2ZjX1NyNU5tQW9DM3RWQUQyVTMxMWd5ZWlsZGhMUHI0?oc=5\" target=\"_blank\"&gt;Manitowoc mayor says Ziggi's Coffee still coming to former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Herald Times Reporter&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPem5zQ1pNSFlzQUhmUHF3WHJaWTdJLUY3ZkpTUDJSQVkyRWg0SjhkMmtTUHF6amM2UnlvNjgtTll3VzVyZHhDaHdKVWdZWmdZemVBdjBhb3FZbnVaTGx4OHpmelVNNFdkemJ3T09HVzFLWVNXWGdFUHVPRmJYM0VORTAwRlE2WDFrVVpBY1J4azFJaE0xQ2x3b2FOa2ZjX1NyNU5tQW9DM3RWQUQyVTMxMWd5ZWlsZGhMUHI0?oc=5",
+      "source": "Herald Times Reporter",
+      "date": "2026-02-06",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-02-05",
       "summary": "Found 5 relevant news items. No specific buyers mentioned."
@@ -939,20 +959,6 @@
     {
       "date": "2026-01-03",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "India's KFC, Pizza Hut operators to merge in $934M deal - QSR Web",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFdPT3JHbjRiemp5VDl1d3REN3FLRFl5YUt4LXdzUGh6eTVrcWpxQTR0T3RESnYyOWtJbnItalZBbFBrTHlqTFB0a0t5TlBCV19Ua0JiVWQ2WThnRVlDYUR1cHN1U2RRLUZhUWlWOHFjdHNndExTY3gxSFVmS1FRYmdrQWxvVkdL?oc=5\" target=\"_blank\"&gt;India's KFC, Pizza Hut operators to merge in $934M deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Web&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFdPT3JHbjRiemp5VDl1d3REN3FLRFl5YUt4LXdzUGh6eTVrcWpxQTR0T3RESnYyOWtJbnItalZBbFBrTHlqTFB0a0t5TlBCV19Ua0JiVWQ2WThnRVlDYUR1cHN1U2RRLUZhUWlWOHFjdHNndExTY3gxSFVmS1FRYmdrQWxvVkdL?oc=5",
-      "source": "QSR Web",
-      "date": "2026-01-02",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-01-02",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
