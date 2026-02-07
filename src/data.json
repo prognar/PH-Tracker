@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T14:00:13.426Z",
+  "lastUpdated": "2026-02-07T14:00:10.324Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -660,6 +660,12 @@
   "timeline": [
     {
       "date": "2026-02-06",
+      "event": "Pizza Hut may be up for sale; 250 US locations to close - RetailDetail EU",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-02-06",
       "event": "Manitowoc mayor says Ziggi's Coffee still coming to former Pizza Hut - Herald Times Reporter",
       "impact": "medium",
       "type": "news"
@@ -798,6 +804,20 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-02-07",
+      "summary": "Found 2 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut may be up for sale; 250 US locations to close - RetailDetail EU",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDlibllNVDVjMExudkdYMlpEdDBIS0o0QTlyUzdac1RKbnNfS2pWanZ5eTVxRV9Ma0ZDNGFHMlRZODRhSTlvZkdhVUVlem1PRTBsbmpfdnQ5OGh6SmJ4a2QzZUtNWHFXTlpQeGlfYnRWZ1lyUUIwcUUwTFlzSnVtNk82UzU2Y052OGxtM2cwNmlwbXVqYjdIWg?oc=5\" target=\"_blank\"&gt;Pizza Hut may be up for sale; 250 US locations to close&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;RetailDetail EU&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDlibllNVDVjMExudkdYMlpEdDBIS0o0QTlyUzdac1RKbnNfS2pWanZ5eTVxRV9Ma0ZDNGFHMlRZODRhSTlvZkdhVUVlem1PRTBsbmpfdnQ5OGh6SmJ4a2QzZUtNWHFXTlpQeGlfYnRWZ1lyUUIwcUUwTFlzSnVtNk82UzU2Y052OGxtM2cwNmlwbXVqYjdIWg?oc=5",
+      "source": "RetailDetail EU",
+      "date": "2026-02-06",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-02-06",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
@@ -945,20 +965,6 @@
     {
       "date": "2026-01-12",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Domino’s taps former Pizza Hut exec as new ANZ CEO - QSR Media Australia",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDhmVFVPOXhERm5MOS1LSUVJQllwN0F1N1ZtLUtHWDUxMHo3OWE0X0RBYzZwYXk3V0lSMTk2b3ZuamIwZ2RnaE5kc3JnZjB0Skl6YUV1LVNMWjlrQV9JakIxb2xOb2JqY24zZ1VvXzJMQWIyUHZaTkY2Sm82RDJXOHRHMVVxRDJHNVRNVC10SHNiT1RkM0E?oc=5\" target=\"_blank\"&gt;Domino’s taps former Pizza Hut exec as new ANZ CEO&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Media Australia&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDhmVFVPOXhERm5MOS1LSUVJQllwN0F1N1ZtLUtHWDUxMHo3OWE0X0RBYzZwYXk3V0lSMTk2b3ZuamIwZ2RnaE5kc3JnZjB0Skl6YUV1LVNMWjlrQV9JakIxb2xOb2JqY24zZ1VvXzJMQWIyUHZaTkY2Sm82RDJXOHRHMVVxRDJHNVRNVC10SHNiT1RkM0E?oc=5",
-      "source": "QSR Media Australia",
-      "date": "2026-01-12",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-01-03",
-      "summary": "Found 2 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
