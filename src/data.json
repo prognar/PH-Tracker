@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T14:00:10.324Z",
+  "lastUpdated": "2026-02-08T14:00:09.614Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-02-07",
+      "event": "Why Pizza Hut is slicing its US presence: Sales slump forces mass closures - Mathrubhumi English",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-02-06",
       "event": "Pizza Hut may be up for sale; 250 US locations to close - RetailDetail EU",
       "impact": "low",
@@ -804,6 +810,20 @@
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-02-08",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Why Pizza Hut is slicing its US presence: Sales slump forces mass closures - Mathrubhumi English",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORE9sbHp2VTZZQk9USHNnWmZ2OW5CWFdvdXR1R1ZkeDNZRktBS3dJaEYzcWdpOFFuTXV0YW1lVjhkVkFrZFdKdVVvdndpbVZmTl92MWJVQzBiTEVrcGVLVUlEX3l1c0ZWbG0ydXRZLTFpQi1UWjgzZkpMZ0paSS1tbDNYMm9XcHZxQjZuYlJ3RnlZWnBoM09VOGlmZTRkanJzT2FxSmxPZTXSAagBQVVfeXFMTkRPbGx6dlU2WUJPVEhzZ1pmdjluQlhXb3V0dUdWZHgzWUZLQUt3SWhGM3FnaThRbk11dGFtZVY4ZFZBa2RXSnVVb3Z3aW1WZk5fdjFiVUMwYkxFa3BlS1VJRF95dXNGVmxtMnV0WS0xaUItVFo4M2ZKTGdKWkktbWwzWDJvV3B2cUI2bmJSd0Z5WVpwaDNPVThpZmU0ZGpyc09hcUpsT2U1?oc=5\" target=\"_blank\"&gt;Why Pizza Hut is slicing its US presence: Sales slump forces mass closures&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Mathrubhumi English&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORE9sbHp2VTZZQk9USHNnWmZ2OW5CWFdvdXR1R1ZkeDNZRktBS3dJaEYzcWdpOFFuTXV0YW1lVjhkVkFrZFdKdVVvdndpbVZmTl92MWJVQzBiTEVrcGVLVUlEX3l1c0ZWbG0ydXRZLTFpQi1UWjgzZkpMZ0paSS1tbDNYMm9XcHZxQjZuYlJ3RnlZWnBoM09VOGlmZTRkanJzT2FxSmxPZTXSAagBQVVfeXFMTkRPbGx6dlU2WUJPVEhzZ1pmdjluQlhXb3V0dUdWZHgzWUZLQUt3SWhGM3FnaThRbk11dGFtZVY4ZFZBa2RXSnVVb3Z3aW1WZk5fdjFiVUMwYkxFa3BlS1VJRF95dXNGVmxtMnV0WS0xaUItVFo4M2ZKTGdKWkktbWwzWDJvV3B2cUI2bmJSd0Z5WVpwaDNPVThpZmU0ZGpyc09hcUpsT2U1?oc=5",
+      "source": "Mathrubhumi English",
+      "date": "2026-02-07",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-02-07",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
@@ -951,20 +971,6 @@
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "title": "Former Pizza Hut to be transformed to 'state-of-the-art' car showroom in Derby - DerbyWorld",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBtTWRGZzlXeVR6bHFkTm1OUzc3OVZlQ01udk9CeS1lYzBYWHNTUWZZR3R6QU83MXdBYm5hMmJmT3lEMFd1Z2h6bVZtWW5VbHR0WkV1X2xhc2JuUzRqdm41M2ZjeFRQemxGd0c5SlhqRW1hQQ?oc=5\" target=\"_blank\"&gt;Former Pizza Hut to be transformed to 'state-of-the-art' car showroom in Derby&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;DerbyWorld&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtTWRGZzlXeVR6bHFkTm1OUzc3OVZlQ01udk9CeS1lYzBYWHNTUWZZR3R6QU83MXdBYm5hMmJmT3lEMFd1Z2h6bVZtWW5VbHR0WkV1X2xhc2JuUzRqdm41M2ZjeFRQemxGd0c5SlhqRW1hQQ?oc=5",
-      "source": "DerbyWorld",
-      "date": "2026-01-13",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-01-12",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
   "watchList": {
