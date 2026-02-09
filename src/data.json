@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T14:00:09.614Z",
+  "lastUpdated": "2026-02-09T14:00:10.103Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,18 @@
   ],
   "timeline": [
     {
+      "date": "2026-02-08",
+      "event": "Pizza Hut to Close 250 U.S. Locations as Yum Brands Weighs Sale - Mountaineer Journal",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-02-08",
+      "event": "Pizza Hut to shutter 250 US outlets as Yum weighs brand sale - Big News Network.com",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-02-07",
       "event": "Why Pizza Hut is slicing its US presence: Sales slump forces mass closures - Mathrubhumi English",
       "impact": "low",
@@ -811,6 +823,30 @@
   ],
   "recentNews": [
     {
+      "date": "2026-02-09",
+      "summary": "Found 2 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut to shutter 250 US outlets as Yum weighs brand sale - Big News Network.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUNhblROejZxSTNXZlBZODRUb0tFcjVLWFhXcUtRY29mM3dsZHVYZWVRM2QzS2hqOF9zb0NKc3JRdE9BRUEtYjcxZFlQUHkzUlhZeUxTNHJFb0VpMGtaWEtNdGxnTW9NczR1aXpuTzg4aUR6TmN0c1owQUVITERLY2ZHTEJWbExETllOSUdQTEs2ekhadG9TdXFlUkQyRDU5eDhEaHBNQ0Mzdw?oc=5\" target=\"_blank\"&gt;Pizza Hut to shutter 250 US outlets as Yum weighs brand sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Big News Network.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUNhblROejZxSTNXZlBZODRUb0tFcjVLWFhXcUtRY29mM3dsZHVYZWVRM2QzS2hqOF9zb0NKc3JRdE9BRUEtYjcxZFlQUHkzUlhZeUxTNHJFb0VpMGtaWEtNdGxnTW9NczR1aXpuTzg4aUR6TmN0c1owQUVITERLY2ZHTEJWbExETllOSUdQTEs2ekhadG9TdXFlUkQyRDU5eDhEaHBNQ0Mzdw?oc=5",
+      "source": "Big News Network.com",
+      "date": "2026-02-08",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut to Close 250 U.S. Locations as Yum Brands Weighs Sale - Mountaineer Journal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjdxYmVMWkFBSTlTb1RjVENxbkE4MW5GaWNDdDVkYVFiWlRHTnJXNnFETDhzWFVkYjNRUzFNbzFYdlRxdE83V1FlbDRCWlJuVHpqR2p2Yk45cWdhWTNwN1RDWjFNaXJtcC1lVjd2cWFNQjRxT0liTFRpeWhnblpGTFEzUWxja3Jubm1qZlRZU3JiTGktYUxBVWx2cXJ5b2ljcGtWSTJ2MVc?oc=5\" target=\"_blank\"&gt;Pizza Hut to Close 250 U.S. Locations as Yum Brands Weighs Sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Mountaineer Journal&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjdxYmVMWkFBSTlTb1RjVENxbkE4MW5GaWNDdDVkYVFiWlRHTnJXNnFETDhzWFVkYjNRUzFNbzFYdlRxdE83V1FlbDRCWlJuVHpqR2p2Yk45cWdhWTNwN1RDWjFNaXJtcC1lVjd2cWFNQjRxT0liTFRpeWhnblpGTFEzUWxja3Jubm1qZlRZU3JiTGktYUxBVWx2cXJ5b2ljcGtWSTJ2MVc?oc=5",
+      "source": "Mountaineer Journal",
+      "date": "2026-02-08",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-02-08",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -945,30 +981,6 @@
       "source": "franchisetimes.com",
       "date": "2026-01-13",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-01-13",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Whataburger Confirms New Villa Rica Location at Former Pizza Hut Site - The City Menus",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREJJT1QwOXkzV3pPcktaQUFZUnNfbGlBa3dpSHByY2RqVGY2U29SY21JR2NzUFNzVFZWUHFiQXE5SUkyTVl4RlBCdVcyOWNaMEJMeS1yYUF5NFRnRThlWUEwMV9VMWxVa084LWFMRDA3WkpicTZmUkRXQ1ZUN1JuSzVnWW8xcHFHZUNKb3pldjVXYmdQNzlyUThtWjdjQ2dXdXBiNXFjVFRUZw?oc=5\" target=\"_blank\"&gt;Whataburger Confirms New Villa Rica Location at Former Pizza Hut Site&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The City Menus&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREJJT1QwOXkzV3pPcktaQUFZUnNfbGlBa3dpSHByY2RqVGY2U29SY21JR2NzUFNzVFZWUHFiQXE5SUkyTVl4RlBCdVcyOWNaMEJMeS1yYUF5NFRnRThlWUEwMV9VMWxVa084LWFMRDA3WkpicTZmUkRXQ1ZUN1JuSzVnWW8xcHFHZUNKb3pldjVXYmdQNzlyUThtWjdjQ2dXdXBiNXFjVFRUZw?oc=5",
-      "source": "The City Menus",
-      "date": "2026-01-12",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "positive"
-    },
-    {
-      "title": "Ex-Pizza Hut MD Merrill Pereyra Takes Over Domino’s ANZ - Entrepreneur India",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzJUY3lWT252YkdZSzAzLXNkSVZHd1Z1QnJZNUVyY2p0d3RCR3dOYlZERm9oUFViNHlIQkFndzh6MzZFWVBySjlZM0F2WTZsMG5XNWc0azcwRzAzSHFYUmxsQktmMEFQSlNvcV9oMDUzN0toQ01PajR0d1FKQnZjeFJZTXYza050UTJ1WTB1VTVpS3NDLWJnS0VWR1dMRTlTRDV3cGxfQzAzcWM?oc=5\" target=\"_blank\"&gt;Ex-Pizza Hut MD Merrill Pereyra Takes Over Domino’s ANZ&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Entrepreneur India&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzJUY3lWT252YkdZSzAzLXNkSVZHd1Z1QnJZNUVyY2p0d3RCR3dOYlZERm9oUFViNHlIQkFndzh6MzZFWVBySjlZM0F2WTZsMG5XNWc0azcwRzAzSHFYUmxsQktmMEFQSlNvcV9oMDUzN0toQ01PajR0d1FKQnZjeFJZTXYza050UTJ1WTB1VTVpS3NDLWJnS0VWR1dMRTlTRDV3cGxfQzAzcWM?oc=5",
-      "source": "Entrepreneur India",
-      "date": "2026-01-13",
-      "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
     }
