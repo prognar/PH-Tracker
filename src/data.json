@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T14:00:10.103Z",
+  "lastUpdated": "2026-02-10T14:00:12.621Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-02-09",
+      "event": "Pizza Hut Closures Could Impact Washington Locations - NewsRadio 560 KPQ",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-02-08",
       "event": "Pizza Hut to Close 250 U.S. Locations as Yum Brands Weighs Sale - Mountaineer Journal",
       "impact": "low",
@@ -823,6 +829,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-02-10",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut Closures Could Impact Washington Locations - NewsRadio 560 KPQ",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxOElVMGpWRW1ieDlTOUhoYkhnZUg1dWtuRE10LWlGXzJZX0Y4WndLWURPY1liRW9QMUhsVUp3ZVNmWDBWbjBaVHlWck95LUFNRGJKU3VDMHE0bjhOaFZHMA?oc=5\" target=\"_blank\"&gt;Pizza Hut Closures Could Impact Washington Locations&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;NewsRadio 560 KPQ&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxOElVMGpWRW1ieDlTOUhoYkhnZUg1dWtuRE10LWlGXzJZX0Y4WndLWURPY1liRW9QMUhsVUp3ZVNmWDBWbjBaVHlWck95LUFNRGJKU3VDMHE0bjhOaFZHMA?oc=5",
+      "source": "NewsRadio 560 KPQ",
+      "date": "2026-02-09",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-02-09",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
     },
@@ -966,20 +986,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wUTkwVGEwYkU5QnBTRWFGU1JpdkhQQUNGakVCX2lvRk12MzZnNk4wTFJCR3VEcTNJYmEyREJBckNfTk03TGx0ODYtQVdGSDBtU0ZhVkxJWFRHU1pSWUJUWlN2WTZueVYwc0lmbEdB0gFuQVVfeXFMTnBROTBUYTBiRTlCcFNFYUZTUml2SFBBQ0ZqRUJfaW9GTXYzNmc2TjBMUkJHdURxM0liYTJEQkFyQ19OTTdMbHQ4Ni1BV0ZIMG1TRmFWTElYVEdTWlJZQlRaU3ZZNm55VjBzSWZsR0E?oc=5",
       "source": "알파경제",
       "date": "2026-01-15",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-01-14",
-      "summary": "Found 3 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Two Indian KFC, Pizza Hut Operators to Merge, Plus More Bold Deals - franchisetimes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPMUJQa1VsZEVxWVJpMEJWanduYUpFS1dSekVBZjlCajFuc1B4cS1ucTF4cFJCWVJ6RTc2T2FqSnZIRzFSdFBRU3ozTUJ0b29kM1NMM2xfWjFYcDRhejNOSktqVGZMdGs2a1dzUWp1dFdEODQ1eUxxSTIzdmhoWm40aEJKdlBYbXVDMVBJZjRGOEhTRC1WcnNuUmFKcXVWQ3lZZzdfck5Pb3R6TGpQd0NLajRWUWp1RVdYc3NwVWRSbkRWWGROVEF4NE5sM0JsZnotdTJxVjNQc0xYajhoRmFSLTZDN18ydjZobG9qZ2J0YTdKUmVYaDdBY2x0Nzc4U0xUSUdqM0o0OVNtcG9S?oc=5\" target=\"_blank\"&gt;Two Indian KFC, Pizza Hut Operators to Merge, Plus More Bold Deals&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;franchisetimes.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMUJQa1VsZEVxWVJpMEJWanduYUpFS1dSekVBZjlCajFuc1B4cS1ucTF4cFJCWVJ6RTc2T2FqSnZIRzFSdFBRU3ozTUJ0b29kM1NMM2xfWjFYcDRhejNOSktqVGZMdGs2a1dzUWp1dFdEODQ1eUxxSTIzdmhoWm40aEJKdlBYbXVDMVBJZjRGOEhTRC1WcnNuUmFKcXVWQ3lZZzdfck5Pb3R6TGpQd0NLajRWUWp1RVdYc3NwVWRSbkRWWGROVEF4NE5sM0JsZnotdTJxVjNQc0xYajhoRmFSLTZDN18ydjZobG9qZ2J0YTdKUmVYaDdBY2x0Nzc4U0xUSUdqM0o0OVNtcG9S?oc=5",
-      "source": "franchisetimes.com",
-      "date": "2026-01-13",
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
