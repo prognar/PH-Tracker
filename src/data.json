@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T14:00:11.744Z",
+  "lastUpdated": "2026-02-13T14:00:11.628Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-02-12",
+      "event": "Tacoverse taking over former Pizza Hut in Schererville - nwitimes.com",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-02-09",
       "event": "Pizza Hut Closures Could Impact Washington Locations - NewsRadio 560 KPQ",
       "impact": "low",
@@ -829,6 +835,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-02-13",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Tacoverse taking over former Pizza Hut in Schererville - nwitimes.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnRkdnNSZnE3RnlYWkVkNVhQX3dQdlVrQnBoUlkwNW9tLUZlYmc1MzExc0FOdlRKM3JNc2x0T0ZSalQ5TVpTMU13ZFVOcGxTSHZlRENWY0Q4SzFqVUt1LXNRenlXZjg2TVZuS1psYWxFOHp1bk9DU3c2cEdkSHNlc1hWUG9MenVh?oc=5\" target=\"_blank\"&gt;Tacoverse taking over former Pizza Hut in Schererville&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;nwitimes.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnRkdnNSZnE3RnlYWkVkNVhQX3dQdlVrQnBoUlkwNW9tLUZlYmc1MzExc0FOdlRKM3JNc2x0T0ZSalQ5TVpTMU13ZFVOcGxTSHZlRENWY0Q4SzFqVUt1LXNRenlXZjg2TVZuS1psYWxFOHp1bk9DU3c2cEdkSHNlc1hWUG9MenVh?oc=5",
+      "source": "nwitimes.com",
+      "date": "2026-02-12",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-02-10",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -973,20 +993,6 @@
       "source": "glasgowlive.co.uk",
       "date": "2026-01-28",
       "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-01-16",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Supreme Court Orders Pizza Hut Korea to Refund $15.5M in ＂Hidden＂ Franchise Fees to Store Owners - 알파경제",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5wUTkwVGEwYkU5QnBTRWFGU1JpdkhQQUNGakVCX2lvRk12MzZnNk4wTFJCR3VEcTNJYmEyREJBckNfTk03TGx0ODYtQVdGSDBtU0ZhVkxJWFRHU1pSWUJUWlN2WTZueVYwc0lmbEdB0gFuQVVfeXFMTnBROTBUYTBiRTlCcFNFYUZTUml2SFBBQ0ZqRUJfaW9GTXYzNmc2TjBMUkJHdURxM0liYTJEQkFyQ19OTTdMbHQ4Ni1BV0ZIMG1TRmFWTElYVEdTWlJZQlRaU3ZZNm55VjBzSWZsR0E?oc=5\" target=\"_blank\"&gt;Supreme Court Orders Pizza Hut Korea to Refund $15.5M in ＂Hidden＂ Franchise Fees to Store Owners&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;알파경제&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wUTkwVGEwYkU5QnBTRWFGU1JpdkhQQUNGakVCX2lvRk12MzZnNk4wTFJCR3VEcTNJYmEyREJBckNfTk03TGx0ODYtQVdGSDBtU0ZhVkxJWFRHU1pSWUJUWlN2WTZueVYwc0lmbEdB0gFuQVVfeXFMTnBROTBUYTBiRTlCcFNFYUZTUml2SFBBQ0ZqRUJfaW9GTXYzNmc2TjBMUkJHdURxM0liYTJEQkFyQ19OTTdMbHQ4Ni1BV0ZIMG1TRmFWTElYVEdTWlJZQlRaU3ZZNm55VjBzSWZsR0E?oc=5",
-      "source": "알파경제",
-      "date": "2026-01-15",
-      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     }
