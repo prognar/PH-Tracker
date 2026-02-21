@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T14:00:08.882Z",
+  "lastUpdated": "2026-02-21T14:00:08.495Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-02-20",
+      "event": "Mecosta County purchases former Pizza Hut property for EMS expansion - Big Rapids Pioneer",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-02-12",
       "event": "Tacoverse taking over former Pizza Hut in Schererville - nwitimes.com",
       "impact": "medium",
@@ -835,6 +841,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-02-21",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Mecosta County purchases former Pizza Hut property for EMS expansion - Big Rapids Pioneer",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1lkeHJjR0JkLVdnXzVRVk5YSENaaG01aWprNW9tZUhfYVhuTTA3RUNhVUNicXZaVUhHZVl0cXJDUUplcWlYYlVibzdWRTl0dWhVdVVRcUpYTHFVMkNRSlVpQVNJSm1qN2dOUHdEckV0TW1sdGQ1SzdWQmpza3dNS0RwcHFkYllLXzVaTWhyYTNZVFZ5d21YM0NNdXl3QQ?oc=5\" target=\"_blank\"&gt;Mecosta County purchases former Pizza Hut property for EMS expansion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Big Rapids Pioneer&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1lkeHJjR0JkLVdnXzVRVk5YSENaaG01aWprNW9tZUhfYVhuTTA3RUNhVUNicXZaVUhHZVl0cXJDUUplcWlYYlVibzdWRTl0dWhVdVVRcUpYTHFVMkNRSlVpQVNJSm1qN2dOUHdEckV0TW1sdGQ1SzdWQmpza3dNS0RwcHFkYllLXzVaTWhyYTNZVFZ5d21YM0NNdXl3QQ?oc=5",
+      "source": "Big Rapids Pioneer",
+      "date": "2026-02-20",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-02-13",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -979,20 +999,6 @@
       "source": "MSN",
       "date": "2026-02-05",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-01-29",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Plans for new hotel on Glasgow's four corners at former Pizza Hut site - glasgowlive.co.uk",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNaU5pelNMcGduRXEwcjJHb3ZnQmYtbl9yenpTN3ptX205c0VsdzdUaWJIbjd6V2NZTnVHM0thYzRlRUhncVN2cm1BOVphYWk2NTNyckJVTUlKeG5nLWVCTlN6aG5zcEhMU293R3pISlh1akp4RG5PNGlxSHVXdVlvTTJhMC13ZC1iYmxNNExfONIBlAFBVV95cUxPV2dyWXNLY3QyWEV6YXhiNHhPQ1JwNmxEejJLMmVyZV93WjZJeUFFUzVSLXN4OXFHckpxNlhBcGpSaFg0TUFSQzdkMk1uRm5ITEJqTVotTXQzNm83anE3bTJDY2RuNzV0bDJBdEF5ZDNZOE5Ma1I5OFhSSXdaVUlTbGg3b3JaN1pUOG9jSW8zamIwbkNp?oc=5\" target=\"_blank\"&gt;Plans for new hotel on Glasgow's four corners at former Pizza Hut site&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;glasgowlive.co.uk&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaU5pelNMcGduRXEwcjJHb3ZnQmYtbl9yenpTN3ptX205c0VsdzdUaWJIbjd6V2NZTnVHM0thYzRlRUhncVN2cm1BOVphYWk2NTNyckJVTUlKeG5nLWVCTlN6aG5zcEhMU293R3pISlh1akp4RG5PNGlxSHVXdVlvTTJhMC13ZC1iYmxNNExfONIBlAFBVV95cUxPV2dyWXNLY3QyWEV6YXhiNHhPQ1JwNmxEejJLMmVyZV93WjZJeUFFUzVSLXN4OXFHckpxNlhBcGpSaFg0TUFSQzdkMk1uRm5ITEJqTVotTXQzNm83anE3bTJDY2RuNzV0bDJBdEF5ZDNZOE5Ma1I5OFhSSXdaVUlTbGg3b3JaN1pUOG9jSW8zamIwbkNp?oc=5",
-      "source": "glasgowlive.co.uk",
-      "date": "2026-01-28",
-      "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
     }
