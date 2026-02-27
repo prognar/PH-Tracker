@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T14:00:11.146Z",
+  "lastUpdated": "2026-02-27T14:00:09.460Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-02-26",
+      "event": "Navy Federal Credit Union Coming To Deptford Former Pizza Hut Building - 42 Freeway",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-02-20",
       "event": "Mecosta County purchases former Pizza Hut property for EMS expansion - Big Rapids Pioneer",
       "impact": "medium",
@@ -841,6 +847,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-02-27",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Navy Federal Credit Union Coming To Deptford Former Pizza Hut Building - 42 Freeway",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXNpdV9HREVNTDltcTZNV1owX1pqejM4OWJIdWVGbkFPT0VobVZ1a1NvX1RDYnc1eWNjdGJUQzRESmZYVlRNeE8weXpXMU5kbzByd3ZWWDV1QXFoUjdsU29FNW04YWhreF8ydHVsdUEzSlI5YWgtc2JyV2hOdUNfbElzeGV0NHpGY2pnVFlCQ3NSM1FHN3lFY1YtV09YU0E?oc=5\" target=\"_blank\"&gt;Navy Federal Credit Union Coming To Deptford Former Pizza Hut Building&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;42 Freeway&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXNpdV9HREVNTDltcTZNV1owX1pqejM4OWJIdWVGbkFPT0VobVZ1a1NvX1RDYnc1eWNjdGJUQzRESmZYVlRNeE8weXpXMU5kbzByd3ZWWDV1QXFoUjdsU29FNW04YWhreF8ydHVsdUEzSlI5YWgtc2JyV2hOdUNfbElzeGV0NHpGY2pnVFlCQ3NSM1FHN3lFY1YtV09YU0E?oc=5",
+      "source": "42 Freeway",
+      "date": "2026-02-26",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-02-21",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -977,26 +997,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekpWLWFFd3VuYV9TenM5ZVZwWV9oWGwtN3R6dE15RUlNcnZBQ2h3MldfOEpxRlFWbmYxN0pXYlk2TUdicXRQbHVYY1UxZzY2Y0EyWkRmTVdVdGVxdkdvd3JXckQ2TUJONkh6UlhMZ3g4eUIweGowOHg1bHRDRDRrT1ItQ1dVeS1WYnJz?oc=5\" target=\"_blank\"&gt;Pizza Hut Is Closing Hundreds of Locations Due to Poor Sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News Malaysia&lt;/font&gt;",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekpWLWFFd3VuYV9TenM5ZVZwWV9oWGwtN3R6dE15RUlNcnZBQ2h3MldfOEpxRlFWbmYxN0pXYlk2TUdicXRQbHVYY1UxZzY2Y0EyWkRmTVdVdGVxdkdvd3JXckQ2TUJONkh6UlhMZ3g4eUIweGowOHg1bHRDRDRrT1ItQ1dVeS1WYnJz?oc=5",
       "source": "Yahoo News Malaysia",
-      "date": "2026-02-05",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut is closing hundreds of locations due to poor sales - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0dCOHVzUG51RG95SlM0WVRLN3ZiZHhETUM1b3Blc1FnVUJxdmNwLWhiYlVzSFhMYlBZQkVZRzRxWDFwVkVWUEVQRFpsOUVjbFp3N1VfUWdUTDdfY3Y0RElKbU5tUHZzR1AzWThiRjhMd1VFejAwSG1GNHBxUmFoUUpsMVAtdmMxUkJtOXMzdkJLclExRmFPbUVpQzE3YnNWblY4ZEpVWFpqalJGQTRZQ1VWZWhtZ0s1RUtvV3VRTmo0X09JTUNfakE5R21MSmU5NjJZS1ZwUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut is closing hundreds of locations due to poor sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0dCOHVzUG51RG95SlM0WVRLN3ZiZHhETUM1b3Blc1FnVUJxdmNwLWhiYlVzSFhMYlBZQkVZRzRxWDFwVkVWUEVQRFpsOUVjbFp3N1VfUWdUTDdfY3Y0RElKbU5tUHZzR1AzWThiRjhMd1VFejAwSG1GNHBxUmFoUUpsMVAtdmMxUkJtOXMzdkJLclExRmFPbUVpQzE3YnNWblY4ZEpVWFpqalJGQTRZQ1VWZWhtZ0s1RUtvV3VRTmo0X09JTUNfakE5R21MSmU5NjJZS1ZwUQ?oc=5",
-      "source": "MSN",
-      "date": "2026-02-05",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut is closing hundreds of locations due to poor sales - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQaU1rMFo0czFFX2QxMGcySDNlekFFWXRPc2VyejdQNnFUNHJIcGl5WDMwRldIZXpUdmdBd2ZGVzVyN3lxZHdmcUVsRndFa1B6cEZ4bnVvVDdiSk9RV3ZYX2tnVDRnUjEyaFp2V3VPeHhDYmNwYlhucDlld2JSMDktdlJ6dnd4eWJfeXY1MGRRak5FZ1B1U2hYMk5jd2QtY2w1ZUxBbl95NEdTQm40TUtMYkQ0Zkw?oc=5\" target=\"_blank\"&gt;Pizza Hut is closing hundreds of locations due to poor sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaU1rMFo0czFFX2QxMGcySDNlekFFWXRPc2VyejdQNnFUNHJIcGl5WDMwRldIZXpUdmdBd2ZGVzVyN3lxZHdmcUVsRndFa1B6cEZ4bnVvVDdiSk9RV3ZYX2tnVDRnUjEyaFp2V3VPeHhDYmNwYlhucDlld2JSMDktdlJ6dnd4eWJfeXY1MGRRak5FZ1B1U2hYMk5jd2QtY2w1ZUxBbl95NEdTQm40TUtMYkQ0Zkw?oc=5",
-      "source": "MSN",
       "date": "2026-02-05",
       "impact": "low",
       "buyerId": null,
