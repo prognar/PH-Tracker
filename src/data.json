@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T14:00:09.140Z",
+  "lastUpdated": "2026-03-04T14:00:10.685Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,18 @@
   ],
   "timeline": [
     {
+      "date": "2026-03-04",
+      "event": "New car showroom opens on former Pizza Hut restaurant site in Derby creating 40 jobs - Derbyshire Li",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-03-03",
+      "event": "Pizza Hut Sale? Yum! Brands Weighs Divestiture and 250 Store Closures - 1851 Franchise",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-03-01",
       "event": "Yum Brands Weighs Pizza Hut Sale As Portfolio Reset Accelerates - simplywall.st",
       "impact": "low",
@@ -853,6 +865,30 @@
   ],
   "recentNews": [
     {
+      "date": "2026-03-04",
+      "summary": "Found 2 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut Sale? Yum! Brands Weighs Divestiture and 250 Store Closures - 1851 Franchise",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1sQXQzc1Q0ZTY2YmNjRVhxUWYtbWk4UFpJOTZUdDU5cUNmTm1JZDZ4SjRZYmJ1Um9OVFp5SVc2SkVlV1pZcTVnTU9HTl9EMkRZbWRvOS1YLW1oSzRvY2tNLXhNX2tqWEhKR240?oc=5\" target=\"_blank\"&gt;Pizza Hut Sale? Yum! Brands Weighs Divestiture and 250 Store Closures&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;1851 Franchise&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sQXQzc1Q0ZTY2YmNjRVhxUWYtbWk4UFpJOTZUdDU5cUNmTm1JZDZ4SjRZYmJ1Um9OVFp5SVc2SkVlV1pZcTVnTU9HTl9EMkRZbWRvOS1YLW1oSzRvY2tNLXhNX2tqWEhKR240?oc=5",
+      "source": "1851 Franchise",
+      "date": "2026-03-03",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "New car showroom opens on former Pizza Hut restaurant site in Derby creating 40 jobs - Derbyshire Live",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9WeVdzaDJUMk5VcERFSGpCVXd4RThoUWxIZTFod2c1SzlzT0RfZGhFM3lSa0hlTmxOdTJBOV9KOHJKZmdPd2ljd2tNbjhYV0loOFRVYXFta3dZVVNnbEdVN2o5UVJyektBWElUTG1OejV3TW5NM3NNc0JuOVlxbTAtR19jRGJETE13R05za2XSAZYBQVVfeXFMUGFYRWdNOWtTU1ZDR2cwUml4bGRlTUk1LWNNNnlVY29MNVlzRlZ0ZG1PQk5mTlVXYXJmOHIxVG9mR21RT1VsMi1KVzljMC10NFppT2NONFVzVGZMbjl6aGhsaXU2VDhBdUJYVUlCMU56NEVLRzZJQjZ5RlZCT0Z6TWV5UGRtSHFPcDVZVTB6YUNSOVBMUktR?oc=5\" target=\"_blank\"&gt;New car showroom opens on former Pizza Hut restaurant site in Derby creating 40 jobs&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Derbyshire Live&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9WeVdzaDJUMk5VcERFSGpCVXd4RThoUWxIZTFod2c1SzlzT0RfZGhFM3lSa0hlTmxOdTJBOV9KOHJKZmdPd2ljd2tNbjhYV0loOFRVYXFta3dZVVNnbEdVN2o5UVJyektBWElUTG1OejV3TW5NM3NNc0JuOVlxbTAtR19jRGJETE13R05za2XSAZYBQVVfeXFMUGFYRWdNOWtTU1ZDR2cwUml4bGRlTUk1LWNNNnlVY29MNVlzRlZ0ZG1PQk5mTlVXYXJmOHIxVG9mR21RT1VsMi1KVzljMC10NFppT2NONFVzVGZMbjl6aGhsaXU2VDhBdUJYVUlCMU56NEVLRzZJQjZ5RlZCT0Z6TWV5UGRtSHFPcDVZVTB6YUNSOVBMUktR?oc=5",
+      "source": "Derbyshire Live",
+      "date": "2026-03-04",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-03-02",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -977,30 +1013,6 @@
     {
       "date": "2026-02-06",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Manitowoc mayor says Ziggi's Coffee still coming to former Pizza Hut - Herald Times Reporter",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPem5zQ1pNSFlzQUhmUHF3WHJaWTdJLUY3ZkpTUDJSQVkyRWg0SjhkMmtTUHF6amM2UnlvNjgtTll3VzVyZHhDaHdKVWdZWmdZemVBdjBhb3FZbnVaTGx4OHpmelVNNFdkemJ3T09HVzFLWVNXWGdFUHVPRmJYM0VORTAwRlE2WDFrVVpBY1J4azFJaE0xQ2x3b2FOa2ZjX1NyNU5tQW9DM3RWQUQyVTMxMWd5ZWlsZGhMUHI0?oc=5\" target=\"_blank\"&gt;Manitowoc mayor says Ziggi's Coffee still coming to former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Herald Times Reporter&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPem5zQ1pNSFlzQUhmUHF3WHJaWTdJLUY3ZkpTUDJSQVkyRWg0SjhkMmtTUHF6amM2UnlvNjgtTll3VzVyZHhDaHdKVWdZWmdZemVBdjBhb3FZbnVaTGx4OHpmelVNNFdkemJ3T09HVzFLWVNXWGdFUHVPRmJYM0VORTAwRlE2WDFrVVpBY1J4azFJaE0xQ2x3b2FOa2ZjX1NyNU5tQW9DM3RWQUQyVTMxMWd5ZWlsZGhMUHI0?oc=5",
-      "source": "Herald Times Reporter",
-      "date": "2026-02-06",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-02-05",
-      "summary": "Found 5 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Yum! to close 250 Pizza Hut stores as sales slump amid strategic review - TradingView",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTBVV1NoQjFaa0hmZmpSV1JRVXZka29QbHoxMThmQ0FBei1tV2I3NzU2OFN6N2lJTTJ5alNuRVRzbWtLNkVfVk9IYkZVdWQ2M1dNRUNPN0staFp2SGFqMTJSNnAtSFo3ODlvVy14bE5WTUY2ME1LMElNNVdrX05leVdxWnFDZkhWTC1ILVp2eEtVZTFaQ0stbGpqOU1mTHR0UjBiNzJrN0czNFFFd0pYaXVTWU1fNUJuZl9XeG40bF9NMnhXZGc?oc=5\" target=\"_blank\"&gt;Yum! to close 250 Pizza Hut stores as sales slump amid strategic review&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTBVV1NoQjFaa0hmZmpSV1JRVXZka29QbHoxMThmQ0FBei1tV2I3NzU2OFN6N2lJTTJ5alNuRVRzbWtLNkVfVk9IYkZVdWQ2M1dNRUNPN0staFp2SGFqMTJSNnAtSFo3ODlvVy14bE5WTUY2ME1LMElNNVdrX05leVdxWnFDZkhWTC1ILVp2eEtVZTFaQ0stbGpqOU1mTHR0UjBiNzJrN0czNFFFd0pYaXVTWU1fNUJuZl9XeG40bF9NMnhXZGc?oc=5",
-      "source": "TradingView",
-      "date": "2026-02-05",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
