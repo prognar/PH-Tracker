@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T14:00:10.685Z",
+  "lastUpdated": "2026-03-05T14:00:09.827Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -865,6 +865,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-03-05",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "New car showroom opens on former Pizza Hut restaurant site in Derby creating 40 jobs - Derbyshire Live",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVhFZ005a1NTVkNHZzBSaXhsZGVNSTUtY002eVVjb0w1WXNGVnRkbU9CTmZOVVdhcmY4cjFUb2ZHbVFPVWwyLUpXOWMwLXQ0WmlPY040VXNUZkxuOXpoaGxpdTZUOEF1QlhVSUIxTno0RUtHNklCNnlGVkJPRnpNZXlQZG1IcU9wNVlVMHphQ1I5UExSS1HSAZYBQVVfeXFMUGFYRWdNOWtTU1ZDR2cwUml4bGRlTUk1LWNNNnlVY29MNVlzRlZ0ZG1PQk5mTlVXYXJmOHIxVG9mR21RT1VsMi1KVzljMC10NFppT2NONFVzVGZMbjl6aGhsaXU2VDhBdUJYVUlCMU56NEVLRzZJQjZ5RlZCT0Z6TWV5UGRtSHFPcDVZVTB6YUNSOVBMUktR?oc=5\" target=\"_blank\"&gt;New car showroom opens on former Pizza Hut restaurant site in Derby creating 40 jobs&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Derbyshire Live&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVhFZ005a1NTVkNHZzBSaXhsZGVNSTUtY002eVVjb0w1WXNGVnRkbU9CTmZOVVdhcmY4cjFUb2ZHbVFPVWwyLUpXOWMwLXQ0WmlPY040VXNUZkxuOXpoaGxpdTZUOEF1QlhVSUIxTno0RUtHNklCNnlGVkJPRnpNZXlQZG1IcU9wNVlVMHphQ1I5UExSS1HSAZYBQVVfeXFMUGFYRWdNOWtTU1ZDR2cwUml4bGRlTUk1LWNNNnlVY29MNVlzRlZ0ZG1PQk5mTlVXYXJmOHIxVG9mR21RT1VsMi1KVzljMC10NFppT2NONFVzVGZMbjl6aGhsaXU2VDhBdUJYVUlCMU56NEVLRzZJQjZ5RlZCT0Z6TWV5UGRtSHFPcDVZVTB6YUNSOVBMUktR?oc=5",
+      "source": "Derbyshire Live",
+      "date": "2026-03-04",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-03-04",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
     },
@@ -999,20 +1013,6 @@
     {
       "date": "2026-02-07",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut may be up for sale; 250 US locations to close - RetailDetail EU",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDlibllNVDVjMExudkdYMlpEdDBIS0o0QTlyUzdac1RKbnNfS2pWanZ5eTVxRV9Ma0ZDNGFHMlRZODRhSTlvZkdhVUVlem1PRTBsbmpfdnQ5OGh6SmJ4a2QzZUtNWHFXTlpQeGlfYnRWZ1lyUUIwcUUwTFlzSnVtNk82UzU2Y052OGxtM2cwNmlwbXVqYjdIWg?oc=5\" target=\"_blank\"&gt;Pizza Hut may be up for sale; 250 US locations to close&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;RetailDetail EU&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDlibllNVDVjMExudkdYMlpEdDBIS0o0QTlyUzdac1RKbnNfS2pWanZ5eTVxRV9Ma0ZDNGFHMlRZODRhSTlvZkdhVUVlem1PRTBsbmpfdnQ5OGh6SmJ4a2QzZUtNWHFXTlpQeGlfYnRWZ1lyUUIwcUUwTFlzSnVtNk82UzU2Y052OGxtM2cwNmlwbXVqYjdIWg?oc=5",
-      "source": "RetailDetail EU",
-      "date": "2026-02-06",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-02-06",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
