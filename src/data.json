@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T13:00:09.110Z",
+  "lastUpdated": "2026-03-24T13:00:09.530Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -877,6 +877,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-03-24",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
       "date": "2026-03-23",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1015,16 +1019,6 @@
     {
       "date": "2026-02-09",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut to shutter 250 US outlets as Yum weighs brand sale - Big News Network.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUNhblROejZxSTNXZlBZODRUb0tFcjVLWFhXcUtRY29mM3dsZHVYZWVRM2QzS2hqOF9zb0NKc3JRdE9BRUEtYjcxZFlQUHkzUlhZeUxTNHJFb0VpMGtaWEtNdGxnTW9NczR1aXpuTzg4aUR6TmN0c1owQUVITERLY2ZHTEJWbExETllOSUdQTEs2ekhadG9TdXFlUkQyRDU5eDhEaHBNQ0Mzdw?oc=5\" target=\"_blank\"&gt;Pizza Hut to shutter 250 US outlets as Yum weighs brand sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Big News Network.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUNhblROejZxSTNXZlBZODRUb0tFcjVLWFhXcUtRY29mM3dsZHVYZWVRM2QzS2hqOF9zb0NKc3JRdE9BRUEtYjcxZFlQUHkzUlhZeUxTNHJFb0VpMGtaWEtNdGxnTW9NczR1aXpuTzg4aUR6TmN0c1owQUVITERLY2ZHTEJWbExETllOSUdQTEs2ekhadG9TdXFlUkQyRDU5eDhEaHBNQ0Mzdw?oc=5",
-      "source": "Big News Network.com",
-      "date": "2026-02-08",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
