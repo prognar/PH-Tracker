@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T13:00:09.881Z",
+  "lastUpdated": "2026-03-26T13:00:09.596Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-03-25",
+      "event": "Ex-Pizza Hut India MD Rohan Pewekar to Head PizzaExpress, Chili’s Operations - India Retailing",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-03-23",
       "event": "Former Pizza Hut India MD Rohan Pewekar to lead PizzaExpress, Chili’s Ops - Storyboard18",
       "impact": "medium",
@@ -877,6 +883,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-03-26",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Ex-Pizza Hut India MD Rohan Pewekar to Head PizzaExpress, Chili’s Operations - India Retailing",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSktLaUVvRHFpRHNoS1o1ZGp4RTJFNFJIMG9SeEZUV19QMjY3bmJObERzYVdBWE9sMzdQOXd0VE93SmhocHJtX25yQ29VdE1zN2lwbkJKUTZzWlRhTmsyMG5zajBhQTAzWkFyZU50RlVxUXN4UHY1RjduaFNjRUwxYXBOQURqWHVOZ0pGWXhLWWxNYXhtSS1yZ0tuVVFFZV9ITHhPQmRKSQ?oc=5\" target=\"_blank\"&gt;Ex-Pizza Hut India MD Rohan Pewekar to Head PizzaExpress, Chili’s Operations&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;India Retailing&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSktLaUVvRHFpRHNoS1o1ZGp4RTJFNFJIMG9SeEZUV19QMjY3bmJObERzYVdBWE9sMzdQOXd0VE93SmhocHJtX25yQ29VdE1zN2lwbkJKUTZzWlRhTmsyMG5zajBhQTAzWkFyZU50RlVxUXN4UHY1RjduaFNjRUwxYXBOQURqWHVOZ0pGWXhLWWxNYXhtSS1yZ0tuVVFFZV9ITHhPQmRKSQ?oc=5",
+      "source": "India Retailing",
+      "date": "2026-03-25",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-03-24",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1005,20 +1025,6 @@
     {
       "date": "2026-02-10",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut Closures Could Impact Washington Locations - NewsRadio 560 KPQ",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxOElVMGpWRW1ieDlTOUhoYkhnZUg1dWtuRE10LWlGXzJZX0Y4WndLWURPY1liRW9QMUhsVUp3ZVNmWDBWbjBaVHlWck95LUFNRGJKU3VDMHE0bjhOaFZHMA?oc=5\" target=\"_blank\"&gt;Pizza Hut Closures Could Impact Washington Locations&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;NewsRadio 560 KPQ&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxOElVMGpWRW1ieDlTOUhoYkhnZUg1dWtuRE10LWlGXzJZX0Y4WndLWURPY1liRW9QMUhsVUp3ZVNmWDBWbjBaVHlWck95LUFNRGJKU3VDMHE0bjhOaFZHMA?oc=5",
-      "source": "NewsRadio 560 KPQ",
-      "date": "2026-02-09",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-02-09",
-      "summary": "Found 2 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
