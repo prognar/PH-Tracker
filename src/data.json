@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T13:00:09.969Z",
+  "lastUpdated": "2026-03-31T13:00:09.508Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-03-31",
+      "event": "Tacoverse takes over former Pizza Hut space in Chesterton - nwitimes.com",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-03-28",
       "event": "Restaurant chain transforming former Pizza Hut building in St Helens - St Helens Star",
       "impact": "medium",
@@ -889,6 +895,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-03-31",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Tacoverse takes over former Pizza Hut space in Chesterton - nwitimes.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3hNeTNlQVdNZmNKb01Gb0NMdVlCbjZCNUdfQVJTYWxIdFYzenB6Q0xfOWRLbGtEUkVZME1mM3VhMHFpNm5KS3J0bmVXWUtlWDRtSzE1dTc2SW1hNThmX2NZS0g1Nm1YRC1FSnhMTDFyS1RuYkFxb1E2RDVmM2xHWkNWNE41TVJu?oc=5\" target=\"_blank\"&gt;Tacoverse takes over former Pizza Hut space in Chesterton&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;nwitimes.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3hNeTNlQVdNZmNKb01Gb0NMdVlCbjZCNUdfQVJTYWxIdFYzenB6Q0xfOWRLbGtEUkVZME1mM3VhMHFpNm5KS3J0bmVXWUtlWDRtSzE1dTc2SW1hNThmX2NZS0g1Nm1YRC1FSnhMTDFyS1RuYkFxb1E2RDVmM2xHWkNWNE41TVJu?oc=5",
+      "source": "nwitimes.com",
+      "date": "2026-03-31",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-03-29",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1014,20 +1034,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXNpdV9HREVNTDltcTZNV1owX1pqejM4OWJIdWVGbkFPT0VobVZ1a1NvX1RDYnc1eWNjdGJUQzRESmZYVlRNeE8weXpXMU5kbzByd3ZWWDV1QXFoUjdsU29FNW04YWhreF8ydHVsdUEzSlI5YWgtc2JyV2hOdUNfbElzeGV0NHpGY2pnVFlCQ3NSM1FHN3lFY1YtV09YU0E?oc=5",
       "source": "42 Freeway",
       "date": "2026-02-26",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-02-21",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Mecosta County purchases former Pizza Hut property for EMS expansion - Big Rapids Pioneer",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1lkeHJjR0JkLVdnXzVRVk5YSENaaG01aWprNW9tZUhfYVhuTTA3RUNhVUNicXZaVUhHZVl0cXJDUUplcWlYYlVibzdWRTl0dWhVdVVRcUpYTHFVMkNRSlVpQVNJSm1qN2dOUHdEckV0TW1sdGQ1SzdWQmpza3dNS0RwcHFkYllLXzVaTWhyYTNZVFZ5d21YM0NNdXl3QQ?oc=5\" target=\"_blank\"&gt;Mecosta County purchases former Pizza Hut property for EMS expansion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Big Rapids Pioneer&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1lkeHJjR0JkLVdnXzVRVk5YSENaaG01aWprNW9tZUhfYVhuTTA3RUNhVUNicXZaVUhHZVl0cXJDUUplcWlYYlVibzdWRTl0dWhVdVVRcUpYTHFVMkNRSlVpQVNJSm1qN2dOUHdEckV0TW1sdGQ1SzdWQmpza3dNS0RwcHFkYllLXzVaTWhyYTNZVFZ5d21YM0NNdXl3QQ?oc=5",
-      "source": "Big Rapids Pioneer",
-      "date": "2026-02-20",
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
