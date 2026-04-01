@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T13:00:09.508Z",
+  "lastUpdated": "2026-04-01T13:00:09.628Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -895,6 +895,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-01",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
       "date": "2026-03-31",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1027,16 +1031,6 @@
     {
       "date": "2026-02-27",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Navy Federal Credit Union Coming To Deptford Former Pizza Hut Building - 42 Freeway",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXNpdV9HREVNTDltcTZNV1owX1pqejM4OWJIdWVGbkFPT0VobVZ1a1NvX1RDYnc1eWNjdGJUQzRESmZYVlRNeE8weXpXMU5kbzByd3ZWWDV1QXFoUjdsU29FNW04YWhreF8ydHVsdUEzSlI5YWgtc2JyV2hOdUNfbElzeGV0NHpGY2pnVFlCQ3NSM1FHN3lFY1YtV09YU0E?oc=5\" target=\"_blank\"&gt;Navy Federal Credit Union Coming To Deptford Former Pizza Hut Building&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;42 Freeway&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXNpdV9HREVNTDltcTZNV1owX1pqejM4OWJIdWVGbkFPT0VobVZ1a1NvX1RDYnc1eWNjdGJUQzRESmZYVlRNeE8weXpXMU5kbzByd3ZWWDV1QXFoUjdsU29FNW04YWhreF8ydHVsdUEzSlI5YWgtc2JyV2hOdUNfbElzeGV0NHpGY2pnVFlCQ3NSM1FHN3lFY1YtV09YU0E?oc=5",
-      "source": "42 Freeway",
-      "date": "2026-02-26",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
