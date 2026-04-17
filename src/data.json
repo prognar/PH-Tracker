@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T13:00:10.079Z",
+  "lastUpdated": "2026-04-17T13:00:09.970Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-04-16",
+      "event": "Papa John's, Pizza Hut near deals as buyers circle chains - Big News Network.com",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-04-15",
       "event": "Yum Sets A Bid Deadline For Pizza Hut Sale - Finimize",
       "impact": "low",
@@ -907,6 +913,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-17",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Papa John's, Pizza Hut near deals as buyers circle chains - Big News Network.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVE5eHdLbFJaT2MwSWJ6T0x3Y091UHprN3IwaU9DVkI1Tm5rMHNPU1VwLU1IU1padGw0ejZsU3FXTlZOaHVlWFpIRkNTa04weUx1S0JCWlhmWUtkS29VMGd0YVJuaWJCR3RCQ3VzYXlxM1dPZEZXeGxqRFZjdGxnSTUwYXY4MjZ2b0hFTllhUWRKRVNDZzFlaERLMXdMeTRiTFhJ?oc=5\" target=\"_blank\"&gt;Papa John's, Pizza Hut near deals as buyers circle chains&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Big News Network.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVE5eHdLbFJaT2MwSWJ6T0x3Y091UHprN3IwaU9DVkI1Tm5rMHNPU1VwLU1IU1padGw0ejZsU3FXTlZOaHVlWFpIRkNTa04weUx1S0JCWlhmWUtkS29VMGd0YVJuaWJCR3RCQ3VzYXlxM1dPZEZXeGxqRFZjdGxnSTUwYXY4MjZ2b0hFTllhUWRKRVNDZzFlaERLMXdMeTRiTFhJ?oc=5",
+      "source": "Big News Network.com",
+      "date": "2026-04-16",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-04-16",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1027,20 +1047,6 @@
       "source": "Derbyshire Live",
       "date": "2026-03-04",
       "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-03-04",
-      "summary": "Found 2 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut Sale? Yum! Brands Weighs Divestiture and 250 Store Closures - 1851 Franchise",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1sQXQzc1Q0ZTY2YmNjRVhxUWYtbWk4UFpJOTZUdDU5cUNmTm1JZDZ4SjRZYmJ1Um9OVFp5SVc2SkVlV1pZcTVnTU9HTl9EMkRZbWRvOS1YLW1oSzRvY2tNLXhNX2tqWEhKR240?oc=5\" target=\"_blank\"&gt;Pizza Hut Sale? Yum! Brands Weighs Divestiture and 250 Store Closures&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;1851 Franchise&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sQXQzc1Q0ZTY2YmNjRVhxUWYtbWk4UFpJOTZUdDU5cUNmTm1JZDZ4SjRZYmJ1Um9OVFp5SVc2SkVlV1pZcTVnTU9HTl9EMkRZbWRvOS1YLW1oSzRvY2tNLXhNX2tqWEhKR240?oc=5",
-      "source": "1851 Franchise",
-      "date": "2026-03-03",
-      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     }
