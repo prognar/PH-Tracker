@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T13:00:09.443Z",
+  "lastUpdated": "2026-04-20T13:00:09.739Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,18 @@
   ],
   "timeline": [
     {
+      "date": "2026-04-20",
+      "event": "What's going into the former Pizza Hut on Bloomington's east side? - The Herald-Times",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-04-20",
+      "event": "Papa John’s and Pizza Hut sales gather momentum - MCA Insight",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-04-16",
       "event": "Papa John's, Pizza Hut near deals as buyers circle chains - Big News Network.com",
       "impact": "low",
@@ -913,6 +925,30 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-20",
+      "summary": "Found 2 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Papa John’s and Pizza Hut sales gather momentum - MCA Insight",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPNXctUThiNnVSYzNmOHBzcW52dzhIWjBuTWlvSW1xMTNoVU53bXBEcG16WklfRzJqYS1wZHY1VmN3QjNlTVkyWDNpX1hPSmV4U29NMDNmT1VPWHRXQXVSak5LNjdwdGMwNnhWbEowa1BiVTlZRjFQNFh2aXFJeWpLTFh0VEltRFo5T2xiQ2NKVHNaa09Zd21pVnpDUXAzdw?oc=5\" target=\"_blank\"&gt;Papa John’s and Pizza Hut sales gather momentum&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MCA Insight&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNXctUThiNnVSYzNmOHBzcW52dzhIWjBuTWlvSW1xMTNoVU53bXBEcG16WklfRzJqYS1wZHY1VmN3QjNlTVkyWDNpX1hPSmV4U29NMDNmT1VPWHRXQXVSak5LNjdwdGMwNnhWbEowa1BiVTlZRjFQNFh2aXFJeWpLTFh0VEltRFo5T2xiQ2NKVHNaa09Zd21pVnpDUXAzdw?oc=5",
+      "source": "MCA Insight",
+      "date": "2026-04-20",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "What's going into the former Pizza Hut on Bloomington's east side? - The Herald-Times",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkJVb244OUZCMUhId1QzbnFjQjFkZ2FnLWJ2TTgySFlIWjNSRnoxamtDWXZEZ3o4VHVOZm5rMlNiQlhvSE16YklBUl93eFlnZ1FhbklZMDVsWkNUSG1IY2FFUkpPMl92OGpEM1Mxdi1PZ0RfVmhaZ20yWW01TVVvdDZYQm9yZnJiYUJHMmhJUm9VOGM0QVZKTDZaVHdCMUoxMTBralJFZ0ZrUHF4dUdXV2hiN3p3UE0tVlJwcmZBUURmRlRBX0M1aWxHbkk?oc=5\" target=\"_blank\"&gt;What's going into the former Pizza Hut on Bloomington's east side?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Herald-Times&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkJVb244OUZCMUhId1QzbnFjQjFkZ2FnLWJ2TTgySFlIWjNSRnoxamtDWXZEZ3o4VHVOZm5rMlNiQlhvSE16YklBUl93eFlnZ1FhbklZMDVsWkNUSG1IY2FFUkpPMl92OGpEM1Mxdi1PZ0RfVmhaZ20yWW01TVVvdDZYQm9yZnJiYUJHMmhJUm9VOGM0QVZKTDZaVHdCMUoxMTBralJFZ0ZrUHF4dUdXV2hiN3p3UE0tVlJwcmZBUURmRlRBX0M1aWxHbkk?oc=5",
+      "source": "The Herald-Times",
+      "date": "2026-04-20",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-04-17",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1025,30 +1061,6 @@
     {
       "date": "2026-03-12",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Plans to turn former Pizza Hut restaurant into tanning salon approved - Frome Times",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEpsRnRJaXBSWHNlYURWd1lPc3JhWV9zYWtXUldHYkptbG05bW1jZWY2T2w3Q1RtYnlYbThUM2NCaUdBbTBJWkdQNlZRNlU5OWp4c01fMW56ZEpEZndKbXZuYU40M1h5cnNwOThUWHBJdHh0UTFRT2pyQXI5aEVjYnNwS2VjOHk1V2JqVzFvdnA0bDdtdkZHNExLN3B2ZXlG?oc=5\" target=\"_blank\"&gt;Plans to turn former Pizza Hut restaurant into tanning salon approved&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Frome Times&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEpsRnRJaXBSWHNlYURWd1lPc3JhWV9zYWtXUldHYkptbG05bW1jZWY2T2w3Q1RtYnlYbThUM2NCaUdBbTBJWkdQNlZRNlU5OWp4c01fMW56ZEpEZndKbXZuYU40M1h5cnNwOThUWHBJdHh0UTFRT2pyQXI5aEVjYnNwS2VjOHk1V2JqVzFvdnA0bDdtdkZHNExLN3B2ZXlG?oc=5",
-      "source": "Frome Times",
-      "date": "2026-03-11",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-03-05",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "New car showroom opens on former Pizza Hut restaurant site in Derby creating 40 jobs - Derbyshire Live",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVhFZ005a1NTVkNHZzBSaXhsZGVNSTUtY002eVVjb0w1WXNGVnRkbU9CTmZOVVdhcmY4cjFUb2ZHbVFPVWwyLUpXOWMwLXQ0WmlPY040VXNUZkxuOXpoaGxpdTZUOEF1QlhVSUIxTno0RUtHNklCNnlGVkJPRnpNZXlQZG1IcU9wNVlVMHphQ1I5UExSS1HSAZYBQVVfeXFMUGFYRWdNOWtTU1ZDR2cwUml4bGRlTUk1LWNNNnlVY29MNVlzRlZ0ZG1PQk5mTlVXYXJmOHIxVG9mR21RT1VsMi1KVzljMC10NFppT2NONFVzVGZMbjl6aGhsaXU2VDhBdUJYVUlCMU56NEVLRzZJQjZ5RlZCT0Z6TWV5UGRtSHFPcDVZVTB6YUNSOVBMUktR?oc=5\" target=\"_blank\"&gt;New car showroom opens on former Pizza Hut restaurant site in Derby creating 40 jobs&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Derbyshire Live&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVhFZ005a1NTVkNHZzBSaXhsZGVNSTUtY002eVVjb0w1WXNGVnRkbU9CTmZOVVdhcmY4cjFUb2ZHbVFPVWwyLUpXOWMwLXQ0WmlPY040VXNUZkxuOXpoaGxpdTZUOEF1QlhVSUIxTno0RUtHNklCNnlGVkJPRnpNZXlQZG1IcU9wNVlVMHphQ1I5UExSS1HSAZYBQVVfeXFMUGFYRWdNOWtTU1ZDR2cwUml4bGRlTUk1LWNNNnlVY29MNVlzRlZ0ZG1PQk5mTlVXYXJmOHIxVG9mR21RT1VsMi1KVzljMC10NFppT2NONFVzVGZMbjl6aGhsaXU2VDhBdUJYVUlCMU56NEVLRzZJQjZ5RlZCT0Z6TWV5UGRtSHFPcDVZVTB6YUNSOVBMUktR?oc=5",
-      "source": "Derbyshire Live",
-      "date": "2026-03-04",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
