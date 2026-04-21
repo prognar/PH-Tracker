@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T13:00:09.739Z",
+  "lastUpdated": "2026-04-21T13:00:10.286Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -925,6 +925,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-21",
+      "summary": "Found 2 relevant news items. No specific buyers mentioned."
+    },
+    {
       "date": "2026-04-20",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
     },
@@ -1057,10 +1061,6 @@
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "date": "2026-03-12",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
   "watchList": {
