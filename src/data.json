@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T13:00:10.286Z",
+  "lastUpdated": "2026-04-22T13:00:09.800Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-04-21",
+      "event": "On Verge of Potential Sale, Pizza Hut Remains a Brand in Transition - QSR Magazine",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-04-20",
       "event": "What's going into the former Pizza Hut on Bloomington's east side? - The Herald-Times",
       "impact": "medium",
@@ -925,6 +931,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-22",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "On Verge of Potential Sale, Pizza Hut Remains a Brand in Transition - QSR Magazine",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGZjU0pBNE1aQkRETUxCQWk3VEdNeGpjVngyTkJOZTU1WnhJTWlwX3lWZE9QMm5IVTlVMVdDYjh4OTlNYjFjQ2lWQWlEX01TbUQ2UXJMRDNQcmJ1eGVWeTBDeFBFZjFMYzRST19FQkYwak5wME5EcnJudVlEbWFmRnVJanZzRGdMZ3NPVTd0NThxeXNkUzUzb0RHTWp1Z0dBa3Nr?oc=5\" target=\"_blank\"&gt;On Verge of Potential Sale, Pizza Hut Remains a Brand in Transition&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Magazine&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGZjU0pBNE1aQkRETUxCQWk3VEdNeGpjVngyTkJOZTU1WnhJTWlwX3lWZE9QMm5IVTlVMVdDYjh4OTlNYjFjQ2lWQWlEX01TbUQ2UXJMRDNQcmJ1eGVWeTBDeFBFZjFMYzRST19FQkYwak5wME5EcnJudVlEbWFmRnVJanZzRGdMZ3NPVTd0NThxeXNkUzUzb0RHTWp1Z0dBa3Nr?oc=5",
+      "source": "QSR Magazine",
+      "date": "2026-04-21",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-04-21",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
     },
@@ -1047,20 +1067,6 @@
     {
       "date": "2026-03-24",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "date": "2026-03-23",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Former Pizza Hut India MD Rohan Pewekar to lead PizzaExpress, Chili’s Ops - Storyboard18",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPaU82OHkyVkJzbHlrRWF1RFdUVVRwYWhTeVE1ZHpjSHlyOXhuaU1KbTYwUXdkRDJYeGxMdHg1cEhibzBoUnJxOWlxQ3Y0eW0xdFRMNHBMX0wyWkZfdjRodUhMWkZPRjhzYjdmekFhMFNDMTQ1TkZFM0NtNE5ta2JIZmx4aUJjQi1JRzFSSVA4YnZYNl96Znhkai1ZQ01xbWJNVU8taTlENVhuRzBWM0F0SWx2ZjViZTZxd3h5SktBNlVnSHc3eFJz0gHMAUFVX3lxTE1jRU9Ea0w5NzVtT1JSY3pHbElGWlVyaE8wR2dEX1BaZzNNdktRQkVKZ2lBanNyTFJiWjdpSDB2T01KWFJ0djg3SlFyTkQ4eF91TUJIR0hKQlk2ak5acldya19IY2hua28yclBQcjVKMkhYWWpSbG1TbHdYQmlCM0FKa2puWkx0UzU5TWllZGd4MUExUTVsUzNXZkFxdVFDRzJyOTRDRkdzaVlnR0paN0RLbC1TUExjQnpyQWtMN3Z4andsakNHSmN0V2FGcw?oc=5\" target=\"_blank\"&gt;Former Pizza Hut India MD Rohan Pewekar to lead PizzaExpress, Chili’s Ops&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Storyboard18&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaU82OHkyVkJzbHlrRWF1RFdUVVRwYWhTeVE1ZHpjSHlyOXhuaU1KbTYwUXdkRDJYeGxMdHg1cEhibzBoUnJxOWlxQ3Y0eW0xdFRMNHBMX0wyWkZfdjRodUhMWkZPRjhzYjdmekFhMFNDMTQ1TkZFM0NtNE5ta2JIZmx4aUJjQi1JRzFSSVA4YnZYNl96Znhkai1ZQ01xbWJNVU8taTlENVhuRzBWM0F0SWx2ZjViZTZxd3h5SktBNlVnSHc3eFJz0gHMAUFVX3lxTE1jRU9Ea0w5NzVtT1JSY3pHbElGWlVyaE8wR2dEX1BaZzNNdktRQkVKZ2lBanNyTFJiWjdpSDB2T01KWFJ0djg3SlFyTkQ4eF91TUJIR0hKQlk2ak5acldya19IY2hua28yclBQcjVKMkhYWWpSbG1TbHdYQmlCM0FKa2puWkx0UzU5TWllZGd4MUExUTVsUzNXZkFxdVFDRzJyOTRDRkdzaVlnR0paN0RLbC1TUExjQnpyQWtMN3Z4andsakNHSmN0V2FGcw?oc=5",
-      "source": "Storyboard18",
-      "date": "2026-03-23",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
