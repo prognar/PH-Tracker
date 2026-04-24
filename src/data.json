@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T13:00:09.596Z",
+  "lastUpdated": "2026-04-24T13:00:10.291Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,18 @@
   ],
   "timeline": [
     {
+      "date": "2026-04-23",
+      "event": "Pizza Hut needs a bold change, and a sale of the business is on the table - Yahoo Finance",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-04-23",
+      "event": "Yum! Brands explores Pizza Hut sale amid turnaround push - MSN",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-04-21",
       "event": "On Verge of Potential Sale, Pizza Hut Remains a Brand in Transition - QSR Magazine",
       "impact": "low",
@@ -931,6 +943,30 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-24",
+      "summary": "Found 6 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum! Brands explores Pizza Hut sale amid turnaround push - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0I3M0gwcUZLcGV3RC1GWmRNN3c5ZUMwYm5nNWtWdTFZXzRkbFUyeDhBMHVkNXBpRFEtR1lUUlBqaE94ZmVEVFpSNnJjX0xLMFltWEpQMWNHdmJfTkZRb3llR0dfa2w2U1BZck9adHprS0hTTWlRYmpDcVVWNG1ic0tPdWRDSWEzWWVLeWRqazBka1ZuQmFoZjNnSjNSanMwQUgyVUtUbV8wdw?oc=5\" target=\"_blank\"&gt;Yum! Brands explores Pizza Hut sale amid turnaround push&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0I3M0gwcUZLcGV3RC1GWmRNN3c5ZUMwYm5nNWtWdTFZXzRkbFUyeDhBMHVkNXBpRFEtR1lUUlBqaE94ZmVEVFpSNnJjX0xLMFltWEpQMWNHdmJfTkZRb3llR0dfa2w2U1BZck9adHprS0hTTWlRYmpDcVVWNG1ic0tPdWRDSWEzWWVLeWRqazBka1ZuQmFoZjNnSjNSanMwQUgyVUtUbV8wdw?oc=5",
+      "source": "MSN",
+      "date": "2026-04-23",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut needs a bold change, and a sale of the business is on the table - Yahoo Finance",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObXE4eFRQVlV3SjZlVzBGT2JqX3ZjaEQyWjQxRzhnSFpFUXJ3WVpxTWNYa3plV2hlMnJvbEpraENFc280V3JwM05jR0ZPMkNjUzNnb0hnM004Z3hwa3ZMR3RNdDAyV0dQT1g5cWJ4dl83XzJYb0Zxek5Hb3Y1VXEwUEpQMFgtdUV1ektQbEF3RzBHeEJ3UzdWdV9xOVN5bjhKS3JyNTZaUmpTZTNPQ2VTcDNrNEZ1aDFZa2c?oc=5\" target=\"_blank\"&gt;Pizza Hut needs a bold change, and a sale of the business is on the table&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXE4eFRQVlV3SjZlVzBGT2JqX3ZjaEQyWjQxRzhnSFpFUXJ3WVpxTWNYa3plV2hlMnJvbEpraENFc280V3JwM05jR0ZPMkNjUzNnb0hnM004Z3hwa3ZMR3RNdDAyV0dQT1g5cWJ4dl83XzJYb0Zxek5Hb3Y1VXEwUEpQMFgtdUV1ektQbEF3RzBHeEJ3UzdWdV9xOVN5bjhKS3JyNTZaUmpTZTNPQ2VTcDNrNEZ1aDFZa2c?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-04-23",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-04-22",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1049,24 +1085,6 @@
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "date": "2026-03-26",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Ex-Pizza Hut India MD Rohan Pewekar to Head PizzaExpress, Chili’s Operations - India Retailing",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSktLaUVvRHFpRHNoS1o1ZGp4RTJFNFJIMG9SeEZUV19QMjY3bmJObERzYVdBWE9sMzdQOXd0VE93SmhocHJtX25yQ29VdE1zN2lwbkJKUTZzWlRhTmsyMG5zajBhQTAzWkFyZU50RlVxUXN4UHY1RjduaFNjRUwxYXBOQURqWHVOZ0pGWXhLWWxNYXhtSS1yZ0tuVVFFZV9ITHhPQmRKSQ?oc=5\" target=\"_blank\"&gt;Ex-Pizza Hut India MD Rohan Pewekar to Head PizzaExpress, Chili’s Operations&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;India Retailing&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSktLaUVvRHFpRHNoS1o1ZGp4RTJFNFJIMG9SeEZUV19QMjY3bmJObERzYVdBWE9sMzdQOXd0VE93SmhocHJtX25yQ29VdE1zN2lwbkJKUTZzWlRhTmsyMG5zajBhQTAzWkFyZU50RlVxUXN4UHY1RjduaFNjRUwxYXBOQURqWHVOZ0pGWXhLWWxNYXhtSS1yZ0tuVVFFZV9ITHhPQmRKSQ?oc=5",
-      "source": "India Retailing",
-      "date": "2026-03-25",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-03-24",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
   "watchList": {
