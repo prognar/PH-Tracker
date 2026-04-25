@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T13:00:10.291Z",
+  "lastUpdated": "2026-04-25T13:00:09.511Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -943,6 +943,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-25",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
       "date": "2026-04-24",
       "summary": "Found 6 relevant news items. No specific buyers mentioned."
     },
@@ -1075,16 +1079,6 @@
     {
       "date": "2026-03-28",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Restaurant chain transforming former Pizza Hut building in St Helens - St Helens Star",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTJDRTZ0YkpFcVlMMXBxZHVzNEtHU2NRdEpCTkg3dGtHMHpHVmRmdGRGTTdnbUl3QUk4RENBRERJdXhuWFlKUVUyUkxtSDZsSU1XSzJhd3ZTZEZpOEhUTTdjUU9nSUtHelI3XzhObENqSU1GVzMtMDBxcHdsUHV4TzltQ0lENTRKbU9wdHUyR0xNVFAzOFlTX0RBcVctbmtqNlBoZjRGNnFxMmRIemVqX3lmSQ?oc=5\" target=\"_blank\"&gt;Restaurant chain transforming former Pizza Hut building in St Helens&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;St Helens Star&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTJDRTZ0YkpFcVlMMXBxZHVzNEtHU2NRdEpCTkg3dGtHMHpHVmRmdGRGTTdnbUl3QUk4RENBRERJdXhuWFlKUVUyUkxtSDZsSU1XSzJhd3ZTZEZpOEhUTTdjUU9nSUtHelI3XzhObENqSU1GVzMtMDBxcHdsUHV4TzltQ0lENTRKbU9wdHUyR0xNVFAzOFlTX0RBcVctbmtqNlBoZjRGNnFxMmRIemVqX3lmSQ?oc=5",
-      "source": "St Helens Star",
-      "date": "2026-03-28",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
