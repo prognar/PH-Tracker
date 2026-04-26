@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T13:00:09.511Z",
+  "lastUpdated": "2026-04-26T13:00:09.255Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-04-26",
+      "event": "Famous fried chicken brand to move into former Pizza Hut - Stourbridge News",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-04-23",
       "event": "Pizza Hut needs a bold change, and a sale of the business is on the table - Yahoo Finance",
       "impact": "low",
@@ -943,6 +949,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-26",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Famous fried chicken brand to move into former Pizza Hut - Stourbridge News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnR0RnFHMDd2MmZkbGpJMjRGa2p2MnVKSzBVM1pqWjhBWXp4YzQ0emk3MFpQd2hjVERpc05LSkxRQVpOemd3OVJHaDZsV0tvZnpBMy1aZXczR2g0ZWQ5b1JZVHJLYkY1N1V6RmNYVVo1R2t0ZC1jLTNwYXhKUm1hZ3VYZzA1ZER2aDFlTG5aMjBwaHh1N1JKUkln?oc=5\" target=\"_blank\"&gt;Famous fried chicken brand to move into former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stourbridge News&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnR0RnFHMDd2MmZkbGpJMjRGa2p2MnVKSzBVM1pqWjhBWXp4YzQ0emk3MFpQd2hjVERpc05LSkxRQVpOemd3OVJHaDZsV0tvZnpBMy1aZXczR2g0ZWQ5b1JZVHJLYkY1N1V6RmNYVVo1R2t0ZC1jLTNwYXhKUm1hZ3VYZzA1ZER2aDFlTG5aMjBwaHh1N1JKUkln?oc=5",
+      "source": "Stourbridge News",
+      "date": "2026-04-26",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-04-25",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
     },
@@ -1071,14 +1091,6 @@
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "date": "2026-03-29",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "date": "2026-03-28",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
   "watchList": {
