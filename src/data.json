@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T13:00:09.255Z",
+  "lastUpdated": "2026-04-27T13:00:10.287Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -949,6 +949,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-27",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Famous fried chicken brand to move into former Pizza Hut - The Worcester News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDRMV3VhNjVld0JnMjhwNzRDNG5UenFRVEFyZXRlUGlCREFCWC1QTmc5OWpMYWNSUEpPVF82SlpBR0E1NlRvX3Bobi1NRHVFd2l1VzRsSk9wV2lmakNDa3FjblVzSVlTVW50Z2xfRzh1N3lwX3Rmc0REVVlsOHN1SDUzelBkaUV2RmFrcWNidkNRdmZ0X0Fr?oc=5\" target=\"_blank\"&gt;Famous fried chicken brand to move into former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Worcester News&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDRMV3VhNjVld0JnMjhwNzRDNG5UenFRVEFyZXRlUGlCREFCWC1QTmc5OWpMYWNSUEpPVF82SlpBR0E1NlRvX3Bobi1NRHVFd2l1VzRsSk9wV2lmakNDa3FjblVzSVlTVW50Z2xfRzh1N3lwX3Rmc0REVVlsOHN1SDUzelBkaUV2RmFrcWNidkNRdmZ0X0Fr?oc=5",
+      "source": "The Worcester News",
+      "date": "2026-04-27",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-04-26",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1077,20 +1091,6 @@
     {
       "date": "2026-04-01",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "date": "2026-03-31",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Tacoverse takes over former Pizza Hut space in Chesterton - nwitimes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3hNeTNlQVdNZmNKb01Gb0NMdVlCbjZCNUdfQVJTYWxIdFYzenB6Q0xfOWRLbGtEUkVZME1mM3VhMHFpNm5KS3J0bmVXWUtlWDRtSzE1dTc2SW1hNThmX2NZS0g1Nm1YRC1FSnhMTDFyS1RuYkFxb1E2RDVmM2xHWkNWNE41TVJu?oc=5\" target=\"_blank\"&gt;Tacoverse takes over former Pizza Hut space in Chesterton&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;nwitimes.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3hNeTNlQVdNZmNKb01Gb0NMdVlCbjZCNUdfQVJTYWxIdFYzenB6Q0xfOWRLbGtEUkVZME1mM3VhMHFpNm5KS3J0bmVXWUtlWDRtSzE1dTc2SW1hNThmX2NZS0g1Nm1YRC1FSnhMTDFyS1RuYkFxb1E2RDVmM2xHWkNWNE41TVJu?oc=5",
-      "source": "nwitimes.com",
-      "date": "2026-03-31",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
