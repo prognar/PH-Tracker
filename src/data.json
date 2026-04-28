@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T13:00:10.287Z",
+  "lastUpdated": "2026-04-28T13:00:09.990Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,24 @@
   ],
   "timeline": [
     {
+      "date": "2026-04-28",
+      "event": "BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO - 아시아경제",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-04-28",
+      "event": "BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief - Seoul Economic Daily",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-04-28",
+      "event": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-04-26",
       "event": "Famous fried chicken brand to move into former Pizza Hut - Stourbridge News",
       "impact": "medium",
@@ -939,15 +957,53 @@
       "event": "Blackstone completes Jersey Mike's acquisition ($8B)",
       "impact": "medium",
       "type": "competitor"
-    },
-    {
-      "date": "2025-01-30",
-      "event": "77 Pizza Hut restaurants sold at bankruptcy auction (EYM Group)",
-      "impact": "low",
-      "type": "related"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-04-28",
+      "summary": "Found 5 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2V0WndvVm5pTzE5RnM0VlZiZFB6NHU2SVNlUjFJc0JnOXRSeC1mbDhGNG9NeG41WTVFS2xQSkw2cnA2SVgteEp6djVRakc5Yzk3VXpfbkFYNmNGc1hYcW41WFdjSEtXS20zZFQ4dkZNeHdWTTFOekNLaUQzOW5mNkFQNDR1cEREaTJBV012TEJmNVhuRjl0VkItVHBDejA?oc=5\" target=\"_blank\"&gt;Maybe a sale really would be the best thing for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2V0WndvVm5pTzE5RnM0VlZiZFB6NHU2SVNlUjFJc0JnOXRSeC1mbDhGNG9NeG41WTVFS2xQSkw2cnA2SVgteEp6djVRakc5Yzk3VXpfbkFYNmNGc1hYcW41WFdjSEtXS20zZFQ4dkZNeHdWTTFOekNLaUQzOW5mNkFQNDR1cEREaTJBV012TEJmNVhuRjl0VkItVHBDejA?oc=5",
+      "source": "Restaurant Business",
+      "date": "2026-04-28",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2V0WndvVm5pTzE5RnM0VlZiZFB6NHU2SVNlUjFJc0JnOXRSeC1mbDhGNG9NeG41WTVFS2xQSkw2cnA2SVgteEp6djVRakc5Yzk3VXpfbkFYNmNGc1hYcW41WFdjSEtXS20zZFQ4dkZNeHdWTTFOekNLaUQzOW5mNkFQNDR1cEREaTJBV012TEJmNVhuRjl0VkItVHBDejA?oc=5\" target=\"_blank\"&gt;Maybe a sale really would be the best thing for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2V0WndvVm5pTzE5RnM0VlZiZFB6NHU2SVNlUjFJc0JnOXRSeC1mbDhGNG9NeG41WTVFS2xQSkw2cnA2SVgteEp6djVRakc5Yzk3VXpfbkFYNmNGc1hYcW41WFdjSEtXS20zZFQ4dkZNeHdWTTFOekNLaUQzOW5mNkFQNDR1cEREaTJBV012TEJmNVhuRjl0VkItVHBDejA?oc=5",
+      "source": "Restaurant Business",
+      "date": "2026-04-28",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief - Seoul Economic Daily",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHBCWnNnWFFKaWl2UFlfbjB3NUJMaHJ0OTEycmw1R1pWM2FzVjRNZGdLVWxSckdaLVl1X3h6d21aM3ZUYnJxNHYtcFViQnNxT3d4VVdzRFBDMHBvcnlMQ2tTRVFPNnRZQkUxTG84THRud1BzcDlNWFgyZmpSay1HcE5nTkxMTHV1TXdDcU1tV2JXV1FtdmhvVURxX2h0bmlwTGc?oc=5\" target=\"_blank\"&gt;BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Seoul Economic Daily&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHBCWnNnWFFKaWl2UFlfbjB3NUJMaHJ0OTEycmw1R1pWM2FzVjRNZGdLVWxSckdaLVl1X3h6d21aM3ZUYnJxNHYtcFViQnNxT3d4VVdzRFBDMHBvcnlMQ2tTRVFPNnRZQkUxTG84THRud1BzcDlNWFgyZmpSay1HcE5nTkxMTHV1TXdDcU1tV2JXV1FtdmhvVURxX2h0bmlwTGc?oc=5",
+      "source": "Seoul Economic Daily",
+      "date": "2026-04-28",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO - 아시아경제",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZklEYlVUZUN0Q0xva0NwcmRPUVdEbUdqV1dLQVg0RWRCU0s0Z2hqa05BM3pYZ3FYVzBsMFZOMGFTbk9rRnNpNU5XLVVsYXBjeTlBWkRyQ1NYazJKTjJ1YmlWLVM?oc=5\" target=\"_blank\"&gt;BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;아시아경제&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZklEYlVUZUN0Q0xva0NwcmRPUVdEbUdqV1dLQVg0RWRCU0s0Z2hqa05BM3pYZ3FYVzBsMFZOMGFTbk9rRnNpNU5XLVVsYXBjeTlBWkRyQ1NYazJKTjJ1YmlWLVM?oc=5",
+      "source": "아시아경제",
+      "date": "2026-04-28",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-04-27",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1059,38 +1115,6 @@
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-16",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Yum Sets A Bid Deadline For Pizza Hut Sale - Finimize",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1yT25lVW04Mzd0c2FGcnF5UGZFdmxHVTZoR2ZSenZaVnhRbzNjbUhHbENSQkd5UVZDUDVhY183VmRJbWtGa2dpY2t3NjJXbkhja1VkQmRBc0lIdElwbGhNZlZWQ0poYXF2c3psMmJGMFdtVWQ5UXI2SFBiUQ?oc=5\" target=\"_blank\"&gt;Yum Sets A Bid Deadline For Pizza Hut Sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Finimize&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yT25lVW04Mzd0c2FGcnF5UGZFdmxHVTZoR2ZSenZaVnhRbzNjbUhHbENSQkd5UVZDUDVhY183VmRJbWtGa2dpY2t3NjJXbkhja1VkQmRBc0lIdElwbGhNZlZWQ0poYXF2c3psMmJGMFdtVWQ5UXI2SFBiUQ?oc=5",
-      "source": "Finimize",
-      "date": "2026-04-15",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-14",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "City Council Approves TIF Funding For Restaurant In Former Pizza Hut Location - WSJD 100.5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZV9jaTJORnFuZ2dOekNzeHVua2xfR1d3MndvVXhnNU5pZnhleXVCU0h2VWhfMmtPZnVTeE1hdEJtYmVNRVlmZDZROGJGQWhDbmtVWHJzNngwd3pfb2hPN1d3M1ctdWxneDNsWHk4UEY4eVJRZGZYZi0tUVJlbW9SbHg1QlAyUE1jRDM5QkEwVGZUVTM3NUpFOVJqU3p6TjloRUczRzNEQzZaX1hudnkybWhqNFk?oc=5\" target=\"_blank\"&gt;City Council Approves TIF Funding For Restaurant In Former Pizza Hut Location&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;WSJD 100.5&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZV9jaTJORnFuZ2dOekNzeHVua2xfR1d3MndvVXhnNU5pZnhleXVCU0h2VWhfMmtPZnVTeE1hdEJtYmVNRVlmZDZROGJGQWhDbmtVWHJzNngwd3pfb2hPN1d3M1ctdWxneDNsWHk4UEY4eVJRZGZYZi0tUVJlbW9SbHg1QlAyUE1jRDM5QkEwVGZUVTM3NUpFOVJqU3p6TjloRUczRzNEQzZaX1hudnkybWhqNFk?oc=5",
-      "source": "WSJD 100.5",
-      "date": "2026-04-14",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-01",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
   "watchList": {
