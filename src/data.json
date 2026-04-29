@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T13:00:09.990Z",
+  "lastUpdated": "2026-04-29T13:00:09.943Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -961,6 +961,50 @@
   ],
   "recentNews": [
     {
+      "date": "2026-04-29",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5\" target=\"_blank\"&gt;Maybe a sale really would be the best thing for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5",
+      "source": "Restaurant Business",
+      "date": "2026-04-28",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5\" target=\"_blank\"&gt;Maybe a sale really would be the best thing for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5",
+      "source": "Restaurant Business",
+      "date": "2026-04-28",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief - Seoul Economic Daily",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQaUF2WFpaV2RwUEFYLVgyZGN0RkFub1JEbVpibUVzdzZwRmNCUkp3TUlQc0ktWENOV3ZHR1c3MjVRM0hBUllzQjJYZ3hWX2MwTTRoOFNPYVJ1RTZ4cEdibzRqaXlaRVAwQlZSZ2Z2MFdGSDFaeUp2djBYeldvTXg5ZU16LVN0QTdhQWlOWHlPSnROQjJWUUl6X2M4d3NjQQ?oc=5\" target=\"_blank\"&gt;BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Seoul Economic Daily&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUF2WFpaV2RwUEFYLVgyZGN0RkFub1JEbVpibUVzdzZwRmNCUkp3TUlQc0ktWENOV3ZHR1c3MjVRM0hBUllzQjJYZ3hWX2MwTTRoOFNPYVJ1RTZ4cEdibzRqaXlaRVAwQlZSZ2Z2MFdGSDFaeUp2djBYeldvTXg5ZU16LVN0QTdhQWlOWHlPSnROQjJWUUl6X2M4d3NjQQ?oc=5",
+      "source": "Seoul Economic Daily",
+      "date": "2026-04-28",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO - 아시아경제",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1SYm1RU2c4RThUVGQ3LWVoeUw4TlJPQk5JV0FNUHAzOUoyYWlVeUVJNFVSVGZZMjFlV1ZBOXF5ZGFYdTFocGNSRXNxWDlKYTZxSW1CcWphNVRhbE11NkMtMHdFOUo3NmVob08teU1JVQ?oc=5\" target=\"_blank\"&gt;BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;아시아경제&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SYm1RU2c4RThUVGQ3LWVoeUw4TlJPQk5JV0FNUHAzOUoyYWlVeUVJNFVSVGZZMjFlV1ZBOXF5ZGFYdTFocGNSRXNxWDlKYTZxSW1CcWphNVRhbE11NkMtMHdFOUo3NmVob08teU1JVQ?oc=5",
+      "source": "아시아경제",
+      "date": "2026-04-28",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-04-28",
       "summary": "Found 5 relevant news items. No specific buyers mentioned."
     },
@@ -1077,44 +1121,6 @@
     {
       "date": "2026-04-21",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "date": "2026-04-20",
-      "summary": "Found 2 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Papa John’s and Pizza Hut sales gather momentum - MCA Insight",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPNXctUThiNnVSYzNmOHBzcW52dzhIWjBuTWlvSW1xMTNoVU53bXBEcG16WklfRzJqYS1wZHY1VmN3QjNlTVkyWDNpX1hPSmV4U29NMDNmT1VPWHRXQXVSak5LNjdwdGMwNnhWbEowa1BiVTlZRjFQNFh2aXFJeWpLTFh0VEltRFo5T2xiQ2NKVHNaa09Zd21pVnpDUXAzdw?oc=5\" target=\"_blank\"&gt;Papa John’s and Pizza Hut sales gather momentum&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MCA Insight&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNXctUThiNnVSYzNmOHBzcW52dzhIWjBuTWlvSW1xMTNoVU53bXBEcG16WklfRzJqYS1wZHY1VmN3QjNlTVkyWDNpX1hPSmV4U29NMDNmT1VPWHRXQXVSak5LNjdwdGMwNnhWbEowa1BiVTlZRjFQNFh2aXFJeWpLTFh0VEltRFo5T2xiQ2NKVHNaa09Zd21pVnpDUXAzdw?oc=5",
-      "source": "MCA Insight",
-      "date": "2026-04-20",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "What's going into the former Pizza Hut on Bloomington's east side? - The Herald-Times",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkJVb244OUZCMUhId1QzbnFjQjFkZ2FnLWJ2TTgySFlIWjNSRnoxamtDWXZEZ3o4VHVOZm5rMlNiQlhvSE16YklBUl93eFlnZ1FhbklZMDVsWkNUSG1IY2FFUkpPMl92OGpEM1Mxdi1PZ0RfVmhaZ20yWW01TVVvdDZYQm9yZnJiYUJHMmhJUm9VOGM0QVZKTDZaVHdCMUoxMTBralJFZ0ZrUHF4dUdXV2hiN3p3UE0tVlJwcmZBUURmRlRBX0M1aWxHbkk?oc=5\" target=\"_blank\"&gt;What's going into the former Pizza Hut on Bloomington's east side?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Herald-Times&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkJVb244OUZCMUhId1QzbnFjQjFkZ2FnLWJ2TTgySFlIWjNSRnoxamtDWXZEZ3o4VHVOZm5rMlNiQlhvSE16YklBUl93eFlnZ1FhbklZMDVsWkNUSG1IY2FFUkpPMl92OGpEM1Mxdi1PZ0RfVmhaZ20yWW01TVVvdDZYQm9yZnJiYUJHMmhJUm9VOGM0QVZKTDZaVHdCMUoxMTBralJFZ0ZrUHF4dUdXV2hiN3p3UE0tVlJwcmZBUURmRlRBX0M1aWxHbkk?oc=5",
-      "source": "The Herald-Times",
-      "date": "2026-04-20",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-17",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Papa John's, Pizza Hut near deals as buyers circle chains - Big News Network.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVE5eHdLbFJaT2MwSWJ6T0x3Y091UHprN3IwaU9DVkI1Tm5rMHNPU1VwLU1IU1padGw0ejZsU3FXTlZOaHVlWFpIRkNTa04weUx1S0JCWlhmWUtkS29VMGd0YVJuaWJCR3RCQ3VzYXlxM1dPZEZXeGxqRFZjdGxnSTUwYXY4MjZ2b0hFTllhUWRKRVNDZzFlaERLMXdMeTRiTFhJ?oc=5\" target=\"_blank\"&gt;Papa John's, Pizza Hut near deals as buyers circle chains&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Big News Network.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVE5eHdLbFJaT2MwSWJ6T0x3Y091UHprN3IwaU9DVkI1Tm5rMHNPU1VwLU1IU1padGw0ejZsU3FXTlZOaHVlWFpIRkNTa04weUx1S0JCWlhmWUtkS29VMGd0YVJuaWJCR3RCQ3VzYXlxM1dPZEZXeGxqRFZjdGxnSTUwYXY4MjZ2b0hFTllhUWRKRVNDZzFlaERLMXdMeTRiTFhJ?oc=5",
-      "source": "Big News Network.com",
-      "date": "2026-04-16",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
