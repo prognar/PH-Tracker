@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T13:00:09.943Z",
+  "lastUpdated": "2026-05-02T13:00:09.889Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-01",
+      "event": "Pizza Hut franchisee collapses into administration – 30 sites sold - Daily Express",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-04-28",
       "event": "BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO - 아시아경제",
       "impact": "medium",
@@ -951,15 +957,33 @@
       "event": "Roark acquires Dave's Hot Chicken",
       "impact": "low",
       "type": "competitor"
-    },
-    {
-      "date": "2025-01-16",
-      "event": "Blackstone completes Jersey Mike's acquisition ($8B)",
-      "impact": "medium",
-      "type": "competitor"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-02",
+      "summary": "Found 2 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchisee collapses into administration – 30 sites sold - Daily Express",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzNiRnlZSWZoWWtDd0ptSS04ZEp0OXlKcnZUdGFFa1pUYnlaNFpyUFFwa3FrZFQ5YVNSeTcybUJRbnhha21nemd4UWFMV1lleHlVRi1BU19nc3k2aXVaYjd5bE1mR0dnQjgtYnVKVDBwc19nUFFpYzZqNE1KVExyNTBLONIBiAFBVV95cUxQNGRBX2pYbkNSYWx1U2Nlc3Q5RjA0YTRkbl9yYkwwNUZTQjMxTFFKb0Y4TkpCZnlwcklKelExYXZlU0xuaWMtbGpmQXV5NkdwdGp4dDA3WjdYUWxUamdnbkd3VS1GREZnanMtYk9fanlwY3RiUFZtUTFWcjdIT1JGZ0lwMngwNmNo?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee collapses into administration – 30 sites sold&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Express&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzNiRnlZSWZoWWtDd0ptSS04ZEp0OXlKcnZUdGFFa1pUYnlaNFpyUFFwa3FrZFQ5YVNSeTcybUJRbnhha21nemd4UWFMV1lleHlVRi1BU19nc3k2aXVaYjd5bE1mR0dnQjgtYnVKVDBwc19nUFFpYzZqNE1KVExyNTBLONIBiAFBVV95cUxQNGRBX2pYbkNSYWx1U2Nlc3Q5RjA0YTRkbl9yYkwwNUZTQjMxTFFKb0Y4TkpCZnlwcklKelExYXZlU0xuaWMtbGpmQXV5NkdwdGp4dDA3WjdYUWxUamdnbkd3VS1GREZnanMtYk9fanlwY3RiUFZtUTFWcjdIT1JGZ0lwMngwNmNo?oc=5",
+      "source": "Daily Express",
+      "date": "2026-05-01",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "negative"
+    },
+    {
+      "title": "Pizza Hut franchisee collapses into administration - 30 sites sold - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWJZNW8xLWpYWmZ5TzVRYmlCdG8yRGpRN09KY0tNZTNmRENfN2lyNFBMeml1d0hIbVhSVHV4djZjOGQ3SEZNZDBfWUl6bkFMckw5dU94WE53eldWSE9yaHp5R29xdHFnWlpLYXBkRHVuSFZrRkd0R2hZeE1SUXEyQks0bEsxa2tpZ1VoVUE1MS1jQmJjREtjcFkxTm11YWdQeExkTVNDcjdDV1pQMk1RbC1MbkppUXBuZThtek9ydDQ3NkpsVnFXX01yZnBSUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee collapses into administration - 30 sites sold&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWJZNW8xLWpYWmZ5TzVRYmlCdG8yRGpRN09KY0tNZTNmRENfN2lyNFBMeml1d0hIbVhSVHV4djZjOGQ3SEZNZDBfWUl6bkFMckw5dU94WE53eldWSE9yaHp5R29xdHFnWlpLYXBkRHVuSFZrRkd0R2hZeE1SUXEyQks0bEsxa2tpZ1VoVUE1MS1jQmJjREtjcFkxTm11YWdQeExkTVNDcjdDV1pQMk1RbC1MbkppUXBuZThtek9ydDQ3NkpsVnFXX01yZnBSUQ?oc=5",
+      "source": "MSN",
+      "date": "2026-05-01",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "negative"
+    },
     {
       "date": "2026-04-29",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
@@ -1103,24 +1127,6 @@
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-22",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "On Verge of Potential Sale, Pizza Hut Remains a Brand in Transition - QSR Magazine",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGZjU0pBNE1aQkRETUxCQWk3VEdNeGpjVngyTkJOZTU1WnhJTWlwX3lWZE9QMm5IVTlVMVdDYjh4OTlNYjFjQ2lWQWlEX01TbUQ2UXJMRDNQcmJ1eGVWeTBDeFBFZjFMYzRST19FQkYwak5wME5EcnJudVlEbWFmRnVJanZzRGdMZ3NPVTd0NThxeXNkUzUzb0RHTWp1Z0dBa3Nr?oc=5\" target=\"_blank\"&gt;On Verge of Potential Sale, Pizza Hut Remains a Brand in Transition&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Magazine&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGZjU0pBNE1aQkRETUxCQWk3VEdNeGpjVngyTkJOZTU1WnhJTWlwX3lWZE9QMm5IVTlVMVdDYjh4OTlNYjFjQ2lWQWlEX01TbUQ2UXJMRDNQcmJ1eGVWeTBDeFBFZjFMYzRST19FQkYwak5wME5EcnJudVlEbWFmRnVJanZzRGdMZ3NPVTd0NThxeXNkUzUzb0RHTWp1Z0dBa3Nr?oc=5",
-      "source": "QSR Magazine",
-      "date": "2026-04-21",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-21",
-      "summary": "Found 2 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
