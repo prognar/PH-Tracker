@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T13:00:08.260Z",
+  "lastUpdated": "2026-05-12T13:00:08.290Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-12",
+      "event": "Progress on work to transform former Pizza Hut into takeaway - Yahoo News UK",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-05-01",
       "event": "Pizza Hut franchisee collapses into administration – 30 sites sold - Daily Express",
       "impact": "medium",
@@ -951,15 +957,23 @@
       "event": "Chequan Lewis (Pizza Hut US President) departs for CEO role at Crunch Fitness",
       "impact": "medium",
       "type": "executive"
-    },
-    {
-      "date": "2025-02-25",
-      "event": "Roark acquires Dave's Hot Chicken",
-      "impact": "low",
-      "type": "competitor"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-12",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Progress on work to transform former Pizza Hut into takeaway - Yahoo News UK",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFZzUlRDbklRUVE2N2RvNm45MTAwMnc1UWRRSG1BdFd6anhLWWtLSFZuRi1NMnhEZnNHTnktYzhwd0ZtMWIzbmxDZHgzdlEzVGxHREJmb3lqeTRodmlnOXdDeW9FWkxSSGF2OFg5TU9nV19halpWQTEzdjZKN3hSd1lR?oc=5\" target=\"_blank\"&gt;Progress on work to transform former Pizza Hut into takeaway&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News UK&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFZzUlRDbklRUVE2N2RvNm45MTAwMnc1UWRRSG1BdFd6anhLWWtLSFZuRi1NMnhEZnNHTnktYzhwd0ZtMWIzbmxDZHgzdlEzVGxHREJmb3lqeTRodmlnOXdDeW9FWkxSSGF2OFg5TU9nV19halpWQTEzdjZKN3hSd1lR?oc=5",
+      "source": "Yahoo News UK",
+      "date": "2026-05-12",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-02",
       "summary": "Found 2 relevant news items. No specific buyers mentioned."
@@ -1107,26 +1121,6 @@
     {
       "date": "2026-04-24",
       "summary": "Found 6 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Yum! Brands explores Pizza Hut sale amid turnaround push - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0I3M0gwcUZLcGV3RC1GWmRNN3c5ZUMwYm5nNWtWdTFZXzRkbFUyeDhBMHVkNXBpRFEtR1lUUlBqaE94ZmVEVFpSNnJjX0xLMFltWEpQMWNHdmJfTkZRb3llR0dfa2w2U1BZck9adHprS0hTTWlRYmpDcVVWNG1ic0tPdWRDSWEzWWVLeWRqazBka1ZuQmFoZjNnSjNSanMwQUgyVUtUbV8wdw?oc=5\" target=\"_blank\"&gt;Yum! Brands explores Pizza Hut sale amid turnaround push&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0I3M0gwcUZLcGV3RC1GWmRNN3c5ZUMwYm5nNWtWdTFZXzRkbFUyeDhBMHVkNXBpRFEtR1lUUlBqaE94ZmVEVFpSNnJjX0xLMFltWEpQMWNHdmJfTkZRb3llR0dfa2w2U1BZck9adHprS0hTTWlRYmpDcVVWNG1ic0tPdWRDSWEzWWVLeWRqazBka1ZuQmFoZjNnSjNSanMwQUgyVUtUbV8wdw?oc=5",
-      "source": "MSN",
-      "date": "2026-04-23",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut needs a bold change, and a sale of the business is on the table - Yahoo Finance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObXE4eFRQVlV3SjZlVzBGT2JqX3ZjaEQyWjQxRzhnSFpFUXJ3WVpxTWNYa3plV2hlMnJvbEpraENFc280V3JwM05jR0ZPMkNjUzNnb0hnM004Z3hwa3ZMR3RNdDAyV0dQT1g5cWJ4dl83XzJYb0Zxek5Hb3Y1VXEwUEpQMFgtdUV1ektQbEF3RzBHeEJ3UzdWdV9xOVN5bjhKS3JyNTZaUmpTZTNPQ2VTcDNrNEZ1aDFZa2c?oc=5\" target=\"_blank\"&gt;Pizza Hut needs a bold change, and a sale of the business is on the table&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXE4eFRQVlV3SjZlVzBGT2JqX3ZjaEQyWjQxRzhnSFpFUXJ3WVpxTWNYa3plV2hlMnJvbEpraENFc280V3JwM05jR0ZPMkNjUzNnb0hnM004Z3hwa3ZMR3RNdDAyV0dQT1g5cWJ4dl83XzJYb0Zxek5Hb3Y1VXEwUEpQMFgtdUV1ektQbEF3RzBHeEJ3UzdWdV9xOVN5bjhKS3JyNTZaUmpTZTNPQ2VTcDNrNEZ1aDFZa2c?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-04-23",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
