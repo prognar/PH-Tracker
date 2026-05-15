@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T13:00:08.708Z",
+  "lastUpdated": "2026-05-15T13:00:08.598Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,24 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-15",
+      "event": "Chopstix secures flagship Glasgow Four Corners restaurant at former Pizza Hut - Glasgow Live",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-14",
+      "event": "Former Pizza Hut Getting New Look, New Mission In Brick - Patch",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-14",
+      "event": "Pizza Hut franchisee says AI caused $100M in damages - Restaurant Dive",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-05-12",
       "event": "Progress on work to transform former Pizza Hut into takeaway - Yahoo News UK",
       "impact": "medium",
@@ -939,27 +957,43 @@
       "event": "Chris Turner takes over as Yum! Brands CEO; David Gibbs retires after 37 years",
       "impact": "high",
       "type": "executive"
-    },
-    {
-      "date": "2025-10-15",
-      "event": "Pizza Hut UK franchisee in talks with Directional Capital",
-      "impact": "medium",
-      "type": "related"
-    },
-    {
-      "date": "2024-12-01",
-      "event": "David Graves (Pizza Hut CBO) leaves for President role at Arby's/Inspire Brands",
-      "impact": "high",
-      "type": "executive"
-    },
-    {
-      "date": "2024-11-01",
-      "event": "Chequan Lewis (Pizza Hut US President) departs for CEO role at Crunch Fitness",
-      "impact": "medium",
-      "type": "executive"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-15",
+      "summary": "Found 3 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchisee says AI caused $100M in damages - Restaurant Dive",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSE5zd2dqUkw3c3MyOUlQYXdlbHQxazRyeFRacHVyT1BWeEdKQmRkM0ZQMU42WEJGUmdxUEZNc2J4SHp2RGowb2pxZG1ONkNCeDVxMUNHTFlYbTgxVE1Bc05aY0dmdlluMUpfa3AweWdfeDlaRXF3ZDZPNjBDYnByUzBfSmpDR2hGMDg3aEhjdUFMX2oydVF2c2J4dXZFVThiLWloaHdncFE0NFRC?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says AI caused $100M in damages&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Dive&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSE5zd2dqUkw3c3MyOUlQYXdlbHQxazRyeFRacHVyT1BWeEdKQmRkM0ZQMU42WEJGUmdxUEZNc2J4SHp2RGowb2pxZG1ONkNCeDVxMUNHTFlYbTgxVE1Bc05aY0dmdlluMUpfa3AweWdfeDlaRXF3ZDZPNjBDYnByUzBfSmpDR2hGMDg3aEhjdUFMX2oydVF2c2J4dXZFVThiLWloaHdncFE0NFRC?oc=5",
+      "source": "Restaurant Dive",
+      "date": "2026-05-14",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Former Pizza Hut Getting New Look, New Mission In Brick - Patch",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHBocV9pbl8yWXljZF9KY0tOQ1BubnNwZWRHdVhTRDJDc0tCUXQ3cjlVT3FXZl9ZUFJqSllZLVA1UWEtYWdHTmFZOHhKYW4zVDRabE5OYzkwR3k4ZDRGeXhDcF9YZ2E5LUJoNWRsazdfVjV2TkZVdE81cXZIZHdfRGRXeGFNaEc2VHFPVTNpWdIBpAFBVV95cUxNenAzcGpfcjh4cDVnV2pFY3c5LTNjWjlVdGNTVmdHTFpqQzZCTC1ONjJlQ1hRcGdPdE53WUJDOWZuMmlGcUVpVVZ4U1ZxdTdYRG1NaXVqSURnVXB3czdTWV9tQzlJTWRCZUhLQjhmX2lRalhJS3VpWTlCR2o0UDBTYmhQNEQtR0pHcmJtRHlSYmZxMFQ0VzlfMm9NZXBzdzRiYmpNYg?oc=5\" target=\"_blank\"&gt;Former Pizza Hut Getting New Look, New Mission In Brick&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Patch&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHBocV9pbl8yWXljZF9KY0tOQ1BubnNwZWRHdVhTRDJDc0tCUXQ3cjlVT3FXZl9ZUFJqSllZLVA1UWEtYWdHTmFZOHhKYW4zVDRabE5OYzkwR3k4ZDRGeXhDcF9YZ2E5LUJoNWRsazdfVjV2TkZVdE81cXZIZHdfRGRXeGFNaEc2VHFPVTNpWdIBpAFBVV95cUxNenAzcGpfcjh4cDVnV2pFY3c5LTNjWjlVdGNTVmdHTFpqQzZCTC1ONjJlQ1hRcGdPdE53WUJDOWZuMmlGcUVpVVZ4U1ZxdTdYRG1NaXVqSURnVXB3czdTWV9tQzlJTWRCZUhLQjhmX2lRalhJS3VpWTlCR2o0UDBTYmhQNEQtR0pHcmJtRHlSYmZxMFQ0VzlfMm9NZXBzdzRiYmpNYg?oc=5",
+      "source": "Patch",
+      "date": "2026-05-14",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Chopstix secures flagship Glasgow Four Corners restaurant at former Pizza Hut - Glasgow Live",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVplQ1Z3SGdPQjNhOWQ2dk5MUFRMN2Z5Tjg4Rl9GNE5zRUFaQjU2Y1hfc3JEbG8za2ZjWTl5WE5GWXFadkYtNURVVjcxaVowbjREdE14U0JvaTVZYzhTbGRBeVZ4SlE0bkMxcUFua2ZBX1NhTmRPQ1Z3QjhoTjNOWENiUTFqVEdUYWttVUZwZ9IBlAFBVV95cUxNeWdxSG1iaXRmRXd2M1lJdEFhQkVHM2d3cVp6aUhmOXE3YUxkeGkxbVZHVUtrRHczTzFOQl9Zd2dxWG9WWlVTd3dxcjlUNnN1Wk9SUVFPN3VmMHM1N2ZxcUl2VWYxTkI3LVhUUTdjTTRJX2d0NmxEc1pHaUlTNzVSN3ZQSVJHS24wU2w4aWZZZHJmMDNz?oc=5\" target=\"_blank\"&gt;Chopstix secures flagship Glasgow Four Corners restaurant at former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Glasgow Live&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVplQ1Z3SGdPQjNhOWQ2dk5MUFRMN2Z5Tjg4Rl9GNE5zRUFaQjU2Y1hfc3JEbG8za2ZjWTl5WE5GWXFadkYtNURVVjcxaVowbjREdE14U0JvaTVZYzhTbGRBeVZ4SlE0bkMxcUFua2ZBX1NhTmRPQ1Z3QjhoTjNOWENiUTFqVEdUYWttVUZwZ9IBlAFBVV95cUxNeWdxSG1iaXRmRXd2M1lJdEFhQkVHM2d3cVp6aUhmOXE3YUxkeGkxbVZHVUtrRHczTzFOQl9Zd2dxWG9WWlVTd3dxcjlUNnN1Wk9SUVFPN3VmMHM1N2ZxcUl2VWYxTkI3LVhUUTdjTTRJX2d0NmxEc1pHaUlTNzVSN3ZQSVJHS24wU2w4aWZZZHJmMDNz?oc=5",
+      "source": "Glasgow Live",
+      "date": "2026-05-15",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-13",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1093,34 +1127,6 @@
     {
       "date": "2026-04-27",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Famous fried chicken brand to move into former Pizza Hut - The Worcester News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDRMV3VhNjVld0JnMjhwNzRDNG5UenFRVEFyZXRlUGlCREFCWC1QTmc5OWpMYWNSUEpPVF82SlpBR0E1NlRvX3Bobi1NRHVFd2l1VzRsSk9wV2lmakNDa3FjblVzSVlTVW50Z2xfRzh1N3lwX3Rmc0REVVlsOHN1SDUzelBkaUV2RmFrcWNidkNRdmZ0X0Fr?oc=5\" target=\"_blank\"&gt;Famous fried chicken brand to move into former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Worcester News&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDRMV3VhNjVld0JnMjhwNzRDNG5UenFRVEFyZXRlUGlCREFCWC1QTmc5OWpMYWNSUEpPVF82SlpBR0E1NlRvX3Bobi1NRHVFd2l1VzRsSk9wV2lmakNDa3FjblVzSVlTVW50Z2xfRzh1N3lwX3Rmc0REVVlsOHN1SDUzelBkaUV2RmFrcWNidkNRdmZ0X0Fr?oc=5",
-      "source": "The Worcester News",
-      "date": "2026-04-27",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-26",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Famous fried chicken brand to move into former Pizza Hut - Stourbridge News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnR0RnFHMDd2MmZkbGpJMjRGa2p2MnVKSzBVM1pqWjhBWXp4YzQ0emk3MFpQd2hjVERpc05LSkxRQVpOemd3OVJHaDZsV0tvZnpBMy1aZXczR2g0ZWQ5b1JZVHJLYkY1N1V6RmNYVVo1R2t0ZC1jLTNwYXhKUm1hZ3VYZzA1ZER2aDFlTG5aMjBwaHh1N1JKUkln?oc=5\" target=\"_blank\"&gt;Famous fried chicken brand to move into former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stourbridge News&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnR0RnFHMDd2MmZkbGpJMjRGa2p2MnVKSzBVM1pqWjhBWXp4YzQ0emk3MFpQd2hjVERpc05LSkxRQVpOemd3OVJHaDZsV0tvZnpBMy1aZXczR2g0ZWQ5b1JZVHJLYkY1N1V6RmNYVVo1R2t0ZC1jLTNwYXhKUm1hZ3VYZzA1ZER2aDFlTG5aMjBwaHh1N1JKUkln?oc=5",
-      "source": "Stourbridge News",
-      "date": "2026-04-26",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-25",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
