@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T13:00:08.415Z",
+  "lastUpdated": "2026-05-17T13:00:08.376Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-16",
+      "event": "Pizza Hut Franchisee Is Converting 80 Restaurants, Vows To Bring Nostalgia: \"Pizza Hut Classic\" - Wi",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-05-15",
       "event": "Chopstix secures flagship Glasgow Four Corners restaurant at former Pizza Hut - Glasgow Live",
       "impact": "medium",
@@ -951,15 +957,23 @@
       "event": "Pizza Hut Q3: US same-store sales down 6%, 8th consecutive quarter of decline",
       "impact": "high",
       "type": "financial"
-    },
-    {
-      "date": "2025-09-30",
-      "event": "Chris Turner takes over as Yum! Brands CEO; David Gibbs retires after 37 years",
-      "impact": "high",
-      "type": "executive"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-17",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut Franchisee Is Converting 80 Restaurants, Vows To Bring Nostalgia: \"Pizza Hut Classic\" - Wide Open Country",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnNrVVJVeEpwR1F6YVBUbm5OZHlPZFhIYkxSRHNidm1oY3dUX2x5VFNsNU9ZVGFsWjhNMHlWS1dSQmlQemstUHJaX1k2Q1ZXRzc3UnAxVkFBQnFfY0hKZFhhc0NCYVdobmplNnMybW1vRmNENUxYSWNydHJwUWFDSDcybWFpU1RiQnJ0dTFsTGxHOExVV253NFo4aUZkaHJDR3FDU3RsMS1JYTFtWVhNb0VvZlZad1l6aC1ENFNzSE45QQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Is Converting 80 Restaurants, Vows To Bring Nostalgia: \"Pizza Hut Classic\"&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Wide Open Country&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnNrVVJVeEpwR1F6YVBUbm5OZHlPZFhIYkxSRHNidm1oY3dUX2x5VFNsNU9ZVGFsWjhNMHlWS1dSQmlQemstUHJaX1k2Q1ZXRzc3UnAxVkFBQnFfY0hKZFhhc0NCYVdobmplNnMybW1vRmNENUxYSWNydHJwUWFDSDcybWFpU1RiQnJ0dTFsTGxHOExVV253NFo4aUZkaHJDR3FDU3RsMS1JYTFtWVhNb0VvZlZad1l6aC1ENFNzSE45QQ?oc=5",
+      "source": "Wide Open Country",
+      "date": "2026-05-16",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-16",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1105,26 +1119,6 @@
       "source": "Restaurant Business",
       "date": "2026-04-28",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief - Seoul Economic Daily",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHBCWnNnWFFKaWl2UFlfbjB3NUJMaHJ0OTEycmw1R1pWM2FzVjRNZGdLVWxSckdaLVl1X3h6d21aM3ZUYnJxNHYtcFViQnNxT3d4VVdzRFBDMHBvcnlMQ2tTRVFPNnRZQkUxTG84THRud1BzcDlNWFgyZmpSay1HcE5nTkxMTHV1TXdDcU1tV2JXV1FtdmhvVURxX2h0bmlwTGc?oc=5\" target=\"_blank\"&gt;BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Seoul Economic Daily&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHBCWnNnWFFKaWl2UFlfbjB3NUJMaHJ0OTEycmw1R1pWM2FzVjRNZGdLVWxSckdaLVl1X3h6d21aM3ZUYnJxNHYtcFViQnNxT3d4VVdzRFBDMHBvcnlMQ2tTRVFPNnRZQkUxTG84THRud1BzcDlNWFgyZmpSay1HcE5nTkxMTHV1TXdDcU1tV2JXV1FtdmhvVURxX2h0bmlwTGc?oc=5",
-      "source": "Seoul Economic Daily",
-      "date": "2026-04-28",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO - 아시아경제",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZklEYlVUZUN0Q0xva0NwcmRPUVdEbUdqV1dLQVg0RWRCU0s0Z2hqa05BM3pYZ3FYVzBsMFZOMGFTbk9rRnNpNU5XLVVsYXBjeTlBWkRyQ1NYazJKTjJ1YmlWLVM?oc=5\" target=\"_blank\"&gt;BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;아시아경제&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZklEYlVUZUN0Q0xva0NwcmRPUVdEbUdqV1dLQVg0RWRCU0s0Z2hqa05BM3pYZ3FYVzBsMFZOMGFTbk9rRnNpNU5XLVVsYXBjeTlBWkRyQ1NYazJKTjJ1YmlWLVM?oc=5",
-      "source": "아시아경제",
-      "date": "2026-04-28",
-      "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
     }
