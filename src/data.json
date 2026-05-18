@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T13:00:08.376Z",
+  "lastUpdated": "2026-05-18T13:00:09.024Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-18",
+      "event": "Pizza Hut franchisee says delivery drivers gamed its new AI system - Business Insider",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-05-16",
       "event": "Pizza Hut Franchisee Is Converting 80 Restaurants, Vows To Bring Nostalgia: \"Pizza Hut Classic\" - Wi",
       "impact": "medium",
@@ -951,15 +957,23 @@
       "event": "Denny's sold to TriArtisan/Yadav for $620M - shows buyer appetite",
       "impact": "medium",
       "type": "related"
-    },
-    {
-      "date": "2025-11-04",
-      "event": "Pizza Hut Q3: US same-store sales down 6%, 8th consecutive quarter of decline",
-      "impact": "high",
-      "type": "financial"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-18",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchisee says delivery drivers gamed its new AI system - Business Insider",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0w5NEFmZEVsc0Y0YmdzbGJhbFp2c2w0d1dDVm1yb09UVzBESWhWR011S0Z4T3ltU3djaXRPUGFkalRTeWVVQjFkdlFycERDZ25IczJuajhnZjdYcENneXBXUFdySWZqd1pqWnNsaGJZYXJwWlo4eGlrekVNcVhSWWZxS0tiN1BKTmc4dEdvR1BqUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says delivery drivers gamed its new AI system&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0w5NEFmZEVsc0Y0YmdzbGJhbFp2c2w0d1dDVm1yb09UVzBESWhWR011S0Z4T3ltU3djaXRPUGFkalRTeWVVQjFkdlFycERDZ25IczJuajhnZjdYcENneXBXUFdySWZqd1pqWnNsaGJZYXJwWlo4eGlrekVNcVhSWWZxS0tiN1BKTmc4dEdvR1BqUQ?oc=5",
+      "source": "Business Insider",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-17",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1101,26 +1115,6 @@
     {
       "date": "2026-04-28",
       "summary": "Found 5 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2V0WndvVm5pTzE5RnM0VlZiZFB6NHU2SVNlUjFJc0JnOXRSeC1mbDhGNG9NeG41WTVFS2xQSkw2cnA2SVgteEp6djVRakc5Yzk3VXpfbkFYNmNGc1hYcW41WFdjSEtXS20zZFQ4dkZNeHdWTTFOekNLaUQzOW5mNkFQNDR1cEREaTJBV012TEJmNVhuRjl0VkItVHBDejA?oc=5\" target=\"_blank\"&gt;Maybe a sale really would be the best thing for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2V0WndvVm5pTzE5RnM0VlZiZFB6NHU2SVNlUjFJc0JnOXRSeC1mbDhGNG9NeG41WTVFS2xQSkw2cnA2SVgteEp6djVRakc5Yzk3VXpfbkFYNmNGc1hYcW41WFdjSEtXS20zZFQ4dkZNeHdWTTFOekNLaUQzOW5mNkFQNDR1cEREaTJBV012TEJmNVhuRjl0VkItVHBDejA?oc=5",
-      "source": "Restaurant Business",
-      "date": "2026-04-28",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2V0WndvVm5pTzE5RnM0VlZiZFB6NHU2SVNlUjFJc0JnOXRSeC1mbDhGNG9NeG41WTVFS2xQSkw2cnA2SVgteEp6djVRakc5Yzk3VXpfbkFYNmNGc1hYcW41WFdjSEtXS20zZFQ4dkZNeHdWTTFOekNLaUQzOW5mNkFQNDR1cEREaTJBV012TEJmNVhuRjl0VkItVHBDejA?oc=5\" target=\"_blank\"&gt;Maybe a sale really would be the best thing for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2V0WndvVm5pTzE5RnM0VlZiZFB6NHU2SVNlUjFJc0JnOXRSeC1mbDhGNG9NeG41WTVFS2xQSkw2cnA2SVgteEp6djVRakc5Yzk3VXpfbkFYNmNGc1hYcW41WFdjSEtXS20zZFQ4dkZNeHdWTTFOekNLaUQzOW5mNkFQNDR1cEREaTJBV012TEJmNVhuRjl0VkItVHBDejA?oc=5",
-      "source": "Restaurant Business",
-      "date": "2026-04-28",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
