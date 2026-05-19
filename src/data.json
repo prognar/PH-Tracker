@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T13:00:09.024Z",
+  "lastUpdated": "2026-05-19T13:00:08.480Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -660,6 +660,42 @@
   "timeline": [
     {
       "date": "2026-05-18",
+      "event": "Pizza Hut franchisee seeks $100 million over AI delivery system dispute - Traders Union",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-18",
+      "event": "Pizza Hut Franchisee Sues Over Dragontail AI System - Let's Data Science",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-18",
+      "event": "Pizza Hut Franchisee Sues, Saying Yum's AI Broke Its Business and Cost $100 Million - Startup Fortun",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-19",
+      "event": "A Pizza Hut franchisee is converting 80 locations into retro restaurants to bring back the chain's g",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-18",
+      "event": "Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red ",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-18",
+      "event": "Pizza Hut Franchisee Revamps 38 Outlets Into Retro Dining Format - HarianBasis.co",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-18",
       "event": "Pizza Hut franchisee says delivery drivers gamed its new AI system - Business Insider",
       "impact": "medium",
       "type": "news"
@@ -921,45 +957,93 @@
       "event": "Two Indian KFC, Pizza Hut Operators to Merge, Plus More Bold Deals - franchisetimes.com",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2025-12-10",
-      "event": "Flynn Group now operates ~20% of US Pizza Hut system (1,027 units)",
-      "impact": "medium",
-      "type": "related"
-    },
-    {
-      "date": "2025-11-04",
-      "event": "Yum! Brands announces strategic review of Pizza Hut",
-      "impact": "high",
-      "type": "official"
-    },
-    {
-      "date": "2025-11-04",
-      "event": "Goldman Sachs & Barclays retained as financial advisors",
-      "impact": "high",
-      "type": "official"
-    },
-    {
-      "date": "2025-11-04",
-      "event": "CEO Turner: 'May be better executed outside of Yum'",
-      "impact": "high",
-      "type": "official"
-    },
-    {
-      "date": "2025-11-04",
-      "event": "YUM stock up 7% on strategic review announcement",
-      "impact": "medium",
-      "type": "market"
-    },
-    {
-      "date": "2025-11-04",
-      "event": "Denny's sold to TriArtisan/Yadav for $620M - shows buyer appetite",
-      "impact": "medium",
-      "type": "related"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-19",
+      "summary": "Found 9 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut Franchisee Revamps 38 Outlets Into Retro Dining Format - HarianBasis.co",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5WbWVOLUtiaE1nbm51NkIxT2wxSlRCR1hNTnpyTmR1THRPM0ZjMVZnQXRpYnZfRGJBV3ZEajcyY3Jtcm1EMDR1cFp3ZXZSZWRhQkdCRUJLa0VYNml4ZnByd2czQ01FVjA0dUdSWlM2YnpWX1B5MjM1Zmk0ZXc?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Revamps 38 Outlets Into Retro Dining Format&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;HarianBasis.co&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WbWVOLUtiaE1nbm51NkIxT2wxSlRCR1hNTnpyTmR1THRPM0ZjMVZnQXRpYnZfRGJBV3ZEajcyY3Jtcm1EMDR1cFp3ZXZSZWRhQkdCRUJLa0VYNml4ZnByd2czQ01FVjA0dUdSWlM2YnpWX1B5MjM1Zmk0ZXc?oc=5",
+      "source": "HarianBasis.co",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups - People.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdLX3I1aVN0UHNrbU1DYmU5bzlFUjB2SEtzS2taWmltUWhta21VajhFOUR1SFB3X0ViVnJjUHY5OFhlV1dIaXQzZkxqOENNb212UExoR1VxZC1PaXZTa0NOODB5VmlUYkliZGUzS0dNTi1aNEJjOURqdC1NQk9xWV9iemlrMy1qRjhzU2lPd3AwZmM?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;People.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdLX3I1aVN0UHNrbU1DYmU5bzlFUjB2SEtzS2taWmltUWhta21VajhFOUR1SFB3X0ViVnJjUHY5OFhlV1dIaXQzZkxqOENNb212UExoR1VxZC1PaXZTa0NOODB5VmlUYkliZGUzS0dNTi1aNEJjOURqdC1NQk9xWV9iemlrMy1qRjhzU2lPd3AwZmM?oc=5",
+      "source": "People.com",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "A Pizza Hut franchisee is converting 80 locations into retro restaurants to bring back the chain's glory days - qz.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzZQWkUwZmtxS015YzBneHU4SktudWJZMkVPM2I3cEVoY2FXUy1YR0tiRkp3LWIzNXVZYnNOeHNvNUJBX2hxRnhVbjJwZ2xKWXp1MWxEVXlBblFtVHpkMUwyQkZJNGg4OHoyOXB2ZDVsQ19XY29WSTJuZXFfclFwbA?oc=5\" target=\"_blank\"&gt;A Pizza Hut franchisee is converting 80 locations into retro restaurants to bring back the chain's glory days&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;qz.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzZQWkUwZmtxS015YzBneHU4SktudWJZMkVPM2I3cEVoY2FXUy1YR0tiRkp3LWIzNXVZYnNOeHNvNUJBX2hxRnhVbjJwZ2xKWXp1MWxEVXlBblFtVHpkMUwyQkZJNGg4OHoyOXB2ZDVsQ19XY29WSTJuZXFfclFwbA?oc=5",
+      "source": "qz.com",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups - AOL.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVo4N1g2RjdNa29QeDhMcXhFc09QYmZHQzNfeTlaV2ZxNUN0a0Q3YTNtdzEzbzd4UjBpZmFTYzdMOVFJNUdBQXM2amFPZzFMcG44cmJ1WGlFV0k3LThqVzY0ZVhfZmpnLW0wdFU5YUduSzZHbUlSTDRjbGQ0QmhjNUl3?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVo4N1g2RjdNa29QeDhMcXhFc09QYmZHQzNfeTlaV2ZxNUN0a0Q3YTNtdzEzbzd4UjBpZmFTYzdMOVFJNUdBQXM2amFPZzFMcG44cmJ1WGlFV0k3LThqVzY0ZVhfZmpnLW0wdFU5YUduSzZHbUlSTDRjbGQ0QmhjNUl3?oc=5",
+      "source": "AOL.com",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Franchisee Sues, Saying Yum's AI Broke Its Business and Cost $100 Million - Startup Fortune",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbF9zYUVjYndjbnduTUU5QU1BMXZsX3RDNHdYbllfSGF2NFR6cmplZHJ4VnFReFZvMDRqRzVqRWxoMjZ3dTJWY0NzVUtJbm1IYThFLU05VDlwWnVINkVvUnNGbEVVY3BrRFg2ckpiUDJMVlRJTUstWXp1TkdTcndBUEE5ZnN1VE1SMXc1NkMxcGJPSGpzQzZ4T3NzZkQxNkhiVnRtOEEzQ0dfMzNW?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues, Saying Yum's AI Broke Its Business and Cost $100 Million&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Startup Fortune&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbF9zYUVjYndjbnduTUU5QU1BMXZsX3RDNHdYbllfSGF2NFR6cmplZHJ4VnFReFZvMDRqRzVqRWxoMjZ3dTJWY0NzVUtJbm1IYThFLU05VDlwWnVINkVvUnNGbEVVY3BrRFg2ckpiUDJMVlRJTUstWXp1TkdTcndBUEE5ZnN1VE1SMXc1NkMxcGJPSGpzQzZ4T3NzZkQxNkhiVnRtOEEzQ0dfMzNW?oc=5",
+      "source": "Startup Fortune",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Franchisee Sues Over Dragontail AI System - Let's Data Science",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVJYVnVBUmM2SjJMb2NlMm1PM3hDajNsRGNaa01fdkZ1eXBvNVZ3RktXbjhLb0tDMENTRzB0b1ROY0ZCcFNpWmlBRUdiUWg5ODBCN1c0YUh6SW5QTFhYbEJtVHdBNS1Ha2x3US1oUFhYWXR3RFlwTndveWRFejNRMi1ZMFVMclJ3aGtyakpjS1FMdGtETzZ2SQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Over Dragontail AI System&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Let's Data Science&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVJYVnVBUmM2SjJMb2NlMm1PM3hDajNsRGNaa01fdkZ1eXBvNVZ3RktXbjhLb0tDMENTRzB0b1ROY0ZCcFNpWmlBRUdiUWg5ODBCN1c0YUh6SW5QTFhYbEJtVHdBNS1Ha2x3US1oUFhYWXR3RFlwTndveWRFejNRMi1ZMFVMclJ3aGtyakpjS1FMdGtETzZ2SQ?oc=5",
+      "source": "Let's Data Science",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut franchisee seeks $100 million over AI delivery system dispute - Traders Union",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlJTdHkzUWpreTVZc3h6WGRNdXVId2dCeFdiSzliNVVTV2hmQnp5bWtGa05yT1g5X2ZoX2tObFNfM3VZa0dCeWwyNDNRb01JSTVvQWZEUzhNeGxLUkNjN2w1Y3Q2VFRMUHlYaFhuMFpJOGs3RmtPNU14ZGhhUVlMUzBnZnZRR3JmeG5ab1ItRWY0dw?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee seeks $100 million over AI delivery system dispute&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Traders Union&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlJTdHkzUWpreTVZc3h6WGRNdXVId2dCeFdiSzliNVVTV2hmQnp5bWtGa05yT1g5X2ZoX2tObFNfM3VZa0dCeWwyNDNRb01JSTVvQWZEUzhNeGxLUkNjN2w1Y3Q2VFRMUHlYaFhuMFpJOGs3RmtPNU14ZGhhUVlMUzBnZnZRR3JmeG5ab1ItRWY0dw?oc=5",
+      "source": "Traders Union",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups - People.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdLX3I1aVN0UHNrbU1DYmU5bzlFUjB2SEtzS2taWmltUWhta21VajhFOUR1SFB3X0ViVnJjUHY5OFhlV1dIaXQzZkxqOENNb212UExoR1VxZC1PaXZTa0NOODB5VmlUYkliZGUzS0dNTi1aNEJjOURqdC1NQk9xWV9iemlrMy1qRjhzU2lPd3AwZmM?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;People.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdLX3I1aVN0UHNrbU1DYmU5bzlFUjB2SEtzS2taWmltUWhta21VajhFOUR1SFB3X0ViVnJjUHY5OFhlV1dIaXQzZkxqOENNb212UExoR1VxZC1PaXZTa0NOODB5VmlUYkliZGUzS0dNTi1aNEJjOURqdC1NQk9xWV9iemlrMy1qRjhzU2lPd3AwZmM?oc=5",
+      "source": "People.com",
+      "date": "2026-05-18",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-18",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1043,78 +1127,6 @@
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-02",
-      "summary": "Found 2 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchisee collapses into administration – 30 sites sold - Daily Express",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzNiRnlZSWZoWWtDd0ptSS04ZEp0OXlKcnZUdGFFa1pUYnlaNFpyUFFwa3FrZFQ5YVNSeTcybUJRbnhha21nemd4UWFMV1lleHlVRi1BU19nc3k2aXVaYjd5bE1mR0dnQjgtYnVKVDBwc19nUFFpYzZqNE1KVExyNTBLONIBiAFBVV95cUxQNGRBX2pYbkNSYWx1U2Nlc3Q5RjA0YTRkbl9yYkwwNUZTQjMxTFFKb0Y4TkpCZnlwcklKelExYXZlU0xuaWMtbGpmQXV5NkdwdGp4dDA3WjdYUWxUamdnbkd3VS1GREZnanMtYk9fanlwY3RiUFZtUTFWcjdIT1JGZ0lwMngwNmNo?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee collapses into administration – 30 sites sold&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Express&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzNiRnlZSWZoWWtDd0ptSS04ZEp0OXlKcnZUdGFFa1pUYnlaNFpyUFFwa3FrZFQ5YVNSeTcybUJRbnhha21nemd4UWFMV1lleHlVRi1BU19nc3k2aXVaYjd5bE1mR0dnQjgtYnVKVDBwc19nUFFpYzZqNE1KVExyNTBLONIBiAFBVV95cUxQNGRBX2pYbkNSYWx1U2Nlc3Q5RjA0YTRkbl9yYkwwNUZTQjMxTFFKb0Y4TkpCZnlwcklKelExYXZlU0xuaWMtbGpmQXV5NkdwdGp4dDA3WjdYUWxUamdnbkd3VS1GREZnanMtYk9fanlwY3RiUFZtUTFWcjdIT1JGZ0lwMngwNmNo?oc=5",
-      "source": "Daily Express",
-      "date": "2026-05-01",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "negative"
-    },
-    {
-      "title": "Pizza Hut franchisee collapses into administration - 30 sites sold - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWJZNW8xLWpYWmZ5TzVRYmlCdG8yRGpRN09KY0tNZTNmRENfN2lyNFBMeml1d0hIbVhSVHV4djZjOGQ3SEZNZDBfWUl6bkFMckw5dU94WE53eldWSE9yaHp5R29xdHFnWlpLYXBkRHVuSFZrRkd0R2hZeE1SUXEyQks0bEsxa2tpZ1VoVUE1MS1jQmJjREtjcFkxTm11YWdQeExkTVNDcjdDV1pQMk1RbC1MbkppUXBuZThtek9ydDQ3NkpsVnFXX01yZnBSUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee collapses into administration - 30 sites sold&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWJZNW8xLWpYWmZ5TzVRYmlCdG8yRGpRN09KY0tNZTNmRENfN2lyNFBMeml1d0hIbVhSVHV4djZjOGQ3SEZNZDBfWUl6bkFMckw5dU94WE53eldWSE9yaHp5R29xdHFnWlpLYXBkRHVuSFZrRkd0R2hZeE1SUXEyQks0bEsxa2tpZ1VoVUE1MS1jQmJjREtjcFkxTm11YWdQeExkTVNDcjdDV1pQMk1RbC1MbkppUXBuZThtek9ydDQ3NkpsVnFXX01yZnBSUQ?oc=5",
-      "source": "MSN",
-      "date": "2026-05-01",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "negative"
-    },
-    {
-      "date": "2026-04-29",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5\" target=\"_blank\"&gt;Maybe a sale really would be the best thing for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5",
-      "source": "Restaurant Business",
-      "date": "2026-04-28",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5\" target=\"_blank\"&gt;Maybe a sale really would be the best thing for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5",
-      "source": "Restaurant Business",
-      "date": "2026-04-28",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief - Seoul Economic Daily",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQaUF2WFpaV2RwUEFYLVgyZGN0RkFub1JEbVpibUVzdzZwRmNCUkp3TUlQc0ktWENOV3ZHR1c3MjVRM0hBUllzQjJYZ3hWX2MwTTRoOFNPYVJ1RTZ4cEdibzRqaXlaRVAwQlZSZ2Z2MFdGSDFaeUp2djBYeldvTXg5ZU16LVN0QTdhQWlOWHlPSnROQjJWUUl6X2M4d3NjQQ?oc=5\" target=\"_blank\"&gt;BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Seoul Economic Daily&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUF2WFpaV2RwUEFYLVgyZGN0RkFub1JEbVpibUVzdzZwRmNCUkp3TUlQc0ktWENOV3ZHR1c3MjVRM0hBUllzQjJYZ3hWX2MwTTRoOFNPYVJ1RTZ4cEdibzRqaXlaRVAwQlZSZ2Z2MFdGSDFaeUp2djBYeldvTXg5ZU16LVN0QTdhQWlOWHlPSnROQjJWUUl6X2M4d3NjQQ?oc=5",
-      "source": "Seoul Economic Daily",
-      "date": "2026-04-28",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO - 아시아경제",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1SYm1RU2c4RThUVGQ3LWVoeUw4TlJPQk5JV0FNUHAzOUoyYWlVeUVJNFVSVGZZMjFlV1ZBOXF5ZGFYdTFocGNSRXNxWDlKYTZxSW1CcWphNVRhbE11NkMtMHdFOUo3NmVob08teU1JVQ?oc=5\" target=\"_blank\"&gt;BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;아시아경제&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SYm1RU2c4RThUVGQ3LWVoeUw4TlJPQk5JV0FNUHAzOUoyYWlVeUVJNFVSVGZZMjFlV1ZBOXF5ZGFYdTFocGNSRXNxWDlKYTZxSW1CcWphNVRhbE11NkMtMHdFOUo3NmVob08teU1JVQ?oc=5",
-      "source": "아시아경제",
-      "date": "2026-04-28",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-04-28",
-      "summary": "Found 5 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
