@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T13:00:08.480Z",
+  "lastUpdated": "2026-05-20T13:00:08.433Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,36 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-19",
+      "event": "Pizza Hut’s AI Delivery System Triggers $100 Million Lawsuit from Major Franchisee - Gadget Review",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Pizza Hut franchisee sues over AI rollout blamed for $100M loss - MSN",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Pizza Hut Franchisee Sues Over AI Delivery Problems - 1851 Franchise",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Pizza Hut Franchisee Sues Over AI Delivery System, Alleges $100 Million in Damages - Gizmodo",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Pizza Hut franchisee claims $100 million losses from 'cascading operational breakdowns' in AI adopti",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-05-18",
       "event": "Pizza Hut franchisee seeks $100 million over AI delivery system dispute - Traders Union",
       "impact": "medium",
@@ -927,39 +957,63 @@
       "event": "Yum! to close 250 Pizza Hut stores as sales slump amid strategic review - TradingView",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-01-28",
-      "event": "Plans for new hotel on Glasgow's four corners at former Pizza Hut site - glasgowlive.co.uk",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-01-15",
-      "event": "Supreme Court Orders Pizza Hut Korea to Refund $15.5M in ＂Hidden＂ Franchise Fees to Store Owners - 알",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-01-13",
-      "event": "Former Pizza Hut to be transformed to 'state-of-the-art' car showroom in Derby - DerbyWorld",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-01-13",
-      "event": "Ex-Pizza Hut MD Merrill Pereyra Takes Over Domino’s ANZ - Entrepreneur India",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-01-13",
-      "event": "Two Indian KFC, Pizza Hut Operators to Merge, Plus More Bold Deals - franchisetimes.com",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-20",
+      "summary": "Found 5 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchisee claims $100 million losses from 'cascading operational breakdowns' in AI adoption gone wrong - Fortune",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTRtREVaV3F0NnNPdDZubE5jTFZ6VWJZMDhpNTJNcWRGYmtYMC1pcUJvdDR5alhoR0ZjVy1XeG9Xd0pQYVFDMVR4SEZxYTNOWldzWkJ3OURQWFVlS18zeTRUT0tKSEp6Rm9nOWFxOHBLTTRkY3FCNTY4Rk4wdVJTSVc3WC1uRXFNdWxaN0hSQmplYmdkekg3cDRpSUdwY2M?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee claims $100 million losses from 'cascading operational breakdowns' in AI adoption gone wrong&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Fortune&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTRtREVaV3F0NnNPdDZubE5jTFZ6VWJZMDhpNTJNcWRGYmtYMC1pcUJvdDR5alhoR0ZjVy1XeG9Xd0pQYVFDMVR4SEZxYTNOWldzWkJ3OURQWFVlS18zeTRUT0tKSEp6Rm9nOWFxOHBLTTRkY3FCNTY4Rk4wdVJTSVc3WC1uRXFNdWxaN0hSQmplYmdkekg3cDRpSUdwY2M?oc=5",
+      "source": "Fortune",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Franchisee Sues Over AI Delivery System, Alleges $100 Million in Damages - Gizmodo",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnhWWlV0all6ZUJiYllhSXJKMndxcHY4amxxT0VtYVd6VXZYeTZQazN4S0FVNGRfVFhKS2Q0cE5scUZ4R3JydkEtMkZfM3RScVJmb2VrOS01a0RjbElWWlBlNFlVNlJ3SEk1dXFBbmtJbWJPQVcxdWZ2VkhMQ1VITkJTOEZsS1NyX2hjejBVaWtqb2dDQ1hvOVcwbE9PejFCbkFFdVNGbk1rRzlSOERIZg?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Over AI Delivery System, Alleges $100 Million in Damages&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Gizmodo&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnhWWlV0all6ZUJiYllhSXJKMndxcHY4amxxT0VtYVd6VXZYeTZQazN4S0FVNGRfVFhKS2Q0cE5scUZ4R3JydkEtMkZfM3RScVJmb2VrOS01a0RjbElWWlBlNFlVNlJ3SEk1dXFBbmtJbWJPQVcxdWZ2VkhMQ1VITkJTOEZsS1NyX2hjejBVaWtqb2dDQ1hvOVcwbE9PejFCbkFFdVNGbk1rRzlSOERIZg?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Franchisee Sues Over AI Delivery Problems - 1851 Franchise",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckNvaXByNUJ4dGIyU3ZQM2thQmI0U2picTRnQ2ZkU00tRmVtN04zRDJhNVB0NVFVeU5KNTZnd1FRR3hDOFBqT2FGdGIza1Y1dEJHODBCc2xVaDRJdDJiUTBLVldUNHo4WHlHd1RsSzhxNW1JNnNodmpnVUVFZWFlTk52NGFvQ29rdXlTNTdpX3ViSWo0SW1jX19SOVpRSUhxMUxwMDB2RFVIQkJEamZpajVGT3lPcm42eTZJ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Over AI Delivery Problems&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;1851 Franchise&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckNvaXByNUJ4dGIyU3ZQM2thQmI0U2picTRnQ2ZkU00tRmVtN04zRDJhNVB0NVFVeU5KNTZnd1FRR3hDOFBqT2FGdGIza1Y1dEJHODBCc2xVaDRJdDJiUTBLVldUNHo4WHlHd1RsSzhxNW1JNnNodmpnVUVFZWFlTk52NGFvQ29rdXlTNTdpX3ViSWo0SW1jX19SOVpRSUhxMUxwMDB2RFVIQkJEamZpajVGT3lPcm42eTZJ?oc=5",
+      "source": "1851 Franchise",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut franchisee sues over AI rollout blamed for $100M loss - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU043b1c2UlpHWnJDSTg1VWE4UXdEYjNLd3N3V0xvSEVHQmp0MHVFN3A5QmVDQmI4a2hiMlBUdFBoTUFBcE5lNW12aE52dnZWVUk2cmkzRDJBY0hzMFdHQ3VreXpCUm9XaXpKWHk0YTJ5bm9KT0Z5dUlsWHJTdm5ucmtPQTJNOGRvaEtDaXdLQW91NWY3R05IcUlDVDdpU3QzbDE5SXhvNVdISE94b2hwWnVTaUVyV2Y4SlQtTFdmVVZpcTdLZnM2NmpZVlJZNDBPemJza2Q4d1VtaTcxV1EzZ0hlR21OQzQ?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee sues over AI rollout blamed for $100M loss&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU043b1c2UlpHWnJDSTg1VWE4UXdEYjNLd3N3V0xvSEVHQmp0MHVFN3A5QmVDQmI4a2hiMlBUdFBoTUFBcE5lNW12aE52dnZWVUk2cmkzRDJBY0hzMFdHQ3VreXpCUm9XaXpKWHk0YTJ5bm9KT0Z5dUlsWHJTdm5ucmtPQTJNOGRvaEtDaXdLQW91NWY3R05IcUlDVDdpU3QzbDE5SXhvNVdISE94b2hwWnVTaUVyV2Y4SlQtTFdmVVZpcTdLZnM2NmpZVlJZNDBPemJza2Q4d1VtaTcxV1EzZ0hlR21OQzQ?oc=5",
+      "source": "MSN",
+      "date": "2026-05-19",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut’s AI Delivery System Triggers $100 Million Lawsuit from Major Franchisee - Gadget Review",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZllKX2d0Y1VzaTZJWVJiTURwSm94V3QyalhfdHBKdnJ6SEZSaEI3UzdReWd5anN1YXdSNFJJS2gyamFpdjd3WURNZzdRcHZ6M0ZkRUxyS1BIdUlUYkNFbkdCVnJxSUpsMzFOOU9SSDZuZ0lROUJlSlhZRFA4ZXptWGJ1Ti14bXV3QlJVbmxHbllyUUdFdFd2QlZlYk5GeEYtdV9IVjRTSWEwUHZQRXc?oc=5\" target=\"_blank\"&gt;Pizza Hut’s AI Delivery System Triggers $100 Million Lawsuit from Major Franchisee&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Gadget Review&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZllKX2d0Y1VzaTZJWVJiTURwSm94V3QyalhfdHBKdnJ6SEZSaEI3UzdReWd5anN1YXdSNFJJS2gyamFpdjd3WURNZzdRcHZ6M0ZkRUxyS1BIdUlUYkNFbkdCVnJxSUpsMzFOOU9SSDZuZ0lROUJlSlhZRFA4ZXptWGJ1Ti14bXV3QlJVbmxHbllyUUdFdFd2QlZlYk5GeEYtdV9IVjRTSWEwUHZQRXc?oc=5",
+      "source": "Gadget Review",
+      "date": "2026-05-19",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-19",
       "summary": "Found 9 relevant news items. No specific buyers mentioned."
@@ -1079,54 +1133,6 @@
     {
       "date": "2026-05-15",
       "summary": "Found 3 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchisee says AI caused $100M in damages - Restaurant Dive",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSE5zd2dqUkw3c3MyOUlQYXdlbHQxazRyeFRacHVyT1BWeEdKQmRkM0ZQMU42WEJGUmdxUEZNc2J4SHp2RGowb2pxZG1ONkNCeDVxMUNHTFlYbTgxVE1Bc05aY0dmdlluMUpfa3AweWdfeDlaRXF3ZDZPNjBDYnByUzBfSmpDR2hGMDg3aEhjdUFMX2oydVF2c2J4dXZFVThiLWloaHdncFE0NFRC?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says AI caused $100M in damages&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Dive&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSE5zd2dqUkw3c3MyOUlQYXdlbHQxazRyeFRacHVyT1BWeEdKQmRkM0ZQMU42WEJGUmdxUEZNc2J4SHp2RGowb2pxZG1ONkNCeDVxMUNHTFlYbTgxVE1Bc05aY0dmdlluMUpfa3AweWdfeDlaRXF3ZDZPNjBDYnByUzBfSmpDR2hGMDg3aEhjdUFMX2oydVF2c2J4dXZFVThiLWloaHdncFE0NFRC?oc=5",
-      "source": "Restaurant Dive",
-      "date": "2026-05-14",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Former Pizza Hut Getting New Look, New Mission In Brick - Patch",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHBocV9pbl8yWXljZF9KY0tOQ1BubnNwZWRHdVhTRDJDc0tCUXQ3cjlVT3FXZl9ZUFJqSllZLVA1UWEtYWdHTmFZOHhKYW4zVDRabE5OYzkwR3k4ZDRGeXhDcF9YZ2E5LUJoNWRsazdfVjV2TkZVdE81cXZIZHdfRGRXeGFNaEc2VHFPVTNpWdIBpAFBVV95cUxNenAzcGpfcjh4cDVnV2pFY3c5LTNjWjlVdGNTVmdHTFpqQzZCTC1ONjJlQ1hRcGdPdE53WUJDOWZuMmlGcUVpVVZ4U1ZxdTdYRG1NaXVqSURnVXB3czdTWV9tQzlJTWRCZUhLQjhmX2lRalhJS3VpWTlCR2o0UDBTYmhQNEQtR0pHcmJtRHlSYmZxMFQ0VzlfMm9NZXBzdzRiYmpNYg?oc=5\" target=\"_blank\"&gt;Former Pizza Hut Getting New Look, New Mission In Brick&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Patch&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHBocV9pbl8yWXljZF9KY0tOQ1BubnNwZWRHdVhTRDJDc0tCUXQ3cjlVT3FXZl9ZUFJqSllZLVA1UWEtYWdHTmFZOHhKYW4zVDRabE5OYzkwR3k4ZDRGeXhDcF9YZ2E5LUJoNWRsazdfVjV2TkZVdE81cXZIZHdfRGRXeGFNaEc2VHFPVTNpWdIBpAFBVV95cUxNenAzcGpfcjh4cDVnV2pFY3c5LTNjWjlVdGNTVmdHTFpqQzZCTC1ONjJlQ1hRcGdPdE53WUJDOWZuMmlGcUVpVVZ4U1ZxdTdYRG1NaXVqSURnVXB3czdTWV9tQzlJTWRCZUhLQjhmX2lRalhJS3VpWTlCR2o0UDBTYmhQNEQtR0pHcmJtRHlSYmZxMFQ0VzlfMm9NZXBzdzRiYmpNYg?oc=5",
-      "source": "Patch",
-      "date": "2026-05-14",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Chopstix secures flagship Glasgow Four Corners restaurant at former Pizza Hut - Glasgow Live",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVplQ1Z3SGdPQjNhOWQ2dk5MUFRMN2Z5Tjg4Rl9GNE5zRUFaQjU2Y1hfc3JEbG8za2ZjWTl5WE5GWXFadkYtNURVVjcxaVowbjREdE14U0JvaTVZYzhTbGRBeVZ4SlE0bkMxcUFua2ZBX1NhTmRPQ1Z3QjhoTjNOWENiUTFqVEdUYWttVUZwZ9IBlAFBVV95cUxNeWdxSG1iaXRmRXd2M1lJdEFhQkVHM2d3cVp6aUhmOXE3YUxkeGkxbVZHVUtrRHczTzFOQl9Zd2dxWG9WWlVTd3dxcjlUNnN1Wk9SUVFPN3VmMHM1N2ZxcUl2VWYxTkI3LVhUUTdjTTRJX2d0NmxEc1pHaUlTNzVSN3ZQSVJHS24wU2w4aWZZZHJmMDNz?oc=5\" target=\"_blank\"&gt;Chopstix secures flagship Glasgow Four Corners restaurant at former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Glasgow Live&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVplQ1Z3SGdPQjNhOWQ2dk5MUFRMN2Z5Tjg4Rl9GNE5zRUFaQjU2Y1hfc3JEbG8za2ZjWTl5WE5GWXFadkYtNURVVjcxaVowbjREdE14U0JvaTVZYzhTbGRBeVZ4SlE0bkMxcUFua2ZBX1NhTmRPQ1Z3QjhoTjNOWENiUTFqVEdUYWttVUZwZ9IBlAFBVV95cUxNeWdxSG1iaXRmRXd2M1lJdEFhQkVHM2d3cVp6aUhmOXE3YUxkeGkxbVZHVUtrRHczTzFOQl9Zd2dxWG9WWlVTd3dxcjlUNnN1Wk9SUVFPN3VmMHM1N2ZxcUl2VWYxTkI3LVhUUTdjTTRJX2d0NmxEc1pHaUlTNzVSN3ZQSVJHS24wU2w4aWZZZHJmMDNz?oc=5",
-      "source": "Glasgow Live",
-      "date": "2026-05-15",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-13",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "date": "2026-05-12",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Progress on work to transform former Pizza Hut into takeaway - Yahoo News UK",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFZzUlRDbklRUVE2N2RvNm45MTAwMnc1UWRRSG1BdFd6anhLWWtLSFZuRi1NMnhEZnNHTnktYzhwd0ZtMWIzbmxDZHgzdlEzVGxHREJmb3lqeTRodmlnOXdDeW9FWkxSSGF2OFg5TU9nV19halpWQTEzdjZKN3hSd1lR?oc=5\" target=\"_blank\"&gt;Progress on work to transform former Pizza Hut into takeaway&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo News UK&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFZzUlRDbklRUVE2N2RvNm45MTAwMnc1UWRRSG1BdFd6anhLWWtLSFZuRi1NMnhEZnNHTnktYzhwd0ZtMWIzbmxDZHgzdlEzVGxHREJmb3lqeTRodmlnOXdDeW9FWkxSSGF2OFg5TU9nV19halpWQTEzdjZKN3hSd1lR?oc=5",
-      "source": "Yahoo News UK",
-      "date": "2026-05-12",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
