@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T13:00:08.433Z",
+  "lastUpdated": "2026-05-21T13:00:08.196Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,18 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-20",
+      "event": "Pizza Hut Franchisee Sues Chain for $100 Million Over AI Delivery System - AsatuNews.co.id",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-21",
+      "event": "Pizza Hut Franchisee Blames AI Rollout for $100M Loss - WinBuzzer",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-05-19",
       "event": "Pizza Hut’s AI Delivery System Triggers $100 Million Lawsuit from Major Franchisee - Gadget Review",
       "impact": "low",
@@ -945,21 +957,33 @@
       "event": "Pizza Hut Is Closing Hundreds of Locations Due to Poor Sales - Yahoo News Malaysia",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-02-05",
-      "event": "Pizza Hut shuttering 250 stores amid sales slump - Rolling Out",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-02-05",
-      "event": "Yum! to close 250 Pizza Hut stores as sales slump amid strategic review - TradingView",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-21",
+      "summary": "Found 3 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut Franchisee Blames AI Rollout for $100M Loss - WinBuzzer",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWFIYVhiVFNLVFFfblRLcW5zdEk5SktBSVVzWVJNbVhQUDZZbUttMjNUem5GLWpST2NWUV9DbGxLRE9iSXlPMHUwRVYtSFhQTDljUU0yWHd0eGdkYWdabzl3ZVBnVnVTdjNmZTFXQklGM0J5VlAyRmx1VHhVSi1laUNDMkNTanhXdEZmQlpLWXQ0UQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Blames AI Rollout for $100M Loss&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;WinBuzzer&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWFIYVhiVFNLVFFfblRLcW5zdEk5SktBSVVzWVJNbVhQUDZZbUttMjNUem5GLWpST2NWUV9DbGxLRE9iSXlPMHUwRVYtSFhQTDljUU0yWHd0eGdkYWdabzl3ZVBnVnVTdjNmZTFXQklGM0J5VlAyRmx1VHhVSi1laUNDMkNTanhXdEZmQlpLWXQ0UQ?oc=5",
+      "source": "WinBuzzer",
+      "date": "2026-05-21",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Franchisee Sues Chain for $100 Million Over AI Delivery System - AsatuNews.co.id",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9DcnVOVkFRN01ueHhnTjdkNXRFS2Zyc1lRMVo5OHMzdjJvbnNMbHd5OUxhd3VkaEktZVdZaUFIcGRnejU3RUI0dFBSdENpMGdtRGJza0Jzd0VJaWkzN1dKVE45VG9sc2xxMERYaEJGRQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Chain for $100 Million Over AI Delivery System&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AsatuNews.co.id&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DcnVOVkFRN01ueHhnTjdkNXRFS2Zyc1lRMVo5OHMzdjJvbnNMbHd5OUxhd3VkaEktZVdZaUFIcGRnejU3RUI0dFBSdENpMGdtRGJza0Jzd0VJaWkzN1dKVE45VG9sc2xxMERYaEJGRQ?oc=5",
+      "source": "AsatuNews.co.id",
+      "date": "2026-05-20",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-20",
       "summary": "Found 5 relevant news items. No specific buyers mentioned."
@@ -1115,24 +1139,6 @@
     {
       "date": "2026-05-17",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut Franchisee Is Converting 80 Restaurants, Vows To Bring Nostalgia: \"Pizza Hut Classic\" - Wide Open Country",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnNrVVJVeEpwR1F6YVBUbm5OZHlPZFhIYkxSRHNidm1oY3dUX2x5VFNsNU9ZVGFsWjhNMHlWS1dSQmlQemstUHJaX1k2Q1ZXRzc3UnAxVkFBQnFfY0hKZFhhc0NCYVdobmplNnMybW1vRmNENUxYSWNydHJwUWFDSDcybWFpU1RiQnJ0dTFsTGxHOExVV253NFo4aUZkaHJDR3FDU3RsMS1JYTFtWVhNb0VvZlZad1l6aC1ENFNzSE45QQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Is Converting 80 Restaurants, Vows To Bring Nostalgia: \"Pizza Hut Classic\"&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Wide Open Country&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnNrVVJVeEpwR1F6YVBUbm5OZHlPZFhIYkxSRHNidm1oY3dUX2x5VFNsNU9ZVGFsWjhNMHlWS1dSQmlQemstUHJaX1k2Q1ZXRzc3UnAxVkFBQnFfY0hKZFhhc0NCYVdobmplNnMybW1vRmNENUxYSWNydHJwUWFDSDcybWFpU1RiQnJ0dTFsTGxHOExVV253NFo4aUZkaHJDR3FDU3RsMS1JYTFtWVhNb0VvZlZad1l6aC1ENFNzSE45QQ?oc=5",
-      "source": "Wide Open Country",
-      "date": "2026-05-16",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-16",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "date": "2026-05-15",
-      "summary": "Found 3 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
