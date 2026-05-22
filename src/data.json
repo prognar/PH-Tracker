@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T13:00:08.196Z",
+  "lastUpdated": "2026-05-22T13:00:08.561Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,24 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-21",
+      "event": "Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction'",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-21",
+      "event": "A Pizza Hut franchisee is suing over a forced AI system it says wrecked deliveries - qz.com",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-22",
+      "event": "Pizza Hut franchisee is converting 80 locations into retro restaurants to Bring Back 1980s and 1990s",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-05-20",
       "event": "Pizza Hut Franchisee Sues Chain for $100 Million Over AI Delivery System - AsatuNews.co.id",
       "impact": "medium",
@@ -939,27 +957,53 @@
       "event": "Why Pizza Hut is slicing its US presence: Sales slump forces mass closures - Mathrubhumi English",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-02-06",
-      "event": "Pizza Hut may be up for sale; 250 US locations to close - RetailDetail EU",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-02-06",
-      "event": "Manitowoc mayor says Ziggi's Coffee still coming to former Pizza Hut - Herald Times Reporter",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-02-05",
-      "event": "Pizza Hut Is Closing Hundreds of Locations Due to Poor Sales - Yahoo News Malaysia",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-22",
+      "summary": "Found 6 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchisee is converting 80 locations into retro restaurants to Bring Back 1980s and 1990s Nostalgia as Daland Corporation Revives America’s - Nbsla.ca",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8xQXNCZGpKamxYak80cGIxOFVSYVRiY05JYkZ4X29JWEUzM1MtSVdQQnFHRGY5SHpOLW9VbTVHbXA3NlJOcjhLekxwS1hqUmc3aEhVNzBKQkItNnRLOHEwcV8wV3VTR3ZRajBxS215Y21lcVhHdXZ4dUtKZXhiUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee is converting 80 locations into retro restaurants to Bring Back 1980s and 1990s Nostalgia as Daland Corporation Revives America’s&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Nbsla.ca&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xQXNCZGpKamxYak80cGIxOFVSYVRiY05JYkZ4X29JWEUzM1MtSVdQQnFHRGY5SHpOLW9VbTVHbXA3NlJOcjhLekxwS1hqUmc3aEhVNzBKQkItNnRLOHEwcV8wV3VTR3ZRajBxS215Y21lcVhHdXZ4dUtKZXhiUQ?oc=5",
+      "source": "Nbsla.ca",
+      "date": "2026-05-22",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "A Pizza Hut franchisee is suing over a forced AI system it says wrecked deliveries - qz.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBhaU40eWVmNnEtbFZWcEx5c0RRS1gyQkdEbEZsRnJqRWlqancxeFJjUmZJdjI2a0l5Smp4UDYzUUhnVjFSNWlSU3FIVnFOaGxLYjZMWlB2c3lSWFZSaVNDV2NwYjB4TndMTm9scmtnRUk3SjBvdzl1dS1VV2lTZw?oc=5\" target=\"_blank\"&gt;A Pizza Hut franchisee is suing over a forced AI system it says wrecked deliveries&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;qz.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhaU40eWVmNnEtbFZWcEx5c0RRS1gyQkdEbEZsRnJqRWlqancxeFJjUmZJdjI2a0l5Smp4UDYzUUhnVjFSNWlSU3FIVnFOaGxLYjZMWlB2c3lSWFZSaVNDV2NwYjB4TndMTm9scmtnRUk3SjBvdzl1dS1VV2lTZw?oc=5",
+      "source": "qz.com",
+      "date": "2026-05-21",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction' - Tom's Guide",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQUdwRjVxSXpnd1lzbEJRaVFQTkctNHIwUnhwN04yRE9RLS1FY3J4SXA3VUFtdS16SkpmdjVkbVdBOHZXc3laMDJYWW52QUFUZGNKc0ZJWHNwWGc4WGd2TlQxQnRwYUxScFVlTm9BdlRmWU10dnFpMXFTWmNQUXRVNHJzYThKdXpfeWgxRHF2YmpBWWltMDhFWnpTbE02RWIzRFZ1ZEZVbDQwak9PZDBuQWFETnh5R3FkMGF2MlpsR0pmMjdscVBHQmw3YktpekVXLUVQZ29OWmZRS09ia2RDc1Q5Ym9lZkpxYWpwM3NUek5ZZ3RNbkE?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction'&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Tom's Guide&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQUdwRjVxSXpnd1lzbEJRaVFQTkctNHIwUnhwN04yRE9RLS1FY3J4SXA3VUFtdS16SkpmdjVkbVdBOHZXc3laMDJYWW52QUFUZGNKc0ZJWHNwWGc4WGd2TlQxQnRwYUxScFVlTm9BdlRmWU10dnFpMXFTWmNQUXRVNHJzYThKdXpfeWgxRHF2YmpBWWltMDhFWnpTbE02RWIzRFZ1ZEZVbDQwak9PZDBuQWFETnh5R3FkMGF2MlpsR0pmMjdscVBHQmw3YktpekVXLUVQZ29OWmZRS09ia2RDc1Q5Ym9lZkpxYWpwM3NUek5ZZ3RNbkE?oc=5",
+      "source": "Tom's Guide",
+      "date": "2026-05-21",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction' - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaFBXcGVwNzJBLXY2Zzk5TXhKaDQxZkhDWFhCUkZOM2c5aUxMYzVCSXZUVjFnM25XVC1HMkgyTy1MbTBBbF9SdTB5WmdNQkpaLXR5MWx4dzlTb0lzRHdzaVFZZGJXT0x6Z2pyTG83U2ZlUHhJMkhIZnN2aEd5b0hzZmhVODFGTTg0SjFseGxJNk9GN3JmU3A4LUZtTmZFQkNxWUo3SVFmYkhFSTFsaEZxTnR4VzMtbmFEVld6c0FJekdsSDBjTkpHRF9mVlp2TjFicXZDZzhQZTBDd1V1WUVXR05KZjRETm8?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction'&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaFBXcGVwNzJBLXY2Zzk5TXhKaDQxZkhDWFhCUkZOM2c5aUxMYzVCSXZUVjFnM25XVC1HMkgyTy1MbTBBbF9SdTB5WmdNQkpaLXR5MWx4dzlTb0lzRHdzaVFZZGJXT0x6Z2pyTG83U2ZlUHhJMkhIZnN2aEd5b0hzZmhVODFGTTg0SjFseGxJNk9GN3JmU3A4LUZtTmZFQkNxWUo3SVFmYkhFSTFsaEZxTnR4VzMtbmFEVld6c0FJekdsSDBjTkpHRF9mVlp2TjFicXZDZzhQZTBDd1V1WUVXR05KZjRETm8?oc=5",
+      "source": "MSN",
+      "date": "2026-05-21",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-21",
       "summary": "Found 3 relevant news items. No specific buyers mentioned."
@@ -1101,44 +1145,6 @@
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut franchisee seeks $100 million over AI delivery system dispute - Traders Union",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlJTdHkzUWpreTVZc3h6WGRNdXVId2dCeFdiSzliNVVTV2hmQnp5bWtGa05yT1g5X2ZoX2tObFNfM3VZa0dCeWwyNDNRb01JSTVvQWZEUzhNeGxLUkNjN2w1Y3Q2VFRMUHlYaFhuMFpJOGs3RmtPNU14ZGhhUVlMUzBnZnZRR3JmeG5ab1ItRWY0dw?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee seeks $100 million over AI delivery system dispute&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Traders Union&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlJTdHkzUWpreTVZc3h6WGRNdXVId2dCeFdiSzliNVVTV2hmQnp5bWtGa05yT1g5X2ZoX2tObFNfM3VZa0dCeWwyNDNRb01JSTVvQWZEUzhNeGxLUkNjN2w1Y3Q2VFRMUHlYaFhuMFpJOGs3RmtPNU14ZGhhUVlMUzBnZnZRR3JmeG5ab1ItRWY0dw?oc=5",
-      "source": "Traders Union",
-      "date": "2026-05-18",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups - People.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdLX3I1aVN0UHNrbU1DYmU5bzlFUjB2SEtzS2taWmltUWhta21VajhFOUR1SFB3X0ViVnJjUHY5OFhlV1dIaXQzZkxqOENNb212UExoR1VxZC1PaXZTa0NOODB5VmlUYkliZGUzS0dNTi1aNEJjOURqdC1NQk9xWV9iemlrMy1qRjhzU2lPd3AwZmM?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;People.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdLX3I1aVN0UHNrbU1DYmU5bzlFUjB2SEtzS2taWmltUWhta21VajhFOUR1SFB3X0ViVnJjUHY5OFhlV1dIaXQzZkxqOENNb212UExoR1VxZC1PaXZTa0NOODB5VmlUYkliZGUzS0dNTi1aNEJjOURqdC1NQk9xWV9iemlrMy1qRjhzU2lPd3AwZmM?oc=5",
-      "source": "People.com",
-      "date": "2026-05-18",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-18",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchisee says delivery drivers gamed its new AI system - Business Insider",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0w5NEFmZEVsc0Y0YmdzbGJhbFp2c2w0d1dDVm1yb09UVzBESWhWR011S0Z4T3ltU3djaXRPUGFkalRTeWVVQjFkdlFycERDZ25IczJuajhnZjdYcENneXBXUFdySWZqd1pqWnNsaGJZYXJwWlo4eGlrekVNcVhSWWZxS0tiN1BKTmc4dEdvR1BqUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says delivery drivers gamed its new AI system&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Business Insider&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0w5NEFmZEVsc0Y0YmdzbGJhbFp2c2w0d1dDVm1yb09UVzBESWhWR011S0Z4T3ltU3djaXRPUGFkalRTeWVVQjFkdlFycERDZ25IczJuajhnZjdYcENneXBXUFdySWZqd1pqWnNsaGJZYXJwWlo4eGlrekVNcVhSWWZxS0tiN1BKTmc4dEdvR1BqUQ?oc=5",
-      "source": "Business Insider",
-      "date": "2026-05-18",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-17",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
   "watchList": {
