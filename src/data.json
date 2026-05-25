@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T13:00:08.069Z",
+  "lastUpdated": "2026-05-25T13:00:08.174Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -961,6 +961,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-05-25",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction' - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxNYklJY1gtUGgtRi1LZUhaaDVhUXNHVV83QkpVSHltdHk1bWVTSnFCVk1zZk5GemIxX09pZEZHSGZOY2FrdnZnNGZPU3lQNUlRdGF4ZVJEbGF1YjdnTGUzUHJ6WFdwYjlKcXBxb09NMEVrUldZTVZCV0QyMUJZY2JBMDMzTlcwQVdiWml1NGc3VnpieEx6TVRHUS1RRWtmUk9sdjBGMGsyNnhsX3JMVWlvVEVybG9FN1FwbEpFa0RhekZlaW13NGVoNldHc0o5a2dGTEJVSFZZWHc0Q0psYmNiM2xPRURPcUlpNjhZN3FBUm51alRjSEJvZkhBMWdRb0dmbml6anZDeUR3aWdseXBpdXRmUmVQMXBpcFJlWXU2Z3N6S3FaTGhZWEVJUWtyYU5RUThYMkh6eksyR2FzQ2pPa2Z0TTBqd0ZyQlZTaEJXM0ZidlZtV1hfMjYwNFQ4SV8zRXIydGw5Q1R2aGJqYXRiengzbGd3WWZSVG50S19R?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction'&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNYklJY1gtUGgtRi1LZUhaaDVhUXNHVV83QkpVSHltdHk1bWVTSnFCVk1zZk5GemIxX09pZEZHSGZOY2FrdnZnNGZPU3lQNUlRdGF4ZVJEbGF1YjdnTGUzUHJ6WFdwYjlKcXBxb09NMEVrUldZTVZCV0QyMUJZY2JBMDMzTlcwQVdiWml1NGc3VnpieEx6TVRHUS1RRWtmUk9sdjBGMGsyNnhsX3JMVWlvVEVybG9FN1FwbEpFa0RhekZlaW13NGVoNldHc0o5a2dGTEJVSFZZWHc0Q0psYmNiM2xPRURPcUlpNjhZN3FBUm51alRjSEJvZkhBMWdRb0dmbml6anZDeUR3aWdseXBpdXRmUmVQMXBpcFJlWXU2Z3N6S3FaTGhZWEVJUWtyYU5RUThYMkh6eksyR2FzQ2pPa2Z0TTBqd0ZyQlZTaEJXM0ZidlZtV1hfMjYwNFQ4SV8zRXIydGw5Q1R2aGJqYXRiengzbGd3WWZSVG50S19R?oc=5",
+      "source": "MSN",
+      "date": "2026-05-24",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-05-23",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
     },
@@ -1116,26 +1130,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WbWVOLUtiaE1nbm51NkIxT2wxSlRCR1hNTnpyTmR1THRPM0ZjMVZnQXRpYnZfRGJBV3ZEajcyY3Jtcm1EMDR1cFp3ZXZSZWRhQkdCRUJLa0VYNml4ZnByd2czQ01FVjA0dUdSWlM2YnpWX1B5MjM1Zmk0ZXc?oc=5",
       "source": "HarianBasis.co",
       "date": "2026-05-18",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups - People.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdLX3I1aVN0UHNrbU1DYmU5bzlFUjB2SEtzS2taWmltUWhta21VajhFOUR1SFB3X0ViVnJjUHY5OFhlV1dIaXQzZkxqOENNb212UExoR1VxZC1PaXZTa0NOODB5VmlUYkliZGUzS0dNTi1aNEJjOURqdC1NQk9xWV9iemlrMy1qRjhzU2lPd3AwZmM?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red Cups&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;People.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdLX3I1aVN0UHNrbU1DYmU5bzlFUjB2SEtzS2taWmltUWhta21VajhFOUR1SFB3X0ViVnJjUHY5OFhlV1dIaXQzZkxqOENNb212UExoR1VxZC1PaXZTa0NOODB5VmlUYkliZGUzS0dNTi1aNEJjOURqdC1NQk9xWV9iemlrMy1qRjhzU2lPd3AwZmM?oc=5",
-      "source": "People.com",
-      "date": "2026-05-18",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "A Pizza Hut franchisee is converting 80 locations into retro restaurants to bring back the chain's glory days - qz.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzZQWkUwZmtxS015YzBneHU4SktudWJZMkVPM2I3cEVoY2FXUy1YR0tiRkp3LWIzNXVZYnNOeHNvNUJBX2hxRnhVbjJwZ2xKWXp1MWxEVXlBblFtVHpkMUwyQkZJNGg4OHoyOXB2ZDVsQ19XY29WSTJuZXFfclFwbA?oc=5\" target=\"_blank\"&gt;A Pizza Hut franchisee is converting 80 locations into retro restaurants to bring back the chain's glory days&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;qz.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzZQWkUwZmtxS015YzBneHU4SktudWJZMkVPM2I3cEVoY2FXUy1YR0tiRkp3LWIzNXVZYnNOeHNvNUJBX2hxRnhVbjJwZ2xKWXp1MWxEVXlBblFtVHpkMUwyQkZJNGg4OHoyOXB2ZDVsQ19XY29WSTJuZXFfclFwbA?oc=5",
-      "source": "qz.com",
-      "date": "2026-05-19",
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
