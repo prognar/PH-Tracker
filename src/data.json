@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T13:00:08.451Z",
+  "lastUpdated": "2026-05-27T13:00:08.480Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-27",
+      "event": "Pizza Hut's new Korea operator taps female CEO to rebuild struggling brand - The Korea Times",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-05-23",
       "event": "Yum! expects Taco Bell US margins of 24.5%-25.5% while keeping Pizza Hut strategic review on track f",
       "impact": "medium",
@@ -951,15 +957,23 @@
       "event": "Pizza Hut Closures Could Impact Washington Locations - NewsRadio 560 KPQ",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-02-08",
-      "event": "Pizza Hut to Close 250 U.S. Locations as Yum Brands Weighs Sale - Mountaineer Journal",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-27",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut's new Korea operator taps female CEO to rebuild struggling brand - The Korea Times",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVQwUXdNdjhzNTVheFJaSy1kMU44MUd4ckdBWkRRYnB6UGRaUEhoaXhraVZtd2M0OEJfM1ZGZ1l3Z0pOYlNBdjRJSXNRc0NKeHRLcUQyRHpia0xRQmZEX3BaNUpCdkwyUXRfNzBxU2NMb3Byc0RXN0s2eE9pWG5kWWlfNFU4VExCNW1KM0p5T0Jsd09KR21LT0V0elA5akMwNTJ2NEJ1cGJ0QzFhdkVxNWMweEIxMmJyalRxM1pPWENXYnRJbU1jZnNMUHVwMUXSAc8BQVVfeXFMTU1UMFF3TXY4czU1YXhSWkstZDFOODFHeHJHQVpEUWJwelBkWlBIaGl4a2lWbXdjNDhCXzNWRmdZd2dKTmJTQXY0SUlzUXNDSnh0S3FEMkR6YmtMUUJmRF9wWjVKQnZMMlF0XzcwcVNjTG9wcnNEVzdLNnhPaVhuZFlpXzRVOFRMQjVtSjNKeU9CbHdPSkdtS09FdHpQOWpDMDUydjRCdXBidEMxYXZFcTVjMHhCMTJicmpUcTNaT1hDV2J0SW1NY2ZzTFB1cDFF?oc=5\" target=\"_blank\"&gt;Pizza Hut's new Korea operator taps female CEO to rebuild struggling brand&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Korea Times&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVQwUXdNdjhzNTVheFJaSy1kMU44MUd4ckdBWkRRYnB6UGRaUEhoaXhraVZtd2M0OEJfM1ZGZ1l3Z0pOYlNBdjRJSXNRc0NKeHRLcUQyRHpia0xRQmZEX3BaNUpCdkwyUXRfNzBxU2NMb3Byc0RXN0s2eE9pWG5kWWlfNFU4VExCNW1KM0p5T0Jsd09KR21LT0V0elA5akMwNTJ2NEJ1cGJ0QzFhdkVxNWMweEIxMmJyalRxM1pPWENXYnRJbU1jZnNMUHVwMUXSAc8BQVVfeXFMTU1UMFF3TXY4czU1YXhSWkstZDFOODFHeHJHQVpEUWJwelBkWlBIaGl4a2lWbXdjNDhCXzNWRmdZd2dKTmJTQXY0SUlzUXNDSnh0S3FEMkR6YmtMUUJmRF9wWjVKQnZMMlF0XzcwcVNjTG9wcnNEVzdLNnhPaVhuZFlpXzRVOFRMQjVtSjNKeU9CbHdPSkdtS09FdHpQOWpDMDUydjRCdXBidEMxYXZFcTVjMHhCMTJicmpUcTNaT1hDV2J0SW1NY2ZzTFB1cDFF?oc=5",
+      "source": "The Korea Times",
+      "date": "2026-05-27",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-25",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1117,20 +1131,6 @@
       "source": "Gadget Review",
       "date": "2026-05-19",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-19",
-      "summary": "Found 9 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut Franchisee Revamps 38 Outlets Into Retro Dining Format - HarianBasis.co",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5WbWVOLUtiaE1nbm51NkIxT2wxSlRCR1hNTnpyTmR1THRPM0ZjMVZnQXRpYnZfRGJBV3ZEajcyY3Jtcm1EMDR1cFp3ZXZSZWRhQkdCRUJLa0VYNml4ZnByd2czQ01FVjA0dUdSWlM2YnpWX1B5MjM1Zmk0ZXc?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Revamps 38 Outlets Into Retro Dining Format&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;HarianBasis.co&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WbWVOLUtiaE1nbm51NkIxT2wxSlRCR1hNTnpyTmR1THRPM0ZjMVZnQXRpYnZfRGJBV3ZEajcyY3Jtcm1EMDR1cFp3ZXZSZWRhQkdCRUJLa0VYNml4ZnByd2czQ01FVjA0dUdSWlM2YnpWX1B5MjM1Zmk0ZXc?oc=5",
-      "source": "HarianBasis.co",
-      "date": "2026-05-18",
-      "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
     }
