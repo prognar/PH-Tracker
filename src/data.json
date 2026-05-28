@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T13:00:08.480Z",
+  "lastUpdated": "2026-05-28T13:00:09.673Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -961,6 +961,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-05-28",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
       "date": "2026-05-27",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1121,16 +1125,6 @@
       "source": "MSN",
       "date": "2026-05-19",
       "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut’s AI Delivery System Triggers $100 Million Lawsuit from Major Franchisee - Gadget Review",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZllKX2d0Y1VzaTZJWVJiTURwSm94V3QyalhfdHBKdnJ6SEZSaEI3UzdReWd5anN1YXdSNFJJS2gyamFpdjd3WURNZzdRcHZ6M0ZkRUxyS1BIdUlUYkNFbkdCVnJxSUpsMzFOOU9SSDZuZ0lROUJlSlhZRFA4ZXptWGJ1Ti14bXV3QlJVbmxHbllyUUdFdFd2QlZlYk5GeEYtdV9IVjRTSWEwUHZQRXc?oc=5\" target=\"_blank\"&gt;Pizza Hut’s AI Delivery System Triggers $100 Million Lawsuit from Major Franchisee&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Gadget Review&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZllKX2d0Y1VzaTZJWVJiTURwSm94V3QyalhfdHBKdnJ6SEZSaEI3UzdReWd5anN1YXdSNFJJS2gyamFpdjd3WURNZzdRcHZ6M0ZkRUxyS1BIdUlUYkNFbkdCVnJxSUpsMzFOOU9SSDZuZ0lROUJlSlhZRFA4ZXptWGJ1Ti14bXV3QlJVbmxHbllyUUdFdFd2QlZlYk5GeEYtdV9IVjRTSWEwUHZQRXc?oc=5",
-      "source": "Gadget Review",
-      "date": "2026-05-19",
-      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     }
