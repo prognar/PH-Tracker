@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T13:00:09.673Z",
+  "lastUpdated": "2026-05-29T13:00:08.572Z",
   "dealStatus": "active_review",
   "estimatedValuation": {
     "low": 3500000000,
@@ -659,6 +659,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-05-28",
+      "event": "Pizza Hut Franchisee Sues Over $100M AI Delivery Fiasco - L'Express Franchise",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-05-27",
       "event": "Pizza Hut's new Korea operator taps female CEO to rebuild struggling brand - The Korea Times",
       "impact": "low",
@@ -951,15 +957,23 @@
       "event": "Tacoverse taking over former Pizza Hut in Schererville - nwitimes.com",
       "impact": "medium",
       "type": "news"
-    },
-    {
-      "date": "2026-02-09",
-      "event": "Pizza Hut Closures Could Impact Washington Locations - NewsRadio 560 KPQ",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-05-29",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut Franchisee Sues Over $100M AI Delivery Fiasco - L'Express Franchise",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTU9fajBOeWRuUDRLcGtUSjBKcmgzOHVuMEhNZUhjQUVXaXo1dy11UmliN0ZxcDZIcjBKcXJsNUhCM0hVOVdzQXFlLUw3UWs2Z0JuZDhMZEx3SjVMMWtwajdQVmlYemdKdFl6MjNwdktYLW4tWDQ5MFhqa0VaWEM0YmxTdEt1N1UtanV0X0hPUDVxWVFLcUF1ektQLUh1d0haTmRJblpmWnIxbk0yTzJCVkl2UWhSdnFWZDRVbF92NDAzRkJSOVYxM0NkT1hEbzU3ekxXZ2lBWUhHRXhx?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Over $100M AI Delivery Fiasco&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;L'Express Franchise&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTU9fajBOeWRuUDRLcGtUSjBKcmgzOHVuMEhNZUhjQUVXaXo1dy11UmliN0ZxcDZIcjBKcXJsNUhCM0hVOVdzQXFlLUw3UWs2Z0JuZDhMZEx3SjVMMWtwajdQVmlYemdKdFl6MjNwdktYLW4tWDQ5MFhqa0VaWEM0YmxTdEt1N1UtanV0X0hPUDVxWVFLcUF1ektQLUh1d0haTmRJblpmWnIxbk0yTzJCVkl2UWhSdnFWZDRVbF92NDAzRkJSOVYxM0NkT1hEbzU3ekxXZ2lBWUhHRXhx?oc=5",
+      "source": "L'Express Franchise",
+      "date": "2026-05-28",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-05-28",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1103,26 +1117,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnhWWlV0all6ZUJiYllhSXJKMndxcHY4amxxT0VtYVd6VXZYeTZQazN4S0FVNGRfVFhKS2Q0cE5scUZ4R3JydkEtMkZfM3RScVJmb2VrOS01a0RjbElWWlBlNFlVNlJ3SEk1dXFBbmtJbWJPQVcxdWZ2VkhMQ1VITkJTOEZsS1NyX2hjejBVaWtqb2dDQ1hvOVcwbE9PejFCbkFFdVNGbk1rRzlSOERIZg?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Over AI Delivery System, Alleges $100 Million in Damages&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Gizmodo&lt;/font&gt;",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnhWWlV0all6ZUJiYllhSXJKMndxcHY4amxxT0VtYVd6VXZYeTZQazN4S0FVNGRfVFhKS2Q0cE5scUZ4R3JydkEtMkZfM3RScVJmb2VrOS01a0RjbElWWlBlNFlVNlJ3SEk1dXFBbmtJbWJPQVcxdWZ2VkhMQ1VITkJTOEZsS1NyX2hjejBVaWtqb2dDQ1hvOVcwbE9PejFCbkFFdVNGbk1rRzlSOERIZg?oc=5",
       "source": "Gizmodo",
-      "date": "2026-05-19",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut Franchisee Sues Over AI Delivery Problems - 1851 Franchise",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckNvaXByNUJ4dGIyU3ZQM2thQmI0U2picTRnQ2ZkU00tRmVtN04zRDJhNVB0NVFVeU5KNTZnd1FRR3hDOFBqT2FGdGIza1Y1dEJHODBCc2xVaDRJdDJiUTBLVldUNHo4WHlHd1RsSzhxNW1JNnNodmpnVUVFZWFlTk52NGFvQ29rdXlTNTdpX3ViSWo0SW1jX19SOVpRSUhxMUxwMDB2RFVIQkJEamZpajVGT3lPcm42eTZJ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Over AI Delivery Problems&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;1851 Franchise&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckNvaXByNUJ4dGIyU3ZQM2thQmI0U2picTRnQ2ZkU00tRmVtN04zRDJhNVB0NVFVeU5KNTZnd1FRR3hDOFBqT2FGdGIza1Y1dEJHODBCc2xVaDRJdDJiUTBLVldUNHo4WHlHd1RsSzhxNW1JNnNodmpnVUVFZWFlTk52NGFvQ29rdXlTNTdpX3ViSWo0SW1jX19SOVpRSUhxMUxwMDB2RFVIQkJEamZpajVGT3lPcm42eTZJ?oc=5",
-      "source": "1851 Franchise",
-      "date": "2026-05-19",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut franchisee sues over AI rollout blamed for $100M loss - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU043b1c2UlpHWnJDSTg1VWE4UXdEYjNLd3N3V0xvSEVHQmp0MHVFN3A5QmVDQmI4a2hiMlBUdFBoTUFBcE5lNW12aE52dnZWVUk2cmkzRDJBY0hzMFdHQ3VreXpCUm9XaXpKWHk0YTJ5bm9KT0Z5dUlsWHJTdm5ucmtPQTJNOGRvaEtDaXdLQW91NWY3R05IcUlDVDdpU3QzbDE5SXhvNVdISE94b2hwWnVTaUVyV2Y4SlQtTFdmVVZpcTdLZnM2NmpZVlJZNDBPemJza2Q4d1VtaTcxV1EzZ0hlR21OQzQ?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee sues over AI rollout blamed for $100M loss&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU043b1c2UlpHWnJDSTg1VWE4UXdEYjNLd3N3V0xvSEVHQmp0MHVFN3A5QmVDQmI4a2hiMlBUdFBoTUFBcE5lNW12aE52dnZWVUk2cmkzRDJBY0hzMFdHQ3VreXpCUm9XaXpKWHk0YTJ5bm9KT0Z5dUlsWHJTdm5ucmtPQTJNOGRvaEtDaXdLQW91NWY3R05IcUlDVDdpU3QzbDE5SXhvNVdISE94b2hwWnVTaUVyV2Y4SlQtTFdmVVZpcTdLZnM2NmpZVlJZNDBPemJza2Q4d1VtaTcxV1EzZ0hlR21OQzQ?oc=5",
-      "source": "MSN",
       "date": "2026-05-19",
       "impact": "medium",
       "buyerId": null,
