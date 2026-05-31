@@ -24,6 +24,12 @@ const __dirname = path.dirname(__filename);
 
 // News sources to check
 const NEWS_SOURCES = [
+  // LEAD BUYER - LongRange Capital (in exclusive talks)
+  {
+    name: "Google News - LongRange Capital",
+    url: "https://news.google.com/rss/search?q=%22LongRange+Capital%22+OR+%22LongRange%22+Pizza+Hut+OR+%22Bob+Berlin%22+pizza&hl=en-US&gl=US&ceid=US:en",
+    type: "rss"
+  },
   // General Pizza Hut acquisition news
   {
     name: "Google News - Pizza Hut Sale",
@@ -136,12 +142,14 @@ const NEWS_SOURCES = [
 
 // Keywords that indicate significant news
 const HIGH_IMPACT_KEYWORDS = [
+  // LEAD BUYER
+  "longrange capital", "longrange pizza", "bob berlin pizza", "longrange yum",
   // Deal announcements
   "acquires pizza hut", "to buy pizza hut", "pizza hut sold", "pizza hut deal",
   "pizza hut acquisition", "bid for pizza hut", "offer for pizza hut",
   "pizza hut buyer", "yum sells pizza hut", "pizza hut sale complete",
   // Deal process (late stage)
-  "definitive agreement", "binding offer", "exclusivity",
+  "definitive agreement", "binding offer", "exclusivity", "exclusive talks",
   "regulatory approval", "antitrust clearance", "expected to close",
   "shareholder vote", "deal closing"
 ];

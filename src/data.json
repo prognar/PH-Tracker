@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-31T13:00:08.330Z",
-  "dealStatus": "active_review",
+  "lastUpdated": "2026-05-31T12:00:00Z",
+  "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
     "high": 4200000000
@@ -16,33 +16,64 @@
     "consecutiveQuartersDecline": 8
   },
   "advisors": {
-    "seller": [
-      "Goldman Sachs",
-      "Barclays"
-    ],
+    "seller": ["Goldman Sachs", "Barclays"],
     "potentialBuyerAdvisors": []
   },
   "buyers": [
     {
+      "id": "longrange-capital",
+      "name": "LongRange Capital",
+      "type": "Private Equity",
+      "likelihood": 95,
+      "trend": "up",
+      "estimatedBid": "$3.5B - $4.2B",
+      "rationale": "IN EXCLUSIVE NEGOTIATIONS (May 29, 2026). LongRange beat out Sycamore and Apollo to win exclusivity. Founded by Bob Berlin (ex-Baupost, involved in Arby's investment). Deal could close within weeks.",
+      "pros": [
+        "IN EXCLUSIVE TALKS - leading candidate",
+        "Beat out Sycamore and Apollo for exclusivity",
+        "Bob Berlin has Arby's turnaround experience via Baupost",
+        "Portfolio includes 24 Hour Fitness - understands consumer services",
+        "Fresh capital, not over-extended like Roark",
+        "Deal could close within weeks per Bloomberg"
+      ],
+      "cons": [
+        "Smaller, less known PE firm (founded 2019)",
+        "No direct restaurant operations experience",
+        "Current portfolio (24 Hour Fitness, ski resorts) is unrelated",
+        "Still not a done deal - could fall through"
+      ],
+      "keyMetrics": {
+        "founder": "Bob Berlin (ex-Baupost)",
+        "founded": "2019",
+        "portfolio": "24 Hour Fitness, Alpin Unlimited (ski resorts)",
+        "status": "EXCLUSIVE NEGOTIATIONS",
+        "arbysConnection": "Berlin involved in Arby's investment at Baupost"
+      },
+      "newsKeywords": ["longrange capital", "longrange pizza", "bob berlin pizza", "longrange yum"],
+      "history": [
+        { "date": "2026-05-29", "likelihood": 95, "note": "BREAKING: Entered exclusive talks per Bloomberg, beat Sycamore" }
+      ]
+    },
+    {
       "id": "roark-inspire",
       "name": "Roark Capital / Inspire Brands",
       "type": "Private Equity",
-      "likelihood": 88,
-      "trend": "up",
+      "likelihood": 25,
+      "trend": "down",
       "estimatedBid": "$3.5B - $4.5B",
-      "rationale": "Roark has a proven track record with restaurant turnarounds (Arby's, Subway, Dunkin'). Inspire Brands lacks a pizza concept. They manage ~$37B in assets and recently acquired Dave's Hot Chicken.",
+      "rationale": "Was considered top candidate but DID NOT win exclusivity. LongRange beat out the field. Roark may still be a backup if LongRange deal falls through, but their Subway integration may have limited bandwidth.",
       "pros": [
         "Deep restaurant expertise with 23+ brands",
         "No current pizza brand in portfolio",
         "Track record turning around struggling chains",
         "Strong franchisee relationships",
-        "Recently raised fresh capital",
-        "KEY: Hired David Graves (ex-Pizza Hut CBO) as Arby's President - insider knowledge"
+        "KEY: Hired David Graves (ex-Pizza Hut CBO) as Arby's President"
       ],
       "cons": [
+        "DID NOT WIN EXCLUSIVITY - LongRange ahead",
         "Already integrating Subway ($9.6B deal)",
         "High debt load from recent acquisitions",
-        "Pizza Hut would be their largest turnaround yet"
+        "May have been outbid"
       ],
       "keyMetrics": {
         "aum": "$37B",
@@ -51,25 +82,11 @@
         "restaurantFocus": "Primary",
         "insiderConnection": "David Graves (ex-Pizza Hut CBO)"
       },
-      "newsKeywords": [
-        "roark capital",
-        "inspire brands",
-        "arby's owner",
-        "subway owner",
-        "dunkin owner",
-        "david graves arby"
-      ],
+      "newsKeywords": ["roark capital", "inspire brands", "arby's owner", "subway owner", "dunkin owner", "david graves arby"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 85,
-          "note": "Initial assessment - top candidate per industry analysts"
-        },
-        {
-          "date": "2025-12-10",
-          "likelihood": 88,
-          "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship"
-        }
+        { "date": "2025-12-10", "likelihood": 85, "note": "Initial assessment - top candidate per industry analysts" },
+        { "date": "2025-12-10", "likelihood": 88, "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship" },
+        { "date": "2026-05-29", "likelihood": 25, "note": "Downgraded - LongRange won exclusivity, Roark not in lead" }
       ]
     },
     {
@@ -98,18 +115,9 @@
         "annualSales": "$4.5B",
         "brands": "7 (incl. Applebee's, Wendy's, Taco Bell)"
       },
-      "newsKeywords": [
-        "flynn group",
-        "flynn restaurant",
-        "greg flynn",
-        "largest franchisee"
-      ],
+      "newsKeywords": ["flynn group", "flynn restaurant", "greg flynn", "largest franchisee"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 75,
-          "note": "Added - critical missing buyer, already largest PH franchisee"
-        }
+        { "date": "2025-12-10", "likelihood": 75, "note": "Added - critical missing buyer, already largest PH franchisee" }
       ]
     },
     {
@@ -138,59 +146,39 @@
         "globalUnits": "31,000+",
         "recentDeal": "China refranchising 2025"
       },
-      "newsKeywords": [
-        "restaurant brands international",
-        "rbi",
-        "burger king owner",
-        "tim hortons owner",
-        "popeyes owner"
-      ],
+      "newsKeywords": ["restaurant brands international", "rbi", "burger king owner", "tim hortons owner", "popeyes owner"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 68,
-          "note": "Initial assessment - strong strategic fit"
-        }
+        { "date": "2025-12-10", "likelihood": 68, "note": "Initial assessment - strong strategic fit" }
       ]
     },
     {
       "id": "apollo",
       "name": "Apollo Global Management",
       "type": "Private Equity",
-      "likelihood": 65,
-      "trend": "up",
+      "likelihood": 20,
+      "trend": "down",
       "estimatedBid": "$3.0B - $4.0B",
-      "rationale": "Apollo recently pursued Papa John's and has extensive QSR experience (former CKE owner, Chuck E. Cheese). They know the pizza space and have massive capital to deploy.",
+      "rationale": "Was among interested bidders (per Reuters May 2026) but LOST TO LONGRANGE for exclusivity. Could re-emerge if deal falls through.",
       "pros": [
-        "Recent pizza interest (Papa John's bid)",
         "Deep QSR experience (CKE, Chuck E. Cheese)",
         "Massive capital reserves ($650B+ AUM)",
         "Turnaround expertise",
-        "Recently acquired The Restaurant Group (UK)"
+        "Could be backup bidder"
       ],
       "cons": [
-        "Papa John's deal fell through",
-        "May wait for lower valuation",
-        "Less operational focus than Roark"
+        "LOST exclusivity to LongRange",
+        "Papa John's deal fell through previously",
+        "May wait for lower valuation"
       ],
       "keyMetrics": {
         "aum": "$650B+",
         "qsrExperience": "CKE, Chuck E. Cheese, TRG",
-        "dealStyle": "LBO",
-        "recentInterest": "Papa John's (withdrawn)"
+        "status": "Lost to LongRange"
       },
-      "newsKeywords": [
-        "apollo global",
-        "apollo management",
-        "apollo pizza",
-        "apollo restaurant"
-      ],
+      "newsKeywords": ["apollo global", "apollo management", "apollo pizza", "apollo restaurant"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 65,
-          "note": "Initial assessment - proven pizza interest"
-        }
+        { "date": "2025-12-10", "likelihood": 65, "note": "Initial assessment - proven pizza interest" },
+        { "date": "2026-05-29", "likelihood": 20, "note": "Downgraded - LongRange won exclusivity" }
       ]
     },
     {
@@ -219,33 +207,27 @@
         "restaurantPortfolio": "Jersey Mike's, Tropical Smoothie, 7Brew",
         "franchiseExpertise": "Hilton, SERVPRO"
       },
-      "newsKeywords": [
-        "blackstone pizza",
-        "blackstone restaurant",
-        "blackstone yum"
-      ],
+      "newsKeywords": ["blackstone pizza", "blackstone restaurant", "blackstone yum"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 55,
-          "note": "Added - major PE player with fresh restaurant appetite"
-        }
+        { "date": "2025-12-10", "likelihood": 55, "note": "Added - major PE player with fresh restaurant appetite" }
       ]
     },
     {
       "id": "sycamore",
       "name": "Sycamore Partners",
       "type": "Private Equity",
-      "likelihood": 45,
-      "trend": "stable",
+      "likelihood": 15,
+      "trend": "down",
       "estimatedBid": "$2.5B - $3.5B",
-      "rationale": "Consumer-focused PE firm with retail turnaround experience. Could see Pizza Hut as a fixer-upper opportunity at the right price.",
+      "rationale": "LOST TO LONGRANGE for exclusivity (May 2026). Was reportedly a finalist but LongRange beat them out. Could re-emerge if LongRange deal falls through.",
       "pros": [
         "Consumer brand expertise",
         "Turnaround track record in retail",
-        "Patient capital approach"
+        "Patient capital approach",
+        "Could be backup bidder"
       ],
       "cons": [
+        "LOST exclusivity to LongRange",
         "Less restaurant-specific experience",
         "Would need operating partners",
         "Smaller fund size than competitors"
@@ -253,19 +235,11 @@
       "keyMetrics": {
         "aum": "$10B+",
         "focus": "Consumer/Retail",
-        "recentDeals": "Limited restaurant"
+        "status": "Lost to LongRange"
       },
-      "newsKeywords": [
-        "sycamore partners",
-        "sycamore capital",
-        "sycamore pizza"
-      ],
+      "newsKeywords": ["sycamore partners", "sycamore capital", "sycamore pizza"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 45,
-          "note": "Initial assessment"
-        }
+        { "date": "2025-12-10", "likelihood": 45, "note": "Initial assessment" }
       ]
     },
     {
@@ -292,17 +266,9 @@
         "yadavUnits": "550+ restaurants",
         "triartisanPortfolio": "P.F. Chang's, Denny's"
       },
-      "newsKeywords": [
-        "triartisan",
-        "yadav enterprises",
-        "denny's buyer"
-      ],
+      "newsKeywords": ["triartisan", "yadav enterprises", "denny's buyer"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 40,
-          "note": "Updated - recent Denny's deal shows appetite"
-        }
+        { "date": "2025-12-10", "likelihood": 40, "note": "Updated - recent Denny's deal shows appetite" }
       ]
     },
     {
@@ -331,20 +297,9 @@
         "investmentStyle": "Strategic/Long-term",
         "existingExposure": "Americana Group"
       },
-      "newsKeywords": [
-        "saudi pizza",
-        "pif restaurant",
-        "qia restaurant",
-        "mubadala",
-        "sovereign wealth pizza",
-        "middle east pizza hut"
-      ],
+      "newsKeywords": ["saudi pizza", "pif restaurant", "qia restaurant", "mubadala", "sovereign wealth pizza", "middle east pizza hut"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 40,
-          "note": "Initial assessment"
-        }
+        { "date": "2025-12-10", "likelihood": 40, "note": "Initial assessment" }
       ]
     },
     {
@@ -371,16 +326,9 @@
         "ranking": "#2 US franchisee",
         "recentDeals": "Uncle Julio's, Freebirds (2024)"
       },
-      "newsKeywords": [
-        "sun holdings",
-        "sun holdings pizza"
-      ],
+      "newsKeywords": ["sun holdings", "sun holdings pizza"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 35,
-          "note": "Added - major franchisee, potential consortium leader"
-        }
+        { "date": "2025-12-10", "likelihood": 35, "note": "Added - major franchisee, potential consortium leader" }
       ]
     },
     {
@@ -407,56 +355,9 @@
         "recentDeals": "Starbucks China to Boyu, BK China to CPE",
         "structure": "Likely carve-out or JV"
       },
-      "newsKeywords": [
-        "yum china pizza",
-        "asian buyer pizza hut",
-        "china pizza hut"
-      ],
+      "newsKeywords": ["yum china pizza", "asian buyer pizza hut", "china pizza hut"],
       "history": [
-        {
-          "date": "2025-12-10",
-          "likelihood": 30,
-          "note": "Initial assessment - complex but possible"
-        }
-      ]
-    },
-    {
-      "id": "franchisee-consortium",
-      "name": "Franchisee Consortium (Flynn + Sun + Others)",
-      "type": "Wildcard - Consortium",
-      "likelihood": 30,
-      "trend": "up",
-      "estimatedBid": "$3.5B-4.5B",
-      "rationale": "Flynn (1,027 units), Sun Holdings, and other major franchisees could band together to buy the brand. Precedent exists - Denny's was bought by a franchisee-led group. They know the operations intimately and are most motivated to fix the brand.",
-      "pros": [
-        "Deep operational knowledge",
-        "Already own ~40% of US system",
-        "Most aligned with brand success",
-        "Ron Bellamy (Flynn COO) key decision maker",
-        "Denny's franchisee buyout precedent"
-      ],
-      "cons": [
-        "Complex to organize multiple parties",
-        "Would need significant PE backing",
-        "Franchise agreements may complicate",
-        "International operations beyond expertise"
-      ],
-      "keyMetrics": {
-        "flynnUnits": "1,027 PH units",
-        "sunUnits": "100+ PH units",
-        "combinedShare": "~40% of US system"
-      },
-      "newsKeywords": [
-        "franchisee buyout",
-        "flynn sun consortium",
-        "franchisee acquisition pizza hut"
-      ],
-      "history": [
-        {
-          "date": "2025-01-13",
-          "likelihood": 30,
-          "note": "Added - Franchisee-led buyout gaining traction"
-        }
+        { "date": "2025-12-10", "likelihood": 30, "note": "Initial assessment - complex but possible" }
       ]
     },
     {
@@ -485,19 +386,9 @@
         "mubadalaAum": "$300B+",
         "recentDeals": "Newcastle United, LIV Golf, Lucid, AMC, various F&B"
       },
-      "newsKeywords": [
-        "saudi pizza",
-        "pif restaurant",
-        "mubadala food",
-        "sovereign wealth restaurant",
-        "qia acquisition"
-      ],
+      "newsKeywords": ["saudi pizza", "pif restaurant", "mubadala food", "sovereign wealth restaurant", "qia acquisition"],
       "history": [
-        {
-          "date": "2025-01-13",
-          "likelihood": 25,
-          "note": "Added - SWFs actively diversifying into consumer"
-        }
+        { "date": "2025-01-13", "likelihood": 25, "note": "Added - SWFs actively diversifying into consumer" }
       ]
     },
     {
@@ -525,18 +416,9 @@
         "ritchieBackground": "Former Papa John's CEO",
         "recentDeals": "PizzaExpress to Convive/Bain (Dec 2025)"
       },
-      "newsKeywords": [
-        "steve ritchie pizza",
-        "prosper growth",
-        "bain capital restaurant",
-        "bain pizza"
-      ],
+      "newsKeywords": ["steve ritchie pizza", "prosper growth", "bain capital restaurant", "bain pizza"],
       "history": [
-        {
-          "date": "2025-01-13",
-          "likelihood": 25,
-          "note": "Added - Ritchie's pizza experience + Bain backing"
-        }
+        { "date": "2025-01-13", "likelihood": 25, "note": "Added - Ritchie's pizza experience + Bain backing" }
       ]
     },
     {
@@ -564,18 +446,9 @@
         "conviveBrands": "Le Pain, Little Beet, CPK, PizzaExpress",
         "bohlyAssets": "Chelsea FC, LA Dodgers, Eldridge"
       },
-      "newsKeywords": [
-        "eldridge restaurant",
-        "convive brands",
-        "todd boehly restaurant",
-        "convive pizza"
-      ],
+      "newsKeywords": ["eldridge restaurant", "convive brands", "todd boehly restaurant", "convive pizza"],
       "history": [
-        {
-          "date": "2025-01-13",
-          "likelihood": 20,
-          "note": "Added - Boehly building restaurant empire"
-        }
+        { "date": "2025-01-13", "likelihood": 20, "note": "Added - Boehly building restaurant empire" }
       ]
     },
     {
@@ -603,18 +476,9 @@
         "investmentStyle": "Long-term, operational improvement",
         "relevantDeals": "Various consumer, franchise businesses"
       },
-      "newsKeywords": [
-        "kkr restaurant",
-        "kkr consumer",
-        "kkr franchise",
-        "kkr pizza"
-      ],
+      "newsKeywords": ["kkr restaurant", "kkr consumer", "kkr franchise", "kkr pizza"],
       "history": [
-        {
-          "date": "2025-01-13",
-          "likelihood": 20,
-          "note": "Added - Mega PE entering as QSR PE exits"
-        }
+        { "date": "2025-01-13", "likelihood": 20, "note": "Added - Mega PE entering as QSR PE exits" }
       ]
     },
     {
@@ -642,487 +506,148 @@
         "lovesLocations": "600+ locations",
         "recentDeals": "RaceTrac/Potbelly, Casey's expanding QSR"
       },
-      "newsKeywords": [
-        "pilot pizza",
-        "racetrac qsr",
-        "c-store restaurant acquisition",
-        "travel center food"
-      ],
+      "newsKeywords": ["pilot pizza", "racetrac qsr", "c-store restaurant acquisition", "travel center food"],
       "history": [
-        {
-          "date": "2025-01-13",
-          "likelihood": 15,
-          "note": "Added - C-stores aggressively entering foodservice"
-        }
+        { "date": "2025-01-13", "likelihood": 15, "note": "Added - C-stores aggressively entering foodservice" }
+      ]
+    },
+    {
+      "id": "franchisee-consortium",
+      "name": "Franchisee Consortium (Flynn + Sun + Others)",
+      "type": "Wildcard - Consortium",
+      "likelihood": 30,
+      "trend": "up",
+      "estimatedBid": "$3.5B-4.5B",
+      "rationale": "Flynn (1,027 units), Sun Holdings, and other major franchisees could band together to buy the brand. Precedent exists - Denny's was bought by a franchisee-led group. They know the operations intimately and are most motivated to fix the brand.",
+      "pros": [
+        "Deep operational knowledge",
+        "Already own ~40% of US system",
+        "Most aligned with brand success",
+        "Ron Bellamy (Flynn COO) key decision maker",
+        "Denny's franchisee buyout precedent"
+      ],
+      "cons": [
+        "Complex to organize multiple parties",
+        "Would need significant PE backing",
+        "Franchise agreements may complicate",
+        "International operations beyond expertise"
+      ],
+      "keyMetrics": {
+        "flynnUnits": "1,027 PH units",
+        "sunUnits": "100+ PH units",
+        "combinedShare": "~40% of US system"
+      },
+      "newsKeywords": ["franchisee buyout", "flynn sun consortium", "franchisee acquisition pizza hut"],
+      "history": [
+        { "date": "2025-01-13", "likelihood": 30, "note": "Added - Franchisee-led buyout gaining traction" }
       ]
     }
   ],
   "timeline": [
     {
-      "date": "2026-05-28",
-      "event": "Pizza Hut Franchisee Sues Over $100M AI Delivery Fiasco - L'Express Franchise",
-      "impact": "medium",
-      "type": "news"
+      "date": "2026-05-29",
+      "event": "BREAKING: LongRange Capital enters EXCLUSIVE TALKS with Yum! to acquire Pizza Hut",
+      "impact": "high",
+      "type": "official"
     },
-    {
-      "date": "2026-05-27",
-      "event": "Pizza Hut's new Korea operator taps female CEO to rebuild struggling brand - The Korea Times",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-23",
-      "event": "Yum! expects Taco Bell US margins of 24.5%-25.5% while keeping Pizza Hut strategic review on track f",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-22",
-      "event": "Pizza Hut franchisee revives classic dine-in decor decades later - USA Today",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-21",
-      "event": "Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction'",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-21",
-      "event": "A Pizza Hut franchisee is suing over a forced AI system it says wrecked deliveries - qz.com",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-22",
-      "event": "Pizza Hut franchisee is converting 80 locations into retro restaurants to Bring Back 1980s and 1990s",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-20",
-      "event": "Pizza Hut Franchisee Sues Chain for $100 Million Over AI Delivery System - AsatuNews.co.id",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-21",
-      "event": "Pizza Hut Franchisee Blames AI Rollout for $100M Loss - WinBuzzer",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-19",
-      "event": "Pizza Hut’s AI Delivery System Triggers $100 Million Lawsuit from Major Franchisee - Gadget Review",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-19",
-      "event": "Pizza Hut franchisee sues over AI rollout blamed for $100M loss - MSN",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-19",
-      "event": "Pizza Hut Franchisee Sues Over AI Delivery Problems - 1851 Franchise",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-19",
-      "event": "Pizza Hut Franchisee Sues Over AI Delivery System, Alleges $100 Million in Damages - Gizmodo",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-19",
-      "event": "Pizza Hut franchisee claims $100 million losses from 'cascading operational breakdowns' in AI adopti",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-18",
-      "event": "Pizza Hut franchisee seeks $100 million over AI delivery system dispute - Traders Union",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-18",
-      "event": "Pizza Hut Franchisee Sues Over Dragontail AI System - Let's Data Science",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-18",
-      "event": "Pizza Hut Franchisee Sues, Saying Yum's AI Broke Its Business and Cost $100 Million - Startup Fortun",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-19",
-      "event": "A Pizza Hut franchisee is converting 80 locations into retro restaurants to bring back the chain's g",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-18",
-      "event": "Pizza Hut Franchisee Revives Old-School Restaurants with Nostalgic Features Like Salad Bars and Red ",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-18",
-      "event": "Pizza Hut Franchisee Revamps 38 Outlets Into Retro Dining Format - HarianBasis.co",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-18",
-      "event": "Pizza Hut franchisee says delivery drivers gamed its new AI system - Business Insider",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-16",
-      "event": "Pizza Hut Franchisee Is Converting 80 Restaurants, Vows To Bring Nostalgia: \"Pizza Hut Classic\" - Wi",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-15",
-      "event": "Chopstix secures flagship Glasgow Four Corners restaurant at former Pizza Hut - Glasgow Live",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-14",
-      "event": "Former Pizza Hut Getting New Look, New Mission In Brick - Patch",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-14",
-      "event": "Pizza Hut franchisee says AI caused $100M in damages - Restaurant Dive",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-12",
-      "event": "Progress on work to transform former Pizza Hut into takeaway - Yahoo News UK",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-05-01",
-      "event": "Pizza Hut franchisee collapses into administration – 30 sites sold - Daily Express",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-28",
-      "event": "BR Korea Appoints Former Pizza Hut Korea CEO Cho Yoonsang as New CEO - 아시아경제",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-28",
-      "event": "BR Korea Names Former Pizza Hut Korea CEO Cho Yoon-sang as New Chief - Seoul Economic Daily",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-28",
-      "event": "Maybe a sale really would be the best thing for Pizza Hut - Restaurant Business",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-26",
-      "event": "Famous fried chicken brand to move into former Pizza Hut - Stourbridge News",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-23",
-      "event": "Pizza Hut needs a bold change, and a sale of the business is on the table - Yahoo Finance",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-23",
-      "event": "Yum! Brands explores Pizza Hut sale amid turnaround push - MSN",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-21",
-      "event": "On Verge of Potential Sale, Pizza Hut Remains a Brand in Transition - QSR Magazine",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-20",
-      "event": "What's going into the former Pizza Hut on Bloomington's east side? - The Herald-Times",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-20",
-      "event": "Papa John’s and Pizza Hut sales gather momentum - MCA Insight",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-16",
-      "event": "Papa John's, Pizza Hut near deals as buyers circle chains - Big News Network.com",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-15",
-      "event": "Yum Sets A Bid Deadline For Pizza Hut Sale - Finimize",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-04-14",
-      "event": "City Council Approves TIF Funding For Restaurant In Former Pizza Hut Location - WSJD 100.5",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-03-31",
-      "event": "Tacoverse takes over former Pizza Hut space in Chesterton - nwitimes.com",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-03-28",
-      "event": "Restaurant chain transforming former Pizza Hut building in St Helens - St Helens Star",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-03-25",
-      "event": "Ex-Pizza Hut India MD Rohan Pewekar to Head PizzaExpress, Chili’s Operations - India Retailing",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-03-23",
-      "event": "Former Pizza Hut India MD Rohan Pewekar to lead PizzaExpress, Chili’s Ops - Storyboard18",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-03-11",
-      "event": "Plans to turn former Pizza Hut restaurant into tanning salon approved - Frome Times",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-03-04",
-      "event": "New car showroom opens on former Pizza Hut restaurant site in Derby creating 40 jobs - Derbyshire Li",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-03-03",
-      "event": "Pizza Hut Sale? Yum! Brands Weighs Divestiture and 250 Store Closures - 1851 Franchise",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-03-01",
-      "event": "Yum Brands Weighs Pizza Hut Sale As Portfolio Reset Accelerates - simplywall.st",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-02-26",
-      "event": "Navy Federal Credit Union Coming To Deptford Former Pizza Hut Building - 42 Freeway",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-02-20",
-      "event": "Mecosta County purchases former Pizza Hut property for EMS expansion - Big Rapids Pioneer",
-      "impact": "medium",
-      "type": "news"
-    },
-    {
-      "date": "2026-02-12",
-      "event": "Tacoverse taking over former Pizza Hut in Schererville - nwitimes.com",
-      "impact": "medium",
-      "type": "news"
-    }
-  ],
-  "recentNews": [
     {
       "date": "2026-05-29",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+      "event": "LongRange beats Sycamore, Apollo for exclusivity per Bloomberg",
+      "impact": "high",
+      "type": "official"
     },
     {
-      "title": "Pizza Hut Franchisee Sues Over $100M AI Delivery Fiasco - L'Express Franchise",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTU9fajBOeWRuUDRLcGtUSjBKcmgzOHVuMEhNZUhjQUVXaXo1dy11UmliN0ZxcDZIcjBKcXJsNUhCM0hVOVdzQXFlLUw3UWs2Z0JuZDhMZEx3SjVMMWtwajdQVmlYemdKdFl6MjNwdktYLW4tWDQ5MFhqa0VaWEM0YmxTdEt1N1UtanV0X0hPUDVxWVFLcUF1ektQLUh1d0haTmRJblpmWnIxbk0yTzJCVkl2UWhSdnFWZDRVbF92NDAzRkJSOVYxM0NkT1hEbzU3ekxXZ2lBWUhHRXhx?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Over $100M AI Delivery Fiasco&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;L'Express Franchise&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTU9fajBOeWRuUDRLcGtUSjBKcmgzOHVuMEhNZUhjQUVXaXo1dy11UmliN0ZxcDZIcjBKcXJsNUhCM0hVOVdzQXFlLUw3UWs2Z0JuZDhMZEx3SjVMMWtwajdQVmlYemdKdFl6MjNwdktYLW4tWDQ5MFhqa0VaWEM0YmxTdEt1N1UtanV0X0hPUDVxWVFLcUF1ektQLUh1d0haTmRJblpmWnIxbk0yTzJCVkl2UWhSdnFWZDRVbF92NDAzRkJSOVYxM0NkT1hEbzU3ekxXZ2lBWUhHRXhx?oc=5",
-      "source": "L'Express Franchise",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
+      "event": "Deal could close within weeks - negotiations advancing",
+      "impact": "high",
+      "type": "official"
+    },
+    {
+      "date": "2025-12-10",
+      "event": "Flynn Group now operates ~20% of US Pizza Hut system (1,027 units)",
       "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
+      "type": "related"
     },
     {
-      "date": "2026-05-28",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+      "date": "2025-11-04",
+      "event": "Yum! Brands announces strategic review of Pizza Hut",
+      "impact": "high",
+      "type": "official"
     },
     {
-      "date": "2026-05-27",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+      "date": "2025-11-04",
+      "event": "Goldman Sachs & Barclays retained as financial advisors",
+      "impact": "high",
+      "type": "official"
     },
     {
-      "title": "Pizza Hut's new Korea operator taps female CEO to rebuild struggling brand - The Korea Times",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVQwUXdNdjhzNTVheFJaSy1kMU44MUd4ckdBWkRRYnB6UGRaUEhoaXhraVZtd2M0OEJfM1ZGZ1l3Z0pOYlNBdjRJSXNRc0NKeHRLcUQyRHpia0xRQmZEX3BaNUpCdkwyUXRfNzBxU2NMb3Byc0RXN0s2eE9pWG5kWWlfNFU4VExCNW1KM0p5T0Jsd09KR21LT0V0elA5akMwNTJ2NEJ1cGJ0QzFhdkVxNWMweEIxMmJyalRxM1pPWENXYnRJbU1jZnNMUHVwMUXSAc8BQVVfeXFMTU1UMFF3TXY4czU1YXhSWkstZDFOODFHeHJHQVpEUWJwelBkWlBIaGl4a2lWbXdjNDhCXzNWRmdZd2dKTmJTQXY0SUlzUXNDSnh0S3FEMkR6YmtMUUJmRF9wWjVKQnZMMlF0XzcwcVNjTG9wcnNEVzdLNnhPaVhuZFlpXzRVOFRMQjVtSjNKeU9CbHdPSkdtS09FdHpQOWpDMDUydjRCdXBidEMxYXZFcTVjMHhCMTJicmpUcTNaT1hDV2J0SW1NY2ZzTFB1cDFF?oc=5\" target=\"_blank\"&gt;Pizza Hut's new Korea operator taps female CEO to rebuild struggling brand&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Korea Times&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVQwUXdNdjhzNTVheFJaSy1kMU44MUd4ckdBWkRRYnB6UGRaUEhoaXhraVZtd2M0OEJfM1ZGZ1l3Z0pOYlNBdjRJSXNRc0NKeHRLcUQyRHpia0xRQmZEX3BaNUpCdkwyUXRfNzBxU2NMb3Byc0RXN0s2eE9pWG5kWWlfNFU4VExCNW1KM0p5T0Jsd09KR21LT0V0elA5akMwNTJ2NEJ1cGJ0QzFhdkVxNWMweEIxMmJyalRxM1pPWENXYnRJbU1jZnNMUHVwMUXSAc8BQVVfeXFMTU1UMFF3TXY4czU1YXhSWkstZDFOODFHeHJHQVpEUWJwelBkWlBIaGl4a2lWbXdjNDhCXzNWRmdZd2dKTmJTQXY0SUlzUXNDSnh0S3FEMkR6YmtMUUJmRF9wWjVKQnZMMlF0XzcwcVNjTG9wcnNEVzdLNnhPaVhuZFlpXzRVOFRMQjVtSjNKeU9CbHdPSkdtS09FdHpQOWpDMDUydjRCdXBidEMxYXZFcTVjMHhCMTJicmpUcTNaT1hDV2J0SW1NY2ZzTFB1cDFF?oc=5",
-      "source": "The Korea Times",
-      "date": "2026-05-27",
+      "date": "2025-11-04",
+      "event": "CEO Turner: 'May be better executed outside of Yum'",
+      "impact": "high",
+      "type": "official"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "YUM stock up 7% on strategic review announcement",
+      "impact": "medium",
+      "type": "market"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Denny's sold to TriArtisan/Yadav for $620M - shows buyer appetite",
+      "impact": "medium",
+      "type": "related"
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Pizza Hut Q3: US same-store sales down 6%, 8th consecutive quarter of decline",
+      "impact": "high",
+      "type": "financial"
+    },
+    {
+      "date": "2025-09-30",
+      "event": "Chris Turner takes over as Yum! Brands CEO; David Gibbs retires after 37 years",
+      "impact": "high",
+      "type": "executive"
+    },
+    {
+      "date": "2025-10-15",
+      "event": "Pizza Hut UK franchisee in talks with Directional Capital",
+      "impact": "medium",
+      "type": "related"
+    },
+    {
+      "date": "2024-12-01",
+      "event": "David Graves (Pizza Hut CBO) leaves for President role at Arby's/Inspire Brands",
+      "impact": "high",
+      "type": "executive"
+    },
+    {
+      "date": "2024-11-01",
+      "event": "Chequan Lewis (Pizza Hut US President) departs for CEO role at Crunch Fitness",
+      "impact": "medium",
+      "type": "executive"
+    },
+    {
+      "date": "2025-02-25",
+      "event": "Roark acquires Dave's Hot Chicken",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
+      "type": "competitor"
     },
     {
-      "date": "2026-05-25",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction' - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxNYklJY1gtUGgtRi1LZUhaaDVhUXNHVV83QkpVSHltdHk1bWVTSnFCVk1zZk5GemIxX09pZEZHSGZOY2FrdnZnNGZPU3lQNUlRdGF4ZVJEbGF1YjdnTGUzUHJ6WFdwYjlKcXBxb09NMEVrUldZTVZCV0QyMUJZY2JBMDMzTlcwQVdiWml1NGc3VnpieEx6TVRHUS1RRWtmUk9sdjBGMGsyNnhsX3JMVWlvVEVybG9FN1FwbEpFa0RhekZlaW13NGVoNldHc0o5a2dGTEJVSFZZWHc0Q0psYmNiM2xPRURPcUlpNjhZN3FBUm51alRjSEJvZkhBMWdRb0dmbml6anZDeUR3aWdseXBpdXRmUmVQMXBpcFJlWXU2Z3N6S3FaTGhZWEVJUWtyYU5RUThYMkh6eksyR2FzQ2pPa2Z0TTBqd0ZyQlZTaEJXM0ZidlZtV1hfMjYwNFQ4SV8zRXIydGw5Q1R2aGJqYXRiengzbGd3WWZSVG50S19R?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction'&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNYklJY1gtUGgtRi1LZUhaaDVhUXNHVV83QkpVSHltdHk1bWVTSnFCVk1zZk5GemIxX09pZEZHSGZOY2FrdnZnNGZPU3lQNUlRdGF4ZVJEbGF1YjdnTGUzUHJ6WFdwYjlKcXBxb09NMEVrUldZTVZCV0QyMUJZY2JBMDMzTlcwQVdiWml1NGc3VnpieEx6TVRHUS1RRWtmUk9sdjBGMGsyNnhsX3JMVWlvVEVybG9FN1FwbEpFa0RhekZlaW13NGVoNldHc0o5a2dGTEJVSFZZWHc0Q0psYmNiM2xPRURPcUlpNjhZN3FBUm51alRjSEJvZkhBMWdRb0dmbml6anZDeUR3aWdseXBpdXRmUmVQMXBpcFJlWXU2Z3N6S3FaTGhZWEVJUWtyYU5RUThYMkh6eksyR2FzQ2pPa2Z0TTBqd0ZyQlZTaEJXM0ZidlZtV1hfMjYwNFQ4SV8zRXIydGw5Q1R2aGJqYXRiengzbGd3WWZSVG50S19R?oc=5",
-      "source": "MSN",
-      "date": "2026-05-24",
+      "date": "2025-01-16",
+      "event": "Blackstone completes Jersey Mike's acquisition ($8B)",
       "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
+      "type": "competitor"
     },
     {
-      "date": "2026-05-23",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchisee revives classic dine-in decor decades later - USA Today",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGpUbkpOUmlzeFotMUhqSHBBcUwwUnVnbUU0cDRSdk5hMFpvUkFuNks2TEpYNllJWXdHNW9DMnU5WnBDMHlwOEdiZjJXZklOeW15bTZHa2o2X1Z0cVFKQXVnU3J1eWZjOFVTbU9XT2xJYmJOVF9Yb2FRWW9CcDdrSHdBNXBvZVBQR041Z1pxTWcxeEI3RnpxTjNURm80NG9jRFNVNXFwbjVtdWU2RVJlRGJXT0NJSFFnS0E?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee revives classic dine-in decor decades later&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGpUbkpOUmlzeFotMUhqSHBBcUwwUnVnbUU0cDRSdk5hMFpvUkFuNks2TEpYNllJWXdHNW9DMnU5WnBDMHlwOEdiZjJXZklOeW15bTZHa2o2X1Z0cVFKQXVnU3J1eWZjOFVTbU9XT2xJYmJOVF9Yb2FRWW9CcDdrSHdBNXBvZVBQR041Z1pxTWcxeEI3RnpxTjNURm80NG9jRFNVNXFwbjVtdWU2RVJlRGJXT0NJSFFnS0E?oc=5",
-      "source": "USA Today",
-      "date": "2026-05-22",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum! expects Taco Bell US margins of 24.5%-25.5% while keeping Pizza Hut strategic review on track for 2026 completion - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxNMmdCTzdwdEQwMWp1NjVqUmNlMkFhbzUxRVBoSmJJNFRyZl8tY1g4a3pfTzJKcjMyUWZTek0yeVZBSmNqc0ZSbDczTGFpWmNTOXNjaFVnMW42cVVQeVpzQktHR2FUZlRoZXhWRUJnZ2ZqcVh2VmtjanAxWEpWckVTbHp2UzVtYjNqY1dweVU4dTRCNWZrN3ZpN1A2ZWZwUXZYaVByUUxMNXpXU1J4YlNiR3ZJRVBtd3JGMERwb3NRU0ZmR2lHb25zeUdvbXVTamxualk4aVNGU25mOFB0a3o2TjRwaUxmM3ZhNWdKWUpGWXpjWXg0ZzhKay1MVUNXSWZzS1FxV2l1SGxDR0hIMzdMQzk2djV1ZG4ySG1vZzdTZDdPQ3Fmc3NJQnBiUm1NZ2gzdHhXbXJ5UjRibEU5QnlVNDlGV1o2Q2N4ekZ3ZUh4OTZ4N1BOaWJPSVhkeno1b3h0b3o0dUZ2OV9BTnRURWN4a29PV09lLVJuMUQ3VWxRdzdBdEw5TWJadzRYeS1YZ1ZXYjJtSQ?oc=5\" target=\"_blank\"&gt;Yum! expects Taco Bell US margins of 24.5%-25.5% while keeping Pizza Hut strategic review on track for 2026 completion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNMmdCTzdwdEQwMWp1NjVqUmNlMkFhbzUxRVBoSmJJNFRyZl8tY1g4a3pfTzJKcjMyUWZTek0yeVZBSmNqc0ZSbDczTGFpWmNTOXNjaFVnMW42cVVQeVpzQktHR2FUZlRoZXhWRUJnZ2ZqcVh2VmtjanAxWEpWckVTbHp2UzVtYjNqY1dweVU4dTRCNWZrN3ZpN1A2ZWZwUXZYaVByUUxMNXpXU1J4YlNiR3ZJRVBtd3JGMERwb3NRU0ZmR2lHb25zeUdvbXVTamxualk4aVNGU25mOFB0a3o2TjRwaUxmM3ZhNWdKWUpGWXpjWXg0ZzhKay1MVUNXSWZzS1FxV2l1SGxDR0hIMzdMQzk2djV1ZG4ySG1vZzdTZDdPQ3Fmc3NJQnBiUm1NZ2gzdHhXbXJ5UjRibEU5QnlVNDlGV1o2Q2N4ekZ3ZUh4OTZ4N1BOaWJPSVhkeno1b3h0b3o0dUZ2OV9BTnRURWN4a29PV09lLVJuMUQ3VWxRdzdBdEw5TWJadzRYeS1YZ1ZXYjJtSQ?oc=5",
-      "source": "MSN",
-      "date": "2026-05-23",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-22",
-      "summary": "Found 6 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchisee is converting 80 locations into retro restaurants to Bring Back 1980s and 1990s Nostalgia as Daland Corporation Revives America’s - Nbsla.ca",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8xQXNCZGpKamxYak80cGIxOFVSYVRiY05JYkZ4X29JWEUzM1MtSVdQQnFHRGY5SHpOLW9VbTVHbXA3NlJOcjhLekxwS1hqUmc3aEhVNzBKQkItNnRLOHEwcV8wV3VTR3ZRajBxS215Y21lcVhHdXZ4dUtKZXhiUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee is converting 80 locations into retro restaurants to Bring Back 1980s and 1990s Nostalgia as Daland Corporation Revives America’s&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Nbsla.ca&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xQXNCZGpKamxYak80cGIxOFVSYVRiY05JYkZ4X29JWEUzM1MtSVdQQnFHRGY5SHpOLW9VbTVHbXA3NlJOcjhLekxwS1hqUmc3aEhVNzBKQkItNnRLOHEwcV8wV3VTR3ZRajBxS215Y21lcVhHdXZ4dUtKZXhiUQ?oc=5",
-      "source": "Nbsla.ca",
-      "date": "2026-05-22",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "A Pizza Hut franchisee is suing over a forced AI system it says wrecked deliveries - qz.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBhaU40eWVmNnEtbFZWcEx5c0RRS1gyQkdEbEZsRnJqRWlqancxeFJjUmZJdjI2a0l5Smp4UDYzUUhnVjFSNWlSU3FIVnFOaGxLYjZMWlB2c3lSWFZSaVNDV2NwYjB4TndMTm9scmtnRUk3SjBvdzl1dS1VV2lTZw?oc=5\" target=\"_blank\"&gt;A Pizza Hut franchisee is suing over a forced AI system it says wrecked deliveries&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;qz.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhaU40eWVmNnEtbFZWcEx5c0RRS1gyQkdEbEZsRnJqRWlqancxeFJjUmZJdjI2a0l5Smp4UDYzUUhnVjFSNWlSU3FIVnFOaGxLYjZMWlB2c3lSWFZSaVNDV2NwYjB4TndMTm9scmtnRUk3SjBvdzl1dS1VV2lTZw?oc=5",
-      "source": "qz.com",
-      "date": "2026-05-21",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction' - Tom's Guide",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQUdwRjVxSXpnd1lzbEJRaVFQTkctNHIwUnhwN04yRE9RLS1FY3J4SXA3VUFtdS16SkpmdjVkbVdBOHZXc3laMDJYWW52QUFUZGNKc0ZJWHNwWGc4WGd2TlQxQnRwYUxScFVlTm9BdlRmWU10dnFpMXFTWmNQUXRVNHJzYThKdXpfeWgxRHF2YmpBWWltMDhFWnpTbE02RWIzRFZ1ZEZVbDQwak9PZDBuQWFETnh5R3FkMGF2MlpsR0pmMjdscVBHQmw3YktpekVXLUVQZ29OWmZRS09ia2RDc1Q5Ym9lZkpxYWpwM3NUek5ZZ3RNbkE?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction'&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Tom's Guide&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQUdwRjVxSXpnd1lzbEJRaVFQTkctNHIwUnhwN04yRE9RLS1FY3J4SXA3VUFtdS16SkpmdjVkbVdBOHZXc3laMDJYWW52QUFUZGNKc0ZJWHNwWGc4WGd2TlQxQnRwYUxScFVlTm9BdlRmWU10dnFpMXFTWmNQUXRVNHJzYThKdXpfeWgxRHF2YmpBWWltMDhFWnpTbE02RWIzRFZ1ZEZVbDQwak9PZDBuQWFETnh5R3FkMGF2MlpsR0pmMjdscVBHQmw3YktpekVXLUVQZ29OWmZRS09ia2RDc1Q5Ym9lZkpxYWpwM3NUek5ZZ3RNbkE?oc=5",
-      "source": "Tom's Guide",
-      "date": "2026-05-21",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction' - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaFBXcGVwNzJBLXY2Zzk5TXhKaDQxZkhDWFhCUkZOM2c5aUxMYzVCSXZUVjFnM25XVC1HMkgyTy1MbTBBbF9SdTB5WmdNQkpaLXR5MWx4dzlTb0lzRHdzaVFZZGJXT0x6Z2pyTG83U2ZlUHhJMkhIZnN2aEd5b0hzZmhVODFGTTg0SjFseGxJNk9GN3JmU3A4LUZtTmZFQkNxWUo3SVFmYkhFSTFsaEZxTnR4VzMtbmFEVld6c0FJekdsSDBjTkpHRF9mVlp2TjFicXZDZzhQZTBDd1V1WUVXR05KZjRETm8?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee says AI delivery system cost them millions and 'pummeled consumer satisfaction'&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaFBXcGVwNzJBLXY2Zzk5TXhKaDQxZkhDWFhCUkZOM2c5aUxMYzVCSXZUVjFnM25XVC1HMkgyTy1MbTBBbF9SdTB5WmdNQkpaLXR5MWx4dzlTb0lzRHdzaVFZZGJXT0x6Z2pyTG83U2ZlUHhJMkhIZnN2aEd5b0hzZmhVODFGTTg0SjFseGxJNk9GN3JmU3A4LUZtTmZFQkNxWUo3SVFmYkhFSTFsaEZxTnR4VzMtbmFEVld6c0FJekdsSDBjTkpHRF9mVlp2TjFicXZDZzhQZTBDd1V1WUVXR05KZjRETm8?oc=5",
-      "source": "MSN",
-      "date": "2026-05-21",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-21",
-      "summary": "Found 3 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut Franchisee Blames AI Rollout for $100M Loss - WinBuzzer",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWFIYVhiVFNLVFFfblRLcW5zdEk5SktBSVVzWVJNbVhQUDZZbUttMjNUem5GLWpST2NWUV9DbGxLRE9iSXlPMHUwRVYtSFhQTDljUU0yWHd0eGdkYWdabzl3ZVBnVnVTdjNmZTFXQklGM0J5VlAyRmx1VHhVSi1laUNDMkNTanhXdEZmQlpLWXQ0UQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Blames AI Rollout for $100M Loss&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;WinBuzzer&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWFIYVhiVFNLVFFfblRLcW5zdEk5SktBSVVzWVJNbVhQUDZZbUttMjNUem5GLWpST2NWUV9DbGxLRE9iSXlPMHUwRVYtSFhQTDljUU0yWHd0eGdkYWdabzl3ZVBnVnVTdjNmZTFXQklGM0J5VlAyRmx1VHhVSi1laUNDMkNTanhXdEZmQlpLWXQ0UQ?oc=5",
-      "source": "WinBuzzer",
-      "date": "2026-05-21",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut Franchisee Sues Chain for $100 Million Over AI Delivery System - AsatuNews.co.id",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9DcnVOVkFRN01ueHhnTjdkNXRFS2Zyc1lRMVo5OHMzdjJvbnNMbHd5OUxhd3VkaEktZVdZaUFIcGRnejU3RUI0dFBSdENpMGdtRGJza0Jzd0VJaWkzN1dKVE45VG9sc2xxMERYaEJGRQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Chain for $100 Million Over AI Delivery System&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AsatuNews.co.id&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DcnVOVkFRN01ueHhnTjdkNXRFS2Zyc1lRMVo5OHMzdjJvbnNMbHd5OUxhd3VkaEktZVdZaUFIcGRnejU3RUI0dFBSdENpMGdtRGJza0Jzd0VJaWkzN1dKVE45VG9sc2xxMERYaEJGRQ?oc=5",
-      "source": "AsatuNews.co.id",
-      "date": "2026-05-20",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-05-20",
-      "summary": "Found 5 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchisee claims $100 million losses from 'cascading operational breakdowns' in AI adoption gone wrong - Fortune",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTRtREVaV3F0NnNPdDZubE5jTFZ6VWJZMDhpNTJNcWRGYmtYMC1pcUJvdDR5alhoR0ZjVy1XeG9Xd0pQYVFDMVR4SEZxYTNOWldzWkJ3OURQWFVlS18zeTRUT0tKSEp6Rm9nOWFxOHBLTTRkY3FCNTY4Rk4wdVJTSVc3WC1uRXFNdWxaN0hSQmplYmdkekg3cDRpSUdwY2M?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee claims $100 million losses from 'cascading operational breakdowns' in AI adoption gone wrong&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Fortune&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTRtREVaV3F0NnNPdDZubE5jTFZ6VWJZMDhpNTJNcWRGYmtYMC1pcUJvdDR5alhoR0ZjVy1XeG9Xd0pQYVFDMVR4SEZxYTNOWldzWkJ3OURQWFVlS18zeTRUT0tKSEp6Rm9nOWFxOHBLTTRkY3FCNTY4Rk4wdVJTSVc3WC1uRXFNdWxaN0hSQmplYmdkekg3cDRpSUdwY2M?oc=5",
-      "source": "Fortune",
-      "date": "2026-05-19",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut Franchisee Sues Over AI Delivery System, Alleges $100 Million in Damages - Gizmodo",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnhWWlV0all6ZUJiYllhSXJKMndxcHY4amxxT0VtYVd6VXZYeTZQazN4S0FVNGRfVFhKS2Q0cE5scUZ4R3JydkEtMkZfM3RScVJmb2VrOS01a0RjbElWWlBlNFlVNlJ3SEk1dXFBbmtJbWJPQVcxdWZ2VkhMQ1VITkJTOEZsS1NyX2hjejBVaWtqb2dDQ1hvOVcwbE9PejFCbkFFdVNGbk1rRzlSOERIZg?oc=5\" target=\"_blank\"&gt;Pizza Hut Franchisee Sues Over AI Delivery System, Alleges $100 Million in Damages&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Gizmodo&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnhWWlV0all6ZUJiYllhSXJKMndxcHY4amxxT0VtYVd6VXZYeTZQazN4S0FVNGRfVFhKS2Q0cE5scUZ4R3JydkEtMkZfM3RScVJmb2VrOS01a0RjbElWWlBlNFlVNlJ3SEk1dXFBbmtJbWJPQVcxdWZ2VkhMQ1VITkJTOEZsS1NyX2hjejBVaWtqb2dDQ1hvOVcwbE9PejFCbkFFdVNGbk1rRzlSOERIZg?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-05-19",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
+      "date": "2025-01-30",
+      "event": "77 Pizza Hut restaurants sold at bankruptcy auction (EYM Group)",
+      "impact": "low",
+      "type": "related"
     }
   ],
+  "recentNews": [],
   "watchList": {
     "secFilings": [
       "YUM 8-K filings",
@@ -1180,35 +705,13 @@
         }
       ],
       "currentLeadership": [
-        {
-          "name": "Aaron Powell",
-          "role": "CEO, Pizza Hut Division"
-        },
-        {
-          "name": "Chris Turner",
-          "role": "CEO, Yum! Brands (as of Sept 30, 2025)"
-        },
-        {
-          "name": "Carl Loredo",
-          "role": "President, Pizza Hut US"
-        },
-        {
-          "name": "Steve Ritchie",
-          "role": "CEO, Prosper Growth Partners",
-          "linkedinUrl": "https://www.linkedin.com/in/stritchie/",
-          "notes": "Former Papa John's CEO - potential acquirer"
-        },
-        {
-          "name": "Ron Bellamy",
-          "role": "President & COO, Flynn Group",
-          "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/",
-          "notes": "Key decision maker at largest PH franchisee"
-        },
-        {
-          "name": "Greg Flynn",
-          "role": "Founder & CEO, Flynn Group",
-          "notes": "Largest Pizza Hut franchisee (1,027 units)"
-        }
+        {"name": "Aaron Powell", "role": "CEO, Pizza Hut Division"},
+        {"name": "Chris Turner", "role": "CEO, Yum! Brands (as of Sept 30, 2025)"},
+        {"name": "Carl Loredo", "role": "President, Pizza Hut US"},
+        {"name": "Bob Berlin", "role": "Founder, LongRange Capital", "notes": "LEAD BUYER - Ex-Baupost, Arby's investment experience. In exclusive talks."},
+        {"name": "Steve Ritchie", "role": "CEO, Prosper Growth Partners", "linkedinUrl": "https://www.linkedin.com/in/stritchie/", "notes": "Former Papa John's CEO - potential acquirer"},
+        {"name": "Ron Bellamy", "role": "President & COO, Flynn Group", "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/", "notes": "Key decision maker at largest PH franchisee"},
+        {"name": "Greg Flynn", "role": "Founder & CEO, Flynn Group", "notes": "Largest Pizza Hut franchisee (1,027 units)"}
       ],
       "signalInterpretation": "High exec turnover pre-sale often indicates: (1) insiders know deal is coming, (2) new owner already placing people, (3) brand distress worse than reported. Graves going to Inspire/Roark is especially notable - could signal relationship building or that Roark is already conducting due diligence with friendly insiders."
     },
