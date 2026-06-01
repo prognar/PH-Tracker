@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T12:00:00Z",
+  "lastUpdated": "2026-06-01T13:00:09.142Z",
   "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
@@ -16,7 +16,10 @@
     "consecutiveQuartersDecline": 8
   },
   "advisors": {
-    "seller": ["Goldman Sachs", "Barclays"],
+    "seller": [
+      "Goldman Sachs",
+      "Barclays"
+    ],
     "potentialBuyerAdvisors": []
   },
   "buyers": [
@@ -49,9 +52,334 @@
         "status": "EXCLUSIVE NEGOTIATIONS",
         "arbysConnection": "Berlin involved in Arby's investment at Baupost"
       },
-      "newsKeywords": ["longrange capital", "longrange pizza", "bob berlin pizza", "longrange yum"],
+      "newsKeywords": [
+        "longrange capital",
+        "longrange pizza",
+        "bob berlin pizza",
+        "longrange yum"
+      ],
       "history": [
-        { "date": "2026-05-29", "likelihood": 95, "note": "BREAKING: Entered exclusive talks per Bloomberg, beat Sycamore" }
+        {
+          "date": "2026-05-29",
+          "likelihood": 95,
+          "note": "BREAKING: Entered exclusive talks per Bloomberg, beat Sycamore"
+        },
+        {
+          "date": "2026-06-01",
+          "likelihood": 95,
+          "note": "Positive news coverage (6 positive mentions)"
+        }
+      ]
+    },
+    {
+      "id": "flynn-group",
+      "name": "Flynn Restaurant Group",
+      "type": "Strategic Franchisee",
+      "likelihood": 75,
+      "trend": "up",
+      "estimatedBid": "$3.0B - $4.0B",
+      "rationale": "World's largest franchisee already operates ~20% of US Pizza Huts (1,027 units) plus Australia (300 units). Deep operational knowledge and proven ability to turn around struggling Pizza Hut locations. Has backing from Main Post Partners and Ontario Teachers' Pension.",
+      "pros": [
+        "Already largest Pizza Hut franchisee globally",
+        "Proven Pizza Hut turnaround success (NPC acquisition)",
+        "Deep operational expertise across 2,900+ units",
+        "Strong financial backing (Main Post, Ontario Teachers')",
+        "International expansion experience (Australia, NZ)"
+      ],
+      "cons": [
+        "Franchisee-to-franchisor transition is complex",
+        "Would need significant capital raise",
+        "May prefer to stay as operator vs owner"
+      ],
+      "keyMetrics": {
+        "pizzaHutUnits": "1,327 (US + Australia)",
+        "totalUnits": "2,900+",
+        "annualSales": "$4.5B",
+        "brands": "7 (incl. Applebee's, Wendy's, Taco Bell)"
+      },
+      "newsKeywords": [
+        "flynn group",
+        "flynn restaurant",
+        "greg flynn",
+        "largest franchisee"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 75,
+          "note": "Added - critical missing buyer, already largest PH franchisee"
+        }
+      ]
+    },
+    {
+      "id": "rbi",
+      "name": "Restaurant Brands International",
+      "type": "Strategic Acquirer",
+      "likelihood": 68,
+      "trend": "stable",
+      "estimatedBid": "$4.0B - $5.0B",
+      "rationale": "RBI (Burger King, Tim Hortons, Popeyes, Firehouse Subs) has been rumored to want a pizza brand. Global infrastructure could support Pizza Hut's international operations. Recently refranchised China operations.",
+      "pros": [
+        "No pizza in portfolio - fills gap",
+        "Global franchise infrastructure in 100+ countries",
+        "Publicly traded - access to capital markets",
+        "Experience with turnarounds (Burger King)",
+        "3G Capital operational expertise"
+      ],
+      "cons": [
+        "Still executing Burger King US turnaround",
+        "3G Capital reducing stake",
+        "May prefer smaller, growing concept"
+      ],
+      "keyMetrics": {
+        "marketCap": "$28B",
+        "brands": "4",
+        "globalUnits": "31,000+",
+        "recentDeal": "China refranchising 2025"
+      },
+      "newsKeywords": [
+        "restaurant brands international",
+        "rbi",
+        "burger king owner",
+        "tim hortons owner",
+        "popeyes owner"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 68,
+          "note": "Initial assessment - strong strategic fit"
+        }
+      ]
+    },
+    {
+      "id": "blackstone",
+      "name": "Blackstone",
+      "type": "Private Equity",
+      "likelihood": 55,
+      "trend": "up",
+      "estimatedBid": "$4.0B - $5.0B",
+      "rationale": "Just acquired Jersey Mike's for $8B in Jan 2025, showing strong appetite for franchise restaurants. Also owns Tropical Smoothie and invested in 7Brew. Has deep pockets and franchise expertise.",
+      "pros": [
+        "Fresh from Jersey Mike's ($8B) success",
+        "Massive capital ($1.1T AUM)",
+        "Proven franchise growth expertise (Hilton, SERVPRO)",
+        "Active restaurant acquisition strategy",
+        "Could create sandwich/pizza powerhouse"
+      ],
+      "cons": [
+        "Jersey Mike's integration ongoing",
+        "Less restaurant-turnaround experience",
+        "Pizza Hut needs operational fix, not just capital"
+      ],
+      "keyMetrics": {
+        "aum": "$1.1T",
+        "recentDeal": "Jersey Mike's $8B (Jan 2025)",
+        "restaurantPortfolio": "Jersey Mike's, Tropical Smoothie, 7Brew",
+        "franchiseExpertise": "Hilton, SERVPRO"
+      },
+      "newsKeywords": [
+        "blackstone pizza",
+        "blackstone restaurant",
+        "blackstone yum"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 55,
+          "note": "Added - major PE player with fresh restaurant appetite"
+        }
+      ]
+    },
+    {
+      "id": "triartisan-yadav",
+      "name": "TriArtisan / Yadav Enterprises",
+      "type": "Private Equity + Franchisee",
+      "likelihood": 40,
+      "trend": "stable",
+      "estimatedBid": "$2.5B - $3.5B",
+      "rationale": "Just acquired Denny's ($620M) together. TriArtisan owns P.F. Chang's; Yadav is a major multi-brand franchisee who also bought Del Taco. Proven partnership model.",
+      "pros": [
+        "Active restaurant M&A (Denny's Nov 2025)",
+        "TriArtisan has full-service expertise",
+        "Yadav brings operational capability",
+        "Could partner with other franchisees"
+      ],
+      "cons": [
+        "Pizza Hut likely too large for them alone",
+        "Just closed Denny's - integration focus",
+        "Would need consortium partners"
+      ],
+      "keyMetrics": {
+        "recentDeal": "Denny's $620M (Nov 2025)",
+        "yadavUnits": "550+ restaurants",
+        "triartisanPortfolio": "P.F. Chang's, Denny's"
+      },
+      "newsKeywords": [
+        "triartisan",
+        "yadav enterprises",
+        "denny's buyer"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 40,
+          "note": "Updated - recent Denny's deal shows appetite"
+        }
+      ]
+    },
+    {
+      "id": "middle-east-swf",
+      "name": "Middle Eastern Sovereign Wealth",
+      "type": "Sovereign Wealth",
+      "likelihood": 40,
+      "trend": "stable",
+      "estimatedBid": "$4.5B - $6.0B",
+      "rationale": "Gulf sovereign wealth funds (PIF, QIA, Mubadala) actively investing in global consumer brands. Americana Group (Kuwait) already operates KFC/Pizza Hut in Middle East.",
+      "pros": [
+        "Massive capital ($1T+ combined)",
+        "Long-term investment horizon",
+        "Global ambitions and brand interest",
+        "Pizza Hut strong in Middle East/Africa",
+        "Americana already a major franchisee"
+      ],
+      "cons": [
+        "Less direct operational expertise",
+        "Would need management partner",
+        "CFIUS regulatory scrutiny",
+        "Political considerations"
+      ],
+      "keyMetrics": {
+        "capitalAvailable": "$1T+",
+        "investmentStyle": "Strategic/Long-term",
+        "existingExposure": "Americana Group"
+      },
+      "newsKeywords": [
+        "saudi pizza",
+        "pif restaurant",
+        "qia restaurant",
+        "mubadala",
+        "sovereign wealth pizza",
+        "middle east pizza hut"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 40,
+          "note": "Initial assessment"
+        }
+      ]
+    },
+    {
+      "id": "sun-holdings",
+      "name": "Sun Holdings",
+      "type": "Strategic Franchisee",
+      "likelihood": 35,
+      "trend": "stable",
+      "estimatedBid": "$2.5B - $3.5B",
+      "rationale": "Second-largest US franchisee with 1,700+ units. Has been acquiring brands (Uncle Julio's, Freebirds). Could lead franchisee consortium.",
+      "pros": [
+        "Massive multi-brand operator",
+        "Track record of brand acquisitions",
+        "Deep operational expertise",
+        "Could rally other franchisees"
+      ],
+      "cons": [
+        "Pizza Hut may be too large solo",
+        "Would need PE backing",
+        "Less turnaround experience"
+      ],
+      "keyMetrics": {
+        "totalUnits": "1,700+",
+        "ranking": "#2 US franchisee",
+        "recentDeals": "Uncle Julio's, Freebirds (2024)"
+      },
+      "newsKeywords": [
+        "sun holdings",
+        "sun holdings pizza"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 35,
+          "note": "Added - major franchisee, potential consortium leader"
+        }
+      ]
+    },
+    {
+      "id": "asian-strategic",
+      "name": "Asian Strategic Buyer / Yum China",
+      "type": "Strategic",
+      "likelihood": 30,
+      "trend": "stable",
+      "estimatedBid": "Complex structure",
+      "rationale": "Yum China already operates 4,000+ Pizza Huts in China. Could seek to acquire full brand or carve out international rights. CPE just bought Burger King China.",
+      "pros": [
+        "Strong international operations",
+        "Yum China knows the brand intimately",
+        "Growth potential in Asia-Pacific",
+        "Recent precedent (Starbucks China to Boyu)"
+      ],
+      "cons": [
+        "Complex regulatory approvals (CFIUS)",
+        "Would need US partner for domestic ops",
+        "Yum China may prefer status quo"
+      ],
+      "keyMetrics": {
+        "pizzaHutChina": "4,000+ units",
+        "recentDeals": "Starbucks China to Boyu, BK China to CPE",
+        "structure": "Likely carve-out or JV"
+      },
+      "newsKeywords": [
+        "yum china pizza",
+        "asian buyer pizza hut",
+        "china pizza hut"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 30,
+          "note": "Initial assessment - complex but possible"
+        }
+      ]
+    },
+    {
+      "id": "franchisee-consortium",
+      "name": "Franchisee Consortium (Flynn + Sun + Others)",
+      "type": "Wildcard - Consortium",
+      "likelihood": 30,
+      "trend": "up",
+      "estimatedBid": "$3.5B-4.5B",
+      "rationale": "Flynn (1,027 units), Sun Holdings, and other major franchisees could band together to buy the brand. Precedent exists - Denny's was bought by a franchisee-led group. They know the operations intimately and are most motivated to fix the brand.",
+      "pros": [
+        "Deep operational knowledge",
+        "Already own ~40% of US system",
+        "Most aligned with brand success",
+        "Ron Bellamy (Flynn COO) key decision maker",
+        "Denny's franchisee buyout precedent"
+      ],
+      "cons": [
+        "Complex to organize multiple parties",
+        "Would need significant PE backing",
+        "Franchise agreements may complicate",
+        "International operations beyond expertise"
+      ],
+      "keyMetrics": {
+        "flynnUnits": "1,027 PH units",
+        "sunUnits": "100+ PH units",
+        "combinedShare": "~40% of US system"
+      },
+      "newsKeywords": [
+        "franchisee buyout",
+        "flynn sun consortium",
+        "franchisee acquisition pizza hut"
+      ],
+      "history": [
+        {
+          "date": "2025-01-13",
+          "likelihood": 30,
+          "note": "Added - Franchisee-led buyout gaining traction"
+        }
       ]
     },
     {
@@ -82,282 +410,30 @@
         "restaurantFocus": "Primary",
         "insiderConnection": "David Graves (ex-Pizza Hut CBO)"
       },
-      "newsKeywords": ["roark capital", "inspire brands", "arby's owner", "subway owner", "dunkin owner", "david graves arby"],
+      "newsKeywords": [
+        "roark capital",
+        "inspire brands",
+        "arby's owner",
+        "subway owner",
+        "dunkin owner",
+        "david graves arby"
+      ],
       "history": [
-        { "date": "2025-12-10", "likelihood": 85, "note": "Initial assessment - top candidate per industry analysts" },
-        { "date": "2025-12-10", "likelihood": 88, "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship" },
-        { "date": "2026-05-29", "likelihood": 25, "note": "Downgraded - LongRange won exclusivity, Roark not in lead" }
-      ]
-    },
-    {
-      "id": "flynn-group",
-      "name": "Flynn Restaurant Group",
-      "type": "Strategic Franchisee",
-      "likelihood": 75,
-      "trend": "up",
-      "estimatedBid": "$3.0B - $4.0B",
-      "rationale": "World's largest franchisee already operates ~20% of US Pizza Huts (1,027 units) plus Australia (300 units). Deep operational knowledge and proven ability to turn around struggling Pizza Hut locations. Has backing from Main Post Partners and Ontario Teachers' Pension.",
-      "pros": [
-        "Already largest Pizza Hut franchisee globally",
-        "Proven Pizza Hut turnaround success (NPC acquisition)",
-        "Deep operational expertise across 2,900+ units",
-        "Strong financial backing (Main Post, Ontario Teachers')",
-        "International expansion experience (Australia, NZ)"
-      ],
-      "cons": [
-        "Franchisee-to-franchisor transition is complex",
-        "Would need significant capital raise",
-        "May prefer to stay as operator vs owner"
-      ],
-      "keyMetrics": {
-        "pizzaHutUnits": "1,327 (US + Australia)",
-        "totalUnits": "2,900+",
-        "annualSales": "$4.5B",
-        "brands": "7 (incl. Applebee's, Wendy's, Taco Bell)"
-      },
-      "newsKeywords": ["flynn group", "flynn restaurant", "greg flynn", "largest franchisee"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 75, "note": "Added - critical missing buyer, already largest PH franchisee" }
-      ]
-    },
-    {
-      "id": "rbi",
-      "name": "Restaurant Brands International",
-      "type": "Strategic Acquirer",
-      "likelihood": 68,
-      "trend": "stable",
-      "estimatedBid": "$4.0B - $5.0B",
-      "rationale": "RBI (Burger King, Tim Hortons, Popeyes, Firehouse Subs) has been rumored to want a pizza brand. Global infrastructure could support Pizza Hut's international operations. Recently refranchised China operations.",
-      "pros": [
-        "No pizza in portfolio - fills gap",
-        "Global franchise infrastructure in 100+ countries",
-        "Publicly traded - access to capital markets",
-        "Experience with turnarounds (Burger King)",
-        "3G Capital operational expertise"
-      ],
-      "cons": [
-        "Still executing Burger King US turnaround",
-        "3G Capital reducing stake",
-        "May prefer smaller, growing concept"
-      ],
-      "keyMetrics": {
-        "marketCap": "$28B",
-        "brands": "4",
-        "globalUnits": "31,000+",
-        "recentDeal": "China refranchising 2025"
-      },
-      "newsKeywords": ["restaurant brands international", "rbi", "burger king owner", "tim hortons owner", "popeyes owner"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 68, "note": "Initial assessment - strong strategic fit" }
-      ]
-    },
-    {
-      "id": "apollo",
-      "name": "Apollo Global Management",
-      "type": "Private Equity",
-      "likelihood": 20,
-      "trend": "down",
-      "estimatedBid": "$3.0B - $4.0B",
-      "rationale": "Was among interested bidders (per Reuters May 2026) but LOST TO LONGRANGE for exclusivity. Could re-emerge if deal falls through.",
-      "pros": [
-        "Deep QSR experience (CKE, Chuck E. Cheese)",
-        "Massive capital reserves ($650B+ AUM)",
-        "Turnaround expertise",
-        "Could be backup bidder"
-      ],
-      "cons": [
-        "LOST exclusivity to LongRange",
-        "Papa John's deal fell through previously",
-        "May wait for lower valuation"
-      ],
-      "keyMetrics": {
-        "aum": "$650B+",
-        "qsrExperience": "CKE, Chuck E. Cheese, TRG",
-        "status": "Lost to LongRange"
-      },
-      "newsKeywords": ["apollo global", "apollo management", "apollo pizza", "apollo restaurant"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 65, "note": "Initial assessment - proven pizza interest" },
-        { "date": "2026-05-29", "likelihood": 20, "note": "Downgraded - LongRange won exclusivity" }
-      ]
-    },
-    {
-      "id": "blackstone",
-      "name": "Blackstone",
-      "type": "Private Equity",
-      "likelihood": 55,
-      "trend": "up",
-      "estimatedBid": "$4.0B - $5.0B",
-      "rationale": "Just acquired Jersey Mike's for $8B in Jan 2025, showing strong appetite for franchise restaurants. Also owns Tropical Smoothie and invested in 7Brew. Has deep pockets and franchise expertise.",
-      "pros": [
-        "Fresh from Jersey Mike's ($8B) success",
-        "Massive capital ($1.1T AUM)",
-        "Proven franchise growth expertise (Hilton, SERVPRO)",
-        "Active restaurant acquisition strategy",
-        "Could create sandwich/pizza powerhouse"
-      ],
-      "cons": [
-        "Jersey Mike's integration ongoing",
-        "Less restaurant-turnaround experience",
-        "Pizza Hut needs operational fix, not just capital"
-      ],
-      "keyMetrics": {
-        "aum": "$1.1T",
-        "recentDeal": "Jersey Mike's $8B (Jan 2025)",
-        "restaurantPortfolio": "Jersey Mike's, Tropical Smoothie, 7Brew",
-        "franchiseExpertise": "Hilton, SERVPRO"
-      },
-      "newsKeywords": ["blackstone pizza", "blackstone restaurant", "blackstone yum"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 55, "note": "Added - major PE player with fresh restaurant appetite" }
-      ]
-    },
-    {
-      "id": "sycamore",
-      "name": "Sycamore Partners",
-      "type": "Private Equity",
-      "likelihood": 15,
-      "trend": "down",
-      "estimatedBid": "$2.5B - $3.5B",
-      "rationale": "LOST TO LONGRANGE for exclusivity (May 2026). Was reportedly a finalist but LongRange beat them out. Could re-emerge if LongRange deal falls through.",
-      "pros": [
-        "Consumer brand expertise",
-        "Turnaround track record in retail",
-        "Patient capital approach",
-        "Could be backup bidder"
-      ],
-      "cons": [
-        "LOST exclusivity to LongRange",
-        "Less restaurant-specific experience",
-        "Would need operating partners",
-        "Smaller fund size than competitors"
-      ],
-      "keyMetrics": {
-        "aum": "$10B+",
-        "focus": "Consumer/Retail",
-        "status": "Lost to LongRange"
-      },
-      "newsKeywords": ["sycamore partners", "sycamore capital", "sycamore pizza"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 45, "note": "Initial assessment" }
-      ]
-    },
-    {
-      "id": "triartisan-yadav",
-      "name": "TriArtisan / Yadav Enterprises",
-      "type": "Private Equity + Franchisee",
-      "likelihood": 40,
-      "trend": "stable",
-      "estimatedBid": "$2.5B - $3.5B",
-      "rationale": "Just acquired Denny's ($620M) together. TriArtisan owns P.F. Chang's; Yadav is a major multi-brand franchisee who also bought Del Taco. Proven partnership model.",
-      "pros": [
-        "Active restaurant M&A (Denny's Nov 2025)",
-        "TriArtisan has full-service expertise",
-        "Yadav brings operational capability",
-        "Could partner with other franchisees"
-      ],
-      "cons": [
-        "Pizza Hut likely too large for them alone",
-        "Just closed Denny's - integration focus",
-        "Would need consortium partners"
-      ],
-      "keyMetrics": {
-        "recentDeal": "Denny's $620M (Nov 2025)",
-        "yadavUnits": "550+ restaurants",
-        "triartisanPortfolio": "P.F. Chang's, Denny's"
-      },
-      "newsKeywords": ["triartisan", "yadav enterprises", "denny's buyer"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 40, "note": "Updated - recent Denny's deal shows appetite" }
-      ]
-    },
-    {
-      "id": "middle-east-swf",
-      "name": "Middle Eastern Sovereign Wealth",
-      "type": "Sovereign Wealth",
-      "likelihood": 40,
-      "trend": "stable",
-      "estimatedBid": "$4.5B - $6.0B",
-      "rationale": "Gulf sovereign wealth funds (PIF, QIA, Mubadala) actively investing in global consumer brands. Americana Group (Kuwait) already operates KFC/Pizza Hut in Middle East.",
-      "pros": [
-        "Massive capital ($1T+ combined)",
-        "Long-term investment horizon",
-        "Global ambitions and brand interest",
-        "Pizza Hut strong in Middle East/Africa",
-        "Americana already a major franchisee"
-      ],
-      "cons": [
-        "Less direct operational expertise",
-        "Would need management partner",
-        "CFIUS regulatory scrutiny",
-        "Political considerations"
-      ],
-      "keyMetrics": {
-        "capitalAvailable": "$1T+",
-        "investmentStyle": "Strategic/Long-term",
-        "existingExposure": "Americana Group"
-      },
-      "newsKeywords": ["saudi pizza", "pif restaurant", "qia restaurant", "mubadala", "sovereign wealth pizza", "middle east pizza hut"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 40, "note": "Initial assessment" }
-      ]
-    },
-    {
-      "id": "sun-holdings",
-      "name": "Sun Holdings",
-      "type": "Strategic Franchisee",
-      "likelihood": 35,
-      "trend": "stable",
-      "estimatedBid": "$2.5B - $3.5B",
-      "rationale": "Second-largest US franchisee with 1,700+ units. Has been acquiring brands (Uncle Julio's, Freebirds). Could lead franchisee consortium.",
-      "pros": [
-        "Massive multi-brand operator",
-        "Track record of brand acquisitions",
-        "Deep operational expertise",
-        "Could rally other franchisees"
-      ],
-      "cons": [
-        "Pizza Hut may be too large solo",
-        "Would need PE backing",
-        "Less turnaround experience"
-      ],
-      "keyMetrics": {
-        "totalUnits": "1,700+",
-        "ranking": "#2 US franchisee",
-        "recentDeals": "Uncle Julio's, Freebirds (2024)"
-      },
-      "newsKeywords": ["sun holdings", "sun holdings pizza"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 35, "note": "Added - major franchisee, potential consortium leader" }
-      ]
-    },
-    {
-      "id": "asian-strategic",
-      "name": "Asian Strategic Buyer / Yum China",
-      "type": "Strategic",
-      "likelihood": 30,
-      "trend": "stable",
-      "estimatedBid": "Complex structure",
-      "rationale": "Yum China already operates 4,000+ Pizza Huts in China. Could seek to acquire full brand or carve out international rights. CPE just bought Burger King China.",
-      "pros": [
-        "Strong international operations",
-        "Yum China knows the brand intimately",
-        "Growth potential in Asia-Pacific",
-        "Recent precedent (Starbucks China to Boyu)"
-      ],
-      "cons": [
-        "Complex regulatory approvals (CFIUS)",
-        "Would need US partner for domestic ops",
-        "Yum China may prefer status quo"
-      ],
-      "keyMetrics": {
-        "pizzaHutChina": "4,000+ units",
-        "recentDeals": "Starbucks China to Boyu, BK China to CPE",
-        "structure": "Likely carve-out or JV"
-      },
-      "newsKeywords": ["yum china pizza", "asian buyer pizza hut", "china pizza hut"],
-      "history": [
-        { "date": "2025-12-10", "likelihood": 30, "note": "Initial assessment - complex but possible" }
+        {
+          "date": "2025-12-10",
+          "likelihood": 85,
+          "note": "Initial assessment - top candidate per industry analysts"
+        },
+        {
+          "date": "2025-12-10",
+          "likelihood": 88,
+          "note": "Upgraded - David Graves (ex-PH CBO) now at Inspire/Arby's indicates insider relationship"
+        },
+        {
+          "date": "2026-05-29",
+          "likelihood": 25,
+          "note": "Downgraded - LongRange won exclusivity, Roark not in lead"
+        }
       ]
     },
     {
@@ -386,9 +462,19 @@
         "mubadalaAum": "$300B+",
         "recentDeals": "Newcastle United, LIV Golf, Lucid, AMC, various F&B"
       },
-      "newsKeywords": ["saudi pizza", "pif restaurant", "mubadala food", "sovereign wealth restaurant", "qia acquisition"],
+      "newsKeywords": [
+        "saudi pizza",
+        "pif restaurant",
+        "mubadala food",
+        "sovereign wealth restaurant",
+        "qia acquisition"
+      ],
       "history": [
-        { "date": "2025-01-13", "likelihood": 25, "note": "Added - SWFs actively diversifying into consumer" }
+        {
+          "date": "2025-01-13",
+          "likelihood": 25,
+          "note": "Added - SWFs actively diversifying into consumer"
+        }
       ]
     },
     {
@@ -416,9 +502,61 @@
         "ritchieBackground": "Former Papa John's CEO",
         "recentDeals": "PizzaExpress to Convive/Bain (Dec 2025)"
       },
-      "newsKeywords": ["steve ritchie pizza", "prosper growth", "bain capital restaurant", "bain pizza"],
+      "newsKeywords": [
+        "steve ritchie pizza",
+        "prosper growth",
+        "bain capital restaurant",
+        "bain pizza"
+      ],
       "history": [
-        { "date": "2025-01-13", "likelihood": 25, "note": "Added - Ritchie's pizza experience + Bain backing" }
+        {
+          "date": "2025-01-13",
+          "likelihood": 25,
+          "note": "Added - Ritchie's pizza experience + Bain backing"
+        }
+      ]
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo Global Management",
+      "type": "Private Equity",
+      "likelihood": 20,
+      "trend": "down",
+      "estimatedBid": "$3.0B - $4.0B",
+      "rationale": "Was among interested bidders (per Reuters May 2026) but LOST TO LONGRANGE for exclusivity. Could re-emerge if deal falls through.",
+      "pros": [
+        "Deep QSR experience (CKE, Chuck E. Cheese)",
+        "Massive capital reserves ($650B+ AUM)",
+        "Turnaround expertise",
+        "Could be backup bidder"
+      ],
+      "cons": [
+        "LOST exclusivity to LongRange",
+        "Papa John's deal fell through previously",
+        "May wait for lower valuation"
+      ],
+      "keyMetrics": {
+        "aum": "$650B+",
+        "qsrExperience": "CKE, Chuck E. Cheese, TRG",
+        "status": "Lost to LongRange"
+      },
+      "newsKeywords": [
+        "apollo global",
+        "apollo management",
+        "apollo pizza",
+        "apollo restaurant"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 65,
+          "note": "Initial assessment - proven pizza interest"
+        },
+        {
+          "date": "2026-05-29",
+          "likelihood": 20,
+          "note": "Downgraded - LongRange won exclusivity"
+        }
       ]
     },
     {
@@ -446,9 +584,18 @@
         "conviveBrands": "Le Pain, Little Beet, CPK, PizzaExpress",
         "bohlyAssets": "Chelsea FC, LA Dodgers, Eldridge"
       },
-      "newsKeywords": ["eldridge restaurant", "convive brands", "todd boehly restaurant", "convive pizza"],
+      "newsKeywords": [
+        "eldridge restaurant",
+        "convive brands",
+        "todd boehly restaurant",
+        "convive pizza"
+      ],
       "history": [
-        { "date": "2025-01-13", "likelihood": 20, "note": "Added - Boehly building restaurant empire" }
+        {
+          "date": "2025-01-13",
+          "likelihood": 20,
+          "note": "Added - Boehly building restaurant empire"
+        }
       ]
     },
     {
@@ -476,9 +623,56 @@
         "investmentStyle": "Long-term, operational improvement",
         "relevantDeals": "Various consumer, franchise businesses"
       },
-      "newsKeywords": ["kkr restaurant", "kkr consumer", "kkr franchise", "kkr pizza"],
+      "newsKeywords": [
+        "kkr restaurant",
+        "kkr consumer",
+        "kkr franchise",
+        "kkr pizza"
+      ],
       "history": [
-        { "date": "2025-01-13", "likelihood": 20, "note": "Added - Mega PE entering as QSR PE exits" }
+        {
+          "date": "2025-01-13",
+          "likelihood": 20,
+          "note": "Added - Mega PE entering as QSR PE exits"
+        }
+      ]
+    },
+    {
+      "id": "sycamore",
+      "name": "Sycamore Partners",
+      "type": "Private Equity",
+      "likelihood": 15,
+      "trend": "down",
+      "estimatedBid": "$2.5B - $3.5B",
+      "rationale": "LOST TO LONGRANGE for exclusivity (May 2026). Was reportedly a finalist but LongRange beat them out. Could re-emerge if LongRange deal falls through.",
+      "pros": [
+        "Consumer brand expertise",
+        "Turnaround track record in retail",
+        "Patient capital approach",
+        "Could be backup bidder"
+      ],
+      "cons": [
+        "LOST exclusivity to LongRange",
+        "Less restaurant-specific experience",
+        "Would need operating partners",
+        "Smaller fund size than competitors"
+      ],
+      "keyMetrics": {
+        "aum": "$10B+",
+        "focus": "Consumer/Retail",
+        "status": "Lost to LongRange"
+      },
+      "newsKeywords": [
+        "sycamore partners",
+        "sycamore capital",
+        "sycamore pizza"
+      ],
+      "history": [
+        {
+          "date": "2025-12-10",
+          "likelihood": 45,
+          "note": "Initial assessment"
+        }
       ]
     },
     {
@@ -506,44 +700,76 @@
         "lovesLocations": "600+ locations",
         "recentDeals": "RaceTrac/Potbelly, Casey's expanding QSR"
       },
-      "newsKeywords": ["pilot pizza", "racetrac qsr", "c-store restaurant acquisition", "travel center food"],
-      "history": [
-        { "date": "2025-01-13", "likelihood": 15, "note": "Added - C-stores aggressively entering foodservice" }
-      ]
-    },
-    {
-      "id": "franchisee-consortium",
-      "name": "Franchisee Consortium (Flynn + Sun + Others)",
-      "type": "Wildcard - Consortium",
-      "likelihood": 30,
-      "trend": "up",
-      "estimatedBid": "$3.5B-4.5B",
-      "rationale": "Flynn (1,027 units), Sun Holdings, and other major franchisees could band together to buy the brand. Precedent exists - Denny's was bought by a franchisee-led group. They know the operations intimately and are most motivated to fix the brand.",
-      "pros": [
-        "Deep operational knowledge",
-        "Already own ~40% of US system",
-        "Most aligned with brand success",
-        "Ron Bellamy (Flynn COO) key decision maker",
-        "Denny's franchisee buyout precedent"
+      "newsKeywords": [
+        "pilot pizza",
+        "racetrac qsr",
+        "c-store restaurant acquisition",
+        "travel center food"
       ],
-      "cons": [
-        "Complex to organize multiple parties",
-        "Would need significant PE backing",
-        "Franchise agreements may complicate",
-        "International operations beyond expertise"
-      ],
-      "keyMetrics": {
-        "flynnUnits": "1,027 PH units",
-        "sunUnits": "100+ PH units",
-        "combinedShare": "~40% of US system"
-      },
-      "newsKeywords": ["franchisee buyout", "flynn sun consortium", "franchisee acquisition pizza hut"],
       "history": [
-        { "date": "2025-01-13", "likelihood": 30, "note": "Added - Franchisee-led buyout gaining traction" }
+        {
+          "date": "2025-01-13",
+          "likelihood": 15,
+          "note": "Added - C-stores aggressively entering foodservice"
+        }
       ]
     }
   ],
   "timeline": [
+    {
+      "date": "2026-05-31",
+      "event": "Pizza Hut franchisee revives classic dine-in decor decades later - MSN",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Weekly Global Wrap: Yum! Brands reportedly in talks for Pizza Hut sale; Starbucks says afternoon tra",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-31",
+      "event": "Pizza Hut sale talks heat up as Yum! Brands courts LongRange Capital as a potential buyer - MSN",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-31",
+      "event": "Yum Brands in exclusive talks to sell Pizza Hut - MSN",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-05-31",
+      "event": "Yum Brands Eyes Selling Pizza Hut To LongRange Capital: Report - BW Businessworld",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Yum! Brands, Inc. (YUM.US) Reportedly in Exclusive Talks with LongRange Capital to Sell Pizza Hut - ",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital - hospitality-week.co.uk",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Yum Brands in talks to sell Pizza Hut to LongRange Capital - bestmediainfo.com",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Yum Brands in talks to divest Pizza Hut to LongRange Capital – report - Verdict Food Service",
+      "impact": "high",
+      "type": "news"
+    },
     {
       "date": "2026-05-29",
       "event": "BREAKING: LongRange Capital enters EXCLUSIVE TALKS with Yum! to acquire Pizza Hut",
@@ -647,7 +873,152 @@
       "type": "related"
     }
   ],
-  "recentNews": [],
+  "recentNews": [
+    {
+      "date": "2026-06-01",
+      "summary": "Found 14 relevant news items. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "title": "Yum Brands in talks to divest Pizza Hut to LongRange Capital – report - Verdict Food Service",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXB2MjlGRHB2bWdvb0RoNFZNSDRRVWQzTkFNWUlWQlB5d1Fwb3BQZUpja3JGYkxYSExGTUZlSk5aVmdWbTBRNm1WaDh3TkhaVGduN0YxdWNtYUEwZU9ObjJodFRjdEVZM2tGZTFsWUY4Nmc2YXZtUGs0UG53bzBZLWhsWQ?oc=5\" target=\"_blank\"&gt;Yum Brands in talks to divest Pizza Hut to LongRange Capital – report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Verdict Food Service&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXB2MjlGRHB2bWdvb0RoNFZNSDRRVWQzTkFNWUlWQlB5d1Fwb3BQZUpja3JGYkxYSExGTUZlSk5aVmdWbTBRNm1WaDh3TkhaVGduN0YxdWNtYUEwZU9ObjJodFRjdEVZM2tGZTFsWUY4Nmc2YXZtUGs0UG53bzBZLWhsWQ?oc=5",
+      "source": "Verdict Food Service",
+      "date": "2026-06-01",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Yum Brands in talks to sell Pizza Hut to LongRange Capital - bestmediainfo.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmsydkxnQzRsNlczX0EzNXBSN0t2M0JaOGJrbEIzSW4ycVpKRWlEUGFyWVZzNURhNWRIak1FS0JjR1plWVRiQlI3RURZUnozaEUzWE81aEtBSDNsU1E1VzFaWHdoSDFuMTIxMDRiZ1o1Z2xVd0psT05yZlhWUjQ4dXBsRUhMSVBrdnNmOEUtNnAyUnpBTkpXWmFJR3BBNUFsSjlUaTBvVDM5c3pNVXBfOHRaQTFITHJhSllGbG5vbDbSAcABQVVfeXFMUEJrMnZMZ0M0bDZXM19BMzVwUjdLdjNCWjhia2xCM0luMnFaSkVpRFBhcllWczVEYTVkSGpNRUtCY0daZVlUYkJSN0VEWVJ6M2hFM1hPNWhLQUgzbFNRNVcxWlh3aEgxbjEyMTA0YmdaNWdsVXdKbE9OcmZYVlI0OHVwbEVITElQa3ZzZjhFLTZwMlJ6QU5KV1phSUdwQTVBbEo5VGkwb1QzOXN6TVVwXzh0WkExSExyYUpZRmxub2w2?oc=5\" target=\"_blank\"&gt;Yum Brands in talks to sell Pizza Hut to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;bestmediainfo.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmsydkxnQzRsNlczX0EzNXBSN0t2M0JaOGJrbEIzSW4ycVpKRWlEUGFyWVZzNURhNWRIak1FS0JjR1plWVRiQlI3RURZUnozaEUzWE81aEtBSDNsU1E1VzFaWHdoSDFuMTIxMDRiZ1o1Z2xVd0psT05yZlhWUjQ4dXBsRUhMSVBrdnNmOEUtNnAyUnpBTkpXWmFJR3BBNUFsSjlUaTBvVDM5c3pNVXBfOHRaQTFITHJhSllGbG5vbDbSAcABQVVfeXFMUEJrMnZMZ0M0bDZXM19BMzVwUjdLdjNCWjhia2xCM0luMnFaSkVpRFBhcllWczVEYTVkSGpNRUtCY0daZVlUYkJSN0VEWVJ6M2hFM1hPNWhLQUgzbFNRNVcxWlh3aEgxbjEyMTA0YmdaNWdsVXdKbE9OcmZYVlI0OHVwbEVITElQa3ZzZjhFLTZwMlJ6QU5KV1phSUdwQTVBbEo5VGkwb1QzOXN6TVVwXzh0WkExSExyYUpZRmxub2w2?oc=5",
+      "source": "bestmediainfo.com",
+      "date": "2026-06-01",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital - hospitality-week.co.uk",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEtMaUptWEFUS1JjVE41RlVaem5PQTZNZGJYZkdQYmlyRXlwejVKcnl1NWxRN1VBMy1jRDVBR1V3XzJTRzRxbmZwcHUwa0swcHFkUkJaaXQ1Uks1Nl8wN3B5WjNXNlFqLW9SQm1tNW9nZ2swQ3BlVjY1aTlqMzgzbDJscEpYUTBSRWp6WTJrV1BsTEU1VGQxdEViYWVZVEZVUlh6d3NwVDhPcDEyTWFfa2hoVWVreGM5LWczWjRR?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;hospitality-week.co.uk&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEtMaUptWEFUS1JjVE41RlVaem5PQTZNZGJYZkdQYmlyRXlwejVKcnl1NWxRN1VBMy1jRDVBR1V3XzJTRzRxbmZwcHUwa0swcHFkUkJaaXQ1Uks1Nl8wN3B5WjNXNlFqLW9SQm1tNW9nZ2swQ3BlVjY1aTlqMzgzbDJscEpYUTBSRWp6WTJrV1BsTEU1VGQxdEViYWVZVEZVUlh6d3NwVDhPcDEyTWFfa2hoVWVreGM5LWczWjRR?oc=5",
+      "source": "hospitality-week.co.uk",
+      "date": "2026-06-01",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum! Brands, Inc. (YUM.US) Reportedly in Exclusive Talks with LongRange Capital to Sell Pizza Hut - AASTOCKS.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQnFGRkowZDMyRnBCazBha19VVEpZZDY2LUt6S3IwSE00NVNKNzY5VjdpTmdYYjc4dkQza0RPLV9NVUdtanowWEtveFdPbHRmQkR4bENnbHZWbVdkUDZzRVY1TEZTTU9Dd2I4bHRuRFdVSzNaXzRKd1dRX1VvZS1wVHRCSDY5ZUttQUNhaUhMXzR2QlZQ?oc=5\" target=\"_blank\"&gt;Yum! Brands, Inc. (YUM.US) Reportedly in Exclusive Talks with LongRange Capital to Sell Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AASTOCKS.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQnFGRkowZDMyRnBCazBha19VVEpZZDY2LUt6S3IwSE00NVNKNzY5VjdpTmdYYjc4dkQza0RPLV9NVUdtanowWEtveFdPbHRmQkR4bENnbHZWbVdkUDZzRVY1TEZTTU9Dd2I4bHRuRFdVSzNaXzRKd1dRX1VvZS1wVHRCSDY5ZUttQUNhaUhMXzR2QlZQ?oc=5",
+      "source": "AASTOCKS.com",
+      "date": "2026-06-01",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands Eyes Selling Pizza Hut To LongRange Capital: Report - BW Businessworld",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUxuOWV4bDN0ZHItQldzMFRLYkJMRFd5MllValdlT0NvTl9sRTBaUkU1MzJOenRHX2F5VVFrdy1xcnN1U21hWEdETS10eVhxQzJLcUN6X1FxWmdHbV9iSWFxclZpV19DZE1yZXlzZlhoWVJjWjRtV0Utd3VhakdaWnVyMGtpdElfeWU2azIzM0VkTHI0dFI4Nnk1MkVCREhSN2l5ZVdVV0Q?oc=5\" target=\"_blank\"&gt;Yum Brands Eyes Selling Pizza Hut To LongRange Capital: Report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;BW Businessworld&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUxuOWV4bDN0ZHItQldzMFRLYkJMRFd5MllValdlT0NvTl9sRTBaUkU1MzJOenRHX2F5VVFrdy1xcnN1U21hWEdETS10eVhxQzJLcUN6X1FxWmdHbV9iSWFxclZpV19DZE1yZXlzZlhoWVJjWjRtV0Utd3VhakdaWnVyMGtpdElfeWU2azIzM0VkTHI0dFI4Nnk1MkVCREhSN2l5ZVdVV0Q?oc=5",
+      "source": "BW Businessworld",
+      "date": "2026-05-31",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands in exclusive talks to sell Pizza Hut - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNRk1OcF90NmdWRzAyZEtFM1V3MkJhTWU4OWstZlFybEMySjBwU1lYaDV5MktLUXdkYjYtN3p5ZzBGWjN1LS1VUzlvdmtIVmJuVkd6dHhUYlJLdVJGRTFjWHFPVjBuX0RScVpoSVRoakw2OExFYUlCSkZFT3duZHFNSzBEa3QxRHRyVm1EdUlKMGJZdEViaWF5eVo2SWRyay1WN1lv?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRk1OcF90NmdWRzAyZEtFM1V3MkJhTWU4OWstZlFybEMySjBwU1lYaDV5MktLUXdkYjYtN3p5ZzBGWjN1LS1VUzlvdmtIVmJuVkd6dHhUYlJLdVJGRTFjWHFPVjBuX0RScVpoSVRoakw2OExFYUlCSkZFT3duZHFNSzBEa3QxRHRyVm1EdUlKMGJZdEViaWF5eVo2SWRyay1WN1lv?oc=5",
+      "source": "MSN",
+      "date": "2026-05-31",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands in talks to sell Pizza Hut to LongRange Capital - Big News Network.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQT3hYNHIyTU5YMVBYZkVyVlM2ZTRRbHRLOUtsbHBBVzk5eXpsTWZ0clpaUklBRF85VHIydjE3bnoydkQtdGI4Z3BwMmExM0JYay1aUmdNQ1hCUWF3MDNqZHZfQW9DQUxhTmp4MWhqV2UxeXl4cDd3cmU2cTRKVTlBdmZNazdxZHdBb0t2RmxjYXhKR3g3dndsQVFwTFV1WGliZGJLMVJoRQ?oc=5\" target=\"_blank\"&gt;Yum Brands in talks to sell Pizza Hut to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Big News Network.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT3hYNHIyTU5YMVBYZkVyVlM2ZTRRbHRLOUtsbHBBVzk5eXpsTWZ0clpaUklBRF85VHIydjE3bnoydkQtdGI4Z3BwMmExM0JYay1aUmdNQ1hCUWF3MDNqZHZfQW9DQUxhTmp4MWhqV2UxeXl4cDd3cmU2cTRKVTlBdmZNazdxZHdBb0t2RmxjYXhKR3g3dndsQVFwTFV1WGliZGJLMVJoRQ?oc=5",
+      "source": "Big News Network.com",
+      "date": "2026-06-01",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Pizza Hut sale talks heat up as Yum! Brands courts LongRange Capital as a potential buyer - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxNQ2hSSWNNNkVBNUhFVDlDSEFNd1ZZZFp2TE5vOEVOcUE5ZlRaTkNIUE4yQWxQeFV2bktPeTI4ekhkTFRKdU9MeFhIX2dNRUp4SWpJazdqd3RhaHRlLUxOeWhJd0k1Uy1MY3Z1R18tcU9TYlZIUER6UHJENnJ1RW1mTEwyNmtuY3N1ekdoMU5uSDBrVzhkVUFGMTRDRW5vVUZqRjNUakhQem0xNUp2c0VkX0lKSzZVanNmelRwd0gyUDdjOG5GWER0blBPUVNOM01hTjFPc2NFeHprU29USjlkSlVraWFFU2pXM0tCa1hDWEszVW5HMm41S3hiaDdmekxEd1NtMmkwNEhvY21oQ2RVUmpVX09IMFNkOXY1S09JM1U2bXRWR25YZlpzd0ZxYzRqTWVnRmFJZ3VBcHVadWR0LVBUSmZlN3RTMEpwRzdiOERRLTd4MWY1SXcyRll2NmNnRjljSkZ4cEREcF9vV2d4VXJtMU1CYldvei1NY19ISkh0NzRaakx5S1lLbzNMTDNRT1loaC12UVR6dTVNaERBelVGd181TFNmVVhheGdpMVVNQQ?oc=5\" target=\"_blank\"&gt;Pizza Hut sale talks heat up as Yum! Brands courts LongRange Capital as a potential buyer&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNQ2hSSWNNNkVBNUhFVDlDSEFNd1ZZZFp2TE5vOEVOcUE5ZlRaTkNIUE4yQWxQeFV2bktPeTI4ekhkTFRKdU9MeFhIX2dNRUp4SWpJazdqd3RhaHRlLUxOeWhJd0k1Uy1MY3Z1R18tcU9TYlZIUER6UHJENnJ1RW1mTEwyNmtuY3N1ekdoMU5uSDBrVzhkVUFGMTRDRW5vVUZqRjNUakhQem0xNUp2c0VkX0lKSzZVanNmelRwd0gyUDdjOG5GWER0blBPUVNOM01hTjFPc2NFeHprU29USjlkSlVraWFFU2pXM0tCa1hDWEszVW5HMm41S3hiaDdmekxEd1NtMmkwNEhvY21oQ2RVUmpVX09IMFNkOXY1S09JM1U2bXRWR25YZlpzd0ZxYzRqTWVnRmFJZ3VBcHVadWR0LVBUSmZlN3RTMEpwRzdiOERRLTd4MWY1SXcyRll2NmNnRjljSkZ4cEREcF9vV2d4VXJtMU1CYldvei1NY19ISkh0NzRaakx5S1lLbzNMTDNRT1loaC12UVR6dTVNaERBelVGd181TFNmVVhheGdpMVVNQQ?oc=5",
+      "source": "MSN",
+      "date": "2026-05-31",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkJTWG1OT1NQRk5XaUg3ZmtDT21hZHlfc2N2d2E0aUo1bVExM3l4dm9oeFRfY0Y1VVlDUTBLTDdzTzBmeFpDRUhtY2RuSWVFMjdmV2wzWlJxanE4ZFdwNzRvb1FUVV9meWRCRkxHcW1KZUFFV2ZLRlZwN0liTTNYNUhjSVAxY1dOd09GWGtnNFhkOXJRNFQ5dHI5OV9yV3psWTBQWFc0SlAwN2N4WUxLTmdOT3AtXzNMdFJUWVJmM0tfZGxVOGVzdQ?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkJTWG1OT1NQRk5XaUg3ZmtDT21hZHlfc2N2d2E0aUo1bVExM3l4dm9oeFRfY0Y1VVlDUTBLTDdzTzBmeFpDRUhtY2RuSWVFMjdmV2wzWlJxanE4ZFdwNzRvb1FUVV9meWRCRkxHcW1KZUFFV2ZLRlZwN0liTTNYNUhjSVAxY1dOd09GWGtnNFhkOXJRNFQ5dHI5OV9yV3psWTBQWFc0SlAwN2N4WUxLTmdOT3AtXzNMdFJUWVJmM0tfZGxVOGVzdQ?oc=5",
+      "source": "MSN",
+      "date": "2026-05-31",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands in talks to sell Pizza Hut to LongRange Capital - bestmediainfo.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmsydkxnQzRsNlczX0EzNXBSN0t2M0JaOGJrbEIzSW4ycVpKRWlEUGFyWVZzNURhNWRIak1FS0JjR1plWVRiQlI3RURZUnozaEUzWE81aEtBSDNsU1E1VzFaWHdoSDFuMTIxMDRiZ1o1Z2xVd0psT05yZlhWUjQ4dXBsRUhMSVBrdnNmOEUtNnAyUnpBTkpXWmFJR3BBNUFsSjlUaTBvVDM5c3pNVXBfOHRaQTFITHJhSllGbG5vbDbSAcABQVVfeXFMUEJrMnZMZ0M0bDZXM19BMzVwUjdLdjNCWjhia2xCM0luMnFaSkVpRFBhcllWczVEYTVkSGpNRUtCY0daZVlUYkJSN0VEWVJ6M2hFM1hPNWhLQUgzbFNRNVcxWlh3aEgxbjEyMTA0YmdaNWdsVXdKbE9OcmZYVlI0OHVwbEVITElQa3ZzZjhFLTZwMlJ6QU5KV1phSUdwQTVBbEo5VGkwb1QzOXN6TVVwXzh0WkExSExyYUpZRmxub2w2?oc=5\" target=\"_blank\"&gt;Yum Brands in talks to sell Pizza Hut to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;bestmediainfo.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmsydkxnQzRsNlczX0EzNXBSN0t2M0JaOGJrbEIzSW4ycVpKRWlEUGFyWVZzNURhNWRIak1FS0JjR1plWVRiQlI3RURZUnozaEUzWE81aEtBSDNsU1E1VzFaWHdoSDFuMTIxMDRiZ1o1Z2xVd0psT05yZlhWUjQ4dXBsRUhMSVBrdnNmOEUtNnAyUnpBTkpXWmFJR3BBNUFsSjlUaTBvVDM5c3pNVXBfOHRaQTFITHJhSllGbG5vbDbSAcABQVVfeXFMUEJrMnZMZ0M0bDZXM19BMzVwUjdLdjNCWjhia2xCM0luMnFaSkVpRFBhcllWczVEYTVkSGpNRUtCY0daZVlUYkJSN0VEWVJ6M2hFM1hPNWhLQUgzbFNRNVcxWlh3aEgxbjEyMTA0YmdaNWdsVXdKbE9OcmZYVlI0OHVwbEVITElQa3ZzZjhFLTZwMlJ6QU5KV1phSUdwQTVBbEo5VGkwb1QzOXN6TVVwXzh0WkExSExyYUpZRmxub2w2?oc=5",
+      "source": "bestmediainfo.com",
+      "date": "2026-06-01",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Yum Brands in talks to divest Pizza Hut to LongRange Capital – report - Verdict Food Service",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXB2MjlGRHB2bWdvb0RoNFZNSDRRVWQzTkFNWUlWQlB5d1Fwb3BQZUpja3JGYkxYSExGTUZlSk5aVmdWbTBRNm1WaDh3TkhaVGduN0YxdWNtYUEwZU9ObjJodFRjdEVZM2tGZTFsWUY4Nmc2YXZtUGs0UG53bzBZLWhsWQ?oc=5\" target=\"_blank\"&gt;Yum Brands in talks to divest Pizza Hut to LongRange Capital – report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Verdict Food Service&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXB2MjlGRHB2bWdvb0RoNFZNSDRRVWQzTkFNWUlWQlB5d1Fwb3BQZUpja3JGYkxYSExGTUZlSk5aVmdWbTBRNm1WaDh3TkhaVGduN0YxdWNtYUEwZU9ObjJodFRjdEVZM2tGZTFsWUY4Nmc2YXZtUGs0UG53bzBZLWhsWQ?oc=5",
+      "source": "Verdict Food Service",
+      "date": "2026-06-01",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Yum Brands in talks to sell Pizza Hut to LongRange Capital - bestmediainfo.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmsydkxnQzRsNlczX0EzNXBSN0t2M0JaOGJrbEIzSW4ycVpKRWlEUGFyWVZzNURhNWRIak1FS0JjR1plWVRiQlI3RURZUnozaEUzWE81aEtBSDNsU1E1VzFaWHdoSDFuMTIxMDRiZ1o1Z2xVd0psT05yZlhWUjQ4dXBsRUhMSVBrdnNmOEUtNnAyUnpBTkpXWmFJR3BBNUFsSjlUaTBvVDM5c3pNVXBfOHRaQTFITHJhSllGbG5vbDbSAcABQVVfeXFMUEJrMnZMZ0M0bDZXM19BMzVwUjdLdjNCWjhia2xCM0luMnFaSkVpRFBhcllWczVEYTVkSGpNRUtCY0daZVlUYkJSN0VEWVJ6M2hFM1hPNWhLQUgzbFNRNVcxWlh3aEgxbjEyMTA0YmdaNWdsVXdKbE9OcmZYVlI0OHVwbEVITElQa3ZzZjhFLTZwMlJ6QU5KV1phSUdwQTVBbEo5VGkwb1QzOXN6TVVwXzh0WkExSExyYUpZRmxub2w2?oc=5\" target=\"_blank\"&gt;Yum Brands in talks to sell Pizza Hut to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;bestmediainfo.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmsydkxnQzRsNlczX0EzNXBSN0t2M0JaOGJrbEIzSW4ycVpKRWlEUGFyWVZzNURhNWRIak1FS0JjR1plWVRiQlI3RURZUnozaEUzWE81aEtBSDNsU1E1VzFaWHdoSDFuMTIxMDRiZ1o1Z2xVd0psT05yZlhWUjQ4dXBsRUhMSVBrdnNmOEUtNnAyUnpBTkpXWmFJR3BBNUFsSjlUaTBvVDM5c3pNVXBfOHRaQTFITHJhSllGbG5vbDbSAcABQVVfeXFMUEJrMnZMZ0M0bDZXM19BMzVwUjdLdjNCWjhia2xCM0luMnFaSkVpRFBhcllWczVEYTVkSGpNRUtCY0daZVlUYkJSN0VEWVJ6M2hFM1hPNWhLQUgzbFNRNVcxWlh3aEgxbjEyMTA0YmdaNWdsVXdKbE9OcmZYVlI0OHVwbEVITElQa3ZzZjhFLTZwMlJ6QU5KV1phSUdwQTVBbEo5VGkwb1QzOXN6TVVwXzh0WkExSExyYUpZRmxub2w2?oc=5",
+      "source": "bestmediainfo.com",
+      "date": "2026-06-01",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Weekly Global Wrap: Yum! Brands reportedly in talks for Pizza Hut sale; Starbucks says afternoon traffic is rising; Burger King brings 15-year old menu item - QSR Media Asia",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU1duRzl5b1FDMHBidUl6a0l1RjdRTENmSV9wOVJrcXA4ZzV4Y1hvWVc4MkZvMEI1ZjZSUmROVnNRN1ZzOGxkZWVxNU03bV9UNGxSSDV3a2ZHWE9uNE53cHZQNjgyRzZXM0pmYlhvYXpQZGE2STRlRWdjS0VORGFDelhxWFZjcEMzel9yMllvenJVWlhPWWJFcVVVbzB1Q25fQl9Edk9YNWZ1VzBoQnU3QXNKb2ZzeE10NXMydUV0OHdnalVDZW93ZEk5SUcxelF4T0hWZ3pxSW93cU1xaXpQMmRpNkZGX1NYM1F5TXJvSVdSSVU?oc=5\" target=\"_blank\"&gt;Weekly Global Wrap: Yum! Brands reportedly in talks for Pizza Hut sale; Starbucks says afternoon traffic is rising; Burger King brings 15-year old menu item&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Media Asia&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU1duRzl5b1FDMHBidUl6a0l1RjdRTENmSV9wOVJrcXA4ZzV4Y1hvWVc4MkZvMEI1ZjZSUmROVnNRN1ZzOGxkZWVxNU03bV9UNGxSSDV3a2ZHWE9uNE53cHZQNjgyRzZXM0pmYlhvYXpQZGE2STRlRWdjS0VORGFDelhxWFZjcEMzel9yMllvenJVWlhPWWJFcVVVbzB1Q25fQl9Edk9YNWZ1VzBoQnU3QXNKb2ZzeE10NXMydUV0OHdnalVDZW93ZEk5SUcxelF4T0hWZ3pxSW93cU1xaXpQMmRpNkZGX1NYM1F5TXJvSVdSSVU?oc=5",
+      "source": "QSR Media Asia",
+      "date": "2026-06-01",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "positive"
+    },
+    {
+      "title": "Pizza Hut franchisee revives classic dine-in decor decades later - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnMtVTY4czlaa1BaRXpYWmdVUlo0bTE3S1ZiWXRHanQ3ME5QQzZidko1NFFPYldSTWZtcDZXcVptU2xQZTE5VUhmZjJXYUtJSHR3MFZmTnlZdWctaHY3WnB3UkVWR200eEpTTDdkeWVyOG1JYnVKVEtnenBlb3hUUmVDYU1nWEZiODJzNDc0MUtURWtHSTh0cDhzMDRZNXJ5ZnhxTHdZOFJGZnFyajRWMnJzbHZyVDZoYmc?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee revives classic dine-in decor decades later&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnMtVTY4czlaa1BaRXpYWmdVUlo0bTE3S1ZiWXRHanQ3ME5QQzZidko1NFFPYldSTWZtcDZXcVptU2xQZTE5VUhmZjJXYUtJSHR3MFZmTnlZdWctaHY3WnB3UkVWR200eEpTTDdkeWVyOG1JYnVKVEtnenBlb3hUUmVDYU1nWEZiODJzNDc0MUtURWtHSTh0cDhzMDRZNXJ5ZnhxTHdZOFJGZnFyajRWMnJzbHZyVDZoYmc?oc=5",
+      "source": "MSN",
+      "date": "2026-05-31",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    }
+  ],
   "watchList": {
     "secFilings": [
       "YUM 8-K filings",
@@ -705,13 +1076,40 @@
         }
       ],
       "currentLeadership": [
-        {"name": "Aaron Powell", "role": "CEO, Pizza Hut Division"},
-        {"name": "Chris Turner", "role": "CEO, Yum! Brands (as of Sept 30, 2025)"},
-        {"name": "Carl Loredo", "role": "President, Pizza Hut US"},
-        {"name": "Bob Berlin", "role": "Founder, LongRange Capital", "notes": "LEAD BUYER - Ex-Baupost, Arby's investment experience. In exclusive talks."},
-        {"name": "Steve Ritchie", "role": "CEO, Prosper Growth Partners", "linkedinUrl": "https://www.linkedin.com/in/stritchie/", "notes": "Former Papa John's CEO - potential acquirer"},
-        {"name": "Ron Bellamy", "role": "President & COO, Flynn Group", "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/", "notes": "Key decision maker at largest PH franchisee"},
-        {"name": "Greg Flynn", "role": "Founder & CEO, Flynn Group", "notes": "Largest Pizza Hut franchisee (1,027 units)"}
+        {
+          "name": "Aaron Powell",
+          "role": "CEO, Pizza Hut Division"
+        },
+        {
+          "name": "Chris Turner",
+          "role": "CEO, Yum! Brands (as of Sept 30, 2025)"
+        },
+        {
+          "name": "Carl Loredo",
+          "role": "President, Pizza Hut US"
+        },
+        {
+          "name": "Bob Berlin",
+          "role": "Founder, LongRange Capital",
+          "notes": "LEAD BUYER - Ex-Baupost, Arby's investment experience. In exclusive talks."
+        },
+        {
+          "name": "Steve Ritchie",
+          "role": "CEO, Prosper Growth Partners",
+          "linkedinUrl": "https://www.linkedin.com/in/stritchie/",
+          "notes": "Former Papa John's CEO - potential acquirer"
+        },
+        {
+          "name": "Ron Bellamy",
+          "role": "President & COO, Flynn Group",
+          "linkedinUrl": "https://www.linkedin.com/in/ronald-bellamy-b795a88/",
+          "notes": "Key decision maker at largest PH franchisee"
+        },
+        {
+          "name": "Greg Flynn",
+          "role": "Founder & CEO, Flynn Group",
+          "notes": "Largest Pizza Hut franchisee (1,027 units)"
+        }
       ],
       "signalInterpretation": "High exec turnover pre-sale often indicates: (1) insiders know deal is coming, (2) new owner already placing people, (3) brand distress worse than reported. Graves going to Inspire/Roark is especially notable - could signal relationship building or that Roark is already conducting due diligence with friendly insiders."
     },
