@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T13:00:08.288Z",
+  "lastUpdated": "2026-06-05T13:32:25.633Z",
   "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
@@ -78,6 +78,16 @@
           "date": "2026-06-04",
           "likelihood": 95,
           "note": "Mentioned in news (5 mentions)"
+        },
+        {
+          "date": "2026-06-05",
+          "likelihood": 95,
+          "note": "Positive news coverage (1 positive mention)"
+        },
+        {
+          "date": "2026-06-05",
+          "likelihood": 95,
+          "note": "Positive news coverage (1 positive mention)"
         },
         {
           "date": "2026-06-05",
@@ -984,6 +994,14 @@
       "summary": "Found 7 relevant news items. Buyers mentioned: LongRange Capital."
     },
     {
+      "date": "2026-06-05",
+      "summary": "Found 7 relevant news items. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "date": "2026-06-05",
+      "summary": "Found 7 relevant news items. Buyers mentioned: LongRange Capital."
+    },
+    {
       "title": "Pizza Hut Sale: Yum Brands In Talks With LongRange Capital - Yahoo Finance",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTJnR1g0RUlYRnFiMUUwVnVJeEpKbUJYcF95ZFk0ZVFsRkJIc3BxaFpzQk8zSTJBQmRaUThJTXJyZ3F0VVZLOUlPbGV1LUZzdkU5c3QyUExYaGYtN2c0dEwxRzNBdzVWbE5WZVNZdW1kLVNqZFFsaHhlLVZ6LUQtZWlIenJPbnVYNzl0aDIxRnlBUlk0?oc=5\" target=\"_blank\"&gt;Pizza Hut Sale: Yum Brands In Talks With LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTJnR1g0RUlYRnFiMUUwVnVJeEpKbUJYcF95ZFk0ZVFsRkJIc3BxaFpzQk8zSTJBQmRaUThJTXJyZ3F0VVZLOUlPbGV1LUZzdkU5c3QyUExYaGYtN2c0dEwxRzNBdzVWbE5WZVNZdW1kLVNqZFFsaHhlLVZ6LUQtZWlIenJPbnVYNzl0aDIxRnlBUlk0?oc=5",
@@ -1147,26 +1165,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
       "source": "Restaurant Business Magazine",
       "date": "2026-06-03",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgNBVV95cUxOVFc5RHI5QVZQVkVqdUtRM2RBQUktcllIcTctNkVkRTdta3NudGZuRC1oZjRzdmk3UW9CcEVDY0szdzViLUNaalU2VXlVSVBBX21pN2UwT3J4Ylc1WFViZUl0WEpvWmxhV0ZlVVpvQzRua0haSGQ0ZElZd3FKNUVpNWczYW14Vnkzc3oyS2M1SWx1SkZQYjhPY014SUttTnFDQWlaTjNZWmhIdGlOWUxDQ0h6S1JJTEx5X2tjRUFGRFNYRDh1V1J5QWhOWlJaQmRNT1dsUFBSd1oyR0F2WUVqTmxLcldwTGpaOHc2aEFZRFN1UVpWM1JFdGNIR3VfMlc3SkFKMUM5NDNFZVZ5R1VkaXlnejVKZHJaRk1IOUx4LXJCNEFTaWUwZ3hVNmFfeEVjTElLRHpZN1lTci1uV081QzlqaF8wMGNrZVNrZnhxS1daZ2xQZjVfUGRPeDVRRUpXU2J5NDhLZWZKSlZnYjl1Ty1fMlVrMlZRY2ZjR21OamJUeDFDQk9jWWdhZE5MYXpLdFJ5QWRn?oc=5\" target=\"_blank\"&gt;Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOVFc5RHI5QVZQVkVqdUtRM2RBQUktcllIcTctNkVkRTdta3NudGZuRC1oZjRzdmk3UW9CcEVDY0szdzViLUNaalU2VXlVSVBBX21pN2UwT3J4Ylc1WFViZUl0WEpvWmxhV0ZlVVpvQzRua0haSGQ0ZElZd3FKNUVpNWczYW14Vnkzc3oyS2M1SWx1SkZQYjhPY014SUttTnFDQWlaTjNZWmhIdGlOWUxDQ0h6S1JJTEx5X2tjRUFGRFNYRDh1V1J5QWhOWlJaQmRNT1dsUFBSd1oyR0F2WUVqTmxLcldwTGpaOHc2aEFZRFN1UVpWM1JFdGNIR3VfMlc3SkFKMUM5NDNFZVZ5R1VkaXlnejVKZHJaRk1IOUx4LXJCNEFTaWUwZ3hVNmFfeEVjTElLRHpZN1lTci1uV081QzlqaF8wMGNrZVNrZnhxS1daZ2xQZjVfUGRPeDVRRUpXU2J5NDhLZWZKSlZnYjl1Ty1fMlVrMlZRY2ZjR21OamJUeDFDQk9jWWdhZE5MYXpLdFJ5QWRn?oc=5",
-      "source": "MSN",
-      "date": "2026-06-03",
-      "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Why a Pizza Hut sale could be a negative for Domino's and Papa John's (YUM:NYSE) - Seeking Alpha",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb3pqN054bnBuRnVnRWl1RTc1N0tlRE5sYUtrRk5TMFRmM0xQeHdrQ1NsYWhqN1VoYW5jVWRMY0R0MWlLa1Y2cW14c0FUSnRseVBrSzRWNl84a085aGx4TVJjWFAyR2gxcGtTYnl3NFhvRnpsNnBkX1l1NXZ2QWx1VktSLXA1aU14eENzWTdBQVhpLUJwLWs3bFNRSUpoRDJfYjhNamtLckU?oc=5\" target=\"_blank\"&gt;Why a Pizza Hut sale could be a negative for Domino's and Papa John's (YUM:NYSE)&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Seeking Alpha&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb3pqN054bnBuRnVnRWl1RTc1N0tlRE5sYUtrRk5TMFRmM0xQeHdrQ1NsYWhqN1VoYW5jVWRMY0R0MWlLa1Y2cW14c0FUSnRseVBrSzRWNl84a085aGx4TVJjWFAyR2gxcGtTYnl3NFhvRnpsNnBkX1l1NXZ2QWx1VktSLXA1aU14eENzWTdBQVhpLUJwLWs3bFNRSUpoRDJfYjhNamtLckU?oc=5",
-      "source": "Seeking Alpha",
-      "date": "2026-06-02",
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
