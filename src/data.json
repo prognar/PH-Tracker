@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T13:00:08.206Z",
+  "lastUpdated": "2026-06-05T13:00:08.288Z",
   "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
@@ -78,6 +78,11 @@
           "date": "2026-06-04",
           "likelihood": 95,
           "note": "Mentioned in news (5 mentions)"
+        },
+        {
+          "date": "2026-06-05",
+          "likelihood": 95,
+          "note": "Positive news coverage (1 positive mention)"
         }
       ]
     },
@@ -728,6 +733,24 @@
   "timeline": [
     {
       "date": "2026-06-04",
+      "event": "News | Joining retro trend, Pizza Hut looks to revive sales by serving nostalgia - CoStar",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-05",
+      "event": "Yum Brands Negotiates Multi Billion Dollar Pizza Hut Sale - asatunews.co.id",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-04",
+      "event": "Pizza Hut Sale: Yum Brands In Talks With LongRange Capital - Yahoo Finance",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-04",
       "event": "Plans tease arrival of US fast-food chain at former Pizza Hut restaurant - News & Star",
       "impact": "medium",
       "type": "news"
@@ -957,6 +980,70 @@
   ],
   "recentNews": [
     {
+      "date": "2026-06-05",
+      "summary": "Found 7 relevant news items. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "title": "Pizza Hut Sale: Yum Brands In Talks With LongRange Capital - Yahoo Finance",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTJnR1g0RUlYRnFiMUUwVnVJeEpKbUJYcF95ZFk0ZVFsRkJIc3BxaFpzQk8zSTJBQmRaUThJTXJyZ3F0VVZLOUlPbGV1LUZzdkU5c3QyUExYaGYtN2c0dEwxRzNBdzVWbE5WZVNZdW1kLVNqZFFsaHhlLVZ6LUQtZWlIenJPbnVYNzl0aDIxRnlBUlk0?oc=5\" target=\"_blank\"&gt;Pizza Hut Sale: Yum Brands In Talks With LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTJnR1g0RUlYRnFiMUUwVnVJeEpKbUJYcF95ZFk0ZVFsRkJIc3BxaFpzQk8zSTJBQmRaUThJTXJyZ3F0VVZLOUlPbGV1LUZzdkU5c3QyUExYaGYtN2c0dEwxRzNBdzVWbE5WZVNZdW1kLVNqZFFsaHhlLVZ6LUQtZWlIenJPbnVYNzl0aDIxRnlBUlk0?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-06-04",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgNBVV95cUxPbDlhWElOT2JBQUVQdV9wOGlZZE52VDI5d1V5YklBUDJkQkJvTS1oSUd3NnJRTVdHZHhybXQxYUpRM2dqbkpQSlA5YXFpenlhQ1pKb1ZTSFRabjloQU9kcnRrOVVGNjd5THZ1VU9yTnR5ZXVBS1hCVXJOTnFkYmJxOTZuVTJheXpGX0VQRkFaM1pHODhrQ0tTUTcyaWtmd3NhUW9hM0FNODBESnVVRHdVblRWSkhwdW5ERzFqODNnaExBNmlVMjNLdGhHXzM1eGdWVEhiSEU5SDBGT29iQ1dRbjU3YV9pb2Y5NUJVUUwwWUczUnEwdVBxMjZoaWEtdURsMV8xYzl2MXZrTUstZm1pek5OZkRkbnhwaDRTSU5iakptbE9RZnJPdkQxV05aWmRwdzhxUzBIZjNYR3ZVLW53Vjk5WGt0Y254UHdCRXlDNFhJTU1ZR25Lc2dGb2tGbEh5UVZYU3dKWWtyNm1qdmlWRkM4YXV0WXJEV2dWQ19pUG5fdkZQcFNuRWRCLTdhMW84UDhmUkhR?oc=5\" target=\"_blank\"&gt;Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPbDlhWElOT2JBQUVQdV9wOGlZZE52VDI5d1V5YklBUDJkQkJvTS1oSUd3NnJRTVdHZHhybXQxYUpRM2dqbkpQSlA5YXFpenlhQ1pKb1ZTSFRabjloQU9kcnRrOVVGNjd5THZ1VU9yTnR5ZXVBS1hCVXJOTnFkYmJxOTZuVTJheXpGX0VQRkFaM1pHODhrQ0tTUTcyaWtmd3NhUW9hM0FNODBESnVVRHdVblRWSkhwdW5ERzFqODNnaExBNmlVMjNLdGhHXzM1eGdWVEhiSEU5SDBGT29iQ1dRbjU3YV9pb2Y5NUJVUUwwWUczUnEwdVBxMjZoaWEtdURsMV8xYzl2MXZrTUstZm1pek5OZkRkbnhwaDRTSU5iakptbE9RZnJPdkQxV05aWmRwdzhxUzBIZjNYR3ZVLW53Vjk5WGt0Y254UHdCRXlDNFhJTU1ZR25Lc2dGb2tGbEh5UVZYU3dKWWtyNm1qdmlWRkM4YXV0WXJEV2dWQ19pUG5fdkZQcFNuRWRCLTdhMW84UDhmUkhR?oc=5",
+      "source": "MSN",
+      "date": "2026-06-04",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkJTWG1OT1NQRk5XaUg3ZmtDT21hZHlfc2N2d2E0aUo1bVExM3l4dm9oeFRfY0Y1VVlDUTBLTDdzTzBmeFpDRUhtY2RuSWVFMjdmV2wzWlJxanE4ZFdwNzRvb1FUVV9meWRCRkxHcW1KZUFFV2ZLRlZwN0liTTNYNUhjSVAxY1dOd09GWGtnNFhkOXJRNFQ5dHI5OV9yV3psWTBQWFc0SlAwN2N4WUxLTmdOT3AtXzNMdFJUWVJmM0tfZGxVOGVzdQ?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkJTWG1OT1NQRk5XaUg3ZmtDT21hZHlfc2N2d2E0aUo1bVExM3l4dm9oeFRfY0Y1VVlDUTBLTDdzTzBmeFpDRUhtY2RuSWVFMjdmV2wzWlJxanE4ZFdwNzRvb1FUVV9meWRCRkxHcW1KZUFFV2ZLRlZwN0liTTNYNUhjSVAxY1dOd09GWGtnNFhkOXJRNFQ5dHI5OV9yV3psWTBQWFc0SlAwN2N4WUxLTmdOT3AtXzNMdFJUWVJmM0tfZGxVOGVzdQ?oc=5",
+      "source": "MSN",
+      "date": "2026-06-04",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands Negotiates Multi Billion Dollar Pizza Hut Sale - asatunews.co.id",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUs1a0c5UElEWnFkTC1fYjRDUFV3ZkdRZVl4QzhUZFlES0NtUmZGYk54SXdQaGhoTGNYZ1dFbFJDLTJILTljSGNWUEhidUk4YWZxTlZSNFk4Vk9zRWtIRFlFTFNFclVDWFNyUjdEdWNqSGNBMW04WnFuQzFzVGdVdGN2V2lkREliY2g1NG9hdlRuQQ?oc=5\" target=\"_blank\"&gt;Yum Brands Negotiates Multi Billion Dollar Pizza Hut Sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;asatunews.co.id&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUs1a0c5UElEWnFkTC1fYjRDUFV3ZkdRZVl4QzhUZFlES0NtUmZGYk54SXdQaGhoTGNYZ1dFbFJDLTJILTljSGNWUEhidUk4YWZxTlZSNFk4Vk9zRWtIRFlFTFNFclVDWFNyUjdEdWNqSGNBMW04WnFuQzFzVGdVdGN2V2lkREliY2g1NG9hdlRuQQ?oc=5",
+      "source": "asatunews.co.id",
+      "date": "2026-06-05",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "News | Joining retro trend, Pizza Hut looks to revive sales by serving nostalgia - CoStar",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjFXM19NbXpsR2lRUkk2ZXNleGN2VHR6aDkzanhqUGNDdFlsbWRLdThiazNnNXFHT3E0V1dTVlFTVVpHUGZ3a1BNMENteVFodnVkeElXRGJyT3lnM2FDb0FtTzdUWVV4VWZySVF4QkZDOUVKdHVmMml1UW96b3VkQmdZRFcyLTNfLVB5TGlXcHJ1Zk5aNWhGOTByeWQ1bC1Gb2p0UHVWWTdfZnBqcEVTTWUwOUE4TEhkVTQ5SnE3VGNkMi1GRGQ4cF9PaHdQQQ?oc=5\" target=\"_blank\"&gt;News | Joining retro trend, Pizza Hut looks to revive sales by serving nostalgia&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;CoStar&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjFXM19NbXpsR2lRUkk2ZXNleGN2VHR6aDkzanhqUGNDdFlsbWRLdThiazNnNXFHT3E0V1dTVlFTVVpHUGZ3a1BNMENteVFodnVkeElXRGJyT3lnM2FDb0FtTzdUWVV4VWZySVF4QkZDOUVKdHVmMml1UW96b3VkQmdZRFcyLTNfLVB5TGlXcHJ1Zk5aNWhGOTByeWQ1bC1Gb2p0UHVWWTdfZnBqcEVTTWUwOUE4TEhkVTQ5SnE3VGNkMi1GRGQ4cF9PaHdQQQ?oc=5",
+      "source": "CoStar",
+      "date": "2026-06-04",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Plans tease arrival of US fast-food chain at former Pizza Hut restaurant - in-Cumbria",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQlJVN2VHSkphMXliMTVrY2llRC1QeXo5T0NUSnYyR2lxT3REZ3FhalpjQlpsM21QNFA3QXlQVnNkVzZRWFdCc0NKU1NmNWkzMThrdXhEeFRQdVllSW1XVFUxR3BqNG55em5mTXdBZWtJZFdUWG9fZjJVVnFQTktOc2hFY0dFcVdKTVFza2RMUGsyOWkyYjRmc3lR?oc=5\" target=\"_blank\"&gt;Plans tease arrival of US fast-food chain at former Pizza Hut restaurant&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;in-Cumbria&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQlJVN2VHSkphMXliMTVrY2llRC1QeXo5T0NUSnYyR2lxT3REZ3FhalpjQlpsM21QNFA3QXlQVnNkVzZRWFdCc0NKU1NmNWkzMThrdXhEeFRQdVllSW1XVFUxR3BqNG55em5mTXdBZWtJZFdUWG9fZjJVVnFQTktOc2hFY0dFcVdKTVFza2RMUGsyOWkyYjRmc3lR?oc=5",
+      "source": "in-Cumbria",
+      "date": "2026-06-04",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-06-04",
       "summary": "Found 12 relevant news items. Buyers mentioned: LongRange Capital."
     },
@@ -1081,70 +1168,6 @@
       "source": "Seeking Alpha",
       "date": "2026-06-02",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-06-02",
-      "summary": "Found 16 relevant news items. Buyers mentioned: LongRange Capital."
-    },
-    {
-      "title": "Yum Brands in talks to divest Pizza Hut to LongRange Capital – report - Yahoo Finance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnBaenpPNUNTSWNsYWRnVEJaX0I2TUlkRmtqRUs4OERIcGRUNUhLSWdmdWNZZTdtbnFiSnhCQTZLRy1fa0RuN01LYkdZSmRmR1hRNVAwcHE4dmpHeEZwOVloNm9nd3Y4ejNrTXZmYy1YejhDbzhpc245ZkVYN0dEMlN3eWQ4akJvY0pNTVkwUVlwZVU2YTZOS3Jn?oc=5\" target=\"_blank\"&gt;Yum Brands in talks to divest Pizza Hut to LongRange Capital – report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnBaenpPNUNTSWNsYWRnVEJaX0I2TUlkRmtqRUs4OERIcGRUNUhLSWdmdWNZZTdtbnFiSnhCQTZLRy1fa0RuN01LYkdZSmRmR1hRNVAwcHE4dmpHeEZwOVloNm9nd3Y4ejNrTXZmYy1YejhDbzhpc245ZkVYN0dEMlN3eWQ4akJvY0pNTVkwUVlwZVU2YTZOS3Jn?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-06-01",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Yum Brands Negotiates Sale of Pizza Hut to Private-Equity Firm LongRange Capital - News and Statistics - IndexBox",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVF9oZWNaUkwtYjYzMXV4MlQ5ajRucDZGOURiTVFYQm1OSG9IQkRrYlNmN0p0YkllTEVEbUFPcjJaY0FNX3hsVWFjWmlUanlKSTBFS1pGWXVoQWhUSjR3c3BBR3FEMVV6alhQeXdONTRtNzVfUzJYU1ZuM1Q1Z0RreXhSQndQWUNKRHFsN2N0Sk0xdw?oc=5\" target=\"_blank\"&gt;Yum Brands Negotiates Sale of Pizza Hut to Private-Equity Firm LongRange Capital - News and Statistics&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;IndexBox&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVF9oZWNaUkwtYjYzMXV4MlQ5ajRucDZGOURiTVFYQm1OSG9IQkRrYlNmN0p0YkllTEVEbUFPcjJaY0FNX3hsVWFjWmlUanlKSTBFS1pGWXVoQWhUSjR3c3BBR3FEMVV6alhQeXdONTRtNzVfUzJYU1ZuM1Q1Z0RreXhSQndQWUNKRHFsN2N0Sk0xdw?oc=5",
-      "source": "IndexBox",
-      "date": "2026-06-01",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital - grafa.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHFrRFkyN2JvMVJQOXNHN2FiZ2FmQi11Y0hqMjBDT3k2QkN3QmRjVk00NUYxZjlMbXEtZTVtWExDdElsUVloTjFQVThRWDRkdGhqcXE1MXlXdVA3Qk5vdmFmdlVXQW5fd1VGN3paS1NEUlFVQ1Y2Y0Vody1aeTR1U0tEaksyUTMxdHk5ZQ?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;grafa.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHFrRFkyN2JvMVJQOXNHN2FiZ2FmQi11Y0hqMjBDT3k2QkN3QmRjVk00NUYxZjlMbXEtZTVtWExDdElsUVloTjFQVThRWDRkdGhqcXE1MXlXdVA3Qk5vdmFmdlVXQW5fd1VGN3paS1NEUlFVQ1Y2Y0Vody1aeTR1U0tEaksyUTMxdHk5ZQ?oc=5",
-      "source": "grafa.com",
-      "date": "2026-06-01",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum! Brands might have found a potential buyer for Pizza Hut - Sherwood News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0czcTVkbW92TEZKeHdBNlQydE13UG9nZzA5WGtvQnpwMW9vaFY4V2did0poeTZzeFlEbXQ5UGhrVUNkcU9CM0xWVjNrMi1jT2l2Y0htSkhSX0dCQkhyOXFNbDZSaElINFMyQmJwRjhmNW5Uc08tZmRmUk5WdEVUdmMyYkZseVRnQWp5NmtWNlhqUl93YXc?oc=5\" target=\"_blank\"&gt;Yum! Brands might have found a potential buyer for Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Sherwood News&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0czcTVkbW92TEZKeHdBNlQydE13UG9nZzA5WGtvQnpwMW9vaFY4V2did0poeTZzeFlEbXQ5UGhrVUNkcU9CM0xWVjNrMi1jT2l2Y0htSkhSX0dCQkhyOXFNbDZSaElINFMyQmJwRjhmNW5Uc08tZmRmUk5WdEVUdmMyYkZseVRnQWp5NmtWNlhqUl93YXc?oc=5",
-      "source": "Sherwood News",
-      "date": "2026-06-01",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut sale discussions advance with private equity firm - irishsun.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWh2anoxV282SmtXUS1pQVp1akpiNkNleGJTVlNQdlIwY2U2RlNHVDRORkd1OExLRHJWYjBHRGNHS1BsaUJ2Mmk5elB0eXJLTEt6QzhIbmI0UU1FM1ZUSXZzaDhWNkczV1pSalFtWTZkMW1YajZOUExFRjcydmM3b3lBNDZlLW9URmtjUTN2ZldzODlVbzNaMmpWbVVvWkE?oc=5\" target=\"_blank\"&gt;Pizza Hut sale discussions advance with private equity firm&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;irishsun.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWh2anoxV282SmtXUS1pQVp1akpiNkNleGJTVlNQdlIwY2U2RlNHVDRORkd1OExLRHJWYjBHRGNHS1BsaUJ2Mmk5elB0eXJLTEt6QzhIbmI0UU1FM1ZUSXZzaDhWNkczV1pSalFtWTZkMW1YajZOUExFRjcydmM3b3lBNDZlLW9URmtjUTN2ZldzODlVbzNaMmpWbVVvWkE?oc=5",
-      "source": "irishsun.com",
-      "date": "2026-06-01",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands in exclusive talks to sell Pizza Hut - Grocery Gazette",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzFMYXM2MWtqdmp4eVdtN2Z1ci1NRW1vamtHTDZRZFBua1hpUXhoaE1PNUJkWnR1YXRLR0NEWlkwQU5sSS1tdUhvNHJ4NFJBMnZWTlExNVQtLTQ5bEJ1NEZIYkprN3ZHYkpxZWNrWVN2NUJUVnVENXJSZ2JIck1XZUJTeEZaQmFiamttZUhXeEVXMUVOSXdj?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Grocery Gazette&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzFMYXM2MWtqdmp4eVdtN2Z1ci1NRW1vamtHTDZRZFBua1hpUXhoaE1PNUJkWnR1YXRLR0NEWlkwQU5sSS1tdUhvNHJ4NFJBMnZWTlExNVQtLTQ5bEJ1NEZIYkprN3ZHYkpxZWNrWVN2NUJUVnVENXJSZ2JIck1XZUJTeEZaQmFiamttZUhXeEVXMUVOSXdj?oc=5",
-      "source": "Grocery Gazette",
-      "date": "2026-06-01",
-      "impact": "high",
       "buyerId": null,
       "sentiment": "neutral"
     }
