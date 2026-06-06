@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T13:32:25.633Z",
+  "lastUpdated": "2026-06-06T13:00:08.257Z",
   "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
@@ -742,6 +742,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-06-05",
+      "event": "Yum! expects Taco Bell US margins of 24.5%-25.5% while keeping Pizza Hut strategic review on track f",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-06-04",
       "event": "News | Joining retro trend, Pizza Hut looks to revive sales by serving nostalgia - CoStar",
       "impact": "low",
@@ -990,6 +996,30 @@
   ],
   "recentNews": [
     {
+      "date": "2026-06-06",
+      "summary": "Found 3 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchisee revives classic dine-in decor decades later - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnMtVTY4czlaa1BaRXpYWmdVUlo0bTE3S1ZiWXRHanQ3ME5QQzZidko1NFFPYldSTWZtcDZXcVptU2xQZTE5VUhmZjJXYUtJSHR3MFZmTnlZdWctaHY3WnB3UkVWR200eEpTTDdkeWVyOG1JYnVKVEtnenBlb3hUUmVDYU1nWEZiODJzNDc0MUtURWtHSTh0cDhzMDRZNXJ5ZnhxTHdZOFJGZnFyajRWMnJzbHZyVDZoYmc?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee revives classic dine-in decor decades later&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnMtVTY4czlaa1BaRXpYWmdVUlo0bTE3S1ZiWXRHanQ3ME5QQzZidko1NFFPYldSTWZtcDZXcVptU2xQZTE5VUhmZjJXYUtJSHR3MFZmTnlZdWctaHY3WnB3UkVWR200eEpTTDdkeWVyOG1JYnVKVEtnenBlb3hUUmVDYU1nWEZiODJzNDc0MUtURWtHSTh0cDhzMDRZNXJ5ZnhxTHdZOFJGZnFyajRWMnJzbHZyVDZoYmc?oc=5",
+      "source": "MSN",
+      "date": "2026-06-05",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum! expects Taco Bell US margins of 24.5%-25.5% while keeping Pizza Hut strategic review on track for 2026 completion - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVlFmRlAzQ0d2SVZNNEtsRmJlaWYxcVk3M3Y5QnBOOXNobFdXSlJQX3V4RzNodUxJaEw1U3dBa3F5T2xobGlkajlXcWQ3ZmM0SVFxT2dadlNESGVTR3h1bWR6NURraTNCTWdNZHVQVTlEQ0wxNGJmMnN0Z3c4OEV3dkYxWW9ENTZ6R0FMSkxxSUp4cFI4RmtWR0ZWcm9hM1VoZXRCMTVwNk1TbERoYkMwelUzWFFvdlI5NjNfY0Q2dzhhNzRyd3d5RU1kNTlMVG1keV9UVzh5c0tQYUUxZEJaMmNqMWlGbklJeTdwSTFQUlBJZW1BV3g2M3FiQQ?oc=5\" target=\"_blank\"&gt;Yum! expects Taco Bell US margins of 24.5%-25.5% while keeping Pizza Hut strategic review on track for 2026 completion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVlFmRlAzQ0d2SVZNNEtsRmJlaWYxcVk3M3Y5QnBOOXNobFdXSlJQX3V4RzNodUxJaEw1U3dBa3F5T2xobGlkajlXcWQ3ZmM0SVFxT2dadlNESGVTR3h1bWR6NURraTNCTWdNZHVQVTlEQ0wxNGJmMnN0Z3c4OEV3dkYxWW9ENTZ6R0FMSkxxSUp4cFI4RmtWR0ZWcm9hM1VoZXRCMTVwNk1TbERoYkMwelUzWFFvdlI5NjNfY0Q2dzhhNzRyd3d5RU1kNTlMVG1keV9UVzh5c0tQYUUxZEJaMmNqMWlGbklJeTdwSTFQUlBJZW1BV3g2M3FiQQ?oc=5",
+      "source": "MSN",
+      "date": "2026-06-05",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-06-05",
       "summary": "Found 7 relevant news items. Buyers mentioned: LongRange Capital."
     },
@@ -1143,30 +1173,6 @@
       "date": "2026-06-03",
       "impact": "high",
       "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Plans tease arrival of US fast-food chain at former Pizza Hut restaurant - News & Star",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTmVtVmpRakVZZFRYMndYRW5vZmpqVy1iN21MY01uOXA3RGlUZUNoQkt6SWRSa1hlTVE5VEtudHVVay03elBsdGxtNlVMYUNIdFVoYTFycm1kQVBIWEE3S05qT2hGLTNDVjBUYVlVeXJNLWU3eDF0T29GU0gzdXBQMWlOdzR1ZnRfbGhhMmptZlRSTTM0Tmc1Z1RsNnJHZw?oc=5\" target=\"_blank\"&gt;Plans tease arrival of US fast-food chain at former Pizza Hut restaurant&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;News & Star&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmVtVmpRakVZZFRYMndYRW5vZmpqVy1iN21MY01uOXA3RGlUZUNoQkt6SWRSa1hlTVE5VEtudHVVay03elBsdGxtNlVMYUNIdFVoYTFycm1kQVBIWEE3S05qT2hGLTNDVjBUYVlVeXJNLWU3eDF0T29GU0gzdXBQMWlOdzR1ZnRfbGhhMmptZlRSTTM0Tmc1Z1RsNnJHZw?oc=5",
-      "source": "News &amp; Star",
-      "date": "2026-06-04",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-06-03",
-      "summary": "Found 3 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut appears to move further toward a sale - Restaurant Business Magazine",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5\" target=\"_blank\"&gt;Pizza Hut appears to move further toward a sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Business Magazine&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
-      "source": "Restaurant Business Magazine",
-      "date": "2026-06-03",
-      "impact": "low",
-      "buyerId": null,
       "sentiment": "neutral"
     }
   ],
