@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T13:00:03.443Z",
+  "lastUpdated": "2026-06-08T13:00:08.193Z",
   "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
@@ -742,6 +742,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-06-08",
+      "event": "Pizza Hut for Sale: What You Need to Know - 36Kr",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-06-05",
       "event": "Yum! expects Taco Bell US margins of 24.5%-25.5% while keeping Pizza Hut strategic review on track f",
       "impact": "medium",
@@ -996,6 +1002,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-06-08",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut for Sale: What You Need to Know - 36Kr",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMTJPYWpJbzQ5ME1ZRDA1UFM1ZXdBeHFFYnhIMXZqZGF6SnFsc205dnhfSVliV0lCMDZULUdpRFN0UDBJSWpVMlRQa3B3eHJsUWVv?oc=5\" target=\"_blank\"&gt;Pizza Hut for Sale: What You Need to Know&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;36Kr&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMTJPYWpJbzQ5ME1ZRDA1UFM1ZXdBeHFFYnhIMXZqZGF6SnFsc205dnhfSVliV0lCMDZULUdpRFN0UDBJSWpVMlRQa3B3eHJsUWVv?oc=5",
+      "source": "36Kr",
+      "date": "2026-06-08",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-06-06",
       "summary": "Found 3 relevant news items. No specific buyers mentioned."
     },
@@ -1143,26 +1163,6 @@
       "date": "2026-06-03",
       "impact": "high",
       "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "LongRange Capital Nears Deal to Acquire Pizza Hut from Yum! Brands. - 1851 Franchise",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOME1qLUpvbnJIWkpyMHVXd0h6OTg5eHhCTHJsYVlMaGZpYURSWk5QaTRDb25HM0R3c0Q5M0R1NnBVLTlqRFVzUGZ0ekpwMDRXcXQtbkpMUUFXSlB6aTZraDB1Yzg3OWtrTXhzdnlyb2tyN09tdFJiWXFhaXZ5V0pJejhYcw?oc=5\" target=\"_blank\"&gt;LongRange Capital Nears Deal to Acquire Pizza Hut from Yum! Brands.&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;1851 Franchise&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOME1qLUpvbnJIWkpyMHVXd0h6OTg5eHhCTHJsYVlMaGZpYURSWk5QaTRDb25HM0R3c0Q5M0R1NnBVLTlqRFVzUGZ0ekpwMDRXcXQtbkpMUUFXSlB6aTZraDB1Yzg3OWtrTXhzdnlyb2tyN09tdFJiWXFhaXZ5V0pJejhYcw?oc=5",
-      "source": "1851 Franchise",
-      "date": "2026-06-03",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut franchisee sues over AI that caused $100M in delivery chaos - PPC Land",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0sycGFibjVxemp0TGhDRTJ2dWRCLWg5bk1OTjhQbmVHTGlqeVZRZlg2MlBMWnRXWnd4ZGNuYzN1YVFYOTQxY3cyMWQ2OXZnbkxoaUlDazVxS2E2Qm5SMWJDTjBZTkZfLTA0QnByMVk3T3MwazJiSG5uRjkzSlVHY05jWDY0cExTWEpmYXptbw?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisee sues over AI that caused $100M in delivery chaos&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;PPC Land&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0sycGFibjVxemp0TGhDRTJ2dWRCLWg5bk1OTjhQbmVHTGlqeVZRZlg2MlBMWnRXWnd4ZGNuYzN1YVFYOTQxY3cyMWQ2OXZnbkxoaUlDazVxS2E2Qm5SMWJDTjBZTkZfLTA0QnByMVk3T3MwazJiSG5uRjkzSlVHY05jWDY0cExTWEpmYXptbw?oc=5",
-      "source": "PPC Land",
-      "date": "2026-06-04",
-      "impact": "medium",
-      "buyerId": null,
       "sentiment": "neutral"
     },
     {
