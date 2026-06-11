@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T13:00:08.473Z",
+  "lastUpdated": "2026-06-11T13:00:08.715Z",
   "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
@@ -103,6 +103,11 @@
           "date": "2026-06-10",
           "likelihood": 95,
           "note": "Mentioned in news (2 mentions)"
+        },
+        {
+          "date": "2026-06-11",
+          "likelihood": 95,
+          "note": "Mentioned in news (1 mention)"
         }
       ]
     },
@@ -1024,6 +1029,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-06-11",
+      "summary": "Found 1 relevant news item. Buyers mentioned: LongRange Capital."
+    },
+    {
       "date": "2026-06-10",
       "summary": "Found 4 relevant news items. Buyers mentioned: LongRange Capital."
     },
@@ -1177,16 +1186,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUs1a0c5UElEWnFkTC1fYjRDUFV3ZkdRZVl4QzhUZFlES0NtUmZGYk54SXdQaGhoTGNYZ1dFbFJDLTJILTljSGNWUEhidUk4YWZxTlZSNFk4Vk9zRWtIRFlFTFNFclVDWFNyUjdEdWNqSGNBMW04WnFuQzFzVGdVdGN2V2lkREliY2g1NG9hdlRuQQ?oc=5",
       "source": "asatunews.co.id",
       "date": "2026-06-05",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "News | Joining retro trend, Pizza Hut looks to revive sales by serving nostalgia - CoStar",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjFXM19NbXpsR2lRUkk2ZXNleGN2VHR6aDkzanhqUGNDdFlsbWRLdThiazNnNXFHT3E0V1dTVlFTVVpHUGZ3a1BNMENteVFodnVkeElXRGJyT3lnM2FDb0FtTzdUWVV4VWZySVF4QkZDOUVKdHVmMml1UW96b3VkQmdZRFcyLTNfLVB5TGlXcHJ1Zk5aNWhGOTByeWQ1bC1Gb2p0UHVWWTdfZnBqcEVTTWUwOUE4TEhkVTQ5SnE3VGNkMi1GRGQ4cF9PaHdQQQ?oc=5\" target=\"_blank\"&gt;News | Joining retro trend, Pizza Hut looks to revive sales by serving nostalgia&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;CoStar&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjFXM19NbXpsR2lRUkk2ZXNleGN2VHR6aDkzanhqUGNDdFlsbWRLdThiazNnNXFHT3E0V1dTVlFTVVpHUGZ3a1BNMENteVFodnVkeElXRGJyT3lnM2FDb0FtTzdUWVV4VWZySVF4QkZDOUVKdHVmMml1UW96b3VkQmdZRFcyLTNfLVB5TGlXcHJ1Zk5aNWhGOTByeWQ1bC1Gb2p0UHVWWTdfZnBqcEVTTWUwOUE4TEhkVTQ5SnE3VGNkMi1GRGQ4cF9PaHdQQQ?oc=5",
-      "source": "CoStar",
-      "date": "2026-06-04",
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
