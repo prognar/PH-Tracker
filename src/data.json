@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T13:00:08.715Z",
+  "lastUpdated": "2026-06-12T13:00:08.429Z",
   "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
@@ -1029,6 +1029,20 @@
   ],
   "recentNews": [
     {
+      "date": "2026-06-12",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgNBVV95cUxOVFc5RHI5QVZQVkVqdUtRM2RBQUktcllIcTctNkVkRTdta3NudGZuRC1oZjRzdmk3UW9CcEVDY0szdzViLUNaalU2VXlVSVBBX21pN2UwT3J4Ylc1WFViZUl0WEpvWmxhV0ZlVVpvQzRua0haSGQ0ZElZd3FKNUVpNWczYW14Vnkzc3oyS2M1SWx1SkZQYjhPY014SUttTnFDQWlaTjNZWmhIdGlOWUxDQ0h6S1JJTEx5X2tjRUFGRFNYRDh1V1J5QWhOWlJaQmRNT1dsUFBSd1oyR0F2WUVqTmxLcldwTGpaOHc2aEFZRFN1UVpWM1JFdGNIR3VfMlc3SkFKMUM5NDNFZVZ5R1VkaXlnejVKZHJaRk1IOUx4LXJCNEFTaWUwZ3hVNmFfeEVjTElLRHpZN1lTci1uV081QzlqaF8wMGNrZVNrZnhxS1daZ2xQZjVfUGRPeDVRRUpXU2J5NDhLZWZKSlZnYjl1Ty1fMlVrMlZRY2ZjR21OamJUeDFDQk9jWWdhZE5MYXpLdFJ5QWRn?oc=5\" target=\"_blank\"&gt;Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOVFc5RHI5QVZQVkVqdUtRM2RBQUktcllIcTctNkVkRTdta3NudGZuRC1oZjRzdmk3UW9CcEVDY0szdzViLUNaalU2VXlVSVBBX21pN2UwT3J4Ylc1WFViZUl0WEpvWmxhV0ZlVVpvQzRua0haSGQ0ZElZd3FKNUVpNWczYW14Vnkzc3oyS2M1SWx1SkZQYjhPY014SUttTnFDQWlaTjNZWmhIdGlOWUxDQ0h6S1JJTEx5X2tjRUFGRFNYRDh1V1J5QWhOWlJaQmRNT1dsUFBSd1oyR0F2WUVqTmxLcldwTGpaOHc2aEFZRFN1UVpWM1JFdGNIR3VfMlc3SkFKMUM5NDNFZVZ5R1VkaXlnejVKZHJaRk1IOUx4LXJCNEFTaWUwZ3hVNmFfeEVjTElLRHpZN1lTci1uV081QzlqaF8wMGNrZVNrZnhxS1daZ2xQZjVfUGRPeDVRRUpXU2J5NDhLZWZKSlZnYjl1Ty1fMlVrMlZRY2ZjR21OamJUeDFDQk9jWWdhZE5MYXpLdFJ5QWRn?oc=5",
+      "source": "MSN",
+      "date": "2026-06-11",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-06-11",
       "summary": "Found 1 relevant news item. Buyers mentioned: LongRange Capital."
     },
@@ -1167,26 +1181,6 @@
       "source": "MSN",
       "date": "2026-06-04",
       "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkJTWG1OT1NQRk5XaUg3ZmtDT21hZHlfc2N2d2E0aUo1bVExM3l4dm9oeFRfY0Y1VVlDUTBLTDdzTzBmeFpDRUhtY2RuSWVFMjdmV2wzWlJxanE4ZFdwNzRvb1FUVV9meWRCRkxHcW1KZUFFV2ZLRlZwN0liTTNYNUhjSVAxY1dOd09GWGtnNFhkOXJRNFQ5dHI5OV9yV3psWTBQWFc0SlAwN2N4WUxLTmdOT3AtXzNMdFJUWVJmM0tfZGxVOGVzdQ?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkJTWG1OT1NQRk5XaUg3ZmtDT21hZHlfc2N2d2E0aUo1bVExM3l4dm9oeFRfY0Y1VVlDUTBLTDdzTzBmeFpDRUhtY2RuSWVFMjdmV2wzWlJxanE4ZFdwNzRvb1FUVV9meWRCRkxHcW1KZUFFV2ZLRlZwN0liTTNYNUhjSVAxY1dOd09GWGtnNFhkOXJRNFQ5dHI5OV9yV3psWTBQWFc0SlAwN2N4WUxLTmdOT3AtXzNMdFJUWVJmM0tfZGxVOGVzdQ?oc=5",
-      "source": "MSN",
-      "date": "2026-06-04",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands Negotiates Multi Billion Dollar Pizza Hut Sale - asatunews.co.id",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUs1a0c5UElEWnFkTC1fYjRDUFV3ZkdRZVl4QzhUZFlES0NtUmZGYk54SXdQaGhoTGNYZ1dFbFJDLTJILTljSGNWUEhidUk4YWZxTlZSNFk4Vk9zRWtIRFlFTFNFclVDWFNyUjdEdWNqSGNBMW04WnFuQzFzVGdVdGN2V2lkREliY2g1NG9hdlRuQQ?oc=5\" target=\"_blank\"&gt;Yum Brands Negotiates Multi Billion Dollar Pizza Hut Sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;asatunews.co.id&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUs1a0c5UElEWnFkTC1fYjRDUFV3ZkdRZVl4QzhUZFlES0NtUmZGYk54SXdQaGhoTGNYZ1dFbFJDLTJILTljSGNWUEhidUk4YWZxTlZSNFk4Vk9zRWtIRFlFTFNFclVDWFNyUjdEdWNqSGNBMW04WnFuQzFzVGdVdGN2V2lkREliY2g1NG9hdlRuQQ?oc=5",
-      "source": "asatunews.co.id",
-      "date": "2026-06-05",
-      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     }
