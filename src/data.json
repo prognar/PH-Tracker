@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T13:00:08.429Z",
+  "lastUpdated": "2026-06-13T13:00:08.227Z",
   "dealStatus": "exclusive_negotiations",
   "estimatedValuation": {
     "low": 3500000000,
@@ -757,6 +757,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-06-12",
+      "event": "New food chain could move into former Pizza Hut site as plan submitted - Kidderminster Shuttle",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-06-10",
       "event": "Private equity firm Long Range Capital in talks to acquire Pizza Hut - Markets Group",
       "impact": "low",
@@ -1029,6 +1035,30 @@
   ],
   "recentNews": [
     {
+      "date": "2026-06-13",
+      "summary": "Found 3 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum is in exclusive talks to sell Pizza Hut to LongRange - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlh3ZFBEeS1MZktEUWlJYkJrNG1KOTZwbDltVWU0WGtvSkZUOEp4SXY1eGV1TmRLTkFiWlpYQmxPVkZzVWdISFpFa1NENGkyZGE3cF90Mk5mam5XOXVCN3ZRMV8zX28zS2dhdFJjOS1QQlhoVHlyb3ItdmVnb1hDd2xESm43V2NhbThPRjhxMHpaNHhuVHZIY2dIa0lrcFhZZS0yd2lncnZJNkF3UU00?oc=5\" target=\"_blank\"&gt;Yum is in exclusive talks to sell Pizza Hut to LongRange&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlh3ZFBEeS1MZktEUWlJYkJrNG1KOTZwbDltVWU0WGtvSkZUOEp4SXY1eGV1TmRLTkFiWlpYQmxPVkZzVWdISFpFa1NENGkyZGE3cF90Mk5mam5XOXVCN3ZRMV8zX28zS2dhdFJjOS1QQlhoVHlyb3ItdmVnb1hDd2xESm43V2NhbThPRjhxMHpaNHhuVHZIY2dIa0lrcFhZZS0yd2lncnZJNkF3UU00?oc=5",
+      "source": "MSN",
+      "date": "2026-06-12",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "New food chain could move into former Pizza Hut site as plan submitted - Kidderminster Shuttle",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUU5na3JhaWsyejZ2UUw0bWs5LVN0QThvQVhOZ2Mxb05UN1hxX3NBeFZlbkdKMWE5Ujd6TDljRnB4UlEtNXBCTGxfcFZ1YjR5eDNqbnk1MDhKWWxjeWtRdlUtZDhDeUYzU1RPVm1waVoxNVpXNlNCVS1fZXNEX18xelk3SC1aWS10cWhaR0RsUUJ1ZEJubkxiVTBNZVk0RVpBUmZIUE1wTQ?oc=5\" target=\"_blank\"&gt;New food chain could move into former Pizza Hut site as plan submitted&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Kidderminster Shuttle&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUU5na3JhaWsyejZ2UUw0bWs5LVN0QThvQVhOZ2Mxb05UN1hxX3NBeFZlbkdKMWE5Ujd6TDljRnB4UlEtNXBCTGxfcFZ1YjR5eDNqbnk1MDhKWWxjeWtRdlUtZDhDeUYzU1RPVm1waVoxNVpXNlNCVS1fZXNEX18xelk3SC1aWS10cWhaR0RsUUJ1ZEJubkxiVTBNZVk0RVpBUmZIUE1wTQ?oc=5",
+      "source": "Kidderminster Shuttle",
+      "date": "2026-06-12",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
       "date": "2026-06-12",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1159,30 +1189,6 @@
     {
       "date": "2026-06-05",
       "summary": "Found 7 relevant news items. Buyers mentioned: LongRange Capital."
-    },
-    {
-      "date": "2026-06-05",
-      "summary": "Found 7 relevant news items. Buyers mentioned: LongRange Capital."
-    },
-    {
-      "title": "Pizza Hut Sale: Yum Brands In Talks With LongRange Capital - Yahoo Finance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTJnR1g0RUlYRnFiMUUwVnVJeEpKbUJYcF95ZFk0ZVFsRkJIc3BxaFpzQk8zSTJBQmRaUThJTXJyZ3F0VVZLOUlPbGV1LUZzdkU5c3QyUExYaGYtN2c0dEwxRzNBdzVWbE5WZVNZdW1kLVNqZFFsaHhlLVZ6LUQtZWlIenJPbnVYNzl0aDIxRnlBUlk0?oc=5\" target=\"_blank\"&gt;Pizza Hut Sale: Yum Brands In Talks With LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTJnR1g0RUlYRnFiMUUwVnVJeEpKbUJYcF95ZFk0ZVFsRkJIc3BxaFpzQk8zSTJBQmRaUThJTXJyZ3F0VVZLOUlPbGV1LUZzdkU5c3QyUExYaGYtN2c0dEwxRzNBdzVWbE5WZVNZdW1kLVNqZFFsaHhlLVZ6LUQtZWlIenJPbnVYNzl0aDIxRnlBUlk0?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-06-04",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgNBVV95cUxPbDlhWElOT2JBQUVQdV9wOGlZZE52VDI5d1V5YklBUDJkQkJvTS1oSUd3NnJRTVdHZHhybXQxYUpRM2dqbkpQSlA5YXFpenlhQ1pKb1ZTSFRabjloQU9kcnRrOVVGNjd5THZ1VU9yTnR5ZXVBS1hCVXJOTnFkYmJxOTZuVTJheXpGX0VQRkFaM1pHODhrQ0tTUTcyaWtmd3NhUW9hM0FNODBESnVVRHdVblRWSkhwdW5ERzFqODNnaExBNmlVMjNLdGhHXzM1eGdWVEhiSEU5SDBGT29iQ1dRbjU3YV9pb2Y5NUJVUUwwWUczUnEwdVBxMjZoaWEtdURsMV8xYzl2MXZrTUstZm1pek5OZkRkbnhwaDRTSU5iakptbE9RZnJPdkQxV05aWmRwdzhxUzBIZjNYR3ZVLW53Vjk5WGt0Y254UHdCRXlDNFhJTU1ZR25Lc2dGb2tGbEh5UVZYU3dKWWtyNm1qdmlWRkM4YXV0WXJEV2dWQ19pUG5fdkZQcFNuRWRCLTdhMW84UDhmUkhR?oc=5\" target=\"_blank\"&gt;Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPbDlhWElOT2JBQUVQdV9wOGlZZE52VDI5d1V5YklBUDJkQkJvTS1oSUd3NnJRTVdHZHhybXQxYUpRM2dqbkpQSlA5YXFpenlhQ1pKb1ZTSFRabjloQU9kcnRrOVVGNjd5THZ1VU9yTnR5ZXVBS1hCVXJOTnFkYmJxOTZuVTJheXpGX0VQRkFaM1pHODhrQ0tTUTcyaWtmd3NhUW9hM0FNODBESnVVRHdVblRWSkhwdW5ERzFqODNnaExBNmlVMjNLdGhHXzM1eGdWVEhiSEU5SDBGT29iQ1dRbjU3YV9pb2Y5NUJVUUwwWUczUnEwdVBxMjZoaWEtdURsMV8xYzl2MXZrTUstZm1pek5OZkRkbnhwaDRTSU5iakptbE9RZnJPdkQxV05aWmRwdzhxUzBIZjNYR3ZVLW53Vjk5WGt0Y254UHdCRXlDNFhJTU1ZR25Lc2dGb2tGbEh5UVZYU3dKWWtyNm1qdmlWRkM4YXV0WXJEV2dWQ19pUG5fdkZQcFNuRWRCLTdhMW84UDhmUkhR?oc=5",
-      "source": "MSN",
-      "date": "2026-06-04",
-      "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
