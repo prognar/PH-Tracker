@@ -1,56 +1,62 @@
 {
-  "lastUpdated": "2026-06-16T13:00:08.471Z",
-  "dealStatus": "exclusive_negotiations",
+  "lastUpdated": "2026-06-16T12:00:00.000Z",
+  "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
     "high": 4200000000
   },
   "keyStats": {
-    "globalUnits": 18500,
+    "globalUnits": 20000,
     "usUnits": 5000,
     "usUnitsNote": "Traditional units only; ~1,300 additional non-traditional (kiosks, express)",
     "intlUnits": 13500,
     "usMarketShare": 18.7,
     "operatingProfitShare": 11,
     "systemSales": 12800000000,
-    "consecutiveQuartersDecline": 8
+    "consecutiveQuartersDecline": 10
   },
   "advisors": {
     "seller": [
       "Goldman Sachs",
       "Barclays"
     ],
-    "potentialBuyerAdvisors": []
+    "potentialBuyerAdvisors": [],
+    "longrangeAdvisors": {
+      "legal": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+      "franchise": "Greenberg Traurig, LLP",
+      "financing": "UBS Investment Bank"
+    }
   },
   "buyers": [
     {
       "id": "longrange-capital",
       "name": "LongRange Capital",
       "type": "Private Equity",
-      "likelihood": 95,
+      "likelihood": 100,
       "trend": "up",
-      "estimatedBid": "$3.5B - $4.2B",
-      "rationale": "IN EXCLUSIVE NEGOTIATIONS (May 29, 2026). LongRange beat out Sycamore and Apollo to win exclusivity. Founded by Bob Berlin (ex-Baupost, involved in Arby's investment). Deal could close within weeks.",
+      "estimatedBid": "$1.5B (confirmed)",
+      "rationale": "DEAL ANNOUNCED June 16, 2026. LongRange Capital signed a definitive agreement to acquire Pizza Hut (excluding Mainland China) from Yum! Brands for approximately $1.5 billion. UBS Investment Bank is financing the transaction. Expected to close Q3 2026 subject to regulatory approval.",
       "pros": [
-        "IN EXCLUSIVE TALKS - leading candidate",
-        "Beat out Sycamore and Apollo for exclusivity",
-        "Bob Berlin has Arby's turnaround experience via Baupost",
-        "Portfolio includes 24 Hour Fitness - understands consumer services",
-        "Fresh capital, not over-extended like Roark",
-        "Deal could close within weeks per Bloomberg"
+        "DEFINITIVE AGREEMENT SIGNED \u2014 deal is official",
+        "Bob Berlin quote confirms long-term operational commitment",
+        "UBS Investment Bank providing financing",
+        "Paul Weiss (legal) + Greenberg Traurig (franchise) advising",
+        "Expected Q3 2026 close \u2014 timeline locked",
+        "Earn-out structure aligns LongRange with Pizza Hut performance through 2030"
       ],
       "cons": [
-        "Smaller, less known PE firm (founded 2019)",
-        "No direct restaurant operations experience",
-        "Current portfolio (24 Hour Fitness, ski resorts) is unrelated",
-        "Still not a done deal - could fall through"
+        "Still subject to regulatory approval",
+        "No direct prior restaurant operations track record",
+        "Turnaround will take years of investment"
       ],
       "keyMetrics": {
         "founder": "Bob Berlin (ex-Baupost)",
         "founded": "2019",
         "portfolio": "24 Hour Fitness, Alpin Unlimited (ski resorts)",
-        "status": "EXCLUSIVE NEGOTIATIONS",
-        "arbysConnection": "Berlin involved in Arby's investment at Baupost"
+        "status": "DEFINITIVE AGREEMENT SIGNED",
+        "arbysConnection": "Berlin involved in Arby's investment at Baupost",
+        "dealValue": "$1.5B + up to $75M earn-out",
+        "financing": "UBS Investment Bank"
       },
       "newsKeywords": [
         "longrange capital",
@@ -113,6 +119,11 @@
           "date": "2026-06-16",
           "likelihood": 95,
           "note": "Mentioned in news (6 mentions)"
+        },
+        {
+          "date": "2026-06-16",
+          "likelihood": 100,
+          "note": "DEAL ANNOUNCED \u2014 Definitive agreement signed"
         }
       ]
     },
@@ -123,7 +134,7 @@
       "likelihood": 75,
       "trend": "up",
       "estimatedBid": "$3.0B - $4.0B",
-      "rationale": "World's largest franchisee already operates ~20% of US Pizza Huts (1,027 units) plus Australia (300 units). Deep operational knowledge and proven ability to turn around struggling Pizza Hut locations. Has backing from Main Post Partners and Ontario Teachers' Pension.",
+      "rationale": "World's largest franchisee already operates ~20% of US Pizza Huts (1,027 units) plus Australia (300 units). Deep operational knowledge and proven ability to turn around struggling Pizza Hut locations. Has backing from Main Post Partners and Ontario Teachers' Pension. Flynn Group (~40% of US Pizza Hut system) will now negotiate its franchise relationship with the new owner, LongRange Capital.",
       "pros": [
         "Already largest Pizza Hut franchisee globally",
         "Proven Pizza Hut turnaround success (NPC acquisition)",
@@ -160,8 +171,8 @@
       "id": "rbi",
       "name": "Restaurant Brands International",
       "type": "Strategic Acquirer",
-      "likelihood": 68,
-      "trend": "stable",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$4.0B - $5.0B",
       "rationale": "RBI (Burger King, Tim Hortons, Popeyes, Firehouse Subs) has been rumored to want a pizza brand. Global infrastructure could support Pizza Hut's international operations. Recently refranchised China operations.",
       "pros": [
@@ -201,8 +212,8 @@
       "id": "blackstone",
       "name": "Blackstone",
       "type": "Private Equity",
-      "likelihood": 55,
-      "trend": "up",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$4.0B - $5.0B",
       "rationale": "Just acquired Jersey Mike's for $8B in Jan 2025, showing strong appetite for franchise restaurants. Also owns Tropical Smoothie and invested in 7Brew. Has deep pockets and franchise expertise.",
       "pros": [
@@ -240,8 +251,8 @@
       "id": "triartisan-yadav",
       "name": "TriArtisan / Yadav Enterprises",
       "type": "Private Equity + Franchisee",
-      "likelihood": 40,
-      "trend": "stable",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$2.5B - $3.5B",
       "rationale": "Just acquired Denny's ($620M) together. TriArtisan owns P.F. Chang's; Yadav is a major multi-brand franchisee who also bought Del Taco. Proven partnership model.",
       "pros": [
@@ -277,8 +288,8 @@
       "id": "middle-east-swf",
       "name": "Middle Eastern Sovereign Wealth",
       "type": "Sovereign Wealth",
-      "likelihood": 40,
-      "trend": "stable",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$4.5B - $6.0B",
       "rationale": "Gulf sovereign wealth funds (PIF, QIA, Mubadala) actively investing in global consumer brands. Americana Group (Kuwait) already operates KFC/Pizza Hut in Middle East.",
       "pros": [
@@ -319,8 +330,8 @@
       "id": "sun-holdings",
       "name": "Sun Holdings",
       "type": "Strategic Franchisee",
-      "likelihood": 35,
-      "trend": "stable",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$2.5B - $3.5B",
       "rationale": "Second-largest US franchisee with 1,700+ units. Has been acquiring brands (Uncle Julio's, Freebirds). Could lead franchisee consortium.",
       "pros": [
@@ -355,8 +366,8 @@
       "id": "asian-strategic",
       "name": "Asian Strategic Buyer / Yum China",
       "type": "Strategic",
-      "likelihood": 30,
-      "trend": "stable",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "Complex structure",
       "rationale": "Yum China already operates 4,000+ Pizza Huts in China. Could seek to acquire full brand or carve out international rights. CPE just bought Burger King China.",
       "pros": [
@@ -392,8 +403,8 @@
       "id": "franchisee-consortium",
       "name": "Franchisee Consortium (Flynn + Sun + Others)",
       "type": "Wildcard - Consortium",
-      "likelihood": 30,
-      "trend": "up",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$3.5B-4.5B",
       "rationale": "Flynn (1,027 units), Sun Holdings, and other major franchisees could band together to buy the brand. Precedent exists - Denny's was bought by a franchisee-led group. They know the operations intimately and are most motivated to fix the brand.",
       "pros": [
@@ -431,7 +442,7 @@
       "id": "roark-inspire",
       "name": "Roark Capital / Inspire Brands",
       "type": "Private Equity",
-      "likelihood": 25,
+      "likelihood": 0,
       "trend": "down",
       "estimatedBid": "$3.5B - $4.5B",
       "rationale": "Was considered top candidate but DID NOT win exclusivity. LongRange beat out the field. Roark may still be a backup if LongRange deal falls through, but their Subway integration may have limited bandwidth.",
@@ -485,8 +496,8 @@
       "id": "sovereign-wealth",
       "name": "Sovereign Wealth Fund (Saudi PIF / Mubadala / QIA)",
       "type": "Wildcard - Sovereign",
-      "likelihood": 25,
-      "trend": "stable",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$4B-5B",
       "rationale": "Middle Eastern sovereign wealth funds are aggressively diversifying into consumer brands. Saudi PIF bought Newcastle United, invested in LIV Golf, Lucid Motors. Pizza Hut's global footprint (90+ countries) and brand recognition align with portfolio diversification strategies.",
       "pros": [
@@ -526,8 +537,8 @@
       "id": "prosper-bain",
       "name": "Prosper Growth Partners / Bain Capital",
       "type": "Wildcard - Non-QSR PE",
-      "likelihood": 25,
-      "trend": "up",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$3.5B-4.5B",
       "rationale": "Steve Ritchie (former Papa John's CEO) leads Prosper Growth, backed by Bain Capital. Ritchie knows pizza intimately - took Papa John's through crisis. Bain recently backed Convive Brands acquiring PizzaExpress. Non-traditional PE firms see opportunity as QSR-focused PE pulls back.",
       "pros": [
@@ -565,10 +576,10 @@
       "id": "apollo",
       "name": "Apollo Global Management",
       "type": "Private Equity",
-      "likelihood": 20,
+      "likelihood": 0,
       "trend": "down",
       "estimatedBid": "$3.0B - $4.0B",
-      "rationale": "Was among interested bidders (per Reuters May 2026) but LOST TO LONGRANGE for exclusivity. Could re-emerge if deal falls through.",
+      "rationale": "OUT \u2014 Lost to LongRange Capital in the final round. LongRange entered exclusivity May 29, 2026 and signed definitive agreement June 16, 2026.",
       "pros": [
         "Deep QSR experience (CKE, Chuck E. Cheese)",
         "Massive capital reserves ($650B+ AUM)",
@@ -608,8 +619,8 @@
       "id": "eldridge-convive",
       "name": "Eldridge Industries / Convive Brands",
       "type": "Wildcard - Non-QSR PE",
-      "likelihood": 20,
-      "trend": "up",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$3B-4B",
       "rationale": "Todd Boehly's Eldridge owns Convive Brands (Le Pain Quotidien, Little Beet). Just acquired CPK and PizzaExpress. Building a restaurant empire outside traditional QSR PE. Boehly also owns Chelsea FC, LA Dodgers - understands distressed turnarounds.",
       "pros": [
@@ -647,8 +658,8 @@
       "id": "kkr",
       "name": "KKR & Co",
       "type": "Wildcard - Mega PE",
-      "likelihood": 20,
-      "trend": "stable",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$4B-5B",
       "rationale": "KKR historically avoided restaurants but is diversifying. Recently more active in consumer. Has capital scale for Pizza Hut. Traditional QSR PE firms pulling back creates opportunity for mega-funds to enter at attractive valuations.",
       "pros": [
@@ -686,10 +697,10 @@
       "id": "sycamore",
       "name": "Sycamore Partners",
       "type": "Private Equity",
-      "likelihood": 15,
+      "likelihood": 0,
       "trend": "down",
       "estimatedBid": "$2.5B - $3.5B",
-      "rationale": "LOST TO LONGRANGE for exclusivity (May 2026). Was reportedly a finalist but LongRange beat them out. Could re-emerge if LongRange deal falls through.",
+      "rationale": "OUT \u2014 Lost to LongRange Capital in the final round. LongRange entered exclusivity May 29, 2026 and signed definitive agreement June 16, 2026.",
       "pros": [
         "Consumer brand expertise",
         "Turnaround track record in retail",
@@ -724,8 +735,8 @@
       "id": "racetrac-cstore",
       "name": "C-Store / Travel Center Operator",
       "type": "Wildcard - Strategic",
-      "likelihood": 15,
-      "trend": "stable",
+      "likelihood": 0,
+      "trend": "down",
       "estimatedBid": "$3B-3.5B (partial)",
       "rationale": "RaceTrac just bought Potbelly. Pilot/Flying J, Love's, Wawa expanding foodservice. Pizza Hut Express already in c-stores. A c-store giant could acquire Pizza Hut to lock up exclusive food offering across thousands of locations.",
       "pros": [
@@ -763,63 +774,27 @@
   "timeline": [
     {
       "date": "2026-06-16",
-      "event": "Pizza Hut changes hands in $2.7B sale; Yum! authorizes $4B stock buyback - Stock Titan",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum China to Buy Pizza Hut China for $1.2B, Immediate Margin and EPS Benefits - TradingView",
+      "event": "DEAL ANNOUNCED: LongRange Capital signs definitive agreement to acquire Pizza Hut (ex-China) for ~$1.5B",
       "impact": "high",
-      "type": "news"
+      "type": "milestone"
     },
     {
       "date": "2026-06-16",
-      "event": "Yum China (NYSE: YUMC) to acquire Pizza Hut Mainland China brand in $1.2B cash deal - Stock Titan",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum! Brands to sell Pizza Hut in $2.7 billion deal - WDRB",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut to be sold by Yum! Brands in $2.7 billion deal - The Independent",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Why Yum! Brands just sold the iconic Pizza Hut chain to LongRange Capital and Yum China - AOL.com",
+      "event": "Yum China separately acquires Pizza Hut Mainland China for $1.2B; Yum authorizes $4B stock buyback",
       "impact": "high",
-      "type": "news"
+      "type": "milestone"
     },
     {
       "date": "2026-06-16",
-      "event": "Yum Brands to sell Pizza Hut to LongRange Capital for $2.7 billion - marketscreener.com",
-      "impact": "high",
-      "type": "news"
+      "event": "Bob Berlin (LongRange): 'Pizza Hut is a beloved global brand... we look forward to driving its next phase of growth'",
+      "impact": "medium",
+      "type": "executive"
     },
     {
-      "date": "2026-06-16",
-      "event": "Pizza Hut to be sold to LongRange Capital - Yahoo Finance",
+      "date": "2026-05-29",
+      "event": "LongRange Capital enters exclusive negotiations, beating out Sycamore Partners and Apollo Global Management",
       "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "LongRange Capital to Acquire Pizza Hut, Excluding Mainland China, from Yum! Brands - Business Wire",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum Brands sells Pizza Hut to private equity firm LongRange Capital and Yum China for $2.7 billion -",
-      "impact": "high",
-      "type": "news"
+      "type": "milestone"
     },
     {
       "date": "2026-06-12",
@@ -991,7 +966,7 @@
     },
     {
       "date": "2026-06-01",
-      "event": "Yum Brands in talks to divest Pizza Hut to LongRange Capital – report - Verdict Food Service",
+      "event": "Yum Brands in talks to divest Pizza Hut to LongRange Capital \u2013 report - Verdict Food Service",
       "impact": "high",
       "type": "news"
     },
@@ -1372,6 +1347,56 @@
       "pizza hut closures",
       "pizza hut restructuring",
       "pizza hut turnaround"
+    ]
+  },
+  "confirmedDeal": {
+    "buyer": "LongRange Capital",
+    "buyerFounder": "Bob Berlin, Founder & Managing Partner",
+    "buyerHQ": "Stamford, CT",
+    "buyerDescription": "A private equity firm formed to apply a longer-term perspective to investments. Customer-centric, operationally-oriented approach to building and growing businesses.",
+    "seller": "Yum! Brands, Inc. (NYSE: YUM)",
+    "asset": "Pizza Hut (excluding Mainland China)",
+    "dealValueLongRange": "$1.5 billion",
+    "totalYumNetProceeds": "~$2.3 billion (both transactions, after taxes and fees)",
+    "chinaNote": "Pizza Hut Mainland China sold separately to Yum China for $1.2B",
+    "totalCombinedValue": "~$2.7 billion (both transactions)",
+    "earnOut": "$75 million possible earn-out from LongRange to Yum by 2030",
+    "yumOneTimeExpenses": "~$85 million in remainder of 2026",
+    "yumStockBuyback": "$4 billion stock buyback authorized",
+    "financing": "UBS Investment Bank providing financing",
+    "legalCounselLegal": "Paul, Weiss, Rifkind, Wharton & Garrison LLP (legal counsel)",
+    "legalCounselFranchise": "Greenberg Traurig, LLP (franchise counsel)",
+    "announcedDate": "June 16, 2026",
+    "expectedClose": "Q3 2026",
+    "closingConditions": "Subject to customary closing conditions including regulatory approvals",
+    "yumQ2Call": "July 30, 2026",
+    "bobBerlinQuote": "Pizza Hut is a beloved global brand with a rich heritage and a loyal customer base that few brands can match. We look forward to partnering with Yum! to ensure a smooth transition for the business and working with Pizza Hut's talented team and franchise partners to drive its next phase of growth through investments that deliver consistently great food and experiences for customers around the world.",
+    "yumRationale": "Leadership team and board determined selling provides the strongest path to maximize shareholder value and gives Pizza Hut an ownership structure tailored to its distinct markets, competitive strengths, and long-term priorities.",
+    "nextSteps": [
+      {
+        "date": "Q3 2026",
+        "event": "Expected deal close",
+        "detail": "Subject to customary closing conditions and regulatory approvals",
+        "impact": "high"
+      },
+      {
+        "date": "July 30, 2026",
+        "event": "Yum Q2 2026 Earnings Call",
+        "detail": "Management to detail full financial impact of both transactions",
+        "impact": "high"
+      },
+      {
+        "date": "Post-close",
+        "event": "LongRange operational transition begins",
+        "detail": "LongRange partners with Pizza Hut leadership and franchisees",
+        "impact": "medium"
+      },
+      {
+        "date": "By 2030",
+        "event": "Earn-out milestone",
+        "detail": "$75M possible earn-out from LongRange contingent on performance",
+        "impact": "medium"
+      }
     ]
   }
 }
