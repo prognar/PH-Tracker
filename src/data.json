@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T13:00:08.405Z",
+  "lastUpdated": "2026-06-18T13:00:08.522Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -134,6 +134,11 @@
           "date": "2026-06-17",
           "likelihood": 95,
           "note": "Mentioned in news (30 mentions)"
+        },
+        {
+          "date": "2026-06-18",
+          "likelihood": 95,
+          "note": "Mentioned in news (6 mentions)"
         }
       ]
     },
@@ -784,6 +789,156 @@
   "timeline": [
     {
       "date": "2026-06-17",
+      "event": "Pizza Hut Chain Acquired in $2.7 Billion Deal Amid Intensifying Competition - CFO Commentary Report ",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Blue Tokai names former Pizza Hut India executive Pranav Dahiya as CBO - afaqs!",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Blue Tokai appoints former Pizza Hut and Chaayos exec to support ambitious growth - World Coffee Por",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Pizza Hut sold in $2.7 billion deal as Yum reshapes business - newskarnataka.com",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Yum! Brands Stock - Pizza Hut sale reshapes portfolio - AD HOC NEWS",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Yum China to acquire Pizza Hut brand ownership in mainland China from Yum Brands - Vietnam Investmen",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Yum buys full Pizza Hut China for $1.2b - China Daily",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Yum! Brands (YUM) Sells Pizza Hut In $2.7 Billion Deal To Refocus Its Portfolio - Yahoo Finance Sing",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Yum Brands to sell Pizza Hut for $2.7 billion in split deal - MSN",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Yum Brands sells Pizza Hut in $2.7B split deal - MSN",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value? - TradingView",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Yum! Brands Completes Sale of Pizza Hut in a $2.7 Billion Deal - Tomorrow's World Today",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Yum Brands splits Pizza Hut in $2.7bn global sale - Nation Thailand",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Pizza hut acquired by longrange capital and yum china in $2.7 billion deal | The Business Guardian -",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Pizza Hut finds new owners amid sluggish US sales - Denver7",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "J.C. Flowers’ Peter Yordán and FTV Capital’s Kyle Griswold talk financial services investing; LongRa",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Yum Brands Sells Pizza Hut in Massive $2.7 Billion Split Deal - The Korea Daily",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "LongRange Capital to buy Pizza Hut outside China for $1.5bn - Alternatives Watch",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Deal Diary: Slew of Advisers Guide YUM! Brands Sale of Pizza Hut - thedeal.com",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Pizza Hut Sold for $19.5 Billion - 36 Kr",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "Yum! Brands agrees $2.7b sale of Pizza Hut, with China business sold separately - marketech apac",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Yum Brands sells Pizza Hut for US$2.7 billion in split deal - Food Ingredients First",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Pizza Hut Sold for $2.7 Billion by Parent Company Yum! Brands - LAmag",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Yum strikes two deals to sell Pizza Hut for $2.7 billion in tale of diverging fortunes - Reuters",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Pizza Hut Sold for $2.7B to Private Equity Firm and Other Company After Announcing Closure of 250 Re",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-17",
       "event": "Baemin, Pizza Hut Korea forge online sales alliance and launch exclusive menus - CHOSUNBIZ - Chosunb",
       "impact": "low",
       "type": "news"
@@ -931,167 +1086,37 @@
       "event": "Yum Brands sells Pizza Hut in $2.7 billion breakup deal - Magnolia Reporter",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum Brands Sells Pizza Hut In $2.7 Billion Deal, Shifts Focus To Grow KFC, Taco Bell - NDTV Food",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum Brands to sell Pizza Hut in $2.7bn deal - FoodBev Media",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum Brands to Sell Pizza Hut for $2.7 Billion to 2 Buyers - franchisetimes.com",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Sapphire Foods down 1%, Devyani International sheds 1.4% after Yum Brands announces Pizza Hut sale -",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Pizza Hut Ownership Split In US$2.7 Billion Deal As Yum Restructures Global Strategy - BusinessToday",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum! Brands to sell Pizza Hut in USD 2.7-bn deal - ET BrandEquity",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "YUM: LongRange Capital to Acquire Pizza Hut in Major Deal - GuruFocus",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum Brands Sells Pizza Hut to LongRange Capital – $2.7 Billion Deal Finalized - News and Statistics ",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Struggling Pizza Hut restaurant chain to be sold in two deals worth $2.7bn - The Guardian",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum sells Pizza Hut for $2.7B - New Orleans CityBusiness",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut Sold: Yum! Brands Divests Iconic Chain in $2.7B Deal - 1851 Franchise",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Pizza Hut sold to LongRange Capital and Yum China for $2.7 billion - Business Standard",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "LongRange Capital in exclusive talks to acquire Pizza Hut from Yum Brands - eciks.org",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut to be sold for $2.7B after years of lagging sales - New York Post",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "LongRange to acquire fast food chain Pizza Hut for $1.5bn - pehub.com",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum China Buys Pizza Hut’s Mainland Business - Caixin Global",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "PR News | ICR Works Pizza Hut Deal - Tue., Jun. 16, 2026 - O'Dwyer's PR",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum! Brands to sell Pizza Hut to LongRange Capital and Yum China in $2.7 billion deal - bestmediainf",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "LongRange Capital Agrees to Acquire Pizza Hut From Yum! Brands - citybiz",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut sold to new owners for $2.7B. What's that mean for Oklahoma? - The Oklahoman",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Pizza Hut sold in two separate deals for $2.7 billion - WCLU Radio",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut sold by Yum Brands for $2.7 billion - LiveNOW from FOX",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut to be to LongRange Capital - Nation’s Restaurant News",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Stamford PE firm strikes $1.5B deal to acquire Pizza Hut from Yum Brands - Hartford Business Journal",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut is getting a new owner: private equity firm LongRange buys chain in $1.5 billion deal - Ya",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
     {
-      "date": "2026-06-17",
-      "summary": "Found 100 relevant news items. Buyers mentioned: LongRange Capital."
+      "date": "2026-06-18",
+      "summary": "Found 49 relevant news items. Buyers mentioned: LongRange Capital."
     },
     {
-      "title": "Yum Brands sells Pizza Hut for US$2.7 billion in split deal with LongRange and Yum China - Food Ingredients First",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWh5b2hNdXZEblg2SUU1dm5pbG1JUkpEQktrWDFzMmNoNWRSM0ZXamxpLUhvUjVyYnowMmFKaTA0TUJGd2Nub2R0cWFsdm1ZLVp1eEpjd2JRSWoyeUR2ZnBMRkozWXhLT3l3YWFSNEhvMVF4MWN6Tks0bWNYancwdk5TX3JPa1JwWlA0aE9OckE?oc=5\" target=\"_blank\"&gt;Yum Brands sells Pizza Hut for US$2.7 billion in split deal with LongRange and Yum China&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Food Ingredients First&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWh5b2hNdXZEblg2SUU1dm5pbG1JUkpEQktrWDFzMmNoNWRSM0ZXamxpLUhvUjVyYnowMmFKaTA0TUJGd2Nub2R0cWFsdm1ZLVp1eEpjd2JRSWoyeUR2ZnBMRkozWXhLT3l3YWFSNEhvMVF4MWN6Tks0bWNYancwdk5TX3JPa1JwWlA0aE9OckE?oc=5",
+      "title": "Pizza Hut Sold for $2.7B to Private Equity Firm and Other Company After Announcing Closure of 250 Restaurants in 2026 - People.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRTVwQkgwaXpvdW5NUzVyZkpTcW5McDdSclpFSXVQeHlXX3BHYkJiSmszUEotZzRxaWdSYUF6Nk1XTFhWMFE0RXRsQ3MzNXJULUthWnVYLVZ6Zy1sT0RLUDRmdF9DRUIxMlpXQ0FSUmRXOUtnUnVEdGI3OHBJMzkwLUh4d0JDM2pPS3dvdVotN1FCc2RHdXVyQkhmazdBTUxCcmRSYkpVSFBNTWVJUl8zT0paWFNHNDVheEhGMEJERVdfNVFlSUdZTDdTTTdEV0NB?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold for $2.7B to Private Equity Firm and Other Company After Announcing Closure of 250 Restaurants in 2026&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;People.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRTVwQkgwaXpvdW5NUzVyZkpTcW5McDdSclpFSXVQeHlXX3BHYkJiSmszUEotZzRxaWdSYUF6Nk1XTFhWMFE0RXRsQ3MzNXJULUthWnVYLVZ6Zy1sT0RLUDRmdF9DRUIxMlpXQ0FSUmRXOUtnUnVEdGI3OHBJMzkwLUh4d0JDM2pPS3dvdVotN1FCc2RHdXVyQkhmazdBTUxCcmRSYkpVSFBNTWVJUl8zT0paWFNHNDVheEhGMEJERVdfNVFlSUdZTDdTTTdEV0NB?oc=5",
+      "source": "People.com",
+      "date": "2026-06-17",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut Sold for $2.7 Billion by Parent Company Yum! Brands - LAmag",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHRHSThnZFAzVnJKdktKV1NtcE4wd21ieGRiZWh6eTlMc1dSMUVIdDRhbmJtV0Y3S2RkbndnV25iQVBMZmhJOE1JS01rMFNuZHJSYkV4Q3pBekxZX0piOW1NZHpJa1lFSTNWajMyc2xWeVBwM0JnU3cwVTMzMGUxMHhJNkxFQVg2VXdlNDhIV20?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold for $2.7 Billion by Parent Company Yum! Brands&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;LAmag&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHRHSThnZFAzVnJKdktKV1NtcE4wd21ieGRiZWh6eTlMc1dSMUVIdDRhbmJtV0Y3S2RkbndnV25iQVBMZmhJOE1JS01rMFNuZHJSYkV4Q3pBekxZX0piOW1NZHpJa1lFSTNWajMyc2xWeVBwM0JnU3cwVTMzMGUxMHhJNkxFQVg2VXdlNDhIV20?oc=5",
+      "source": "LAmag",
+      "date": "2026-06-17",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands sells Pizza Hut for US$2.7 billion in split deal - Food Ingredients First",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdW04SkdBOUNPUC1Hc1N1NWNDQ3pTVGhfTnhjS3VwWWd1bmk1UUhKWERFMnpZSXp5b19vSE5zOXgtZUgwM2F1eWY3OG9CRW4tRG56Y0R6VGJJQUluUGlUTndjVXVqYll2YTZCaS1TMjMxNTExM3p4UWViVG5wQ3RsT2pPc2ZkNnpJODcySnJncHpJVG1WWDlN?oc=5\" target=\"_blank\"&gt;Yum Brands sells Pizza Hut for US$2.7 billion in split deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Food Ingredients First&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdW04SkdBOUNPUC1Hc1N1NWNDQ3pTVGhfTnhjS3VwWWd1bmk1UUhKWERFMnpZSXp5b19vSE5zOXgtZUgwM2F1eWY3OG9CRW4tRG56Y0R6VGJJQUluUGlUTndjVXVqYll2YTZCaS1TMjMxNTExM3p4UWViVG5wQ3RsT2pPc2ZkNnpJODcySnJncHpJVG1WWDlN?oc=5",
       "source": "Food Ingredients First",
       "date": "2026-06-17",
       "impact": "low",
@@ -1099,192 +1124,172 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Pizza Hut Sold to Two Firms for $2.7 Billion - The New York Times",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4wTkZ6OXNyRlUyUzBxQlAwSU5TMzZsRUl0YktfaUtBcElSWlBuZHBzNmRmLXEzdzBZd3pJVzhIb3pZNzcxb192blR1QUp0OVREWkllbFRQNWdkaDNuSHc5TE9QaXNRNzdQbkVQNHpORHNocUlTMzJhNk40NTJQTms?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold to Two Firms for $2.7 Billion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wTkZ6OXNyRlUyUzBxQlAwSU5TMzZsRUl0YktfaUtBcElSWlBuZHBzNmRmLXEzdzBZd3pJVzhIb3pZNzcxb192blR1QUp0OVREWkllbFRQNWdkaDNuSHc5TE9QaXNRNzdQbkVQNHpORHNocUlTMzJhNk40NTJQTms?oc=5",
-      "source": "The New York Times",
-      "date": "2026-06-16",
-      "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "LongRange Capital to buy Pizza Hut outside China for $1.5bn - Alternatives Watch",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPejh6Rzhid2dzZmxIMEtkOVhwQnF0U3lRamR4ekZ2YVRLVXpVeFo5WEIwRk9vU2QzbThnRW5rQ2tJNml2UmRfbE16cFc3aWp1RURqVHJKa1BkZ1o5YUVuZ09xQ1FnbFprVWJHcktuTGZmdXlqaDZqaHloLW05MjBBRjdrYy10NU9yakd6dWdseG1RRlZueTFwV0ZSbWNVX2hwNU1VaDhJcw?oc=5\" target=\"_blank\"&gt;LongRange Capital to buy Pizza Hut outside China for $1.5bn&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Alternatives Watch&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejh6Rzhid2dzZmxIMEtkOVhwQnF0U3lRamR4ekZ2YVRLVXpVeFo5WEIwRk9vU2QzbThnRW5rQ2tJNml2UmRfbE16cFc3aWp1RURqVHJKa1BkZ1o5YUVuZ09xQ1FnbFprVWJHcktuTGZmdXlqaDZqaHloLW05MjBBRjdrYy10NU9yakd6dWdseG1RRlZueTFwV0ZSbWNVX2hwNU1VaDhJcw?oc=5",
-      "source": "Alternatives Watch",
-      "date": "2026-06-17",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Weil Advises Yum! Brands in $2.7B Sale of Pizza Hut to LongRange Capital and Yum China Holdings - Weil",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2llcUdJSGw1ci1tWk81WXlLNDJRX2RlUVlRX3R4Q3dIeWluQ210TWdWaUFxLVpNVUpubzYybUt2RllyQWtmYlBZd1JXMVFRekQtSUZQWmUxaXVsNnh4T0dIS05yRFdudEFEbEd4LVBNS0g4aTRnZlhLSGhOYzJ5cTJRWW9ucHRhYzFVQ21uTnJxQVJ3UVJNWS0yMzdmeGVKcFNvM3NXbk1acGlpZjVaNzYtZTBmUTNaR3hyQmJHSlo2THhaNDFHZkl3?oc=5\" target=\"_blank\"&gt;Weil Advises Yum! Brands in $2.7B Sale of Pizza Hut to LongRange Capital and Yum China Holdings&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Weil&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2llcUdJSGw1ci1tWk81WXlLNDJRX2RlUVlRX3R4Q3dIeWluQ210TWdWaUFxLVpNVUpubzYybUt2RllyQWtmYlBZd1JXMVFRekQtSUZQWmUxaXVsNnh4T0dIS05yRFdudEFEbEd4LVBNS0g4aTRnZlhLSGhOYzJ5cTJRWW9ucHRhYzFVQ21uTnJxQVJ3UVJNWS0yMzdmeGVKcFNvM3NXbk1acGlpZjVaNzYtZTBmUTNaR3hyQmJHSlo2THhaNDFHZkl3?oc=5",
-      "source": "Weil",
-      "date": "2026-06-16",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Why Yum! Brands just sold the iconic Pizza Hut chain to LongRange Capital and Yum China - Yahoo Finance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXltSlExZmI2SlI2ZTVFUnhoSDluRDl4azlaekRpUGhkenNDUnlwaEJGRFIzN0hzbHNlaUt1VXI3cUMyRlp4VTAyRDdKWi1wWXpXT2p1eGtJUDg4OGNKR2VoNnJLNkVhNlR4c3A5amxKOC04Vkd4YXdsc2VFeHZuT0NiOWtGODh5Mk5rdzNSbFpkRDhYbFhwQnIxWHdUWUhQMHU2N3Z2d3hyN2EzdVZrTWhGd0Fha2I1TFdpX0J5TjZSLXVSRWt2c0V6eDFIVlZmSi1XSFN0aUswUFJTUTVNM3RYSEc?oc=5\" target=\"_blank\"&gt;Why Yum! Brands just sold the iconic Pizza Hut chain to LongRange Capital and Yum China&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXltSlExZmI2SlI2ZTVFUnhoSDluRDl4azlaekRpUGhkenNDUnlwaEJGRFIzN0hzbHNlaUt1VXI3cUMyRlp4VTAyRDdKWi1wWXpXT2p1eGtJUDg4OGNKR2VoNnJLNkVhNlR4c3A5amxKOC04Vkd4YXdsc2VFeHZuT0NiOWtGODh5Mk5rdzNSbFpkRDhYbFhwQnIxWHdUWUhQMHU2N3Z2d3hyN2EzdVZrTWhGd0Fha2I1TFdpX0J5TjZSLXVSRWt2c0V6eDFIVlZmSi1XSFN0aUswUFJTUTVNM3RYSEc?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-06-16",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum strikes two deals to sell Pizza Hut for $2.7 billion in tale of diverging fortunes - Reuters",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXlSYlctdTZ4eDQ0dVBnb3lLX2VDRWF6OWl0blVsVzNNVkdIdW9pNzhEWURZbXZQTF9rMllVa0tOWTdJQ2hvbTMzSTFwSEdLMGpTTFZEUHlxaklWMzVqamt6SW5zMzhqUE56empXbHZxcnVIN1UxcDBHNWhnN01ZRERCS2dEa1B5UjBqVEpBR2YxbHFXQ0FEeEhYOHhaX2JBWVR4QUZ5a1BIUDBaeUFR?oc=5\" target=\"_blank\"&gt;Yum strikes two deals to sell Pizza Hut for $2.7 billion in tale of diverging fortunes&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXlSYlctdTZ4eDQ0dVBnb3lLX2VDRWF6OWl0blVsVzNNVkdIdW9pNzhEWURZbXZQTF9rMllVa0tOWTdJQ2hvbTMzSTFwSEdLMGpTTFZEUHlxaklWMzVqamt6SW5zMzhqUE56empXbHZxcnVIN1UxcDBHNWhnN01ZRERCS2dEa1B5UjBqVEpBR2YxbHFXQ0FEeEhYOHhaX2JBWVR4QUZ5a1BIUDBaeUFR?oc=5",
-      "source": "Reuters",
-      "date": "2026-06-16",
+      "title": "Yum! Brands agrees $2.7b sale of Pizza Hut, with China business sold separately - marketech apac",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlF3Ry05YXVCcEszcXlEcVo3LVJIWC1wZUdPSDA3Q3JxdE10UnFwZWQ2S3dhdEpJLXM1S2RhbWhXVkpqNkxuTDVwRnBUeUwtNmVvUkFkRzJhRjloZWlvR2YxSTY3Rzd0TkdqYTNySWtnNUpjSktSV3ZPZEc5TkMxUlozMlp6a0xvQXNvdFBYeUVveXlkVHpFZjdRNlozekFLdHRScnFYQQ?oc=5\" target=\"_blank\"&gt;Yum! Brands agrees $2.7b sale of Pizza Hut, with China business sold separately&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;marketech apac&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlF3Ry05YXVCcEszcXlEcVo3LVJIWC1wZUdPSDA3Q3JxdE10UnFwZWQ2S3dhdEpJLXM1S2RhbWhXVkpqNkxuTDVwRnBUeUwtNmVvUkFkRzJhRjloZWlvR2YxSTY3Rzd0TkdqYTNySWtnNUpjSktSV3ZPZEc5TkMxUlozMlp6a0xvQXNvdFBYeUVveXlkVHpFZjdRNlozekFLdHRScnFYQQ?oc=5",
+      "source": "marketech apac",
+      "date": "2026-06-18",
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     },
     {
-      "title": "Pizza Hut Sold to LongRange Capital for $1.5 Billion - 조선일보",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzJ3MG8tQ051M2dld0Z1TGNzaHcwcVlJRmRZS1hPaXJfMTRnV05CWVBSbmRzSENzZlZQTnlEa3l5RE9ON3BtbDRWT1FuY2N1V0hUMzRjQUQ1UWxpdHAxQWdpRDFkWXFfU2NrV3BZTk5sekk2Z0lrQk8zQXNTcjYtYkxZN1Rha2c4?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold to LongRange Capital for $1.5 Billion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;조선일보&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzJ3MG8tQ051M2dld0Z1TGNzaHcwcVlJRmRZS1hPaXJfMTRnV05CWVBSbmRzSENzZlZQTnlEa3l5RE9ON3BtbDRWT1FuY2N1V0hUMzRjQUQ1UWxpdHAxQWdpRDFkWXFfU2NrV3BZTk5sekk2Z0lrQk8zQXNTcjYtYkxZN1Rha2c4?oc=5",
-      "source": "조선일보",
-      "date": "2026-06-17",
+      "title": "Pizza Hut Sold for $19.5 Billion - 36 Kr",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE03S2h1UmduNVFmVWtSU1drWDlZbi1jSTFidGs5eWYxOFY5TlFKbVQ2UDRIS1VwamRJakcxRDJyM0ZBT3VHSjAxWGVfS3ZabWRxRDRZ?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold for $19.5 Billion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;36 Kr&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03S2h1UmduNVFmVWtSU1drWDlZbi1jSTFidGs5eWYxOFY5TlFKbVQ2UDRIS1VwamRJakcxRDJyM0ZBT3VHSjAxWGVfS3ZabWRxRDRZ?oc=5",
+      "source": "36 Kr",
+      "date": "2026-06-18",
       "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Stamford-based company to acquire most of Pizza Hut for $1.5 billion - CT Insider",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1dTVTVWb0pTaFIwY3Z1QWVsQXdlU192d3h1bWZEVE9scWNFQ3hJQTJSeWdQS0laanYwdWViZlhRRVdSUUprSmxZSjJwSWZnWUx6cENTZllyTE1QdnVrVTN5Y1FtZi1aZ0NicEZXUzMwTWxrUTRPM3Mtb2FXeDdUYTRZbV9FeE1POHpEY0JDN2dXM2IxOUpPbk1MZTE?oc=5\" target=\"_blank\"&gt;Stamford-based company to acquire most of Pizza Hut for $1.5 billion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;CT Insider&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1dTVTVWb0pTaFIwY3Z1QWVsQXdlU192d3h1bWZEVE9scWNFQ3hJQTJSeWdQS0laanYwdWViZlhRRVdSUUprSmxZSjJwSWZnWUx6cENTZllyTE1QdnVrVTN5Y1FtZi1aZ0NicEZXUzMwTWxrUTRPM3Mtb2FXeDdUYTRZbV9FeE1POHpEY0JDN2dXM2IxOUpPbk1MZTE?oc=5",
-      "source": "CT Insider",
-      "date": "2026-06-16",
-      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     },
     {
-      "title": "Pizza Hut finds new owners amid sluggish US sales - Denver7",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGtkekFWSHV1MThNR3p0dzJidmRLcnBVclpHdlNzelpYNDhDMGtiZTB4RmVTNjc5T3VNLUxPT0twUW5vUTJKVzV6N29vY28yVkhZM0FCN2tzbFloandqX2lLQ2FOUTJYSlFUeVFfQmFWUG5xaTJ1a3FGYkhWVlVhS0hqWmlMOVIxTlZmcVlmSXpJZGhaTHl4cEdrYw?oc=5\" target=\"_blank\"&gt;Pizza Hut finds new owners amid sluggish US sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Denver7&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGtkekFWSHV1MThNR3p0dzJidmRLcnBVclpHdlNzelpYNDhDMGtiZTB4RmVTNjc5T3VNLUxPT0twUW5vUTJKVzV6N29vY28yVkhZM0FCN2tzbFloandqX2lLQ2FOUTJYSlFUeVFfQmFWUG5xaTJ1a3FGYkhWVlVhS0hqWmlMOVIxTlZmcVlmSXpJZGhaTHl4cEdrYw?oc=5",
-      "source": "Denver7",
+      "title": "Deal Diary: Slew of Advisers Guide YUM! Brands Sale of Pizza Hut - thedeal.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3dFTV9RYjByRGlUb0VxejI3NVBpSmFVVXlvNlI0bUF3eVdIMnp3TkFrdHZfN2NjNTBYZEV1Q05fS0Q1UU50YlFzaGdqM0JjX0cyQ2hiVFdyLXlmdnowd1ZMaWpMbVYtNndVZGtDY2ZzcEFCRFk5SER3bE9jdm5MdE1kcWUta1hxRDZOY2VXVHYtSHFaNDRNWURZQzM3LWg3akhhbg?oc=5\" target=\"_blank\"&gt;Deal Diary: Slew of Advisers Guide YUM! Brands Sale of Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;thedeal.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3dFTV9RYjByRGlUb0VxejI3NVBpSmFVVXlvNlI0bUF3eVdIMnp3TkFrdHZfN2NjNTBYZEV1Q05fS0Q1UU50YlFzaGdqM0JjX0cyQ2hiVFdyLXlmdnowd1ZMaWpMbVYtNndVZGtDY2ZzcEFCRFk5SER3bE9jdm5MdE1kcWUta1hxRDZOY2VXVHYtSHFaNDRNWURZQzM3LWg3akhhbg?oc=5",
+      "source": "thedeal.com",
       "date": "2026-06-17",
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     },
     {
-      "title": "Stamford-based LongRange Capital to acquire Pizza Hut outside China - News12 | Brooklyn",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWk9VUmlPMzllUDIycVNyVHd2WVJBSXZwX2FUS2l0YzBDSm1qRXlvT1V6WXVHUFBPenJEQkRPY1FrVHBVVnJUangtS2NDbHZSeEV2VVIzYmVPMlNrYWUycVl4MGRuTmJyZFdnS29rMnhTUW5kNTB4SzlFczFaVGM3NS1Ud0V1cjE3VXNSRU1xdEo4TVpXOVl1aXozWQ?oc=5\" target=\"_blank\"&gt;Stamford-based LongRange Capital to acquire Pizza Hut outside China&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;News12 | Brooklyn&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWk9VUmlPMzllUDIycVNyVHd2WVJBSXZwX2FUS2l0YzBDSm1qRXlvT1V6WXVHUFBPenJEQkRPY1FrVHBVVnJUangtS2NDbHZSeEV2VVIzYmVPMlNrYWUycVl4MGRuTmJyZFdnS29rMnhTUW5kNTB4SzlFczFaVGM3NS1Ud0V1cjE3VXNSRU1xdEo4TVpXOVl1aXozWQ?oc=5",
-      "source": "News12 | Brooklyn",
-      "date": "2026-06-16",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Private equity is buying Pizza Hut, but it’s not getting the whole pie - Fast Company",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTZub3lERDNROVZVd1hqcGVaYnRhSXMwTHhZUFVEckp4QmY4QzdlMm1WdDlZaUZwWWd0cFowNDl3Ul9kV1BQTlVlX0Vha0p0ZF81YTFuYk8yZVZqYmliN1ZtZloyZkxZT0ZIUk42bTctUWRTenppTEJVUFgyTU9vM0k3WkhUdG5ETEFPdlNodlNVN0kzTVE?oc=5\" target=\"_blank\"&gt;Private equity is buying Pizza Hut, but it’s not getting the whole pie&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Fast Company&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTZub3lERDNROVZVd1hqcGVaYnRhSXMwTHhZUFVEckp4QmY4QzdlMm1WdDlZaUZwWWd0cFowNDl3Ul9kV1BQTlVlX0Vha0p0ZF81YTFuYk8yZVZqYmliN1ZtZloyZkxZT0ZIUk42bTctUWRTenppTEJVUFgyTU9vM0k3WkhUdG5ETEFPdlNodlNVN0kzTVE?oc=5",
-      "source": "Fast Company",
-      "date": "2026-06-16",
+      "title": "Yum Brands to Sell Pizza Hut for $2.7 Billion to 2 Buyers - Food On Demand",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHZZYUhpSWNfR3NUNktfcFBLN2k0YkFCbFZ5UXZvVTJNSDJlcllJQ1J2d3lBd0RfRnJKYTA5akY2ZWRoeHcxMzhDS3RSaDBoSk5mVDZ6MHNHT2JqQ2F2ZXJ1eVpTcmdPeHdIcTNQUHlxSlVqQmp1bWF2eEFhaTNOWDh4c0lMekVMQU5UeXhDRmp6QjJnc0E?oc=5\" target=\"_blank\"&gt;Yum Brands to Sell Pizza Hut for $2.7 Billion to 2 Buyers&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Food On Demand&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHZZYUhpSWNfR3NUNktfcFBLN2k0YkFCbFZ5UXZvVTJNSDJlcllJQ1J2d3lBd0RfRnJKYTA5akY2ZWRoeHcxMzhDS3RSaDBoSk5mVDZ6MHNHT2JqQ2F2ZXJ1eVpTcmdPeHdIcTNQUHlxSlVqQmp1bWF2eEFhaTNOWDh4c0lMekVMQU5UeXhDRmp6QjJnc0E?oc=5",
+      "source": "Food On Demand",
+      "date": "2026-06-17",
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     },
     {
-      "title": "Pizza Hut is getting a new owner: private equity firm LongRange buys chain in $1.5 billion deal - Yahoo Finance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTdwa2twRVVTNjRXZ2NGdUlHQ2xweHdEbHdQbDVGMUhQenFFOTlnemtqNkd2c1M1Y0JVaW5DUnV5RVdDQ1p0UGR3SUtpcE9FelRlU2lJY1o0dVUtQ290dFR1N3E2elR5THJOelpGWExNUG14OUVYWm5kQVlZVkJ0bkc3RV9penNLM2RVNC1qSVlWaVFUYmk4VFp6bU4?oc=5\" target=\"_blank\"&gt;Pizza Hut is getting a new owner: private equity firm LongRange buys chain in $1.5 billion deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTdwa2twRVVTNjRXZ2NGdUlHQ2xweHdEbHdQbDVGMUhQenFFOTlnemtqNkd2c1M1Y0JVaW5DUnV5RVdDQ1p0UGR3SUtpcE9FelRlU2lJY1o0dVUtQ290dFR1N3E2elR5THJOelpGWExNUG14OUVYWm5kQVlZVkJ0bkc3RV9penNLM2RVNC1qSVlWaVFUYmk4VFp6bU4?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-06-16",
+      "title": "Yum Brands Sells Pizza Hut in Massive $2.7 Billion Split Deal - The Korea Daily",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE14cWl0SVF0YlF4SUc1NFcyUDZKYjdqNVBYRWROMkJDRnZVUWY5Vldoa0xLR0dmRWV2Z3FkNkhXUzJuTWNFNGUxdG5NQ2IzX3ROcE9xOTZXZVdPckh1N3d6Nzk0ajlKLWVfZF83T1ppM1ZTTGNvZEZWenRKNA?oc=5\" target=\"_blank\"&gt;Yum Brands Sells Pizza Hut in Massive $2.7 Billion Split Deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Korea Daily&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14cWl0SVF0YlF4SUc1NFcyUDZKYjdqNVBYRWROMkJDRnZVUWY5Vldoa0xLR0dmRWV2Z3FkNkhXUzJuTWNFNGUxdG5NQ2IzX3ROcE9xOTZXZVdPckh1N3d6Nzk0ajlKLWVfZF83T1ppM1ZTTGNvZEZWenRKNA?oc=5",
+      "source": "The Korea Daily",
+      "date": "2026-06-17",
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     },
     {
-      "title": "Stamford PE firm strikes $1.5B deal to acquire Pizza Hut from Yum Brands - Hartford Business Journal",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzhidFdMcWluMWYxYjU1WFJmSld6c3QwbzMyUlF4b0VodFo3cy1GNmE3cU96WVVOSE1PclhyYno0RTB0Rk93NUcxdFk3M0c1OEhialVXTUZlVGtJUmx5bzZoYTB0dVAzT2J3bHNGMTJMeHNOOHJMZVpvbUNkTTc0ZGxMNkpFVE1rN05lZ2wyZ0FkVms3eHVMZXlSVE5GYnhwRzhmcmZwYjRRQnhIZEE?oc=5\" target=\"_blank\"&gt;Stamford PE firm strikes $1.5B deal to acquire Pizza Hut from Yum Brands&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Hartford Business Journal&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzhidFdMcWluMWYxYjU1WFJmSld6c3QwbzMyUlF4b0VodFo3cy1GNmE3cU96WVVOSE1PclhyYno0RTB0Rk93NUcxdFk3M0c1OEhialVXTUZlVGtJUmx5bzZoYTB0dVAzT2J3bHNGMTJMeHNOOHJMZVpvbUNkTTc0ZGxMNkpFVE1rN05lZ2wyZ0FkVms3eHVMZXlSVE5GYnhwRzhmcmZwYjRRQnhIZEE?oc=5",
-      "source": "Hartford Business Journal",
-      "date": "2026-06-16",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut to be to LongRange Capital - Nation’s Restaurant News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBLV05paTBJYzFJOGZpSTVoRkI2SUV4czRBdzdWUUl2SFJnZENzejF0LTRmM0Z6R0hHb1VqTklZRVI1MzRkcWZPT3R1UXdLbDc5S0pKUjBqaFJjZjZuS0tsTUNFT0gyN3owazdacFJfZGVseF9JcUhqQ3VFVmgzRU0?oc=5\" target=\"_blank\"&gt;Pizza Hut to be to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Nation’s Restaurant News&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLV05paTBJYzFJOGZpSTVoRkI2SUV4czRBdzdWUUl2SFJnZENzejF0LTRmM0Z6R0hHb1VqTklZRVI1MzRkcWZPT3R1UXdLbDc5S0pKUjBqaFJjZjZuS0tsTUNFT0gyN3owazdacFJfZGVseF9JcUhqQ3VFVmgzRU0?oc=5",
-      "source": "Nation’s Restaurant News",
-      "date": "2026-06-16",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut sold by Yum Brands for $2.7 billion - LiveNOW from FOX",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORzh3dzd4RUNFUHRaWG1oOV9zQS02UE5Td1ZpbklCazJrOXRMQ2dmWmpSZlhuNmZ1Nk5WTzRpVXZHOTlEWGo0eEhIUlN5a2NfanBFRnlNaVRTMl81cm9YZWh2aTVNRERZaVVyZWtGZG52RUF0eE5JTWtDb1EzTDZDTjFjaFpDb04wd2x3SEpUOVFvZXdtQWtPTGZxNFVIc05ydVc1SGk3cExCTXNoQXfSAbMBQVVfeXFMTVAtb3ZvM2p3dS03V2VPSHNGS0NscDJRZnUzRnVBall2YktHT2JQc0VlcmVfV20zVWxGaE9nclZmeHJGbUdOV3RXTzJfVDdPMFFYSW9JdHIwQmlqdmNCLWhWUncyVWNDLWQ0dTBVOGk0LS05TWJoSEZCaGthUno3cHlJRUZ3MkV1Q3cxSmFnV25ELVpZRVVlRFJvSkM5THFUZHJ0TThyOHBHdHh0MldyclkxM3M?oc=5\" target=\"_blank\"&gt;Pizza Hut sold by Yum Brands for $2.7 billion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;LiveNOW from FOX&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzh3dzd4RUNFUHRaWG1oOV9zQS02UE5Td1ZpbklCazJrOXRMQ2dmWmpSZlhuNmZ1Nk5WTzRpVXZHOTlEWGo0eEhIUlN5a2NfanBFRnlNaVRTMl81cm9YZWh2aTVNRERZaVVyZWtGZG52RUF0eE5JTWtDb1EzTDZDTjFjaFpDb04wd2x3SEpUOVFvZXdtQWtPTGZxNFVIc05ydVc1SGk3cExCTXNoQXfSAbMBQVVfeXFMTVAtb3ZvM2p3dS03V2VPSHNGS0NscDJRZnUzRnVBall2YktHT2JQc0VlcmVfV20zVWxGaE9nclZmeHJGbUdOV3RXTzJfVDdPMFFYSW9JdHIwQmlqdmNCLWhWUncyVWNDLWQ0dTBVOGk0LS05TWJoSEZCaGthUno3cHlJRUZ3MkV1Q3cxSmFnV25ELVpZRVVlRFJvSkM5THFUZHJ0TThyOHBHdHh0MldyclkxM3M?oc=5",
-      "source": "LiveNOW from FOX",
-      "date": "2026-06-16",
-      "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut sold in two separate deals for $2.7 billion - WCLU Radio",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSkFsdld3SUVrRHMyVDhyYTE2Szg3cVJrZ2lGV21fRDc2b1c0eDJnNHdITXh6OWR4WFBRYjdWZkVTSU9EcVhKS2t5aGh2VHBObnJlSlFLV1YwRmFOdkhFNmpfcXZhVFluNF9MYjQ0RDVmeHRYZ1BZRFJuQkdxTWJVSlJQdHZvWngycTYtQWk3MzIyYWk3?oc=5\" target=\"_blank\"&gt;Pizza Hut sold in two separate deals for $2.7 billion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;WCLU Radio&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSkFsdld3SUVrRHMyVDhyYTE2Szg3cVJrZ2lGV21fRDc2b1c0eDJnNHdITXh6OWR4WFBRYjdWZkVTSU9EcVhKS2t5aGh2VHBObnJlSlFLV1YwRmFOdkhFNmpfcXZhVFluNF9MYjQ0RDVmeHRYZ1BZRFJuQkdxTWJVSlJQdHZvWngycTYtQWk3MzIyYWk3?oc=5",
-      "source": "WCLU Radio",
+      "title": "J.C. Flowers’ Peter Yordán and FTV Capital’s Kyle Griswold talk financial services investing; LongRange to buy Pizza Hut; Clario exit in depth - pehub.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY290eGZzZlFlU0VSZVFQcThDanNqam01amtpam5LNWlfQlBxa1J2UDhnakcyWmVvSnBPRjhCS2E3YlR2djBQTkR1NFRyMFVHYmR3LVV0QlZFNU01UWR5UEdKRGFwamFmRTk5QVo3N1hISDBndURzNG9INENoZ1JNTVQ1aS1oRkJYbG9uQ0ZaelFoY3Fha0s4UFp3cUpOYU1ndkRjUGVydGMzVm10Qi1mWXIwYzM2S0RISnhhOVFDYWZsNnotb08zZTBlM2hyNFhtaWYyR1RuSk5UZ3FheUwzSW1aRzRBQ2VzMVpwZ3NrWFJMQQ?oc=5\" target=\"_blank\"&gt;J.C. Flowers’ Peter Yordán and FTV Capital’s Kyle Griswold talk financial services investing; LongRange to buy Pizza Hut; Clario exit in depth&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;pehub.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY290eGZzZlFlU0VSZVFQcThDanNqam01amtpam5LNWlfQlBxa1J2UDhnakcyWmVvSnBPRjhCS2E3YlR2djBQTkR1NFRyMFVHYmR3LVV0QlZFNU01UWR5UEdKRGFwamFmRTk5QVo3N1hISDBndURzNG9INENoZ1JNTVQ1aS1oRkJYbG9uQ0ZaelFoY3Fha0s4UFp3cUpOYU1ndkRjUGVydGMzVm10Qi1mWXIwYzM2S0RISnhhOVFDYWZsNnotb08zZTBlM2hyNFhtaWYyR1RuSk5UZ3FheUwzSW1aRzRBQ2VzMVpwZ3NrWFJMQQ?oc=5",
+      "source": "pehub.com",
       "date": "2026-06-17",
       "impact": "high",
       "buyerId": null,
       "sentiment": "neutral"
     },
     {
-      "title": "Pizza Hut sold to new owners for $2.7B. What's that mean for Oklahoma? - The Oklahoman",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzNacjdkdFRKWUF2NURlNG1jUm5xdVRwVV9qc0lBZmZxTE5pc1A3SC1GN1QtMDQwbGthVURhUGlWOU9kcEFyU2NJeFNYclNmQklLRmxWWFRveEJocjBEXzBhTEhxX0NxQlZPblo0M1JpNTIwemdfNTdnOE1MQzZ4RjJpWm1ENG1VV3I1b3FKSWxyVmk5M3VRSE5ReTBwU0xURU1vbkQzZi1fYldpSFpPSWo1T0QzbXMwbGd0ZWNnYkVsMGthdGN2SFhBTHFmdnNuMERHb0tqWQ?oc=5\" target=\"_blank\"&gt;Pizza Hut sold to new owners for $2.7B. What's that mean for Oklahoma?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Oklahoman&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzNacjdkdFRKWUF2NURlNG1jUm5xdVRwVV9qc0lBZmZxTE5pc1A3SC1GN1QtMDQwbGthVURhUGlWOU9kcEFyU2NJeFNYclNmQklLRmxWWFRveEJocjBEXzBhTEhxX0NxQlZPblo0M1JpNTIwemdfNTdnOE1MQzZ4RjJpWm1ENG1VV3I1b3FKSWxyVmk5M3VRSE5ReTBwU0xURU1vbkQzZi1fYldpSFpPSWo1T0QzbXMwbGd0ZWNnYkVsMGthdGN2SFhBTHFmdnNuMERHb0tqWQ?oc=5",
-      "source": "The Oklahoman",
-      "date": "2026-06-16",
+      "title": "Pizza hut acquired by longrange capital and yum china in $2.7 billion deal | The Business Guardian - newspaper - Magzter",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcGlTZ0RvZTlvTHhiTnVvUW1ZRU1IRDN3VlR2azREZXhEdVpOV0hYODhTUjFHaDlWczFkR2Z5MnBRT0J5N1d3X3JHbzJlVnl1ZV9kWlZfTEJWck0tVUU3UmFmZElvOU1hdFJ4bHVRaEJmeEpiVWxWQlhXQmVPUXlkSWpJazBPdzk4TmJmOWZzdnRkVGNKWUdGbmR2UDU1Y01SZWl1R1M1VnNOQ184QkVBOWtscXNWU0JtdkhUN0trZU9RWWtPZXJqLS1laXlQTHFqNmc?oc=5\" target=\"_blank\"&gt;Pizza hut acquired by longrange capital and yum china in $2.7 billion deal | The Business Guardian - newspaper&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Magzter&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcGlTZ0RvZTlvTHhiTnVvUW1ZRU1IRDN3VlR2azREZXhEdVpOV0hYODhTUjFHaDlWczFkR2Z5MnBRT0J5N1d3X3JHbzJlVnl1ZV9kWlZfTEJWck0tVUU3UmFmZElvOU1hdFJ4bHVRaEJmeEpiVWxWQlhXQmVPUXlkSWpJazBPdzk4TmJmOWZzdnRkVGNKWUdGbmR2UDU1Y01SZWl1R1M1VnNOQ184QkVBOWtscXNWU0JtdkhUN0trZU9RWWtPZXJqLS1laXlQTHFqNmc?oc=5",
+      "source": "Magzter",
+      "date": "2026-06-18",
       "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands splits Pizza Hut in $2.7bn global sale - Nation Thailand",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZU1obkQ4Wl92em9MektPcTVwbVg3RzNPRlp4M201Rm9lSEtzNlMzMEp0X05Qdk1HbG8zak90UjMwZFBaZ2M0U2lSemJwNllzZ1IxeDF4eGl1VmYxM0pfSjFJXy1Ibjl6R1E?oc=5\" target=\"_blank\"&gt;Yum Brands splits Pizza Hut in $2.7bn global sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Nation Thailand&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZU1obkQ4Wl92em9MektPcTVwbVg3RzNPRlp4M201Rm9lSEtzNlMzMEp0X05Qdk1HbG8zak90UjMwZFBaZ2M0U2lSemJwNllzZ1IxeDF4eGl1VmYxM0pfSjFJXy1Ibjl6R1E?oc=5",
+      "source": "Nation Thailand",
+      "date": "2026-06-18",
+      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     },
     {
-      "title": "LongRange Capital Agrees to Acquire Pizza Hut From Yum! Brands - citybiz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYi0tMXJOc3R2Nkl5OFo1TWswU2ZudlotOEwzT0gwcDE3OHhfaHFyUWdfQ1U5NVVERUdXTzNTY0N6RWN0bG9fMmpYNlV6S1daakhvaGg4RlEwaWNocUMwTFJhbWUwZzhnTzVHR2J0b0pKand1dmN6LXRzSkRfUFphSFBPX3ZUNmhrY05uVFdHTndIR3EyWXhPbzF0UUo3enU2WFE?oc=5\" target=\"_blank\"&gt;LongRange Capital Agrees to Acquire Pizza Hut From Yum! Brands&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;citybiz&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYi0tMXJOc3R2Nkl5OFo1TWswU2ZudlotOEwzT0gwcDE3OHhfaHFyUWdfQ1U5NVVERUdXTzNTY0N6RWN0bG9fMmpYNlV6S1daakhvaGg4RlEwaWNocUMwTFJhbWUwZzhnTzVHR2J0b0pKand1dmN6LXRzSkRfUFphSFBPX3ZUNmhrY05uVFdHTndIR3EyWXhPbzF0UUo3enU2WFE?oc=5",
-      "source": "citybiz",
-      "date": "2026-06-16",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum! Brands to sell Pizza Hut to LongRange Capital and Yum China in $2.7 billion deal - bestmediainfo.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQmtyZVF3bE1SNHhzd1FNTV9ucXAtUkZQUWpvOWpjQWFZRWNpN3oyckRkN3c5cjItUTlzYVQwVXhTcnFBVmVJUEhlWDNmVGptOVJVMTVyNk1FN2xWcGtSMUJ5eXhrN2JsYzhWb1dwd0FLakRLdkNBMmV2X2NnOHNYTjZGUU4welFIWmJ0TTFSQlBILVllZjZxSWZYUkJFelk1anFxanBWZ2ZCVVFudHl6WEl1Z3pPbXpDbUp5aUk4WERNRVJQTGxOSDZhcDZWOHNyMDU0cngxWFFBRHJjam1ra9IB4AFBVV95cUxQQmtyZVF3bE1SNHhzd1FNTV9ucXAtUkZQUWpvOWpjQWFZRWNpN3oyckRkN3c5cjItUTlzYVQwVXhTcnFBVmVJUEhlWDNmVGptOVJVMTVyNk1FN2xWcGtSMUJ5eXhrN2JsYzhWb1dwd0FLakRLdkNBMmV2X2NnOHNYTjZGUU4welFIWmJ0TTFSQlBILVllZjZxSWZYUkJFelk1anFxanBWZ2ZCVVFudHl6WEl1Z3pPbXpDbUp5aUk4WERNRVJQTGxOSDZhcDZWOHNyMDU0cngxWFFBRHJjam1raw?oc=5\" target=\"_blank\"&gt;Yum! Brands to sell Pizza Hut to LongRange Capital and Yum China in $2.7 billion deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;bestmediainfo.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQmtyZVF3bE1SNHhzd1FNTV9ucXAtUkZQUWpvOWpjQWFZRWNpN3oyckRkN3c5cjItUTlzYVQwVXhTcnFBVmVJUEhlWDNmVGptOVJVMTVyNk1FN2xWcGtSMUJ5eXhrN2JsYzhWb1dwd0FLakRLdkNBMmV2X2NnOHNYTjZGUU4welFIWmJ0TTFSQlBILVllZjZxSWZYUkJFelk1anFxanBWZ2ZCVVFudHl6WEl1Z3pPbXpDbUp5aUk4WERNRVJQTGxOSDZhcDZWOHNyMDU0cngxWFFBRHJjam1ra9IB4AFBVV95cUxQQmtyZVF3bE1SNHhzd1FNTV9ucXAtUkZQUWpvOWpjQWFZRWNpN3oyckRkN3c5cjItUTlzYVQwVXhTcnFBVmVJUEhlWDNmVGptOVJVMTVyNk1FN2xWcGtSMUJ5eXhrN2JsYzhWb1dwd0FLakRLdkNBMmV2X2NnOHNYTjZGUU4welFIWmJ0TTFSQlBILVllZjZxSWZYUkJFelk1anFxanBWZ2ZCVVFudHl6WEl1Z3pPbXpDbUp5aUk4WERNRVJQTGxOSDZhcDZWOHNyMDU0cngxWFFBRHJjam1raw?oc=5",
-      "source": "bestmediainfo.com",
+      "title": "Yum! Brands Completes Sale of Pizza Hut in a $2.7 Billion Deal - Tomorrow's World Today",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXlGalhLcExpNVY1YWI4eUF0STlMRkVoN1Y2alZpYjNjR09WUTc2NW90TGk4SDZOUy1OeFJIM1pYbmw0Rl91NUNpdC1HejRWelpjeWdtSVQ3eVRMYnVOTHprdnlUcVhsc0Utc1BPd2ktZHRqZkZRbnpRa1luVXZnZ2RfV2pxZnhDYk81SGh1WlVsNGs4ZzRpSmhTZFdfSTQtWHZqU2lXWUs5LW9XOGVVOXQ1VWQ3UQ?oc=5\" target=\"_blank\"&gt;Yum! Brands Completes Sale of Pizza Hut in a $2.7 Billion Deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Tomorrow's World Today&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXlGalhLcExpNVY1YWI4eUF0STlMRkVoN1Y2alZpYjNjR09WUTc2NW90TGk4SDZOUy1OeFJIM1pYbmw0Rl91NUNpdC1HejRWelpjeWdtSVQ3eVRMYnVOTHprdnlUcVhsc0Utc1BPd2ktZHRqZkZRbnpRa1luVXZnZ2RfV2pxZnhDYk81SGh1WlVsNGs4ZzRpSmhTZFdfSTQtWHZqU2lXWUs5LW9XOGVVOXQ1VWQ3UQ?oc=5",
+      "source": "Tomorrow's World Today",
       "date": "2026-06-17",
-      "impact": "high",
-      "buyerId": "longrange-capital",
+      "impact": "low",
+      "buyerId": null,
       "sentiment": "neutral"
     },
     {
-      "title": "PR News | ICR Works Pizza Hut Deal - Tue., Jun. 16, 2026 - O'Dwyer's PR",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOcldSdkhsQ0ZDXzM5V0dkR1cxT01CLTNvd3licHhIUkEtOHVXVG9ael9Ua1NDenEtUVRkQXdYY0hmYXE1ZFRuVmF3RVBmaTFQdHM5eUpyZWVjYm9OMTZkOHJrdjFaLXlGVW5WN2JXbEhjcld1WW5wbjhVNkVLZzdmVlZpaGdQQ0VQLXUzRA?oc=5\" target=\"_blank\"&gt;PR News | ICR Works Pizza Hut Deal - Tue., Jun. 16, 2026&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;O'Dwyer's PR&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcldSdkhsQ0ZDXzM5V0dkR1cxT01CLTNvd3licHhIUkEtOHVXVG9ael9Ua1NDenEtUVRkQXdYY0hmYXE1ZFRuVmF3RVBmaTFQdHM5eUpyZWVjYm9OMTZkOHJrdjFaLXlGVW5WN2JXbEhjcld1WW5wbjhVNkVLZzdmVlZpaGdQQ0VQLXUzRA?oc=5",
-      "source": "O'Dwyer's PR",
-      "date": "2026-06-16",
-      "impact": "high",
+      "title": "Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value? - TradingView",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGItZFlkdjhJcXVPdldLRWJfcTdOX1RnajZveGk1LXJMWFdiOEYtZVM0d1RyTW9tejVyaGkwQ0I0ajNxQU5YZnZrNnl3TGo3SVBvS3VTSE1ob25WXzg3SGZrWGMxWkQ5NHNsaEp4Vm0xaFc1UmxIajB1U19mM1paQWpyQ3FwOXBQRV95UzJ5TzFra2ZEbmUza0JkSU9SS1JMTks5ZXh4c09SdlNDNGtJMFI1MkRUNUU?oc=5\" target=\"_blank\"&gt;Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGItZFlkdjhJcXVPdldLRWJfcTdOX1RnajZveGk1LXJMWFdiOEYtZVM0d1RyTW9tejVyaGkwQ0I0ajNxQU5YZnZrNnl3TGo3SVBvS3VTSE1ob25WXzg3SGZrWGMxWkQ5NHNsaEp4Vm0xaFc1UmxIajB1U19mM1paQWpyQ3FwOXBQRV95UzJ5TzFra2ZEbmUza0JkSU9SS1JMTks5ZXh4c09SdlNDNGtJMFI1MkRUNUU?oc=5",
+      "source": "TradingView",
+      "date": "2026-06-17",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands sells Pizza Hut in $2.7B split deal - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3d2TldlQzBKeVVqLXgzdF96QjdYS1FmbmU3ZE9xRkpNc0pPSG5yNHZRWnFFaFpReWZ6VUZWSWljMWFrZEVrc1lqZEFkSEdvY3AtcmxXajMxeE5XRE16amwybjlEV3MwdHJoVk1tN2hxWWVjU3djY2dhaTNvbGRlYkF3Wk43YUxNekZmV2N4NzkwNzFhWHNuY3ZkZlhybTQ?oc=5\" target=\"_blank\"&gt;Yum Brands sells Pizza Hut in $2.7B split deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3d2TldlQzBKeVVqLXgzdF96QjdYS1FmbmU3ZE9xRkpNc0pPSG5yNHZRWnFFaFpReWZ6VUZWSWljMWFrZEVrc1lqZEFkSEdvY3AtcmxXajMxeE5XRE16amwybjlEV3MwdHJoVk1tN2hxWWVjU3djY2dhaTNvbGRlYkF3Wk43YUxNekZmV2N4NzkwNzFhWHNuY3ZkZlhybTQ?oc=5",
+      "source": "MSN",
+      "date": "2026-06-18",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands to sell Pizza Hut for $2.7 billion in split deal - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0N2Xy1CQ3ZMa1pfNjI4c1dvdnp4M2RtbGtENUI0TkhDT196Q3Voa0l2bEZDU2FOSUNmYmlrN0FibGIzM2hOcDFHZXVMcDFYLXI0MklqLVR6NkZpRlY1NExUTXRDZWRyVFBuVzBTZnoyUmd2M3R2OFVSWHhlMWl5c1g4dlE2T0k4WGlkMWpwVVFWRm9leEVGaEFmYkt0QVRieHdCdlplUnQ1T0drMVlvMXdaLS1jWmF1QUlMZmdPMTdqY3c?oc=5\" target=\"_blank\"&gt;Yum Brands to sell Pizza Hut for $2.7 billion in split deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0N2Xy1CQ3ZMa1pfNjI4c1dvdnp4M2RtbGtENUI0TkhDT196Q3Voa0l2bEZDU2FOSUNmYmlrN0FibGIzM2hOcDFHZXVMcDFYLXI0MklqLVR6NkZpRlY1NExUTXRDZWRyVFBuVzBTZnoyUmd2M3R2OFVSWHhlMWl5c1g4dlE2T0k4WGlkMWpwVVFWRm9leEVGaEFmYkt0QVRieHdCdlplUnQ1T0drMVlvMXdaLS1jWmF1QUlMZmdPMTdqY3c?oc=5",
+      "source": "MSN",
+      "date": "2026-06-18",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum! Brands agrees $2.7b sale of Pizza Hut, with China business sold separately - marketech apac",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlF3Ry05YXVCcEszcXlEcVo3LVJIWC1wZUdPSDA3Q3JxdE10UnFwZWQ2S3dhdEpJLXM1S2RhbWhXVkpqNkxuTDVwRnBUeUwtNmVvUkFkRzJhRjloZWlvR2YxSTY3Rzd0TkdqYTNySWtnNUpjSktSV3ZPZEc5TkMxUlozMlp6a0xvQXNvdFBYeUVveXlkVHpFZjdRNlozekFLdHRScnFYQQ?oc=5\" target=\"_blank\"&gt;Yum! Brands agrees $2.7b sale of Pizza Hut, with China business sold separately&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;marketech apac&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlF3Ry05YXVCcEszcXlEcVo3LVJIWC1wZUdPSDA3Q3JxdE10UnFwZWQ2S3dhdEpJLXM1S2RhbWhXVkpqNkxuTDVwRnBUeUwtNmVvUkFkRzJhRjloZWlvR2YxSTY3Rzd0TkdqYTNySWtnNUpjSktSV3ZPZEc5TkMxUlozMlp6a0xvQXNvdFBYeUVveXlkVHpFZjdRNlozekFLdHRScnFYQQ?oc=5",
+      "source": "marketech apac",
+      "date": "2026-06-18",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value? - TradingView",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGItZFlkdjhJcXVPdldLRWJfcTdOX1RnajZveGk1LXJMWFdiOEYtZVM0d1RyTW9tejVyaGkwQ0I0ajNxQU5YZnZrNnl3TGo3SVBvS3VTSE1ob25WXzg3SGZrWGMxWkQ5NHNsaEp4Vm0xaFc1UmxIajB1U19mM1paQWpyQ3FwOXBQRV95UzJ5TzFra2ZEbmUza0JkSU9SS1JMTks5ZXh4c09SdlNDNGtJMFI1MkRUNUU?oc=5\" target=\"_blank\"&gt;Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGItZFlkdjhJcXVPdldLRWJfcTdOX1RnajZveGk1LXJMWFdiOEYtZVM0d1RyTW9tejVyaGkwQ0I0ajNxQU5YZnZrNnl3TGo3SVBvS3VTSE1ob25WXzg3SGZrWGMxWkQ5NHNsaEp4Vm0xaFc1UmxIajB1U19mM1paQWpyQ3FwOXBQRV95UzJ5TzFra2ZEbmUza0JkSU9SS1JMTks5ZXh4c09SdlNDNGtJMFI1MkRUNUU?oc=5",
+      "source": "TradingView",
+      "date": "2026-06-17",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands splits Pizza Hut in $2.7bn global sale - Nation Thailand",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZU1obkQ4Wl92em9MektPcTVwbVg3RzNPRlp4M201Rm9lSEtzNlMzMEp0X05Qdk1HbG8zak90UjMwZFBaZ2M0U2lSemJwNllzZ1IxeDF4eGl1VmYxM0pfSjFJXy1Ibjl6R1E?oc=5\" target=\"_blank\"&gt;Yum Brands splits Pizza Hut in $2.7bn global sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Nation Thailand&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZU1obkQ4Wl92em9MektPcTVwbVg3RzNPRlp4M201Rm9lSEtzNlMzMEp0X05Qdk1HbG8zak90UjMwZFBaZ2M0U2lSemJwNllzZ1IxeDF4eGl1VmYxM0pfSjFJXy1Ibjl6R1E?oc=5",
+      "source": "Nation Thailand",
+      "date": "2026-06-18",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands Sells Pizza Hut in Massive $2.7 Billion Split Deal - The Korea Daily",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE14cWl0SVF0YlF4SUc1NFcyUDZKYjdqNVBYRWROMkJDRnZVUWY5Vldoa0xLR0dmRWV2Z3FkNkhXUzJuTWNFNGUxdG5NQ2IzX3ROcE9xOTZXZVdPckh1N3d6Nzk0ajlKLWVfZF83T1ppM1ZTTGNvZEZWenRKNA?oc=5\" target=\"_blank\"&gt;Yum Brands Sells Pizza Hut in Massive $2.7 Billion Split Deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Korea Daily&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14cWl0SVF0YlF4SUc1NFcyUDZKYjdqNVBYRWROMkJDRnZVUWY5Vldoa0xLR0dmRWV2Z3FkNkhXUzJuTWNFNGUxdG5NQ2IzX3ROcE9xOTZXZVdPckh1N3d6Nzk0ajlKLWVfZF83T1ppM1ZTTGNvZEZWenRKNA?oc=5",
+      "source": "The Korea Daily",
+      "date": "2026-06-17",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum Brands to sell Pizza Hut in $2.7bn deal - FoodBev Media",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE54WWhKMXRsSUt4bl9USW1wWkFIMGM4ZHZKU09GbHYtNWwwQ0hkOFZ2ZDRfSHZTTE9yYk5NSEVEMW9qX2NOT3JrbXpzTlIydVQ4ZGZBUjVodjNQNm81Q1QtelRnRzNVdHBxTk52enhOMVFyNndkZ2Y4N09tTQ?oc=5\" target=\"_blank\"&gt;Yum Brands to sell Pizza Hut in $2.7bn deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;FoodBev Media&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54WWhKMXRsSUt4bl9USW1wWkFIMGM4ZHZKU09GbHYtNWwwQ0hkOFZ2ZDRfSHZTTE9yYk5NSEVEMW9qX2NOT3JrbXpzTlIydVQ4ZGZBUjVodjNQNm81Q1QtelRnRzNVdHBxTk52enhOMVFyNndkZ2Y4N09tTQ?oc=5",
+      "source": "FoodBev Media",
+      "date": "2026-06-17",
+      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     }
