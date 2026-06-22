@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T13:00:08.563Z",
+  "lastUpdated": "2026-06-22T13:00:08.536Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -139,6 +139,11 @@
           "date": "2026-06-18",
           "likelihood": 95,
           "note": "Mentioned in news (6 mentions)"
+        },
+        {
+          "date": "2026-06-22",
+          "likelihood": 95,
+          "note": "Mentioned in news (1 mention)"
         }
       ]
     },
@@ -794,6 +799,18 @@
   "timeline": [
     {
       "date": "2026-06-21",
+      "event": "Yum! Brands to sell Pizza Hut in $2.7B split deal - MSN",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-21",
+      "event": "Struggling Pizza Hut sold for $2.7 billion by parent Yum Brands - KXAN Austin",
+      "impact": "high",
+      "type": "news"
+    },
+    {
+      "date": "2026-06-21",
       "event": "Pizza One Ready to Open in Former Pizza Hut Location on Clifton - Nutley Border - TAPinto",
       "impact": "medium",
       "type": "news"
@@ -1079,21 +1096,43 @@
       "event": "Yum Brands to Sell Pizza Hut in $2.7B Deal - TradingPedia",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum Brands (NYSE: YUM) plans $2.7 billion Pizza Hut sale and $4B buyback - Stock Titan",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "CLSA: Yum China Holdings, Inc. (YUMC.US) Acquisition of Pizza Hut China Ownership from Yum! Brands, ",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-06-22",
+      "summary": "Found 4 relevant news items. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "title": "Pizza Hut Sale: LongRange Capital, Yum China Strike $2.7B Deal - Yahoo Finance",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOaWNlMUgyc1pBODZvdDhCcXJqY0JuTWc1bTJnQnFUM1FVZ2FPSFNBdndqRFluMWhGUVgtUHVLSWxPS05LQWlQTDlNdWo4Y3lOV0ZId3VFTFJZbWNQVGtyM0stZDF0S3B6aWlaRTdRVWFxMnlMYWtoaVI1TUJWZ0FJQTdwT3k1TWJhc3gzWGl1QWZFdl9FS0FNNXVJdnd3QQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Sale: LongRange Capital, Yum China Strike $2.7B Deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWNlMUgyc1pBODZvdDhCcXJqY0JuTWc1bTJnQnFUM1FVZ2FPSFNBdndqRFluMWhGUVgtUHVLSWxPS05LQWlQTDlNdWo4Y3lOV0ZId3VFTFJZbWNQVGtyM0stZDF0S3B6aWlaRTdRVWFxMnlMYWtoaVI1TUJWZ0FJQTdwT3k1TWJhc3gzWGl1QWZFdl9FS0FNNXVJdnd3QQ?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-06-21",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Struggling Pizza Hut sold for $2.7 billion by parent Yum Brands - KXAN Austin",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWh2WnZIejJsZ3JzVWxfREVYeVpSdHA5d0NyOTljWkFIdkJobHVsVGZCSk9ZQzR4TzdMQmRUZTZRc05DZDA1OUQzVk9sZXVlOVc5T0xiTzVGMFB3eXdwZzFYcHljN2FaMGRUbktNRUhiV1N3d3o5WFlhNXJYLXRxT1haODZrczBrUlJBWi1DaTRUdkUzUVoyN191dWNoWUZ3c3BhaXc2ZVZPcVXSAasBQVVfeXFMTmlodlp2SHoybGdyc1VsX0RFWHlaUnRwOXdDcjk5Y1pBSHZCaGx1bFRmQkpPWUM0eE83TEJkVGU2UXNOQ2QwNTlEM1ZPbGV1ZTlXOU9MYk81RjBQd3l3cGcxWHB5YzdhWjBkVG5LTUVIYldTd3d6OVhZYTVyWC10cU9YWjg2a3Mwa1JSQVotQ2k0VHZFM1FaMjdfdXVjaFlGd3NwYWl3NmVWT3FV?oc=5\" target=\"_blank\"&gt;Struggling Pizza Hut sold for $2.7 billion by parent Yum Brands&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;KXAN Austin&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWh2WnZIejJsZ3JzVWxfREVYeVpSdHA5d0NyOTljWkFIdkJobHVsVGZCSk9ZQzR4TzdMQmRUZTZRc05DZDA1OUQzVk9sZXVlOVc5T0xiTzVGMFB3eXdwZzFYcHljN2FaMGRUbktNRUhiV1N3d3o5WFlhNXJYLXRxT1haODZrczBrUlJBWi1DaTRUdkUzUVoyN191dWNoWUZ3c3BhaXc2ZVZPcVXSAasBQVVfeXFMTmlodlp2SHoybGdyc1VsX0RFWHlaUnRwOXdDcjk5Y1pBSHZCaGx1bFRmQkpPWUM0eE83TEJkVGU2UXNOQ2QwNTlEM1ZPbGV1ZTlXOU9MYk81RjBQd3l3cGcxWHB5YzdhWjBkVG5LTUVIYldTd3d6OVhZYTVyWC10cU9YWjg2a3Mwa1JSQVotQ2k0VHZFM1FaMjdfdXVjaFlGd3NwYWl3NmVWT3FV?oc=5",
+      "source": "KXAN Austin",
+      "date": "2026-06-21",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Yum! Brands to sell Pizza Hut in $2.7B split deal - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3V5c0FFdlFLcG4tUE94LWZ1TVQxQTlBOTNPRlRWeWZESmw1b2xyR0xkZHljbXM3a3hSbmNmVkpiWm55Tm1neTJVekxrdVRXSnBOQlFYcGFPZWlaMnN1dWxVcVZKckUwUkQ5dHFQeGduMU5qMjFXTXNGdjREazlWUXFUTmtqQzdGMmw4d0Q5TTRqRXBjcEZqUzB0clJSYUwxc0tCNnF3WDlIRk1ZMW8tQ29KZw?oc=5\" target=\"_blank\"&gt;Yum! Brands to sell Pizza Hut in $2.7B split deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3V5c0FFdlFLcG4tUE94LWZ1TVQxQTlBOTNPRlRWeWZESmw1b2xyR0xkZHljbXM3a3hSbmNmVkpiWm55Tm1neTJVekxrdVRXSnBOQlFYcGFPZWlaMnN1dWxVcVZKckUwUkQ5dHFQeGduMU5qMjFXTXNGdjREazlWUXFUTmtqQzdGMmw4d0Q5TTRqRXBjcEZqUzB0clJSYUwxc0tCNnF3WDlIRk1ZMW8tQ29KZw?oc=5",
+      "source": "MSN",
+      "date": "2026-06-21",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-06-21",
       "summary": "Found 5 relevant news items. Buyers mentioned: Restaurant Brands International."
@@ -1250,46 +1289,6 @@
       "date": "2026-06-18",
       "impact": "high",
       "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands splits Pizza Hut in $2.7bn global sale - Nation Thailand",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZU1obkQ4Wl92em9MektPcTVwbVg3RzNPRlp4M201Rm9lSEtzNlMzMEp0X05Qdk1HbG8zak90UjMwZFBaZ2M0U2lSemJwNllzZ1IxeDF4eGl1VmYxM0pfSjFJXy1Ibjl6R1E?oc=5\" target=\"_blank\"&gt;Yum Brands splits Pizza Hut in $2.7bn global sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Nation Thailand&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZU1obkQ4Wl92em9MektPcTVwbVg3RzNPRlp4M201Rm9lSEtzNlMzMEp0X05Qdk1HbG8zak90UjMwZFBaZ2M0U2lSemJwNllzZ1IxeDF4eGl1VmYxM0pfSjFJXy1Ibjl6R1E?oc=5",
-      "source": "Nation Thailand",
-      "date": "2026-06-18",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum! Brands Completes Sale of Pizza Hut in a $2.7 Billion Deal - Tomorrow's World Today",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXlGalhLcExpNVY1YWI4eUF0STlMRkVoN1Y2alZpYjNjR09WUTc2NW90TGk4SDZOUy1OeFJIM1pYbmw0Rl91NUNpdC1HejRWelpjeWdtSVQ3eVRMYnVOTHprdnlUcVhsc0Utc1BPd2ktZHRqZkZRbnpRa1luVXZnZ2RfV2pxZnhDYk81SGh1WlVsNGs4ZzRpSmhTZFdfSTQtWHZqU2lXWUs5LW9XOGVVOXQ1VWQ3UQ?oc=5\" target=\"_blank\"&gt;Yum! Brands Completes Sale of Pizza Hut in a $2.7 Billion Deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Tomorrow's World Today&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXlGalhLcExpNVY1YWI4eUF0STlMRkVoN1Y2alZpYjNjR09WUTc2NW90TGk4SDZOUy1OeFJIM1pYbmw0Rl91NUNpdC1HejRWelpjeWdtSVQ3eVRMYnVOTHprdnlUcVhsc0Utc1BPd2ktZHRqZkZRbnpRa1luVXZnZ2RfV2pxZnhDYk81SGh1WlVsNGs4ZzRpSmhTZFdfSTQtWHZqU2lXWUs5LW9XOGVVOXQ1VWQ3UQ?oc=5",
-      "source": "Tomorrow's World Today",
-      "date": "2026-06-17",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value? - TradingView",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGItZFlkdjhJcXVPdldLRWJfcTdOX1RnajZveGk1LXJMWFdiOEYtZVM0d1RyTW9tejVyaGkwQ0I0ajNxQU5YZnZrNnl3TGo3SVBvS3VTSE1ob25WXzg3SGZrWGMxWkQ5NHNsaEp4Vm0xaFc1UmxIajB1U19mM1paQWpyQ3FwOXBQRV95UzJ5TzFra2ZEbmUza0JkSU9SS1JMTks5ZXh4c09SdlNDNGtJMFI1MkRUNUU?oc=5\" target=\"_blank\"&gt;Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGItZFlkdjhJcXVPdldLRWJfcTdOX1RnajZveGk1LXJMWFdiOEYtZVM0d1RyTW9tejVyaGkwQ0I0ajNxQU5YZnZrNnl3TGo3SVBvS3VTSE1ob25WXzg3SGZrWGMxWkQ5NHNsaEp4Vm0xaFc1UmxIajB1U19mM1paQWpyQ3FwOXBQRV95UzJ5TzFra2ZEbmUza0JkSU9SS1JMTks5ZXh4c09SdlNDNGtJMFI1MkRUNUU?oc=5",
-      "source": "TradingView",
-      "date": "2026-06-17",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands sells Pizza Hut in $2.7B split deal - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3d2TldlQzBKeVVqLXgzdF96QjdYS1FmbmU3ZE9xRkpNc0pPSG5yNHZRWnFFaFpReWZ6VUZWSWljMWFrZEVrc1lqZEFkSEdvY3AtcmxXajMxeE5XRE16amwybjlEV3MwdHJoVk1tN2hxWWVjU3djY2dhaTNvbGRlYkF3Wk43YUxNekZmV2N4NzkwNzFhWHNuY3ZkZlhybTQ?oc=5\" target=\"_blank\"&gt;Yum Brands sells Pizza Hut in $2.7B split deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3d2TldlQzBKeVVqLXgzdF96QjdYS1FmbmU3ZE9xRkpNc0pPSG5yNHZRWnFFaFpReWZ6VUZWSWljMWFrZEVrc1lqZEFkSEdvY3AtcmxXajMxeE5XRE16amwybjlEV3MwdHJoVk1tN2hxWWVjU3djY2dhaTNvbGRlYkF3Wk43YUxNekZmV2N4NzkwNzFhWHNuY3ZkZlhybTQ?oc=5",
-      "source": "MSN",
-      "date": "2026-06-18",
-      "impact": "low",
-      "buyerId": null,
       "sentiment": "neutral"
     }
   ],
