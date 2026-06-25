@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T13:00:08.536Z",
+  "lastUpdated": "2026-06-25T13:00:08.614Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -798,6 +798,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-06-24",
+      "event": "Implications of Pizza Hut Franchisee’s $100 Million Lawsuit Over Delivery System - Food On Demand",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-06-21",
       "event": "Yum! Brands to sell Pizza Hut in $2.7B split deal - MSN",
       "impact": "low",
@@ -1090,15 +1096,23 @@
       "event": "YUM CHINA (09987.HK) to Acquire Pizza Hut China Mainland Ownership for USD1.2B - AASTOCKS.com",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum Brands to Sell Pizza Hut in $2.7B Deal - TradingPedia",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-06-25",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Implications of Pizza Hut Franchisee’s $100 Million Lawsuit Over Delivery System - Food On Demand",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVY5UU9mQko1UkZhOUpfVnd1UG9NOVNEWFZCcVBfZy15WWhhRjN4eGh2ZjN2NU5pSkhubWtvRjlZSlYzTzV6WWltSzNYdWNiclhlbnpHR01IckRRMngwelBZSHpXbDBWdldBNS00TTZlYmhYX1FsTWlsdmRwMjB0V085cHJ1WENVYktQZk9PN3FLZTlNVDVwaGlFRnhtOGJHc3dMY29mUDZVUlg5NWlJN0tiVQ?oc=5\" target=\"_blank\"&gt;Implications of Pizza Hut Franchisee’s $100 Million Lawsuit Over Delivery System&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Food On Demand&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVY5UU9mQko1UkZhOUpfVnd1UG9NOVNEWFZCcVBfZy15WWhhRjN4eGh2ZjN2NU5pSkhubWtvRjlZSlYzTzV6WWltSzNYdWNiclhlbnpHR01IckRRMngwelBZSHpXbDBWdldBNS00TTZlYmhYX1FsTWlsdmRwMjB0V085cHJ1WENVYktQZk9PN3FLZTlNVDVwaGlFRnhtOGJHc3dMY29mUDZVUlg5NWlJN0tiVQ?oc=5",
+      "source": "Food On Demand",
+      "date": "2026-06-24",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-06-22",
       "summary": "Found 4 relevant news items. Buyers mentioned: LongRange Capital."
@@ -1269,26 +1283,6 @@
       "date": "2026-06-17",
       "impact": "low",
       "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "J.C. Flowers’ Peter Yordán and FTV Capital’s Kyle Griswold talk financial services investing; LongRange to buy Pizza Hut; Clario exit in depth - pehub.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY290eGZzZlFlU0VSZVFQcThDanNqam01amtpam5LNWlfQlBxa1J2UDhnakcyWmVvSnBPRjhCS2E3YlR2djBQTkR1NFRyMFVHYmR3LVV0QlZFNU01UWR5UEdKRGFwamFmRTk5QVo3N1hISDBndURzNG9INENoZ1JNTVQ1aS1oRkJYbG9uQ0ZaelFoY3Fha0s4UFp3cUpOYU1ndkRjUGVydGMzVm10Qi1mWXIwYzM2S0RISnhhOVFDYWZsNnotb08zZTBlM2hyNFhtaWYyR1RuSk5UZ3FheUwzSW1aRzRBQ2VzMVpwZ3NrWFJMQQ?oc=5\" target=\"_blank\"&gt;J.C. Flowers’ Peter Yordán and FTV Capital’s Kyle Griswold talk financial services investing; LongRange to buy Pizza Hut; Clario exit in depth&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;pehub.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY290eGZzZlFlU0VSZVFQcThDanNqam01amtpam5LNWlfQlBxa1J2UDhnakcyWmVvSnBPRjhCS2E3YlR2djBQTkR1NFRyMFVHYmR3LVV0QlZFNU01UWR5UEdKRGFwamFmRTk5QVo3N1hISDBndURzNG9INENoZ1JNTVQ1aS1oRkJYbG9uQ0ZaelFoY3Fha0s4UFp3cUpOYU1ndkRjUGVydGMzVm10Qi1mWXIwYzM2S0RISnhhOVFDYWZsNnotb08zZTBlM2hyNFhtaWYyR1RuSk5UZ3FheUwzSW1aRzRBQ2VzMVpwZ3NrWFJMQQ?oc=5",
-      "source": "pehub.com",
-      "date": "2026-06-17",
-      "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza hut acquired by longrange capital and yum china in $2.7 billion deal | The Business Guardian - newspaper - Magzter",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcGlTZ0RvZTlvTHhiTnVvUW1ZRU1IRDN3VlR2azREZXhEdVpOV0hYODhTUjFHaDlWczFkR2Z5MnBRT0J5N1d3X3JHbzJlVnl1ZV9kWlZfTEJWck0tVUU3UmFmZElvOU1hdFJ4bHVRaEJmeEpiVWxWQlhXQmVPUXlkSWpJazBPdzk4TmJmOWZzdnRkVGNKWUdGbmR2UDU1Y01SZWl1R1M1VnNOQ184QkVBOWtscXNWU0JtdkhUN0trZU9RWWtPZXJqLS1laXlQTHFqNmc?oc=5\" target=\"_blank\"&gt;Pizza hut acquired by longrange capital and yum china in $2.7 billion deal | The Business Guardian - newspaper&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Magzter&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcGlTZ0RvZTlvTHhiTnVvUW1ZRU1IRDN3VlR2azREZXhEdVpOV0hYODhTUjFHaDlWczFkR2Z5MnBRT0J5N1d3X3JHbzJlVnl1ZV9kWlZfTEJWck0tVUU3UmFmZElvOU1hdFJ4bHVRaEJmeEpiVWxWQlhXQmVPUXlkSWpJazBPdzk4TmJmOWZzdnRkVGNKWUdGbmR2UDU1Y01SZWl1R1M1VnNOQ184QkVBOWtscXNWU0JtdkhUN0trZU9RWWtPZXJqLS1laXlQTHFqNmc?oc=5",
-      "source": "Magzter",
-      "date": "2026-06-18",
-      "impact": "high",
-      "buyerId": "longrange-capital",
       "sentiment": "neutral"
     }
   ],
