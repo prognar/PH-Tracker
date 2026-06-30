@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T13:00:08.615Z",
+  "lastUpdated": "2026-06-30T13:00:09.197Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -803,6 +803,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-06-29",
+      "event": "AI Rollout Tanked Pizza Hut Franchisee's Sales, Lawsuit Alleges - franchisetimes.com",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-06-25",
       "event": "Yum Brands in talks to divest Pizza Hut to LongRange Capital – report - MSN",
       "impact": "high",
@@ -1095,15 +1101,23 @@
       "event": "Falling sales push Yum Brands to sell Pizza Hut to Chinese investors - IDNFinancials.com",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum strikes two deals to sell Pizza Hut for US$2.7 billion in tale of diverging fortunes - The Busin",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-06-30",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "AI Rollout Tanked Pizza Hut Franchisee's Sales, Lawsuit Alleges - franchisetimes.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYUxlZnVvQTdUd1ViVk10RF9yOWdycG5ON255cGlzT2VFRUViaUpDR2dwdWs0dTB6OUdXUG1WeURLQlhNWVlNTDdqem1GNXZPeEpSNWhIX2ZqOWlFdUZzLUU3a3FJM1JURVdKT1hMVXFNUEU2OHVXTnVVMC1GMXNBbDFBUHdwNTAxYVVpUGNmWTFIWE90QzhUTXNUVjYtaDB6NnlvQm5RbmVUcjQzR01GcFA5MElzbmZJeUpvUnlrXzFvVHFtX3lDLWVNUWJYQm0wQUdKUVlTM3BkaWVGemp0MXkxTThJdlJQUFdjNGFwVQ?oc=5\" target=\"_blank\"&gt;AI Rollout Tanked Pizza Hut Franchisee's Sales, Lawsuit Alleges&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;franchisetimes.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYUxlZnVvQTdUd1ViVk10RF9yOWdycG5ON255cGlzT2VFRUViaUpDR2dwdWs0dTB6OUdXUG1WeURLQlhNWVlNTDdqem1GNXZPeEpSNWhIX2ZqOWlFdUZzLUU3a3FJM1JURVdKT1hMVXFNUEU2OHVXTnVVMC1GMXNBbDFBUHdwNTAxYVVpUGNmWTFIWE90QzhUTXNUVjYtaDB6NnlvQm5RbmVUcjQzR01GcFA5MElzbmZJeUpvUnlrXzFvVHFtX3lDLWVNUWJYQm0wQUdKUVlTM3BkaWVGemp0MXkxTThJdlJQUFdjNGFwVQ?oc=5",
+      "source": "franchisetimes.com",
+      "date": "2026-06-29",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-06-26",
       "summary": "Found 2 relevant news items. Buyers mentioned: LongRange Capital."
@@ -1261,26 +1275,6 @@
       "source": "Food Ingredients First",
       "date": "2026-06-17",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum! Brands agrees $2.7b sale of Pizza Hut, with China business sold separately - marketech apac",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlF3Ry05YXVCcEszcXlEcVo3LVJIWC1wZUdPSDA3Q3JxdE10UnFwZWQ2S3dhdEpJLXM1S2RhbWhXVkpqNkxuTDVwRnBUeUwtNmVvUkFkRzJhRjloZWlvR2YxSTY3Rzd0TkdqYTNySWtnNUpjSktSV3ZPZEc5TkMxUlozMlp6a0xvQXNvdFBYeUVveXlkVHpFZjdRNlozekFLdHRScnFYQQ?oc=5\" target=\"_blank\"&gt;Yum! Brands agrees $2.7b sale of Pizza Hut, with China business sold separately&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;marketech apac&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlF3Ry05YXVCcEszcXlEcVo3LVJIWC1wZUdPSDA3Q3JxdE10UnFwZWQ2S3dhdEpJLXM1S2RhbWhXVkpqNkxuTDVwRnBUeUwtNmVvUkFkRzJhRjloZWlvR2YxSTY3Rzd0TkdqYTNySWtnNUpjSktSV3ZPZEc5TkMxUlozMlp6a0xvQXNvdFBYeUVveXlkVHpFZjdRNlozekFLdHRScnFYQQ?oc=5",
-      "source": "marketech apac",
-      "date": "2026-06-18",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut Sold for $19.5 Billion - 36 Kr",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE03S2h1UmduNVFmVWtSU1drWDlZbi1jSTFidGs5eWYxOFY5TlFKbVQ2UDRIS1VwamRJakcxRDJyM0ZBT3VHSjAxWGVfS3ZabWRxRDRZ?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold for $19.5 Billion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;36 Kr&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03S2h1UmduNVFmVWtSU1drWDlZbi1jSTFidGs5eWYxOFY5TlFKbVQ2UDRIS1VwamRJakcxRDJyM0ZBT3VHSjAxWGVfS3ZabWRxRDRZ?oc=5",
-      "source": "36 Kr",
-      "date": "2026-06-18",
-      "impact": "high",
       "buyerId": null,
       "sentiment": "neutral"
     }
