@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T13:00:08.841Z",
+  "lastUpdated": "2026-07-02T13:00:09.056Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -803,6 +803,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-01",
+      "event": "Pizza Hut CEO at YUM (YUM) sells 6,001 company shares in open‑market trade - Stock Titan",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-06-29",
       "event": "AI Rollout Tanked Pizza Hut Franchisee's Sales, Lawsuit Alleges - franchisetimes.com",
       "impact": "medium",
@@ -1095,15 +1101,23 @@
       "event": "Yum Brands \"slices\" Pizza Hut in $2.7 billion sale. - NeoFeed",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Falling sales push Yum Brands to sell Pizza Hut to Chinese investors - IDNFinancials.com",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-02",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut CEO at YUM (YUM) sells 6,001 company shares in open‑market trade - Stock Titan",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmRUT3JxWFJvdVQtX2huZS1Qc2xQS2lTRnNLcHpnVkNpQ25CdDFjSHlDcDJNZVR0Q1B4dGt4YjF2WEJ4Rkx4UHVOcXV5NEhpbHFSQVdJM1VnNUh6Mjl4bUxpTWZUam9udENHUzl6eVpfcEZGWUdTTzVVTjJ1X3M3amRWdVFIV2dkVVpmMGdDRUZkVFhQZkU5eUdNM3pfT29OWWw3WU9HbEVMQ1E?oc=5\" target=\"_blank\"&gt;Pizza Hut CEO at YUM (YUM) sells 6,001 company shares in open‑market trade&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmRUT3JxWFJvdVQtX2huZS1Qc2xQS2lTRnNLcHpnVkNpQ25CdDFjSHlDcDJNZVR0Q1B4dGt4YjF2WEJ4Rkx4UHVOcXV5NEhpbHFSQVdJM1VnNUh6Mjl4bUxpTWZUam9udENHUzl6eVpfcEZGWUdTTzVVTjJ1X3M3amRWdVFIV2dkVVpmMGdDRUZkVFhQZkU5eUdNM3pfT29OWWw3WU9HbEVMQ1E?oc=5",
+      "source": "Stock Titan",
+      "date": "2026-07-01",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-06-30",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1255,26 +1269,6 @@
       "source": "People.com",
       "date": "2026-06-17",
       "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut Sold for $2.7 Billion by Parent Company Yum! Brands - LAmag",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHRHSThnZFAzVnJKdktKV1NtcE4wd21ieGRiZWh6eTlMc1dSMUVIdDRhbmJtV0Y3S2RkbndnV25iQVBMZmhJOE1JS01rMFNuZHJSYkV4Q3pBekxZX0piOW1NZHpJa1lFSTNWajMyc2xWeVBwM0JnU3cwVTMzMGUxMHhJNkxFQVg2VXdlNDhIV20?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold for $2.7 Billion by Parent Company Yum! Brands&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;LAmag&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHRHSThnZFAzVnJKdktKV1NtcE4wd21ieGRiZWh6eTlMc1dSMUVIdDRhbmJtV0Y3S2RkbndnV25iQVBMZmhJOE1JS01rMFNuZHJSYkV4Q3pBekxZX0piOW1NZHpJa1lFSTNWajMyc2xWeVBwM0JnU3cwVTMzMGUxMHhJNkxFQVg2VXdlNDhIV20?oc=5",
-      "source": "LAmag",
-      "date": "2026-06-17",
-      "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands sells Pizza Hut for US$2.7 billion in split deal - Food Ingredients First",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdW04SkdBOUNPUC1Hc1N1NWNDQ3pTVGhfTnhjS3VwWWd1bmk1UUhKWERFMnpZSXp5b19vSE5zOXgtZUgwM2F1eWY3OG9CRW4tRG56Y0R6VGJJQUluUGlUTndjVXVqYll2YTZCaS1TMjMxNTExM3p4UWViVG5wQ3RsT2pPc2ZkNnpJODcySnJncHpJVG1WWDlN?oc=5\" target=\"_blank\"&gt;Yum Brands sells Pizza Hut for US$2.7 billion in split deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Food Ingredients First&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdW04SkdBOUNPUC1Hc1N1NWNDQ3pTVGhfTnhjS3VwWWd1bmk1UUhKWERFMnpZSXp5b19vSE5zOXgtZUgwM2F1eWY3OG9CRW4tRG56Y0R6VGJJQUluUGlUTndjVXVqYll2YTZCaS1TMjMxNTExM3p4UWViVG5wQ3RsT2pPc2ZkNnpJODcySnJncHpJVG1WWDlN?oc=5",
-      "source": "Food Ingredients First",
-      "date": "2026-06-17",
-      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     }
