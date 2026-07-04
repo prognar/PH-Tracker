@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T13:00:08.723Z",
+  "lastUpdated": "2026-07-04T13:00:09.546Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -803,6 +803,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-03",
+      "event": "Yum is in exclusive talks to sell Pizza Hut to LongRange - MSN",
+      "impact": "high",
+      "type": "news"
+    },
+    {
       "date": "2026-07-01",
       "event": "Pizza Hut CEO at YUM (YUM) sells 6,001 company shares in open‑market trade - Stock Titan",
       "impact": "medium",
@@ -1095,15 +1101,23 @@
       "event": "Yum Brands to sell Pizza Hut for $2.7 billion in two deals By Investing.com - Investing.com South Af",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum Brands \"slices\" Pizza Hut in $2.7 billion sale. - NeoFeed",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-04",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum is in exclusive talks to sell Pizza Hut to LongRange - MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxPU2FyYlg2T2lseXBBcHNlV3gxSlg3WVZMNUJNeXhrN2g3dV9nS1dXbW1QUHVtT1BEV21aNXhGZDBLNDlJQi1ZOUZkNlE3OVluVVJ4YllfNFNLTDZmMGZLMlNtRmctOElHSGtPVlFVQXNsaGFzRHg1MFk1RzFIQ2RDTWM3OE92elg4VTBsVHFlc011NlR0Y1BMOFBTOUNpV25oQUVvOGNQcGdqTW5SY096cndfTU9iVm9FVVU1Rnh3ZS1ENFREN2ZobVpIRG5rZWZldDZ2TmpnRDZyOGN2cGQ5T0FYUmJaWjZRbHF0QWRaQy1BTVFqZ1BBVmtTTjRTQ0x1UElIX2tiUi15NGxHM0J6cFNfVWVQYVVMRHZZTVRIMXBINlFEcFVyZkh1QkFEU0NhMDU2ZFVJeEFOZjcxdzhHYQ?oc=5\" target=\"_blank\"&gt;Yum is in exclusive talks to sell Pizza Hut to LongRange&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPU2FyYlg2T2lseXBBcHNlV3gxSlg3WVZMNUJNeXhrN2g3dV9nS1dXbW1QUHVtT1BEV21aNXhGZDBLNDlJQi1ZOUZkNlE3OVluVVJ4YllfNFNLTDZmMGZLMlNtRmctOElHSGtPVlFVQXNsaGFzRHg1MFk1RzFIQ2RDTWM3OE92elg4VTBsVHFlc011NlR0Y1BMOFBTOUNpV25oQUVvOGNQcGdqTW5SY096cndfTU9iVm9FVVU1Rnh3ZS1ENFREN2ZobVpIRG5rZWZldDZ2TmpnRDZyOGN2cGQ5T0FYUmJaWjZRbHF0QWRaQy1BTVFqZ1BBVmtTTjRTQ0x1UElIX2tiUi15NGxHM0J6cFNfVWVQYVVMRHZZTVRIMXBINlFEcFVyZkh1QkFEU0NhMDU2ZFVJeEFOZjcxdzhHYQ?oc=5",
+      "source": "MSN",
+      "date": "2026-07-03",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-02",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1255,20 +1269,6 @@
       "source": "TAPinto",
       "date": "2026-06-21",
       "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-06-18",
-      "summary": "Found 49 relevant news items. Buyers mentioned: LongRange Capital."
-    },
-    {
-      "title": "Pizza Hut Sold for $2.7B to Private Equity Firm and Other Company After Announcing Closure of 250 Restaurants in 2026 - People.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRTVwQkgwaXpvdW5NUzVyZkpTcW5McDdSclpFSXVQeHlXX3BHYkJiSmszUEotZzRxaWdSYUF6Nk1XTFhWMFE0RXRsQ3MzNXJULUthWnVYLVZ6Zy1sT0RLUDRmdF9DRUIxMlpXQ0FSUmRXOUtnUnVEdGI3OHBJMzkwLUh4d0JDM2pPS3dvdVotN1FCc2RHdXVyQkhmazdBTUxCcmRSYkpVSFBNTWVJUl8zT0paWFNHNDVheEhGMEJERVdfNVFlSUdZTDdTTTdEV0NB?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold for $2.7B to Private Equity Firm and Other Company After Announcing Closure of 250 Restaurants in 2026&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;People.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRTVwQkgwaXpvdW5NUzVyZkpTcW5McDdSclpFSXVQeHlXX3BHYkJiSmszUEotZzRxaWdSYUF6Nk1XTFhWMFE0RXRsQ3MzNXJULUthWnVYLVZ6Zy1sT0RLUDRmdF9DRUIxMlpXQ0FSUmRXOUtnUnVEdGI3OHBJMzkwLUh4d0JDM2pPS3dvdVotN1FCc2RHdXVyQkhmazdBTUxCcmRSYkpVSFBNTWVJUl8zT0paWFNHNDVheEhGMEJERVdfNVFlSUdZTDdTTTdEV0NB?oc=5",
-      "source": "People.com",
-      "date": "2026-06-17",
-      "impact": "high",
       "buyerId": null,
       "sentiment": "neutral"
     }
