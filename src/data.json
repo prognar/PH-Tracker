@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T13:00:08.785Z",
+  "lastUpdated": "2026-07-07T13:00:09.120Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -803,6 +803,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-07",
+      "event": "Yum! Brands Buys Pizza Hut - Baystreet.ca",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-07-03",
       "event": "Yum is in exclusive talks to sell Pizza Hut to LongRange - MSN",
       "impact": "high",
@@ -1095,15 +1101,23 @@
       "event": "Yum Brands to sell Pizza Hut chain for $2.7 billion to PE firm LongRange Capital - Moneycontrol.com",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum Brands to sell Pizza Hut for $2.7 billion in two deals By Investing.com - Investing.com South Af",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-07",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum! Brands Buys Pizza Hut - Baystreet.ca",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE03NWFUVklSTGhodTY4VlFWWFl2Q3M5dnJlUFFVNDRuUEhXY0dmWjlOc1M2aEtzTHRfVWswU2ZDbndzR090YUxhczdWNlVkcVg0dEYza2FxYUdUVkEtLV9OdkZ3SnkteFdRUFJUQkRxNncxUWJvRkNKT9IBeEFVX3lxTE03NWFUVklSTGhodTY4VlFWWFl2Q3M5dnJlUFFVNDRuUEhXY0dmWjlOc1M2aEtzTHRfVWswU2ZDbndzR090YUxhczdWNlVkcVg0dEYza2FxYUdUVkEtLV9OdkZ3SnkteFdRUFJUQkRxNncxUWJvRkNKTw?oc=5\" target=\"_blank\"&gt;Yum! Brands Buys Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Baystreet.ca&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03NWFUVklSTGhodTY4VlFWWFl2Q3M5dnJlUFFVNDRuUEhXY0dmWjlOc1M2aEtzTHRfVWswU2ZDbndzR090YUxhczdWNlVkcVg0dEYza2FxYUdUVkEtLV9OdkZ3SnkteFdRUFJUQkRxNncxUWJvRkNKT9IBeEFVX3lxTE03NWFUVklSTGhodTY4VlFWWFl2Q3M5dnJlUFFVNDRuUEhXY0dmWjlOc1M2aEtzTHRfVWswU2ZDbndzR090YUxhczdWNlVkcVg0dEYza2FxYUdUVkEtLV9OdkZ3SnkteFdRUFJUQkRxNncxUWJvRkNKTw?oc=5",
+      "source": "Baystreet.ca",
+      "date": "2026-07-07",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-04",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1250,26 +1264,6 @@
       "date": "2026-06-20",
       "impact": "medium",
       "buyerId": "rbi",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum! Brands Stock - $2.7 billion Pizza Hut sale refocuses portfolio - AD HOC NEWS",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGZNYXZLSEdMdzBIeS1wLVN1cGg5QlA0SmdwbkRyZDJEeS04WWk2cU5oczhEdXBBU1cyVHFKa1EwZWdpcFNObVZyNVVhMXNteGZyRlQzU1B5a1dDMEtnS19uOFJZT1NyLXNid08xS29KdkgyMEFIMGxSR3pxaVBHX2ZFdzZMZ1Q0NzdHU0M3Rk9NMEZweU5kRXdJMWg2N1VpZDJkQmo1UDItYmFubVdRNHpwbzNjTHZZX0lYUDdsdw?oc=5\" target=\"_blank\"&gt;Yum! Brands Stock - $2.7 billion Pizza Hut sale refocuses portfolio&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AD HOC NEWS&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGZNYXZLSEdMdzBIeS1wLVN1cGg5QlA0SmdwbkRyZDJEeS04WWk2cU5oczhEdXBBU1cyVHFKa1EwZWdpcFNObVZyNVVhMXNteGZyRlQzU1B5a1dDMEtnS19uOFJZT1NyLXNid08xS29KdkgyMEFIMGxSR3pxaVBHX2ZFdzZMZ1Q0NzdHU0M3Rk9NMEZweU5kRXdJMWg2N1VpZDJkQmo1UDItYmFubVdRNHpwbzNjTHZZX0lYUDdsdw?oc=5",
-      "source": "AD HOC NEWS",
-      "date": "2026-06-20",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza One Ready to Open in Former Pizza Hut Location on Clifton - Nutley Border - TAPinto",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY1ZYcWdNUjNqVGVNMTU3cFpBQlRfVmZLUElZYXdxOFZaTVU2aTJocWRRdk1JYlh5ZkVqZU1pUnpnaU8wclZBcEJkQzJ1VHUxVVU5UlE3TG5qMHZkZTBaTTBlSWgtNXZjOXRYX3VOc3FKZlc0M3Jia0NjZU4xSkdVeGEyVE4xX0dGVmp1WEJLeWV2ZjNNeUdsaERJNm9VZDhXTHJ1czBCcHNEVk5OV1F2d093d3VSUHdnbmRWVnNEbjA1MnA4dnplMU8yVVd2NEdydjlSci1EdHRtRVA0NGtJbQ?oc=5\" target=\"_blank\"&gt;Pizza One Ready to Open in Former Pizza Hut Location on Clifton - Nutley Border&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TAPinto&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY1ZYcWdNUjNqVGVNMTU3cFpBQlRfVmZLUElZYXdxOFZaTVU2aTJocWRRdk1JYlh5ZkVqZU1pUnpnaU8wclZBcEJkQzJ1VHUxVVU5UlE3TG5qMHZkZTBaTTBlSWgtNXZjOXRYX3VOc3FKZlc0M3Jia0NjZU4xSkdVeGEyVE4xX0dGVmp1WEJLeWV2ZjNNeUdsaERJNm9VZDhXTHJ1czBCcHNEVk5OV1F2d093d3VSUHdnbmRWVnNEbjA1MnA4dnplMU8yVVd2NEdydjlSci1EdHRtRVA0NGtJbQ?oc=5",
-      "source": "TAPinto",
-      "date": "2026-06-21",
-      "impact": "medium",
-      "buyerId": null,
       "sentiment": "neutral"
     }
   ],
