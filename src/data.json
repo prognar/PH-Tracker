@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T13:00:09.120Z",
+  "lastUpdated": "2026-07-10T13:00:13.551Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -803,6 +803,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-09",
+      "event": "Pizza Hut franchisees are reviving classic red-roof dine-in restaurants — and they're becoming top p",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-07-07",
       "event": "Yum! Brands Buys Pizza Hut - Baystreet.ca",
       "impact": "low",
@@ -1095,15 +1101,23 @@
       "event": "Pizza Hut Is Getting New Owners Under a $2.7 Billion Deal - WBKR 92.5",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum Brands to sell Pizza Hut chain for $2.7 billion to PE firm LongRange Capital - Moneycontrol.com",
-      "impact": "high",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-10",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchisees are reviving classic red-roof dine-in restaurants — and they're becoming top performers - moneywise.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWGxMeUgwZDRwWXVnaFZMNHRTZzZRd25hSGd6aXdMc294TU5sQmI4cVp3MDNVZEhvZmtpSjNsU0I1OGpDd1hMWmQzRDBQSHdIejREeU5aSUdPMGVNVXVyMFduV281RGpDQjA5NnR6X1FqdEpyRGFoUVhUQW51X0gwZFVkdTE1S1U?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisees are reviving classic red-roof dine-in restaurants — and they're becoming top performers&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;moneywise.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWGxMeUgwZDRwWXVnaFZMNHRTZzZRd25hSGd6aXdMc294TU5sQmI4cVp3MDNVZEhvZmtpSjNsU0I1OGpDd1hMWmQzRDBQSHdIejREeU5aSUdPMGVNVXVyMFduV281RGpDQjA5NnR6X1FqdEpyRGFoUVhUQW51X0gwZFVkdTE1S1U?oc=5",
+      "source": "moneywise.com",
+      "date": "2026-07-09",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-07",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1244,26 +1258,6 @@
       "date": "2026-06-20",
       "impact": "low",
       "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Will Pizza Hut Review And Franchising Pivot Change Restaurant Brands International's (QSR) Capital-Light Narrative - simplywall.st",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOEQ3SDFLYWVHLUR5ZjNQYzNGTWlQcWo3NmxpcmR5VjQ4cE0tNEoyZjJPT1J2R1Q2VXJhT0tvM3ZRSktLOG1tZS15bGdWb3BIWTdjTFZOVGhpbkJoQ2JiOUdrTjVUVjdDcDFNRnB2dFhrZEdONUVCM1MyYzloWnpjSFJ6MkVEUzVYQ1FsUHpTRFJFcFBRRmR2eHB5NnNLWmliQ29HeGd0dkxucWN3TXFhR2hpU3Ztc1F0QVBPWEh4c201YW1FMGN3WUU2RVQ0dHV1MGFKOEpaako0eDhKOVJ3XzVjQk5lYUE3M0FOU9IB8gFBVV95cUxOQjFTS3hXOXFwLV9JeGVvTVpqcjlnUmJUNlI5UFFiNldnZTdCdUQzaWFMRzNLRDVoYVNkT21zdFkyRkd1M19kSUNpODc1NUlacHR1SFdCeFluWlFSNHF6VEtjSlpXdDBDa0NaWDM2ZXRmeV82TjJjWE5XR0MyaWI5UHJiTjRkS0xHNGZnMjZyWTVfRXNfSHAxczNxc09IZzkxemhDUUlKeE0tSjBiZEZyaHV3V3ZaNVFUa01EejY1SzVxRzRRbmc1dndlQnpteF9oYzdsUG11Q3NCSW9QQ0EtbVdIbFV4X3ZwX21XaWJhQU9mZw?oc=5\" target=\"_blank\"&gt;Will Pizza Hut Review And Franchising Pivot Change Restaurant Brands International's (QSR) Capital-Light Narrative&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;simplywall.st&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOEQ3SDFLYWVHLUR5ZjNQYzNGTWlQcWo3NmxpcmR5VjQ4cE0tNEoyZjJPT1J2R1Q2VXJhT0tvM3ZRSktLOG1tZS15bGdWb3BIWTdjTFZOVGhpbkJoQ2JiOUdrTjVUVjdDcDFNRnB2dFhrZEdONUVCM1MyYzloWnpjSFJ6MkVEUzVYQ1FsUHpTRFJFcFBRRmR2eHB5NnNLWmliQ29HeGd0dkxucWN3TXFhR2hpU3Ztc1F0QVBPWEh4c201YW1FMGN3WUU2RVQ0dHV1MGFKOEpaako0eDhKOVJ3XzVjQk5lYUE3M0FOU9IB8gFBVV95cUxOQjFTS3hXOXFwLV9JeGVvTVpqcjlnUmJUNlI5UFFiNldnZTdCdUQzaWFMRzNLRDVoYVNkT21zdFkyRkd1M19kSUNpODc1NUlacHR1SFdCeFluWlFSNHF6VEtjSlpXdDBDa0NaWDM2ZXRmeV82TjJjWE5XR0MyaWI5UHJiTjRkS0xHNGZnMjZyWTVfRXNfSHAxczNxc09IZzkxemhDUUlKeE0tSjBiZEZyaHV3V3ZaNVFUa01EejY1SzVxRzRRbmc1dndlQnpteF9oYzdsUG11Q3NCSW9QQ0EtbVdIbFV4X3ZwX21XaWJhQU9mZw?oc=5",
-      "source": "simplywall.st",
-      "date": "2026-06-20",
-      "impact": "medium",
-      "buyerId": "rbi",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Will Pizza Hut Review And Franchising Pivot Change Restaurant Brands International's (QSR) Capital-Light Narrative - simplywall.st",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOEQ3SDFLYWVHLUR5ZjNQYzNGTWlQcWo3NmxpcmR5VjQ4cE0tNEoyZjJPT1J2R1Q2VXJhT0tvM3ZRSktLOG1tZS15bGdWb3BIWTdjTFZOVGhpbkJoQ2JiOUdrTjVUVjdDcDFNRnB2dFhrZEdONUVCM1MyYzloWnpjSFJ6MkVEUzVYQ1FsUHpTRFJFcFBRRmR2eHB5NnNLWmliQ29HeGd0dkxucWN3TXFhR2hpU3Ztc1F0QVBPWEh4c201YW1FMGN3WUU2RVQ0dHV1MGFKOEpaako0eDhKOVJ3XzVjQk5lYUE3M0FOU9IB8gFBVV95cUxOQjFTS3hXOXFwLV9JeGVvTVpqcjlnUmJUNlI5UFFiNldnZTdCdUQzaWFMRzNLRDVoYVNkT21zdFkyRkd1M19kSUNpODc1NUlacHR1SFdCeFluWlFSNHF6VEtjSlpXdDBDa0NaWDM2ZXRmeV82TjJjWE5XR0MyaWI5UHJiTjRkS0xHNGZnMjZyWTVfRXNfSHAxczNxc09IZzkxemhDUUlKeE0tSjBiZEZyaHV3V3ZaNVFUa01EejY1SzVxRzRRbmc1dndlQnpteF9oYzdsUG11Q3NCSW9QQ0EtbVdIbFV4X3ZwX21XaWJhQU9mZw?oc=5\" target=\"_blank\"&gt;Will Pizza Hut Review And Franchising Pivot Change Restaurant Brands International's (QSR) Capital-Light Narrative&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;simplywall.st&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOEQ3SDFLYWVHLUR5ZjNQYzNGTWlQcWo3NmxpcmR5VjQ4cE0tNEoyZjJPT1J2R1Q2VXJhT0tvM3ZRSktLOG1tZS15bGdWb3BIWTdjTFZOVGhpbkJoQ2JiOUdrTjVUVjdDcDFNRnB2dFhrZEdONUVCM1MyYzloWnpjSFJ6MkVEUzVYQ1FsUHpTRFJFcFBRRmR2eHB5NnNLWmliQ29HeGd0dkxucWN3TXFhR2hpU3Ztc1F0QVBPWEh4c201YW1FMGN3WUU2RVQ0dHV1MGFKOEpaako0eDhKOVJ3XzVjQk5lYUE3M0FOU9IB8gFBVV95cUxOQjFTS3hXOXFwLV9JeGVvTVpqcjlnUmJUNlI5UFFiNldnZTdCdUQzaWFMRzNLRDVoYVNkT21zdFkyRkd1M19kSUNpODc1NUlacHR1SFdCeFluWlFSNHF6VEtjSlpXdDBDa0NaWDM2ZXRmeV82TjJjWE5XR0MyaWI5UHJiTjRkS0xHNGZnMjZyWTVfRXNfSHAxczNxc09IZzkxemhDUUlKeE0tSjBiZEZyaHV3V3ZaNVFUa01EejY1SzVxRzRRbmc1dndlQnpteF9oYzdsUG11Q3NCSW9QQ0EtbVdIbFV4X3ZwX21XaWJhQU9mZw?oc=5",
-      "source": "simplywall.st",
-      "date": "2026-06-20",
-      "impact": "medium",
-      "buyerId": "rbi",
       "sentiment": "neutral"
     }
   ],
