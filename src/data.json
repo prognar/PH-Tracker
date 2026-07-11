@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T13:00:13.551Z",
+  "lastUpdated": "2026-07-11T13:00:09.559Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -149,6 +149,11 @@
           "date": "2026-06-26",
           "likelihood": 95,
           "note": "Positive news coverage (1 positive mention)"
+        },
+        {
+          "date": "2026-07-11",
+          "likelihood": 95,
+          "note": "Mentioned in news (1 mention)"
         }
       ]
     },
@@ -803,6 +808,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-10",
+      "event": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says - AOL.com",
+      "impact": "high",
+      "type": "news"
+    },
+    {
       "date": "2026-07-09",
       "event": "Pizza Hut franchisees are reviving classic red-roof dine-in restaurants — and they're becoming top p",
       "impact": "medium",
@@ -1095,15 +1106,23 @@
       "event": "Yum! Brands Shares Edge Higher on $2.7B Pizza Hut Sale to LongRange Capital and Yum China - Meyka",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Pizza Hut Is Getting New Owners Under a $2.7 Billion Deal - WBKR 92.5",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-11",
+      "summary": "Found 1 relevant news item. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "title": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says - AOL.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzRXeEhDTmxlYjlQMW9XS0pjQ2VKaWg3TE5EMGpjdnlpenI1VzBmczFkaG00YTdVYU15MGQ3VUdrMTdKOWRIenBLRklaN25HN1lyVEk0dkpGNDcxQl9GWXNXY25xUFJWYXZTOXlXNWwwVXR2ZFllTWt3YlEwVWdBZw?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzRXeEhDTmxlYjlQMW9XS0pjQ2VKaWg3TE5EMGpjdnlpenI1VzBmczFkaG00YTdVYU15MGQ3VUdrMTdKOWRIenBLRklaN25HN1lyVEk0dkpGNDcxQl9GWXNXY25xUFJWYXZTOXlXNWwwVXR2ZFllTWt3YlEwVWdBZw?oc=5",
+      "source": "AOL.com",
+      "date": "2026-07-10",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-10",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1242,20 +1261,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3V5c0FFdlFLcG4tUE94LWZ1TVQxQTlBOTNPRlRWeWZESmw1b2xyR0xkZHljbXM3a3hSbmNmVkpiWm55Tm1neTJVekxrdVRXSnBOQlFYcGFPZWlaMnN1dWxVcVZKckUwUkQ5dHFQeGduMU5qMjFXTXNGdjREazlWUXFUTmtqQzdGMmw4d0Q5TTRqRXBjcEZqUzB0clJSYUwxc0tCNnF3WDlIRk1ZMW8tQ29KZw?oc=5",
       "source": "MSN",
       "date": "2026-06-21",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-06-21",
-      "summary": "Found 5 relevant news items. Buyers mentioned: Restaurant Brands International."
-    },
-    {
-      "title": "Pizza Hut is getting a new owner: Private equity firm LongRange buys chain in $1.5 billion deal - AOL.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQdUZSMjlVQXBoYXN0TjBUTjZuVk5EcFJIM0lYYjBELW9pNVhIczJzdnhDODMwSWlHbjJOaE1QQnV3MFZPWkFqMmNmUVcxb0RxMVNUWHV1UkVEMFdQTDVIbFJ0YVRNMnJpZU55RlFfMWtDNlhJLTBIcWNfZThNTDJMWQ?oc=5\" target=\"_blank\"&gt;Pizza Hut is getting a new owner: Private equity firm LongRange buys chain in $1.5 billion deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdUZSMjlVQXBoYXN0TjBUTjZuVk5EcFJIM0lYYjBELW9pNVhIczJzdnhDODMwSWlHbjJOaE1QQnV3MFZPWkFqMmNmUVcxb0RxMVNUWHV1UkVEMFdQTDVIbFJ0YVRNMnJpZU55RlFfMWtDNlhJLTBIcWNfZThNTDJMWQ?oc=5",
-      "source": "AOL.com",
-      "date": "2026-06-20",
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
