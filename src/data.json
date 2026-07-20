@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T13:00:08.818Z",
+  "lastUpdated": "2026-07-20T13:00:09.287Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-20",
+      "event": "Pizza Hut franchise collapse ends with rescue deal securing 106 jobs - TheBusinessDesk.com",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-07-11",
       "event": "Analysts see upside for Yum China after Pizza Hut deal - MSN",
       "impact": "high",
@@ -1100,15 +1106,23 @@
       "event": "Pizza Hut News: Yum! Brands Sells Pizza Hut Chain for $2.7 Billion – Check Who is Buying It, Why It’",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Why Yum Brands sold Pizza Hut in $2.7 billion deal - financialexpress.com",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-20",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Pizza Hut franchise collapse ends with rescue deal securing 106 jobs - TheBusinessDesk.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1pBekxiZWthY2hFb1lqSFNYVVhMdldLSzktM0YyZmZYMkthRVlRQ3NiZkNuUFhvLUREZEhaUHdseTZmTHNjTTlZaGZua05fZVhoVU9vSnNYWXpTcTYtQkpYMjhGY1BFbE1tRWZEVHc0SkFSVThka01ZSV91ZTk3ZUJ4UTFBTlM3M3MweEZ4SEVRUEJfcVJReDhaX2s1MlNPLWw3d19PSDNpQlNHd2Nfdzl4ZkVWWDM1NkgwVk1PZl92QlZi?oc=5\" target=\"_blank\"&gt;Pizza Hut franchise collapse ends with rescue deal securing 106 jobs&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TheBusinessDesk.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1pBekxiZWthY2hFb1lqSFNYVVhMdldLSzktM0YyZmZYMkthRVlRQ3NiZkNuUFhvLUREZEhaUHdseTZmTHNjTTlZaGZua05fZVhoVU9vSnNYWXpTcTYtQkpYMjhGY1BFbE1tRWZEVHc0SkFSVThka01ZSV91ZTk3ZUJ4UTFBTlM3M3MweEZ4SEVRUEJfcVJReDhaX2s1MlNPLWw3d19PSDNpQlNHd2Nfdzl4ZkVWWDM1NkgwVk1PZl92QlZi?oc=5",
+      "source": "TheBusinessDesk.com",
+      "date": "2026-07-20",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-12",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1243,20 +1257,6 @@
       "date": "2026-06-24",
       "impact": "medium",
       "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-06-22",
-      "summary": "Found 4 relevant news items. Buyers mentioned: LongRange Capital."
-    },
-    {
-      "title": "Pizza Hut Sale: LongRange Capital, Yum China Strike $2.7B Deal - Yahoo Finance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOaWNlMUgyc1pBODZvdDhCcXJqY0JuTWc1bTJnQnFUM1FVZ2FPSFNBdndqRFluMWhGUVgtUHVLSWxPS05LQWlQTDlNdWo4Y3lOV0ZId3VFTFJZbWNQVGtyM0stZDF0S3B6aWlaRTdRVWFxMnlMYWtoaVI1TUJWZ0FJQTdwT3k1TWJhc3gzWGl1QWZFdl9FS0FNNXVJdnd3QQ?oc=5\" target=\"_blank\"&gt;Pizza Hut Sale: LongRange Capital, Yum China Strike $2.7B Deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWNlMUgyc1pBODZvdDhCcXJqY0JuTWc1bTJnQnFUM1FVZ2FPSFNBdndqRFluMWhGUVgtUHVLSWxPS05LQWlQTDlNdWo4Y3lOV0ZId3VFTFJZbWNQVGtyM0stZDF0S3B6aWlaRTdRVWFxMnlMYWtoaVI1TUJWZ0FJQTdwT3k1TWJhc3gzWGl1QWZFdl9FS0FNNXVJdnd3QQ?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-06-21",
-      "impact": "high",
-      "buyerId": "longrange-capital",
       "sentiment": "neutral"
     }
   ],
