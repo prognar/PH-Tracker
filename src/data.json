@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T13:00:08.599Z",
+  "lastUpdated": "2026-07-29T13:00:08.580Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,18 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-29",
+      "event": "Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales - Reuters",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-07-29",
+      "event": "Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets - franchi",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-07-20",
       "event": "Pizza Hut franchise collapse ends with rescue deal securing 106 jobs - TheBusinessDesk.com",
       "impact": "low",
@@ -1094,21 +1106,53 @@
       "event": "Pizza Hut sold for $2.7 billion: Doors open for new owners as long partnership ends - Business Today",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum! Brands Divests Struggling Pizza Hut in $2.7 Billion Sale - streamlinefeed.co.ke",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut News: Yum! Brands Sells Pizza Hut Chain for $2.7 Billion – Check Who is Buying It, Why It’",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-29",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets - franchisetimes.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGdEMVpMZy1PaC1MRVlnSHJxcU4yOTdFWEp6X0ZJUUluUnI1d05KNlhlLUxtckFuajNLeHlYWk5PTk0wZDFMeUgxUGFMTnJFUzJDR3FJekdCaGxObkxUNHhoNGZuN0x3Zy1mVWVHWlJwcXdzc2pyRi1BRlcxbzJlUHFwaTZXODM1NUcxeC1qS0c0WGotWWRyekx1RGg2M0hoX1A1V3o0S3dQUFNYV0JrTUdQd3hTQjFnQTF0cFNUaVBkdHk1ZG9qUGEzQVozZUdLeXM1TDl2YTg5b1ZfUHpoX0Z2TFhiRmcxTlhtU0JWVjdaUUpia0J4cWFXZ3A0dnBOeTUtUkxmYXVNc1N3TDZJ?oc=5\" target=\"_blank\"&gt;Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;franchisetimes.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGdEMVpMZy1PaC1MRVlnSHJxcU4yOTdFWEp6X0ZJUUluUnI1d05KNlhlLUxtckFuajNLeHlYWk5PTk0wZDFMeUgxUGFMTnJFUzJDR3FJekdCaGxObkxUNHhoNGZuN0x3Zy1mVWVHWlJwcXdzc2pyRi1BRlcxbzJlUHFwaTZXODM1NUcxeC1qS0c0WGotWWRyekx1RGg2M0hoX1A1V3o0S3dQUFNYV0JrTUdQd3hTQjFnQTF0cFNUaVBkdHk1ZG9qUGEzQVozZUdLeXM1TDl2YTg5b1ZfUHpoX0Z2TFhiRmcxTlhtU0JWVjdaUUpia0J4cWFXZ3A0dnBOeTUtUkxmYXVNc1N3TDZJ?oc=5",
+      "source": "franchisetimes.com",
+      "date": "2026-07-29",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets - franchisetimes.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGdEMVpMZy1PaC1MRVlnSHJxcU4yOTdFWEp6X0ZJUUluUnI1d05KNlhlLUxtckFuajNLeHlYWk5PTk0wZDFMeUgxUGFMTnJFUzJDR3FJekdCaGxObkxUNHhoNGZuN0x3Zy1mVWVHWlJwcXdzc2pyRi1BRlcxbzJlUHFwaTZXODM1NUcxeC1qS0c0WGotWWRyekx1RGg2M0hoX1A1V3o0S3dQUFNYV0JrTUdQd3hTQjFnQTF0cFNUaVBkdHk1ZG9qUGEzQVozZUdLeXM1TDl2YTg5b1ZfUHpoX0Z2TFhiRmcxTlhtU0JWVjdaUUpia0J4cWFXZ3A0dnBOeTUtUkxmYXVNc1N3TDZJ?oc=5\" target=\"_blank\"&gt;Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;franchisetimes.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGdEMVpMZy1PaC1MRVlnSHJxcU4yOTdFWEp6X0ZJUUluUnI1d05KNlhlLUxtckFuajNLeHlYWk5PTk0wZDFMeUgxUGFMTnJFUzJDR3FJekdCaGxObkxUNHhoNGZuN0x3Zy1mVWVHWlJwcXdzc2pyRi1BRlcxbzJlUHFwaTZXODM1NUcxeC1qS0c0WGotWWRyekx1RGg2M0hoX1A1V3o0S3dQUFNYV0JrTUdQd3hTQjFnQTF0cFNUaVBkdHk1ZG9qUGEzQVozZUdLeXM1TDl2YTg5b1ZfUHpoX0Z2TFhiRmcxTlhtU0JWVjdaUUpia0J4cWFXZ3A0dnBOeTUtUkxmYXVNc1N3TDZJ?oc=5",
+      "source": "franchisetimes.com",
+      "date": "2026-07-29",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales - Reuters",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObmJiZzJlMml2UVp6NU1ST3JnLUFuLUdpZXprVGlWa3AtTFNiU3lDV09LZFEzVWZnUXQwbHNMZ1Z6bms3anNNX1lkMldfUTZLQlZacUR6bm5uX3RacTRDeEdyYm0xVUZRYTVya3RYdTQ3N0tkcTFLUFVHQ1J2OHREeHlldURfSzg2VHNtWlhnVkc5c2hIVmJLVjRyMkF3b2c1U3c?oc=5\" target=\"_blank\"&gt;Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmJiZzJlMml2UVp6NU1ST3JnLUFuLUdpZXprVGlWa3AtTFNiU3lDV09LZFEzVWZnUXQwbHNMZ1Z6bms3anNNX1lkMldfUTZLQlZacUR6bm5uX3RacTRDeEdyYm0xVUZRYTVya3RYdTQ3N0tkcTFLUFVHQ1J2OHREeHlldURfSzg2VHNtWlhnVkc5c2hIVmJLVjRyMkF3b2c1U3c?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-29",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales - ET BrandEquity",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZzd3dDhlSDBMTEVGNnNHMGFrNFdBWmpSNlA4WXhHbVBXcW5TZjNRc0k5ZXpuRXV1QUtTdGdvMnhXaGNpQllWeXQyZ0ZrWWxZRkVYQWw3Njg3N1RoOXc2M3lJTG12czZKUFFPOXhYZTdsNnFicHRtNkVtSlVUeUhQNE9JY2hzWTY0eHppZ21xM0RFT2g1ZzdCRkt4Z044MHNKV3hTMlQ0MDVSYkdhU0VtN2xhLVpHN1JINW5DaWl1ZUJFOXBpVHR4VERBemotQ2o3RlpxWmZhbDZIVTdGSHRIejBfU3V2al9FLWQ4SkxiOVpUSGlmQ05jMFFn0gH_AUFVX3lxTFBMMFRLRmlkWEg4RjFGaFFxZ2dEdlVTZUdxZXd4YlZ4eFdRZ21jR2Q2TUwwTXNsaGFlbERHb0gxbUVYSENYTDlLUko1dExuY2ppR0FSNXJGTlV1YnNlQ3pyUDJESzdTSlFDTkxPd3NoTjkwcGdWLWNQZjlsZnNNYl9HbE5wWnU4dk1aM1lTaWg5UWxmaVVrX2U2Rk5FVzdDZnhuUDVtakV1TUxGQk42Wmx2ekxwUXdHa041c2FSRkF6b05ydVI2UldVZ2xCbnltZ0ZMb1hMdXM1enFMM3NPOE9zS2tJV1poTWVuWnp1NWhMOFN0d2h0cTFfZEZVYWdSRQ?oc=5\" target=\"_blank\"&gt;Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;ET BrandEquity&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZzd3dDhlSDBMTEVGNnNHMGFrNFdBWmpSNlA4WXhHbVBXcW5TZjNRc0k5ZXpuRXV1QUtTdGdvMnhXaGNpQllWeXQyZ0ZrWWxZRkVYQWw3Njg3N1RoOXc2M3lJTG12czZKUFFPOXhYZTdsNnFicHRtNkVtSlVUeUhQNE9JY2hzWTY0eHppZ21xM0RFT2g1ZzdCRkt4Z044MHNKV3hTMlQ0MDVSYkdhU0VtN2xhLVpHN1JINW5DaWl1ZUJFOXBpVHR4VERBemotQ2o3RlpxWmZhbDZIVTdGSHRIejBfU3V2al9FLWQ4SkxiOVpUSGlmQ05jMFFn0gH_AUFVX3lxTFBMMFRLRmlkWEg4RjFGaFFxZ2dEdlVTZUdxZXd4YlZ4eFdRZ21jR2Q2TUwwTXNsaGFlbERHb0gxbUVYSENYTDlLUko1dExuY2ppR0FSNXJGTlV1YnNlQ3pyUDJESzdTSlFDTkxPd3NoTjkwcGdWLWNQZjlsZnNNYl9HbE5wWnU4dk1aM1lTaWg5UWxmaVVrX2U2Rk5FVzdDZnhuUDVtakV1TUxGQk42Wmx2ekxwUXdHa041c2FSRkF6b05ydVI2UldVZ2xCbnltZ0ZMb1hMdXM1enFMM3NPOE9zS2tJV1poTWVuWnp1NWhMOFN0d2h0cTFfZEZVYWdSRQ?oc=5",
+      "source": "ET BrandEquity",
+      "date": "2026-07-29",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-20",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1217,44 +1261,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYUxlZnVvQTdUd1ViVk10RF9yOWdycG5ON255cGlzT2VFRUViaUpDR2dwdWs0dTB6OUdXUG1WeURLQlhNWVlNTDdqem1GNXZPeEpSNWhIX2ZqOWlFdUZzLUU3a3FJM1JURVdKT1hMVXFNUEU2OHVXTnVVMC1GMXNBbDFBUHdwNTAxYVVpUGNmWTFIWE90QzhUTXNUVjYtaDB6NnlvQm5RbmVUcjQzR01GcFA5MElzbmZJeUpvUnlrXzFvVHFtX3lDLWVNUWJYQm0wQUdKUVlTM3BkaWVGemp0MXkxTThJdlJQUFdjNGFwVQ?oc=5",
       "source": "franchisetimes.com",
       "date": "2026-06-29",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-06-26",
-      "summary": "Found 2 relevant news items. Buyers mentioned: LongRange Capital."
-    },
-    {
-      "title": "Pizza Hut will continue its operation on the Island after its sale - WJournalpr",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZkdrby1kd3BVZHladjNlcjh0aV9pQmN2MGs3UTdsVERySElmWUlMWDB3S2hWcndEeGQ2aUo3SDBxVUZqZHZ4RDVKbUtiNEdQV3RhT3d4Y3k5X2lxV2Nvb1ZEdkhuNktpcG5vR1hQRF91U1VYUDVaQmY4YUh0d25mSE1ydDJIRUNPdzVpUjhKVzZocFhKZzQwbjhHMkxpMFBla2dDbENMdGZYdGp4dVNnVU5laW9mOTJKOGZkR2V3TFNZcnNrRG1WV2x6anZVelhPSjFLUk5UajZqX1lLUWI0cnlrc215X0k?oc=5\" target=\"_blank\"&gt;Pizza Hut will continue its operation on the Island after its sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;WJournalpr&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZkdrby1kd3BVZHladjNlcjh0aV9pQmN2MGs3UTdsVERySElmWUlMWDB3S2hWcndEeGQ2aUo3SDBxVUZqZHZ4RDVKbUtiNEdQV3RhT3d4Y3k5X2lxV2Nvb1ZEdkhuNktpcG5vR1hQRF91U1VYUDVaQmY4YUh0d25mSE1ydDJIRUNPdzVpUjhKVzZocFhKZzQwbjhHMkxpMFBla2dDbENMdGZYdGp4dVNnVU5laW9mOTJKOGZkR2V3TFNZcnNrRG1WV2x6anZVelhPSjFLUk5UajZqX1lLUWI0cnlrc215X0k?oc=5",
-      "source": "WJournalpr",
-      "date": "2026-06-25",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands in talks to divest Pizza Hut to LongRange Capital – report - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVWQ3VGdEUkpmS3hTYzVva1RsdXFsS3BxZVJtU2VGMTBBSU9NUml5QVBTenNtWEEwM05MNmtQTlBYUm8xekF2X2lLZGxKeXc1aEgxb3pQLXF6T1EtLVVNRnh4TFg1djRMUnI4NGM1SnVNTlp3cVBnWG8ySUtkc0RvZWQzcHFHNjhnMHhwaXZVemZnc0o4Rmx6Zmx0SW5TSTBIbW42SVFkRGRUOUh4bHFFcWthb0oxN0Z3V3BpS1c3THhtWnQzTUdQaTc2QVN0ZERJRHFnTGdFRElTV2ZiWEw0dWxwNzJ3OGRxOHFNSVc2bG1LcUJ3ZEFtLTJKekZ6S0xDME5INDFzc3I1bFBpV09UWWd1RHVMWXhmMDNWNTZkTTRLbkxzdTRYZENkTUFaX0dKZDJnMV9nd2U3aXkyZ2MxV0RVdjlaRDVxaXQ0dHBETTg3N0U?oc=5\" target=\"_blank\"&gt;Yum Brands in talks to divest Pizza Hut to LongRange Capital – report&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVWQ3VGdEUkpmS3hTYzVva1RsdXFsS3BxZVJtU2VGMTBBSU9NUml5QVBTenNtWEEwM05MNmtQTlBYUm8xekF2X2lLZGxKeXc1aEgxb3pQLXF6T1EtLVVNRnh4TFg1djRMUnI4NGM1SnVNTlp3cVBnWG8ySUtkc0RvZWQzcHFHNjhnMHhwaXZVemZnc0o4Rmx6Zmx0SW5TSTBIbW42SVFkRGRUOUh4bHFFcWthb0oxN0Z3V3BpS1c3THhtWnQzTUdQaTc2QVN0ZERJRHFnTGdFRElTV2ZiWEw0dWxwNzJ3OGRxOHFNSVc2bG1LcUJ3ZEFtLTJKekZ6S0xDME5INDFzc3I1bFBpV09UWWd1RHVMWXhmMDNWNTZkTTRLbkxzdTRYZENkTUFaX0dKZDJnMV9nd2U3aXkyZ2MxV0RVdjlaRDVxaXQ0dHBETTg3N0U?oc=5",
-      "source": "MSN",
-      "date": "2026-06-25",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "positive"
-    },
-    {
-      "date": "2026-06-25",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Implications of Pizza Hut Franchisee’s $100 Million Lawsuit Over Delivery System - Food On Demand",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVY5UU9mQko1UkZhOUpfVnd1UG9NOVNEWFZCcVBfZy15WWhhRjN4eGh2ZjN2NU5pSkhubWtvRjlZSlYzTzV6WWltSzNYdWNiclhlbnpHR01IckRRMngwelBZSHpXbDBWdldBNS00TTZlYmhYX1FsTWlsdmRwMjB0V085cHJ1WENVYktQZk9PN3FLZTlNVDVwaGlFRnhtOGJHc3dMY29mUDZVUlg5NWlJN0tiVQ?oc=5\" target=\"_blank\"&gt;Implications of Pizza Hut Franchisee’s $100 Million Lawsuit Over Delivery System&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Food On Demand&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVY5UU9mQko1UkZhOUpfVnd1UG9NOVNEWFZCcVBfZy15WWhhRjN4eGh2ZjN2NU5pSkhubWtvRjlZSlYzTzV6WWltSzNYdWNiclhlbnpHR01IckRRMngwelBZSHpXbDBWdldBNS00TTZlYmhYX1FsTWlsdmRwMjB0V085cHJ1WENVYktQZk9PN3FLZTlNVDVwaGlFRnhtOGJHc3dMY29mUDZVUlg5NWlJN0tiVQ?oc=5",
-      "source": "Food On Demand",
-      "date": "2026-06-24",
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
