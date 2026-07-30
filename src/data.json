@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T13:00:08.580Z",
+  "lastUpdated": "2026-07-30T13:00:08.961Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,18 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-30",
+      "event": "Pizza Hut will have two buyers under Yum! Brands' agreements - Stock Titan",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-07-30",
+      "event": "Yum! Brands (NYSE: YUM) Q2 profit jumps on tax gains, Pizza Hut sale - Stock Titan",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-07-29",
       "event": "Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales - Reuters",
       "impact": "low",
@@ -1094,21 +1106,33 @@
       "event": "Yum China (NYSE: YUMC) commits $1.2B to acquire Pizza Hut China IP - Stock Titan",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum China to acquire ownership of the Pizza Hut Brand in Mainland China - Comunicaffe International",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Pizza Hut sold for $2.7 billion: Doors open for new owners as long partnership ends - Business Today",
-      "impact": "high",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-30",
+      "summary": "Found 6 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum! Brands (NYSE: YUM) Q2 profit jumps on tax gains, Pizza Hut sale - Stock Titan",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFRRZlgxV2l1VGEwdG52TUY2MTlrajZmcF92UWxGR01OVjk3NWYxZlp1dVlBbU5KVy15dXdFQzhfdFRENGwtek4tUl9nd0phSW9wSjJzSW5zZ3JLYndFWU1XQVJldzlXMnRMMlBjTE1CUEdrN0swNjV1dFQ2NkdXY1FmM0YxSmVvOXN4MVY4ZUZFNnRGbnN5bUxRc1gtOWV5dy1oUg?oc=5\" target=\"_blank\"&gt;Yum! Brands (NYSE: YUM) Q2 profit jumps on tax gains, Pizza Hut sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFRRZlgxV2l1VGEwdG52TUY2MTlrajZmcF92UWxGR01OVjk3NWYxZlp1dVlBbU5KVy15dXdFQzhfdFRENGwtek4tUl9nd0phSW9wSjJzSW5zZ3JLYndFWU1XQVJldzlXMnRMMlBjTE1CUEdrN0swNjV1dFQ2NkdXY1FmM0YxSmVvOXN4MVY4ZUZFNnRGbnN5bUxRc1gtOWV5dy1oUg?oc=5",
+      "source": "Stock Titan",
+      "date": "2026-07-30",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut will have two buyers under Yum! Brands' agreements - Stock Titan",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGZDY1J4T2Q2SjlqUloxN29ZSnZ0eXVWcWduSS1ZdTE3WXhDSTk4NWpuS0JfdVdDMkQzaUNEOHNQS1Rnblc2RU1OdDdYQ3NhejRxSmlVaGxHaDJQcS1vUUZlMjYyUDhFLXFkWWZKNHVKYXIxSEZ5bUJVanA0WTBYMEpKY3RfN2g5QnpRb0RXRFA?oc=5\" target=\"_blank\"&gt;Pizza Hut will have two buyers under Yum! Brands' agreements&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGZDY1J4T2Q2SjlqUloxN29ZSnZ0eXVWcWduSS1ZdTE3WXhDSTk4NWpuS0JfdVdDMkQzaUNEOHNQS1Rnblc2RU1OdDdYQ3NhejRxSmlVaGxHaDJQcS1vUUZlMjYyUDhFLXFkWWZKNHVKYXIxSEZ5bUJVanA0WTBYMEpKY3RfN2g5QnpRb0RXRFA?oc=5",
+      "source": "Stock Titan",
+      "date": "2026-07-30",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-29",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
@@ -1240,30 +1264,6 @@
     {
       "date": "2026-07-02",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut CEO at YUM (YUM) sells 6,001 company shares in open‑market trade - Stock Titan",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmRUT3JxWFJvdVQtX2huZS1Qc2xQS2lTRnNLcHpnVkNpQ25CdDFjSHlDcDJNZVR0Q1B4dGt4YjF2WEJ4Rkx4UHVOcXV5NEhpbHFSQVdJM1VnNUh6Mjl4bUxpTWZUam9udENHUzl6eVpfcEZGWUdTTzVVTjJ1X3M3amRWdVFIV2dkVVpmMGdDRUZkVFhQZkU5eUdNM3pfT29OWWw3WU9HbEVMQ1E?oc=5\" target=\"_blank\"&gt;Pizza Hut CEO at YUM (YUM) sells 6,001 company shares in open‑market trade&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmRUT3JxWFJvdVQtX2huZS1Qc2xQS2lTRnNLcHpnVkNpQ25CdDFjSHlDcDJNZVR0Q1B4dGt4YjF2WEJ4Rkx4UHVOcXV5NEhpbHFSQVdJM1VnNUh6Mjl4bUxpTWZUam9udENHUzl6eVpfcEZGWUdTTzVVTjJ1X3M3amRWdVFIV2dkVVpmMGdDRUZkVFhQZkU5eUdNM3pfT29OWWw3WU9HbEVMQ1E?oc=5",
-      "source": "Stock Titan",
-      "date": "2026-07-01",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-06-30",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "AI Rollout Tanked Pizza Hut Franchisee's Sales, Lawsuit Alleges - franchisetimes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYUxlZnVvQTdUd1ViVk10RF9yOWdycG5ON255cGlzT2VFRUViaUpDR2dwdWs0dTB6OUdXUG1WeURLQlhNWVlNTDdqem1GNXZPeEpSNWhIX2ZqOWlFdUZzLUU3a3FJM1JURVdKT1hMVXFNUEU2OHVXTnVVMC1GMXNBbDFBUHdwNTAxYVVpUGNmWTFIWE90QzhUTXNUVjYtaDB6NnlvQm5RbmVUcjQzR01GcFA5MElzbmZJeUpvUnlrXzFvVHFtX3lDLWVNUWJYQm0wQUdKUVlTM3BkaWVGemp0MXkxTThJdlJQUFdjNGFwVQ?oc=5\" target=\"_blank\"&gt;AI Rollout Tanked Pizza Hut Franchisee's Sales, Lawsuit Alleges&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;franchisetimes.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYUxlZnVvQTdUd1ViVk10RF9yOWdycG5ON255cGlzT2VFRUViaUpDR2dwdWs0dTB6OUdXUG1WeURLQlhNWVlNTDdqem1GNXZPeEpSNWhIX2ZqOWlFdUZzLUU3a3FJM1JURVdKT1hMVXFNUEU2OHVXTnVVMC1GMXNBbDFBUHdwNTAxYVVpUGNmWTFIWE90QzhUTXNUVjYtaDB6NnlvQm5RbmVUcjQzR01GcFA5MElzbmZJeUpvUnlrXzFvVHFtX3lDLWVNUWJYQm0wQUdKUVlTM3BkaWVGemp0MXkxTThJdlJQUFdjNGFwVQ?oc=5",
-      "source": "franchisetimes.com",
-      "date": "2026-06-29",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
