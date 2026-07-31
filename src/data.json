@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T13:00:08.961Z",
+  "lastUpdated": "2026-07-31T13:00:08.811Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,24 @@
   ],
   "timeline": [
     {
+      "date": "2026-07-31",
+      "event": "New Turkish restaurant opens at Crawley Leisure Park in former Pizza Hut unit - SussexWorld",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-07-30",
+      "event": "YUM: EPS excluding Special Items up 12% year-over-year; Pizza Hut sale and tax benefits boost net in",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-07-30",
+      "event": "Yum Brands posts strong Q2, Pizza Hut sale set for August completion - Pizza Marketplace",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-07-30",
       "event": "Pizza Hut will have two buyers under Yum! Brands' agreements - Stock Titan",
       "impact": "low",
@@ -1088,27 +1106,43 @@
       "event": "Baemin, Pizza Hut Korea forge online sales alliance and launch exclusive menus - CHOSUNBIZ - Chosunb",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Billion-Dollar Bite: Yum China Gobbles up Pizza Hut in Transformative $1.2B Deal - Retail News Asia",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Pizza Hut Sale: LongRange Capital, Yum China Strike $2.7B Deal - Complex",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-16",
-      "event": "Yum China (NYSE: YUMC) commits $1.2B to acquire Pizza Hut China IP - Stock Titan",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-07-31",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum Brands posts strong Q2, Pizza Hut sale set for August completion - Pizza Marketplace",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUQ1alAxUVgxb3JJYVpxRmN1T0xKVS11Uk5jLWdLS2p4Vll0N2FWV1lNWjRha3RSenp6TTVUYmoyMlRpZkNMZ2NhdVVpV0h5Z2ZNaDlkYTFLU0pNMk40REtERHFsRjJTWmFiSDk4d1A0YWRtbzZDbDZmNnkwd2lYemtiQUtUbFk2MVVPNG5yclpZZUhQN2ZPdThHVV9sRnY4djhpaFVQeU93UQ?oc=5\" target=\"_blank\"&gt;Yum Brands posts strong Q2, Pizza Hut sale set for August completion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Pizza Marketplace&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUQ1alAxUVgxb3JJYVpxRmN1T0xKVS11Uk5jLWdLS2p4Vll0N2FWV1lNWjRha3RSenp6TTVUYmoyMlRpZkNMZ2NhdVVpV0h5Z2ZNaDlkYTFLU0pNMk40REtERHFsRjJTWmFiSDk4d1A0YWRtbzZDbDZmNnkwd2lYemtiQUtUbFk2MVVPNG5yclpZZUhQN2ZPdThHVV9sRnY4djhpaFVQeU93UQ?oc=5",
+      "source": "Pizza Marketplace",
+      "date": "2026-07-30",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "YUM: EPS excluding Special Items up 12% year-over-year; Pizza Hut sale and tax benefits boost net income - tradingview.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTlYM2ZhNlQ1WGhPaW9fTDB3a28xMkZXbHFrb3dHUzlDY3R0bjR4WFpBMkh5OEFHb1ZaaWhhNEFLcWgtNVR6WmI2NFVrSnIxVC1vVkUtWUExUXM2UGsyeVVLd0RZNEJfSkI4bTRlNWdGM1lUYndWSzZFU2pfbnl6dlZOU3hoVW9W?oc=5\" target=\"_blank\"&gt;YUM: EPS excluding Special Items up 12% year-over-year; Pizza Hut sale and tax benefits boost net income&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;tradingview.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTlYM2ZhNlQ1WGhPaW9fTDB3a28xMkZXbHFrb3dHUzlDY3R0bjR4WFpBMkh5OEFHb1ZaaWhhNEFLcWgtNVR6WmI2NFVrSnIxVC1vVkUtWUExUXM2UGsyeVVLd0RZNEJfSkI4bTRlNWdGM1lUYndWSzZFU2pfbnl6dlZOU3hoVW9W?oc=5",
+      "source": "tradingview.com",
+      "date": "2026-07-30",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "New Turkish restaurant opens at Crawley Leisure Park in former Pizza Hut unit - SussexWorld",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRndiMDJaTEdsQXJlVFQ1RnZ1SXlnMFRGR2hnd0N0OGZIQUFmTUxmdUZ1TU15c0FwSnM0dGZDS3Vqd2FLN0RORlZqMmZqRmR2MXRkUG1CV2VpbkJnQ1drcjJzUGh5ZktSZ1ZKZmFScVQ4TFpHNnF2Q2VNaWxYcTlLS0w5Tjc5aElIajVFMUI1NTh6QTJpeHB3ZWYyanhFQVh1NldtZUlEOGpzU0ViNm51RkdNdnFTWnJ4VG0zX1ZlTWUwaThqSnE0emJDbC0?oc=5\" target=\"_blank\"&gt;New Turkish restaurant opens at Crawley Leisure Park in former Pizza Hut unit&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;SussexWorld&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRndiMDJaTEdsQXJlVFQ1RnZ1SXlnMFRGR2hnd0N0OGZIQUFmTUxmdUZ1TU15c0FwSnM0dGZDS3Vqd2FLN0RORlZqMmZqRmR2MXRkUG1CV2VpbkJnQ1drcjJzUGh5ZktSZ1ZKZmFScVQ4TFpHNnF2Q2VNaWxYcTlLS0w5Tjc5aElIajVFMUI1NTh6QTJpeHB3ZWYyanhFQVh1NldtZUlEOGpzU0ViNm51RkdNdnFTWnJ4VG0zX1ZlTWUwaThqSnE0emJDbC0?oc=5",
+      "source": "SussexWorld",
+      "date": "2026-07-31",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-30",
       "summary": "Found 6 relevant news items. No specific buyers mentioned."
@@ -1235,34 +1269,6 @@
     },
     {
       "date": "2026-07-07",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Yum! Brands Buys Pizza Hut - Baystreet.ca",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE03NWFUVklSTGhodTY4VlFWWFl2Q3M5dnJlUFFVNDRuUEhXY0dmWjlOc1M2aEtzTHRfVWswU2ZDbndzR090YUxhczdWNlVkcVg0dEYza2FxYUdUVkEtLV9OdkZ3SnkteFdRUFJUQkRxNncxUWJvRkNKT9IBeEFVX3lxTE03NWFUVklSTGhodTY4VlFWWFl2Q3M5dnJlUFFVNDRuUEhXY0dmWjlOc1M2aEtzTHRfVWswU2ZDbndzR090YUxhczdWNlVkcVg0dEYza2FxYUdUVkEtLV9OdkZ3SnkteFdRUFJUQkRxNncxUWJvRkNKTw?oc=5\" target=\"_blank\"&gt;Yum! Brands Buys Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Baystreet.ca&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03NWFUVklSTGhodTY4VlFWWFl2Q3M5dnJlUFFVNDRuUEhXY0dmWjlOc1M2aEtzTHRfVWswU2ZDbndzR090YUxhczdWNlVkcVg0dEYza2FxYUdUVkEtLV9OdkZ3SnkteFdRUFJUQkRxNncxUWJvRkNKT9IBeEFVX3lxTE03NWFUVklSTGhodTY4VlFWWFl2Q3M5dnJlUFFVNDRuUEhXY0dmWjlOc1M2aEtzTHRfVWswU2ZDbndzR090YUxhczdWNlVkcVg0dEYza2FxYUdUVkEtLV9OdkZ3SnkteFdRUFJUQkRxNncxUWJvRkNKTw?oc=5",
-      "source": "Baystreet.ca",
-      "date": "2026-07-07",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-04",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Yum is in exclusive talks to sell Pizza Hut to LongRange - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxPU2FyYlg2T2lseXBBcHNlV3gxSlg3WVZMNUJNeXhrN2g3dV9nS1dXbW1QUHVtT1BEV21aNXhGZDBLNDlJQi1ZOUZkNlE3OVluVVJ4YllfNFNLTDZmMGZLMlNtRmctOElHSGtPVlFVQXNsaGFzRHg1MFk1RzFIQ2RDTWM3OE92elg4VTBsVHFlc011NlR0Y1BMOFBTOUNpV25oQUVvOGNQcGdqTW5SY096cndfTU9iVm9FVVU1Rnh3ZS1ENFREN2ZobVpIRG5rZWZldDZ2TmpnRDZyOGN2cGQ5T0FYUmJaWjZRbHF0QWRaQy1BTVFqZ1BBVmtTTjRTQ0x1UElIX2tiUi15NGxHM0J6cFNfVWVQYVVMRHZZTVRIMXBINlFEcFVyZkh1QkFEU0NhMDU2ZFVJeEFOZjcxdzhHYQ?oc=5\" target=\"_blank\"&gt;Yum is in exclusive talks to sell Pizza Hut to LongRange&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPU2FyYlg2T2lseXBBcHNlV3gxSlg3WVZMNUJNeXhrN2g3dV9nS1dXbW1QUHVtT1BEV21aNXhGZDBLNDlJQi1ZOUZkNlE3OVluVVJ4YllfNFNLTDZmMGZLMlNtRmctOElHSGtPVlFVQXNsaGFzRHg1MFk1RzFIQ2RDTWM3OE92elg4VTBsVHFlc011NlR0Y1BMOFBTOUNpV25oQUVvOGNQcGdqTW5SY096cndfTU9iVm9FVVU1Rnh3ZS1ENFREN2ZobVpIRG5rZWZldDZ2TmpnRDZyOGN2cGQ5T0FYUmJaWjZRbHF0QWRaQy1BTVFqZ1BBVmtTTjRTQ0x1UElIX2tiUi15NGxHM0J6cFNfVWVQYVVMRHZZTVRIMXBINlFEcFVyZkh1QkFEU0NhMDU2ZFVJeEFOZjcxdzhHYQ?oc=5",
-      "source": "MSN",
-      "date": "2026-07-03",
-      "impact": "high",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-02",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
