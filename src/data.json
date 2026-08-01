@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T13:00:08.811Z",
+  "lastUpdated": "2026-08-01T13:00:08.430Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,24 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-01",
+      "event": "New food chain set to take over former Pizza Hut site as plans approved - Kidderminster Shuttle",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-07-31",
+      "event": "'Perfect next step' for pizza chain as new takeaway opens in former Pizza Hut in Nottingham city cen",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-07-31",
+      "event": "Yum bids Pizza Hut farewell, overhauls KFC - Restaurant Dive",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-07-31",
       "event": "New Turkish restaurant opens at Crawley Leisure Park in former Pizza Hut unit - SussexWorld",
       "impact": "medium",
@@ -1088,27 +1106,43 @@
       "event": "Pizza Hut Sold for $2.7 Billion by Parent Company Yum! Brands - LAmag",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum strikes two deals to sell Pizza Hut for $2.7 billion in tale of diverging fortunes - Reuters",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Pizza Hut Sold for $2.7B to Private Equity Firm and Other Company After Announcing Closure of 250 Re",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Baemin, Pizza Hut Korea forge online sales alliance and launch exclusive menus - CHOSUNBIZ - Chosunb",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-01",
+      "summary": "Found 4 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum bids Pizza Hut farewell, overhauls KFC - Restaurant Dive",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOclFYVXVaTUZvSDQ2ZkpIN1BNUlBuV3ctZVlMYnpkQnd5UUxuU1lyZ1gyeUpNMm9zeENSV3RURnZjNnRiaTVacnl1aEt2d3pabUxNRFhUNHdtdG1VelRfazVLRDhrczV0NnlTV3RkRkRnekFibjdHTjcweVpHcmJKM1EtY3BIRnVpeW1Z?oc=5\" target=\"_blank\"&gt;Yum bids Pizza Hut farewell, overhauls KFC&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Dive&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOclFYVXVaTUZvSDQ2ZkpIN1BNUlBuV3ctZVlMYnpkQnd5UUxuU1lyZ1gyeUpNMm9zeENSV3RURnZjNnRiaTVacnl1aEt2d3pabUxNRFhUNHdtdG1VelRfazVLRDhrczV0NnlTV3RkRkRnekFibjdHTjcweVpHcmJKM1EtY3BIRnVpeW1Z?oc=5",
+      "source": "Restaurant Dive",
+      "date": "2026-07-31",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "'Perfect next step' for pizza chain as new takeaway opens in former Pizza Hut in Nottingham city centre - uk.news.yahoo.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5GT2VmUWpXUHBYSHBqUjZteDR2cXVLdGU2aEhiaUtFTVhVZDJoVXdBemNQOGg2d0tXLW5BR284MUhXRFZRbDNhTVlTMkg3M195VVZaanhDSXpYa2RoWnF0UlpxZDZ6eUlaRTVSQmNmYmI2YnJCX0dJaEdn?oc=5\" target=\"_blank\"&gt;'Perfect next step' for pizza chain as new takeaway opens in former Pizza Hut in Nottingham city centre&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;uk.news.yahoo.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GT2VmUWpXUHBYSHBqUjZteDR2cXVLdGU2aEhiaUtFTVhVZDJoVXdBemNQOGg2d0tXLW5BR284MUhXRFZRbDNhTVlTMkg3M195VVZaanhDSXpYa2RoWnF0UlpxZDZ6eUlaRTVSQmNmYmI2YnJCX0dJaEdn?oc=5",
+      "source": "uk.news.yahoo.com",
+      "date": "2026-07-31",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "New food chain set to take over former Pizza Hut site as plans approved - Kidderminster Shuttle",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0llTGg0Q1FvblZIdlZEVWdKZEttR1A0d21CRTg5YlBNVlVIRHlWMVViSGI2dk1uSXo0UmRydl9idnlmaVVraTdGYjl4dUpFTWlPN3JiX2VLX1h5dTZvcVdIeFowU1BEbXNpcDZabkpDTWRnaDdHQzRJbWhDc0FLOHpCcmhENkNIWFd2TkY5WTdrS3E4T0JocVViUGt1YjJDVDJGNQ?oc=5\" target=\"_blank\"&gt;New food chain set to take over former Pizza Hut site as plans approved&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Kidderminster Shuttle&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0llTGg0Q1FvblZIdlZEVWdKZEttR1A0d21CRTg5YlBNVlVIRHlWMVViSGI2dk1uSXo0UmRydl9idnlmaVVraTdGYjl4dUpFTWlPN3JiX2VLX1h5dTZvcVdIeFowU1BEbXNpcDZabkpDTWRnaDdHQzRJbWhDc0FLOHpCcmhENkNIWFd2TkY5WTdrS3E4T0JocVViUGt1YjJDVDJGNQ?oc=5",
+      "source": "Kidderminster Shuttle",
+      "date": "2026-08-01",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-07-31",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
@@ -1242,34 +1276,6 @@
     {
       "date": "2026-07-11",
       "summary": "Found 1 relevant news item. Buyers mentioned: LongRange Capital."
-    },
-    {
-      "title": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says - AOL.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzRXeEhDTmxlYjlQMW9XS0pjQ2VKaWg3TE5EMGpjdnlpenI1VzBmczFkaG00YTdVYU15MGQ3VUdrMTdKOWRIenBLRklaN25HN1lyVEk0dkpGNDcxQl9GWXNXY25xUFJWYXZTOXlXNWwwVXR2ZFllTWt3YlEwVWdBZw?oc=5\" target=\"_blank\"&gt;Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzRXeEhDTmxlYjlQMW9XS0pjQ2VKaWg3TE5EMGpjdnlpenI1VzBmczFkaG00YTdVYU15MGQ3VUdrMTdKOWRIenBLRklaN25HN1lyVEk0dkpGNDcxQl9GWXNXY25xUFJWYXZTOXlXNWwwVXR2ZFllTWt3YlEwVWdBZw?oc=5",
-      "source": "AOL.com",
-      "date": "2026-07-10",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-10",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchisees are reviving classic red-roof dine-in restaurants — and they're becoming top performers - moneywise.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWGxMeUgwZDRwWXVnaFZMNHRTZzZRd25hSGd6aXdMc294TU5sQmI4cVp3MDNVZEhvZmtpSjNsU0I1OGpDd1hMWmQzRDBQSHdIejREeU5aSUdPMGVNVXVyMFduV281RGpDQjA5NnR6X1FqdEpyRGFoUVhUQW51X0gwZFVkdTE1S1U?oc=5\" target=\"_blank\"&gt;Pizza Hut franchisees are reviving classic red-roof dine-in restaurants — and they're becoming top performers&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;moneywise.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWGxMeUgwZDRwWXVnaFZMNHRTZzZRd25hSGd6aXdMc294TU5sQmI4cVp3MDNVZEhvZmtpSjNsU0I1OGpDd1hMWmQzRDBQSHdIejREeU5aSUdPMGVNVXVyMFduV281RGpDQjA5NnR6X1FqdEpyRGFoUVhUQW51X0gwZFVkdTE1S1U?oc=5",
-      "source": "moneywise.com",
-      "date": "2026-07-09",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-07",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
   "watchList": {
