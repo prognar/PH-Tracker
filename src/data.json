@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T13:00:08.430Z",
+  "lastUpdated": "2026-08-02T13:00:08.611Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -1110,6 +1110,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-08-02",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
       "date": "2026-08-01",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
     },
@@ -1272,10 +1276,6 @@
       "impact": "high",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-11",
-      "summary": "Found 1 relevant news item. Buyers mentioned: LongRange Capital."
     }
   ],
   "watchList": {
