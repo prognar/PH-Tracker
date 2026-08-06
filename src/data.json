@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T13:00:08.638Z",
+  "lastUpdated": "2026-08-06T13:00:08.703Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-06",
+      "event": "Plans submitted for drive-thru restaurant for US fast food brand - former Pizza Hut unit to be redev",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-08-01",
       "event": "New food chain set to take over former Pizza Hut site as plans approved - Kidderminster Shuttle",
       "impact": "medium",
@@ -1100,15 +1106,23 @@
       "event": "Yum Brands sells Pizza Hut for US$2.7 billion in split deal - Food Ingredients First",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Pizza Hut Sold for $2.7 Billion by Parent Company Yum! Brands - LAmag",
-      "impact": "high",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-06",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Plans submitted for drive-thru restaurant for US fast food brand - former Pizza Hut unit to be redeveloped - Insider Media Ltd",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWJiaUdoMk90NXBVczRzR2t2MnZ1OC1rVE9tV1YtMUo0enJfaUdITUVYaElPdmhXVlhOOS1kcFlzck9hbDdRcU13NmtnT1dyMHA2UkxBTEFSeU13V2JZSUtGSWR5X21KMW52azNQNjQtbWJWUkl3dHhFSEdQVm1GdzRia25aZTh0MTJiM1ktZHE4QThnT3ZScTFEVFhFV01ra2FTR3Q2S1RoVFp3OGhtVTdadTBsWFZIYUNaYm00bTR6MVB5MFF4VlNRcGRaZDRjQ29tVjVmOGYyUEUzcVh6UXRR?oc=5\" target=\"_blank\"&gt;Plans submitted for drive-thru restaurant for US fast food brand - former Pizza Hut unit to be redeveloped&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Insider Media Ltd&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWJiaUdoMk90NXBVczRzR2t2MnZ1OC1rVE9tV1YtMUo0enJfaUdITUVYaElPdmhXVlhOOS1kcFlzck9hbDdRcU13NmtnT1dyMHA2UkxBTEFSeU13V2JZSUtGSWR5X21KMW52azNQNjQtbWJWUkl3dHhFSEdQVm1GdzRia25aZTh0MTJiM1ktZHE4QThnT3ZScTFEVFhFV01ra2FTR3Q2S1RoVFp3OGhtVTdadTBsWFZIYUNaYm00bTR6MVB5MFF4VlNRcGRaZDRjQ29tVjVmOGYyUEUzcVh6UXRR?oc=5",
+      "source": "Insider Media Ltd",
+      "date": "2026-08-06",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-02",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1260,20 +1274,6 @@
       "source": "TheBusinessDesk.com",
       "date": "2026-07-20",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-12",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Analysts see upside for Yum China after Pizza Hut deal - MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxOZEdfSHk3R0syOUFiVEZjUU9ucXFCNzJzUGFLMG5EM1Nvd0E5Vk5rQWI4WV84LVk3RDA3d19LY29vZEx3cF9tQzVfRHdCMklwbVdlM0xoOUxZeXN3YUstXzhkT1l4eGJJTDNrUy1yZEtNTVZFS3Uzc2FmVEZ1QlZXYk1GUVFncUlZTDBVQ3NVdDlZa0dWeVZWZkc3aGlWcWtaV3JxN3JsZjJFUjNWRUZXOGtGODVkemZDX0p1X3AxR0V3eGF0Sjh0RGMwNjBCQ3BTSGZIS3RHeEFUYVU1UUJ0dnpCOEhjQ3dlMlRRcWt2V0xLOVdORUxiOEtwM1FrZ25xR3c1Q0pDQ3NzeDhIak9HX1dtQmJrY1FqSlBvYWhlU0lTWld2NFBBSkpIN0dTSFpWcEtzdkFuSlFucnExNE0tTmVTSQ?oc=5\" target=\"_blank\"&gt;Analysts see upside for Yum China after Pizza Hut deal&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOZEdfSHk3R0syOUFiVEZjUU9ucXFCNzJzUGFLMG5EM1Nvd0E5Vk5rQWI4WV84LVk3RDA3d19LY29vZEx3cF9tQzVfRHdCMklwbVdlM0xoOUxZeXN3YUstXzhkT1l4eGJJTDNrUy1yZEtNTVZFS3Uzc2FmVEZ1QlZXYk1GUVFncUlZTDBVQ3NVdDlZa0dWeVZWZkc3aGlWcWtaV3JxN3JsZjJFUjNWRUZXOGtGODVkemZDX0p1X3AxR0V3eGF0Sjh0RGMwNjBCQ3BTSGZIS3RHeEFUYVU1UUJ0dnpCOEhjQ3dlMlRRcWt2V0xLOVdORUxiOEtwM1FrZ25xR3c1Q0pDQ3NzeDhIak9HX1dtQmJrY1FqSlBvYWhlU0lTWld2NFBBSkpIN0dTSFpWcEtzdkFuSlFucnExNE0tTmVTSQ?oc=5",
-      "source": "MSN",
-      "date": "2026-07-11",
-      "impact": "high",
       "buyerId": null,
       "sentiment": "neutral"
     }
