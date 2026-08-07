@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T13:00:08.703Z",
+  "lastUpdated": "2026-08-07T13:00:09.652Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,24 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-07",
+      "event": "New pub set to open in former Pizza Hut site in Wiltshire - The Wiltshire Gazette and Herald",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
+      "date": "2026-08-07",
+      "event": "Pizza Hut China expects more than 800 new stores a year in 2027-28 - Stock Titan",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-08-07",
+      "event": "Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending - Stock Titan",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-08-06",
       "event": "Plans submitted for drive-thru restaurant for US fast food brand - former Pizza Hut unit to be redev",
       "impact": "medium",
@@ -1088,27 +1106,53 @@
       "event": "Deal Diary: Slew of Advisers Guide YUM! Brands Sale of Pizza Hut - thedeal.com",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-18",
-      "event": "Pizza Hut Sold for $19.5 Billion - 36 Kr",
-      "impact": "high",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-18",
-      "event": "Yum! Brands agrees $2.7b sale of Pizza Hut, with China business sold separately - marketech apac",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum Brands sells Pizza Hut for US$2.7 billion in split deal - Food Ingredients First",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-07",
+      "summary": "Found 5 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending - Stock Titan",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5\" target=\"_blank\"&gt;Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5",
+      "source": "Stock Titan",
+      "date": "2026-08-07",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending - Stock Titan",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5\" target=\"_blank\"&gt;Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5",
+      "source": "Stock Titan",
+      "date": "2026-08-07",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut China expects more than 800 new stores a year in 2027-28 - Stock Titan",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmE3cTk1UUlhbU9pb1F6T3JKMHBoWE90VlNlWlVoVmdab3dobTNHNUxOQzJCVkxlS3FtQWFmRWRaZE5ZV2Nhd0FtOGZSWlM1dGNYeGZkNGhSblZaTkJxU2ZQNmlvYlFBMk92WjM4ZThPbThkZ1BLWHBYLWNCczFGaTJuVFRDbmVwc05HUUd5eGpuLUxfSTNqVGtsYmFtNUhta0F3LWowQThVRGpaVXE5eGlhVHpVZ0Jjb284?oc=5\" target=\"_blank\"&gt;Pizza Hut China expects more than 800 new stores a year in 2027-28&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmE3cTk1UUlhbU9pb1F6T3JKMHBoWE90VlNlWlVoVmdab3dobTNHNUxOQzJCVkxlS3FtQWFmRWRaZE5ZV2Nhd0FtOGZSWlM1dGNYeGZkNGhSblZaTkJxU2ZQNmlvYlFBMk92WjM4ZThPbThkZ1BLWHBYLWNCczFGaTJuVFRDbmVwc05HUUd5eGpuLUxfSTNqVGtsYmFtNUhta0F3LWowQThVRGpaVXE5eGlhVHpVZ0Jjb284?oc=5",
+      "source": "Stock Titan",
+      "date": "2026-08-07",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
+    {
+      "title": "New pub set to open in former Pizza Hut site in Wiltshire - The Wiltshire Gazette and Herald",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWZQb2R5Zm8wVklCVGtreVZ3Z0VCZEhxdFZUNlhzNnk4dE44SGpWekJ5cG4waEdlX2NoZzd3d1RiZ0E4TjlibjFPanF6SGxKdTBUUEN6S0daVFVTRnc2T3B6MUxGek9wUWJnaDdqSWQtUDFjQ3A3c3Y2ZDVDSzY3b0hpSHExcXpOXzVBMUtxbXY2RUM2Uk0tdkFjbEZVNE85OEFn?oc=5\" target=\"_blank\"&gt;New pub set to open in former Pizza Hut site in Wiltshire&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Wiltshire Gazette and Herald&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWZQb2R5Zm8wVklCVGtreVZ3Z0VCZEhxdFZUNlhzNnk4dE44SGpWekJ5cG4waEdlX2NoZzd3d1RiZ0E4TjlibjFPanF6SGxKdTBUUEN6S0daVFVTRnc2T3B6MUxGek9wUWJnaDdqSWQtUDFjQ3A3c3Y2ZDVDSzY3b0hpSHExcXpOXzVBMUtxbXY2RUM2Uk0tdkFjbEZVNE85OEFn?oc=5",
+      "source": "The Wiltshire Gazette and Herald",
+      "date": "2026-08-07",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-06",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1230,50 +1274,6 @@
       "source": "franchisetimes.com",
       "date": "2026-07-29",
       "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets - franchisetimes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGdEMVpMZy1PaC1MRVlnSHJxcU4yOTdFWEp6X0ZJUUluUnI1d05KNlhlLUxtckFuajNLeHlYWk5PTk0wZDFMeUgxUGFMTnJFUzJDR3FJekdCaGxObkxUNHhoNGZuN0x3Zy1mVWVHWlJwcXdzc2pyRi1BRlcxbzJlUHFwaTZXODM1NUcxeC1qS0c0WGotWWRyekx1RGg2M0hoX1A1V3o0S3dQUFNYV0JrTUdQd3hTQjFnQTF0cFNUaVBkdHk1ZG9qUGEzQVozZUdLeXM1TDl2YTg5b1ZfUHpoX0Z2TFhiRmcxTlhtU0JWVjdaUUpia0J4cWFXZ3A0dnBOeTUtUkxmYXVNc1N3TDZJ?oc=5\" target=\"_blank\"&gt;Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;franchisetimes.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGdEMVpMZy1PaC1MRVlnSHJxcU4yOTdFWEp6X0ZJUUluUnI1d05KNlhlLUxtckFuajNLeHlYWk5PTk0wZDFMeUgxUGFMTnJFUzJDR3FJekdCaGxObkxUNHhoNGZuN0x3Zy1mVWVHWlJwcXdzc2pyRi1BRlcxbzJlUHFwaTZXODM1NUcxeC1qS0c0WGotWWRyekx1RGg2M0hoX1A1V3o0S3dQUFNYV0JrTUdQd3hTQjFnQTF0cFNUaVBkdHk1ZG9qUGEzQVozZUdLeXM1TDl2YTg5b1ZfUHpoX0Z2TFhiRmcxTlhtU0JWVjdaUUpia0J4cWFXZ3A0dnBOeTUtUkxmYXVNc1N3TDZJ?oc=5",
-      "source": "franchisetimes.com",
-      "date": "2026-07-29",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales - Reuters",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObmJiZzJlMml2UVp6NU1ST3JnLUFuLUdpZXprVGlWa3AtTFNiU3lDV09LZFEzVWZnUXQwbHNMZ1Z6bms3anNNX1lkMldfUTZLQlZacUR6bm5uX3RacTRDeEdyYm0xVUZRYTVya3RYdTQ3N0tkcTFLUFVHQ1J2OHREeHlldURfSzg2VHNtWlhnVkc5c2hIVmJLVjRyMkF3b2c1U3c?oc=5\" target=\"_blank\"&gt;Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmJiZzJlMml2UVp6NU1ST3JnLUFuLUdpZXprVGlWa3AtTFNiU3lDV09LZFEzVWZnUXQwbHNMZ1Z6bms3anNNX1lkMldfUTZLQlZacUR6bm5uX3RacTRDeEdyYm0xVUZRYTVya3RYdTQ3N0tkcTFLUFVHQ1J2OHREeHlldURfSzg2VHNtWlhnVkc5c2hIVmJLVjRyMkF3b2c1U3c?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-29",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales - ET BrandEquity",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZzd3dDhlSDBMTEVGNnNHMGFrNFdBWmpSNlA4WXhHbVBXcW5TZjNRc0k5ZXpuRXV1QUtTdGdvMnhXaGNpQllWeXQyZ0ZrWWxZRkVYQWw3Njg3N1RoOXc2M3lJTG12czZKUFFPOXhYZTdsNnFicHRtNkVtSlVUeUhQNE9JY2hzWTY0eHppZ21xM0RFT2g1ZzdCRkt4Z044MHNKV3hTMlQ0MDVSYkdhU0VtN2xhLVpHN1JINW5DaWl1ZUJFOXBpVHR4VERBemotQ2o3RlpxWmZhbDZIVTdGSHRIejBfU3V2al9FLWQ4SkxiOVpUSGlmQ05jMFFn0gH_AUFVX3lxTFBMMFRLRmlkWEg4RjFGaFFxZ2dEdlVTZUdxZXd4YlZ4eFdRZ21jR2Q2TUwwTXNsaGFlbERHb0gxbUVYSENYTDlLUko1dExuY2ppR0FSNXJGTlV1YnNlQ3pyUDJESzdTSlFDTkxPd3NoTjkwcGdWLWNQZjlsZnNNYl9HbE5wWnU4dk1aM1lTaWg5UWxmaVVrX2U2Rk5FVzdDZnhuUDVtakV1TUxGQk42Wmx2ekxwUXdHa041c2FSRkF6b05ydVI2UldVZ2xCbnltZ0ZMb1hMdXM1enFMM3NPOE9zS2tJV1poTWVuWnp1NWhMOFN0d2h0cTFfZEZVYWdSRQ?oc=5\" target=\"_blank\"&gt;Pizza Hut India operator's quarterly profit jumps nearly four-fold on stronger sales&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;ET BrandEquity&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZzd3dDhlSDBMTEVGNnNHMGFrNFdBWmpSNlA4WXhHbVBXcW5TZjNRc0k5ZXpuRXV1QUtTdGdvMnhXaGNpQllWeXQyZ0ZrWWxZRkVYQWw3Njg3N1RoOXc2M3lJTG12czZKUFFPOXhYZTdsNnFicHRtNkVtSlVUeUhQNE9JY2hzWTY0eHppZ21xM0RFT2g1ZzdCRkt4Z044MHNKV3hTMlQ0MDVSYkdhU0VtN2xhLVpHN1JINW5DaWl1ZUJFOXBpVHR4VERBemotQ2o3RlpxWmZhbDZIVTdGSHRIejBfU3V2al9FLWQ4SkxiOVpUSGlmQ05jMFFn0gH_AUFVX3lxTFBMMFRLRmlkWEg4RjFGaFFxZ2dEdlVTZUdxZXd4YlZ4eFdRZ21jR2Q2TUwwTXNsaGFlbERHb0gxbUVYSENYTDlLUko1dExuY2ppR0FSNXJGTlV1YnNlQ3pyUDJESzdTSlFDTkxPd3NoTjkwcGdWLWNQZjlsZnNNYl9HbE5wWnU4dk1aM1lTaWg5UWxmaVVrX2U2Rk5FVzdDZnhuUDVtakV1TUxGQk42Wmx2ekxwUXdHa041c2FSRkF6b05ydVI2UldVZ2xCbnltZ0ZMb1hMdXM1enFMM3NPOE9zS2tJV1poTWVuWnp1NWhMOFN0d2h0cTFfZEZVYWdSRQ?oc=5",
-      "source": "ET BrandEquity",
-      "date": "2026-07-29",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-20",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Pizza Hut franchise collapse ends with rescue deal securing 106 jobs - TheBusinessDesk.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1pBekxiZWthY2hFb1lqSFNYVVhMdldLSzktM0YyZmZYMkthRVlRQ3NiZkNuUFhvLUREZEhaUHdseTZmTHNjTTlZaGZua05fZVhoVU9vSnNYWXpTcTYtQkpYMjhGY1BFbE1tRWZEVHc0SkFSVThka01ZSV91ZTk3ZUJ4UTFBTlM3M3MweEZ4SEVRUEJfcVJReDhaX2s1MlNPLWw3d19PSDNpQlNHd2Nfdzl4ZkVWWDM1NkgwVk1PZl92QlZi?oc=5\" target=\"_blank\"&gt;Pizza Hut franchise collapse ends with rescue deal securing 106 jobs&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TheBusinessDesk.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1pBekxiZWthY2hFb1lqSFNYVVhMdldLSzktM0YyZmZYMkthRVlRQ3NiZkNuUFhvLUREZEhaUHdseTZmTHNjTTlZaGZua05fZVhoVU9vSnNYWXpTcTYtQkpYMjhGY1BFbE1tRWZEVHc0SkFSVThka01ZSV91ZTk3ZUJ4UTFBTlM3M3MweEZ4SEVRUEJfcVJReDhaX2s1MlNPLWw3d19PSDNpQlNHd2Nfdzl4ZkVWWDM1NkgwVk1PZl92QlZi?oc=5",
-      "source": "TheBusinessDesk.com",
-      "date": "2026-07-20",
-      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     }
