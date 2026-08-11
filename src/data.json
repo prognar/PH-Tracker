@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T13:00:14.290Z",
+  "lastUpdated": "2026-08-11T13:00:09.722Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-10",
+      "event": "Yum China completes $1.2bn acquisition of Pizza Hut brand in China - verdictfoodservice.com",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-08-07",
       "event": "New pub set to open in former Pizza Hut site in Wiltshire - The Wiltshire Gazette and Herald",
       "impact": "medium",
@@ -1100,15 +1106,23 @@
       "event": "LongRange Capital to buy Pizza Hut outside China for $1.5bn - Alternatives Watch",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Deal Diary: Slew of Advisers Guide YUM! Brands Sale of Pizza Hut - thedeal.com",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-11",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum China completes $1.2bn acquisition of Pizza Hut brand in China - verdictfoodservice.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWZWTUxNakE0Rk10U0ZQZ3pzVHZmQU5JR0sycVFfS2I1cVhBTVE4V1NYMWlsUklyV2MzVy1RSzNUTVVaTTJZdEUyVUExV2o0MEJVeXV2VWhSOFA3Y05ha1NoYVNxMVVzdUFNMkx0eW90NVVJcFVEazV3X1JNc1Qyb09NbXdaRWVfdzNOUFQtSGlUZw?oc=5\" target=\"_blank\"&gt;Yum China completes $1.2bn acquisition of Pizza Hut brand in China&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;verdictfoodservice.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWZWTUxNakE0Rk10U0ZQZ3pzVHZmQU5JR0sycVFfS2I1cVhBTVE4V1NYMWlsUklyV2MzVy1RSzNUTVVaTTJZdEUyVUExV2o0MEJVeXV2VWhSOFA3Y05ha1NoYVNxMVVzdUFNMkx0eW90NVVJcFVEazV3X1JNc1Qyb09NbXdaRWVfdzNOUFQtSGlUZw?oc=5",
+      "source": "verdictfoodservice.com",
+      "date": "2026-08-10",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-07",
       "summary": "Found 5 relevant news items. No specific buyers mentioned."
@@ -1260,20 +1274,6 @@
       "source": "Stock Titan",
       "date": "2026-07-30",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-29",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets - franchisetimes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGdEMVpMZy1PaC1MRVlnSHJxcU4yOTdFWEp6X0ZJUUluUnI1d05KNlhlLUxtckFuajNLeHlYWk5PTk0wZDFMeUgxUGFMTnJFUzJDR3FJekdCaGxObkxUNHhoNGZuN0x3Zy1mVWVHWlJwcXdzc2pyRi1BRlcxbzJlUHFwaTZXODM1NUcxeC1qS0c0WGotWWRyekx1RGg2M0hoX1A1V3o0S3dQUFNYV0JrTUdQd3hTQjFnQTF0cFNUaVBkdHk1ZG9qUGEzQVozZUdLeXM1TDl2YTg5b1ZfUHpoX0Z2TFhiRmcxTlhtU0JWVjdaUUpia0J4cWFXZ3A0dnBOeTUtUkxmYXVNc1N3TDZJ?oc=5\" target=\"_blank\"&gt;Why This KFC and Pizza Hut Franchisee Wants to Bring The Great Greek to New Global Markets&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;franchisetimes.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGdEMVpMZy1PaC1MRVlnSHJxcU4yOTdFWEp6X0ZJUUluUnI1d05KNlhlLUxtckFuajNLeHlYWk5PTk0wZDFMeUgxUGFMTnJFUzJDR3FJekdCaGxObkxUNHhoNGZuN0x3Zy1mVWVHWlJwcXdzc2pyRi1BRlcxbzJlUHFwaTZXODM1NUcxeC1qS0c0WGotWWRyekx1RGg2M0hoX1A1V3o0S3dQUFNYV0JrTUdQd3hTQjFnQTF0cFNUaVBkdHk1ZG9qUGEzQVozZUdLeXM1TDl2YTg5b1ZfUHpoX0Z2TFhiRmcxTlhtU0JWVjdaUUpia0J4cWFXZ3A0dnBOeTUtUkxmYXVNc1N3TDZJ?oc=5",
-      "source": "franchisetimes.com",
-      "date": "2026-07-29",
-      "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
     }
