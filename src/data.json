@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T13:00:10.167Z",
+  "lastUpdated": "2026-08-15T13:00:09.952Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -808,6 +808,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-14",
+      "event": "Aaron Powell to step down from Pizza Hut CEO role - Nation’s Restaurant News",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-08-11",
       "event": "Rapidly expanding Boss Pizza to take over former Pizza Hut as it opens new Bletchley store - Milton ",
       "impact": "medium",
@@ -1100,15 +1106,23 @@
       "event": "J.C. Flowers’ Peter Yordán and FTV Capital’s Kyle Griswold talk financial services investing; LongRa",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum Brands Sells Pizza Hut in Massive $2.7 Billion Split Deal - The Korea Daily",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-15",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Aaron Powell to step down from Pizza Hut CEO role - Nation’s Restaurant News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaExFbFlmNjQ5QVNQOFd1R0F5Nm5XajZvLTZGUHVqaVMxcnNnTnJkZll2d0hpUXdTakVWWEN5blZvSHlMOXM5SUYtaTNsRTRPaTFLc1hsMDJKR1k2UnVkVlhaQnBsSzRxZWkzUjVfQjk2TFlOUlg0bThGWkZGajkzWXB5RWxfdmllMy1oMjZPQkdwRms?oc=5\" target=\"_blank\"&gt;Aaron Powell to step down from Pizza Hut CEO role&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Nation’s Restaurant News&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaExFbFlmNjQ5QVNQOFd1R0F5Nm5XajZvLTZGUHVqaVMxcnNnTnJkZll2d0hpUXdTakVWWEN5blZvSHlMOXM5SUYtaTNsRTRPaTFLc1hsMDJKR1k2UnVkVlhaQnBsSzRxZWkzUjVfQjk2TFlOUlg0bThGWkZGajkzWXB5RWxfdmllMy1oMjZPQkdwRms?oc=5",
+      "source": "Nation’s Restaurant News",
+      "date": "2026-08-14",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-12",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1256,20 +1270,6 @@
       "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "title": "New Turkish restaurant opens at Crawley Leisure Park in former Pizza Hut unit - SussexWorld",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRndiMDJaTEdsQXJlVFQ1RnZ1SXlnMFRGR2hnd0N0OGZIQUFmTUxmdUZ1TU15c0FwSnM0dGZDS3Vqd2FLN0RORlZqMmZqRmR2MXRkUG1CV2VpbkJnQ1drcjJzUGh5ZktSZ1ZKZmFScVQ4TFpHNnF2Q2VNaWxYcTlLS0w5Tjc5aElIajVFMUI1NTh6QTJpeHB3ZWYyanhFQVh1NldtZUlEOGpzU0ViNm51RkdNdnFTWnJ4VG0zX1ZlTWUwaThqSnE0emJDbC0?oc=5\" target=\"_blank\"&gt;New Turkish restaurant opens at Crawley Leisure Park in former Pizza Hut unit&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;SussexWorld&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRndiMDJaTEdsQXJlVFQ1RnZ1SXlnMFRGR2hnd0N0OGZIQUFmTUxmdUZ1TU15c0FwSnM0dGZDS3Vqd2FLN0RORlZqMmZqRmR2MXRkUG1CV2VpbkJnQ1drcjJzUGh5ZktSZ1ZKZmFScVQ4TFpHNnF2Q2VNaWxYcTlLS0w5Tjc5aElIajVFMUI1NTh6QTJpeHB3ZWYyanhFQVh1NldtZUlEOGpzU0ViNm51RkdNdnFTWnJ4VG0zX1ZlTWUwaThqSnE0emJDbC0?oc=5",
-      "source": "SussexWorld",
-      "date": "2026-07-31",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-30",
-      "summary": "Found 6 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
