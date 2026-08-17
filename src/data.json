@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T13:00:10.531Z",
+  "lastUpdated": "2026-08-17T13:00:14.486Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -152,6 +152,11 @@
         },
         {
           "date": "2026-07-11",
+          "likelihood": 95,
+          "note": "Mentioned in news (1 mention)"
+        },
+        {
+          "date": "2026-08-17",
           "likelihood": 95,
           "note": "Mentioned in news (1 mention)"
         }
@@ -808,6 +813,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-17",
+      "event": "Pizza Hut global CEO resigns following LongRange Capital sale - QSR Media UK",
+      "impact": "high",
+      "type": "news"
+    },
+    {
       "date": "2026-08-14",
       "event": "Aaron Powell to step down from Pizza Hut CEO role - Nation’s Restaurant News",
       "impact": "medium",
@@ -1100,15 +1111,23 @@
       "event": "Pizza Hut finds new owners amid sluggish US sales - Denver7",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "J.C. Flowers’ Peter Yordán and FTV Capital’s Kyle Griswold talk financial services investing; LongRa",
-      "impact": "high",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-17",
+      "summary": "Found 1 relevant news item. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "title": "Pizza Hut global CEO resigns following LongRange Capital sale - QSR Media UK",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGNVRHJ1bDJyb0R1Y2Q0ZGdTM2hWNV9UUllfSUVVM2thdlV6VHpWUXZzV0E3N1h0TjBZSS1RblV3Q0I2S0xiOGdXajB6NkVjbEJxRTFrenQxTkZVWFdwU25LTzY4Rzl5MmgxaEhMZThwTV9wbEhSdEVYNU5vOHRUaDZNQWxEMnljb3ZoamZTamFnbXg3ZkZyQlo2cTRKdF95TEJVTHhR?oc=5\" target=\"_blank\"&gt;Pizza Hut global CEO resigns following LongRange Capital sale&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;QSR Media UK&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGNVRHJ1bDJyb0R1Y2Q0ZGdTM2hWNV9UUllfSUVVM2thdlV6VHpWUXZzV0E3N1h0TjBZSS1RblV3Q0I2S0xiOGdXajB6NkVjbEJxRTFrenQxTkZVWFdwU25LTzY4Rzl5MmgxaEhMZThwTV9wbEhSdEVYNU5vOHRUaDZNQWxEMnljb3ZoamZTamFnbXg3ZkZyQlo2cTRKdF95TEJVTHhR?oc=5",
+      "source": "QSR Media UK",
+      "date": "2026-08-17",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-15",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1250,26 +1269,6 @@
     {
       "date": "2026-07-31",
       "summary": "Found 4 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Yum Brands posts strong Q2, Pizza Hut sale set for August completion - Pizza Marketplace",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUQ1alAxUVgxb3JJYVpxRmN1T0xKVS11Uk5jLWdLS2p4Vll0N2FWV1lNWjRha3RSenp6TTVUYmoyMlRpZkNMZ2NhdVVpV0h5Z2ZNaDlkYTFLU0pNMk40REtERHFsRjJTWmFiSDk4d1A0YWRtbzZDbDZmNnkwd2lYemtiQUtUbFk2MVVPNG5yclpZZUhQN2ZPdThHVV9sRnY4djhpaFVQeU93UQ?oc=5\" target=\"_blank\"&gt;Yum Brands posts strong Q2, Pizza Hut sale set for August completion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Pizza Marketplace&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUQ1alAxUVgxb3JJYVpxRmN1T0xKVS11Uk5jLWdLS2p4Vll0N2FWV1lNWjRha3RSenp6TTVUYmoyMlRpZkNMZ2NhdVVpV0h5Z2ZNaDlkYTFLU0pNMk40REtERHFsRjJTWmFiSDk4d1A0YWRtbzZDbDZmNnkwd2lYemtiQUtUbFk2MVVPNG5yclpZZUhQN2ZPdThHVV9sRnY4djhpaFVQeU93UQ?oc=5",
-      "source": "Pizza Marketplace",
-      "date": "2026-07-30",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "YUM: EPS excluding Special Items up 12% year-over-year; Pizza Hut sale and tax benefits boost net income - tradingview.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTlYM2ZhNlQ1WGhPaW9fTDB3a28xMkZXbHFrb3dHUzlDY3R0bjR4WFpBMkh5OEFHb1ZaaWhhNEFLcWgtNVR6WmI2NFVrSnIxVC1vVkUtWUExUXM2UGsyeVVLd0RZNEJfSkI4bTRlNWdGM1lUYndWSzZFU2pfbnl6dlZOU3hoVW9W?oc=5\" target=\"_blank\"&gt;YUM: EPS excluding Special Items up 12% year-over-year; Pizza Hut sale and tax benefits boost net income&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;tradingview.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTlYM2ZhNlQ1WGhPaW9fTDB3a28xMkZXbHFrb3dHUzlDY3R0bjR4WFpBMkh5OEFHb1ZaaWhhNEFLcWgtNVR6WmI2NFVrSnIxVC1vVkUtWUExUXM2UGsyeVVLd0RZNEJfSkI4bTRlNWdGM1lUYndWSzZFU2pfbnl6dlZOU3hoVW9W?oc=5",
-      "source": "tradingview.com",
-      "date": "2026-07-30",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
