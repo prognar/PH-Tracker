@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T13:00:14.486Z",
+  "lastUpdated": "2026-08-18T13:00:10.492Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -157,6 +157,11 @@
         },
         {
           "date": "2026-08-17",
+          "likelihood": 95,
+          "note": "Mentioned in news (1 mention)"
+        },
+        {
+          "date": "2026-08-18",
           "likelihood": 95,
           "note": "Mentioned in news (1 mention)"
         }
@@ -813,6 +818,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-18",
+      "event": "Pizza Hut’s Global CEO Steps Down as Brand’s Sale Enters Final Stage - PMQ Pizza",
+      "impact": "low",
+      "type": "news"
+    },
+    {
       "date": "2026-08-17",
       "event": "Pizza Hut global CEO resigns following LongRange Capital sale - QSR Media UK",
       "impact": "high",
@@ -1105,15 +1116,23 @@
       "event": "Pizza hut acquired by longrange capital and yum china in $2.7 billion deal | The Business Guardian -",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Pizza Hut finds new owners amid sluggish US sales - Denver7",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-18",
+      "summary": "Found 2 relevant news items. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "title": "Pizza Hut’s Global CEO Steps Down as Brand’s Sale Enters Final Stage - PMQ Pizza",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQk9xc3dHLWVCQVY0amZqUVVyeWxlcW51VlgxRlVJN1kzZ1lrWlY0WGN5REc5VWx3bkx1dXhZcTQ0a0J1alpvNG9aMEt0bHpLbFRqYXFTajI3ZC1Zb3N5Ym9pNFJwaVNGVzVoZTNCMFRvTURiR1Q5dDBpSWp5ZFdvUTluaTV2VVNsWTJhNFFTczM?oc=5\" target=\"_blank\"&gt;Pizza Hut’s Global CEO Steps Down as Brand’s Sale Enters Final Stage&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;PMQ Pizza&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQk9xc3dHLWVCQVY0amZqUVVyeWxlcW51VlgxRlVJN1kzZ1lrWlY0WGN5REc5VWx3bkx1dXhZcTQ0a0J1alpvNG9aMEt0bHpLbFRqYXFTajI3ZC1Zb3N5Ym9pNFJwaVNGVzVoZTNCMFRvTURiR1Q5dDBpSWp5ZFdvUTluaTV2VVNsWTJhNFFTczM?oc=5",
+      "source": "PMQ Pizza",
+      "date": "2026-08-18",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-17",
       "summary": "Found 1 relevant news item. Buyers mentioned: LongRange Capital."
@@ -1255,20 +1274,6 @@
       "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
-    },
-    {
-      "title": "New food chain set to take over former Pizza Hut site as plans approved - Kidderminster Shuttle",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0llTGg0Q1FvblZIdlZEVWdKZEttR1A0d21CRTg5YlBNVlVIRHlWMVViSGI2dk1uSXo0UmRydl9idnlmaVVraTdGYjl4dUpFTWlPN3JiX2VLX1h5dTZvcVdIeFowU1BEbXNpcDZabkpDTWRnaDdHQzRJbWhDc0FLOHpCcmhENkNIWFd2TkY5WTdrS3E4T0JocVViUGt1YjJDVDJGNQ?oc=5\" target=\"_blank\"&gt;New food chain set to take over former Pizza Hut site as plans approved&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Kidderminster Shuttle&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0llTGg0Q1FvblZIdlZEVWdKZEttR1A0d21CRTg5YlBNVlVIRHlWMVViSGI2dk1uSXo0UmRydl9idnlmaVVraTdGYjl4dUpFTWlPN3JiX2VLX1h5dTZvcVdIeFowU1BEbXNpcDZabkpDTWRnaDdHQzRJbWhDc0FLOHpCcmhENkNIWFd2TkY5WTdrS3E4T0JocVViUGt1YjJDVDJGNQ?oc=5",
-      "source": "Kidderminster Shuttle",
-      "date": "2026-08-01",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-07-31",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
