@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T13:00:10.492Z",
+  "lastUpdated": "2026-08-19T13:00:11.213Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -1120,6 +1120,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-08-19",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
       "date": "2026-08-18",
       "summary": "Found 2 relevant news items. Buyers mentioned: LongRange Capital."
     },
@@ -1262,16 +1266,6 @@
       "source": "Restaurant Dive",
       "date": "2026-07-31",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "'Perfect next step' for pizza chain as new takeaway opens in former Pizza Hut in Nottingham city centre - uk.news.yahoo.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5GT2VmUWpXUHBYSHBqUjZteDR2cXVLdGU2aEhiaUtFTVhVZDJoVXdBemNQOGg2d0tXLW5BR284MUhXRFZRbDNhTVlTMkg3M195VVZaanhDSXpYa2RoWnF0UlpxZDZ6eUlaRTVSQmNmYmI2YnJCX0dJaEdn?oc=5\" target=\"_blank\"&gt;'Perfect next step' for pizza chain as new takeaway opens in former Pizza Hut in Nottingham city centre&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;uk.news.yahoo.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GT2VmUWpXUHBYSHBqUjZteDR2cXVLdGU2aEhiaUtFTVhVZDJoVXdBemNQOGg2d0tXLW5BR284MUhXRFZRbDNhTVlTMkg3M195VVZaanhDSXpYa2RoWnF0UlpxZDZ6eUlaRTVSQmNmYmI2YnJCX0dJaEdn?oc=5",
-      "source": "uk.news.yahoo.com",
-      "date": "2026-07-31",
-      "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
     }
