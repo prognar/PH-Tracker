@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T13:00:11.213Z",
+  "lastUpdated": "2026-08-20T13:00:11.120Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -164,6 +164,11 @@
           "date": "2026-08-18",
           "likelihood": 95,
           "note": "Mentioned in news (1 mention)"
+        },
+        {
+          "date": "2026-08-20",
+          "likelihood": 95,
+          "note": "Mentioned in news (2 mentions)"
         }
       ]
     },
@@ -818,6 +823,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-19",
+      "event": "Pizza Hut CEO Resigns Ahead of LongRange Capital Deal Close - L’Express Franchise",
+      "impact": "high",
+      "type": "news"
+    },
+    {
       "date": "2026-08-18",
       "event": "Pizza Hut’s Global CEO Steps Down as Brand’s Sale Enters Final Stage - PMQ Pizza",
       "impact": "low",
@@ -1110,15 +1121,33 @@
       "event": "Yum Brands splits Pizza Hut in $2.7bn global sale - Nation Thailand",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-18",
-      "event": "Pizza hut acquired by longrange capital and yum china in $2.7 billion deal | The Business Guardian -",
-      "impact": "high",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-20",
+      "summary": "Found 2 relevant news items. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "title": "Pizza Hut CEO Resigns Ahead of LongRange Capital Deal Close - L’Express Franchise",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDJBdGxYUW5MM2hfSkJkbUtJZGl2V3p1UFo3TGdRcElvTFNjRE5Ld1d4Z0VlQmFmbmxoU0gyVW5fSTlmQkROM0w5WWVJQ1pzWmJxWU5mYnlxeUp6UXRzZ1ZiWTh3ZUZXdVlCVzloejJiVi05ckRJWEliSUkySUVEcW1Cb0ZqVDZWbU9ucG1UYkJzRDEtOG1jTDdZanA4eVA2U0NEQ1BrY2t0M2VIWGw4YnNYLURXcjZZYURQSU40NWNuSm8?oc=5\" target=\"_blank\"&gt;Pizza Hut CEO Resigns Ahead of LongRange Capital Deal Close&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;L’Express Franchise&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDJBdGxYUW5MM2hfSkJkbUtJZGl2V3p1UFo3TGdRcElvTFNjRE5Ld1d4Z0VlQmFmbmxoU0gyVW5fSTlmQkROM0w5WWVJQ1pzWmJxWU5mYnlxeUp6UXRzZ1ZiWTh3ZUZXdVlCVzloejJiVi05ckRJWEliSUkySUVEcW1Cb0ZqVDZWbU9ucG1UYkJzRDEtOG1jTDdZanA4eVA2U0NEQ1BrY2t0M2VIWGw4YnNYLURXcjZZYURQSU40NWNuSm8?oc=5",
+      "source": "L’Express Franchise",
+      "date": "2026-08-19",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Pizza Hut CEO Resigns Ahead of LongRange Capital Deal Close - L’Express Franchise",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDJBdGxYUW5MM2hfSkJkbUtJZGl2V3p1UFo3TGdRcElvTFNjRE5Ld1d4Z0VlQmFmbmxoU0gyVW5fSTlmQkROM0w5WWVJQ1pzWmJxWU5mYnlxeUp6UXRzZ1ZiWTh3ZUZXdVlCVzloejJiVi05ckRJWEliSUkySUVEcW1Cb0ZqVDZWbU9ucG1UYkJzRDEtOG1jTDdZanA4eVA2U0NEQ1BrY2t0M2VIWGw4YnNYLURXcjZZYURQSU40NWNuSm8?oc=5\" target=\"_blank\"&gt;Pizza Hut CEO Resigns Ahead of LongRange Capital Deal Close&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;L’Express Franchise&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDJBdGxYUW5MM2hfSkJkbUtJZGl2V3p1UFo3TGdRcElvTFNjRE5Ld1d4Z0VlQmFmbmxoU0gyVW5fSTlmQkROM0w5WWVJQ1pzWmJxWU5mYnlxeUp6UXRzZ1ZiWTh3ZUZXdVlCVzloejJiVi05ckRJWEliSUkySUVEcW1Cb0ZqVDZWbU9ucG1UYkJzRDEtOG1jTDdZanA4eVA2U0NEQ1BrY2t0M2VIWGw4YnNYLURXcjZZYURQSU40NWNuSm8?oc=5",
+      "source": "L’Express Franchise",
+      "date": "2026-08-19",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-19",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1248,24 +1277,6 @@
       "source": "Insider Media Ltd",
       "date": "2026-08-06",
       "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-08-02",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "date": "2026-08-01",
-      "summary": "Found 4 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Yum bids Pizza Hut farewell, overhauls KFC - Restaurant Dive",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOclFYVXVaTUZvSDQ2ZkpIN1BNUlBuV3ctZVlMYnpkQnd5UUxuU1lyZ1gyeUpNMm9zeENSV3RURnZjNnRiaTVacnl1aEt2d3pabUxNRFhUNHdtdG1VelRfazVLRDhrczV0NnlTV3RkRkRnekFibjdHTjcweVpHcmJKM1EtY3BIRnVpeW1Z?oc=5\" target=\"_blank\"&gt;Yum bids Pizza Hut farewell, overhauls KFC&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Restaurant Dive&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOclFYVXVaTUZvSDQ2ZkpIN1BNUlBuV3ctZVlMYnpkQnd5UUxuU1lyZ1gyeUpNMm9zeENSV3RURnZjNnRiaTVacnl1aEt2d3pabUxNRFhUNHdtdG1VelRfazVLRDhrczV0NnlTV3RkRkRnekFibjdHTjcweVpHcmJKM1EtY3BIRnVpeW1Z?oc=5",
-      "source": "Restaurant Dive",
-      "date": "2026-07-31",
-      "impact": "low",
       "buyerId": null,
       "sentiment": "neutral"
     }
