@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T13:00:11.120Z",
+  "lastUpdated": "2026-08-21T13:00:11.187Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -823,6 +823,18 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-20",
+      "event": "Pizza Hut Classic: Can the Nostalgia Factor Revive the Chain’s Flagging Sales? - PMQ Pizza",
+      "impact": "low",
+      "type": "news"
+    },
+    {
+      "date": "2026-08-21",
+      "event": "Yum! Brands entered into definitive agreements to sell Pizza Hut for $2.7 billion. - - Lakeland Gaze",
+      "impact": "high",
+      "type": "news"
+    },
+    {
       "date": "2026-08-19",
       "event": "Pizza Hut CEO Resigns Ahead of LongRange Capital Deal Close - L’Express Franchise",
       "impact": "high",
@@ -1109,21 +1121,43 @@
       "event": "Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value? - TradingView",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Yum! Brands Completes Sale of Pizza Hut in a $2.7 Billion Deal - Tomorrow's World Today",
-      "impact": "low",
-      "type": "news"
-    },
-    {
-      "date": "2026-06-18",
-      "event": "Yum Brands splits Pizza Hut in $2.7bn global sale - Nation Thailand",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-21",
+      "summary": "Found 3 relevant news items. No specific buyers mentioned."
+    },
+    {
+      "title": "Yum! Brands entered into definitive agreements to sell Pizza Hut for $2.7 billion. - - Lakeland Gazette",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGdJS2lzNzVzOW1ESDFiaXIwMUlCVDZFQ1dEc0FRSEpyY3U5NmI2SW1Fc1ZrV1B6cUhSeEF2Mi1UU2oxbHdwdEFGUXRIaklsNDlPaWdWLVZmMldtQllYTWJVbEZhOFlrTGVtd1pVOUszX2dpVF9rSFFBeVFfdkd1ZmJTcldGdW4xVU9XR21nRWIwTWNWa0ZVWlNyOUVGQmV4RTA1ZmFONl9NeU90dFlfMVBhMHBGWGhQVngxZFo2Wm5mSEE?oc=5\" target=\"_blank\"&gt;Yum! Brands entered into definitive agreements to sell Pizza Hut for $2.7 billion. -&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Lakeland Gazette&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGdJS2lzNzVzOW1ESDFiaXIwMUlCVDZFQ1dEc0FRSEpyY3U5NmI2SW1Fc1ZrV1B6cUhSeEF2Mi1UU2oxbHdwdEFGUXRIaklsNDlPaWdWLVZmMldtQllYTWJVbEZhOFlrTGVtd1pVOUszX2dpVF9rSFFBeVFfdkd1ZmJTcldGdW4xVU9XR21nRWIwTWNWa0ZVWlNyOUVGQmV4RTA1ZmFONl9NeU90dFlfMVBhMHBGWGhQVngxZFo2Wm5mSEE?oc=5",
+      "source": "Lakeland Gazette",
+      "date": "2026-08-21",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "positive"
+    },
+    {
+      "title": "Yum! Brands entered into definitive agreements to sell Pizza Hut for $2.7 billion. - - Lakeland Gazette",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGdJS2lzNzVzOW1ESDFiaXIwMUlCVDZFQ1dEc0FRSEpyY3U5NmI2SW1Fc1ZrV1B6cUhSeEF2Mi1UU2oxbHdwdEFGUXRIaklsNDlPaWdWLVZmMldtQllYTWJVbEZhOFlrTGVtd1pVOUszX2dpVF9rSFFBeVFfdkd1ZmJTcldGdW4xVU9XR21nRWIwTWNWa0ZVWlNyOUVGQmV4RTA1ZmFONl9NeU90dFlfMVBhMHBGWGhQVngxZFo2Wm5mSEE?oc=5\" target=\"_blank\"&gt;Yum! Brands entered into definitive agreements to sell Pizza Hut for $2.7 billion. -&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Lakeland Gazette&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGdJS2lzNzVzOW1ESDFiaXIwMUlCVDZFQ1dEc0FRSEpyY3U5NmI2SW1Fc1ZrV1B6cUhSeEF2Mi1UU2oxbHdwdEFGUXRIaklsNDlPaWdWLVZmMldtQllYTWJVbEZhOFlrTGVtd1pVOUszX2dpVF9rSFFBeVFfdkd1ZmJTcldGdW4xVU9XR21nRWIwTWNWa0ZVWlNyOUVGQmV4RTA1ZmFONl9NeU90dFlfMVBhMHBGWGhQVngxZFo2Wm5mSEE?oc=5",
+      "source": "Lakeland Gazette",
+      "date": "2026-08-21",
+      "impact": "high",
+      "buyerId": null,
+      "sentiment": "positive"
+    },
+    {
+      "title": "Pizza Hut Classic: Can the Nostalgia Factor Revive the Chain’s Flagging Sales? - PMQ Pizza",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlI5SDQ1UXJkcm9YZUlYVFd1UHJzX0ctUjdSZXR0cU80c0JFcU02T19QT3VWT013TTM1MXczclVvTGZSbktLLV9RVHlKRktJMmNKN01heWtLb2Nvd0Z4TGFFYzdKYmlQZXVfYlMxQjFCQnU2UGNMLW8yRko2NEZiV0pFYUNjRkxhcDh0UlhXM1JjRnJhNlIzaXRDUmg?oc=5\" target=\"_blank\"&gt;Pizza Hut Classic: Can the Nostalgia Factor Revive the Chain’s Flagging Sales?&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;PMQ Pizza&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlI5SDQ1UXJkcm9YZUlYVFd1UHJzX0ctUjdSZXR0cU80c0JFcU02T19QT3VWT013TTM1MXczclVvTGZSbktLLV9RVHlKRktJMmNKN01heWtLb2Nvd0Z4TGFFYzdKYmlQZXVfYlMxQjFCQnU2UGNMLW8yRko2NEZiV0pFYUNjRkxhcDh0UlhXM1JjRnJhNlIzaXRDUmg?oc=5",
+      "source": "PMQ Pizza",
+      "date": "2026-08-20",
+      "impact": "low",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-20",
       "summary": "Found 2 relevant news items. Buyers mentioned: LongRange Capital."
@@ -1243,40 +1277,6 @@
       "source": "Stock Titan",
       "date": "2026-08-07",
       "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut China expects more than 800 new stores a year in 2027-28 - Stock Titan",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmE3cTk1UUlhbU9pb1F6T3JKMHBoWE90VlNlWlVoVmdab3dobTNHNUxOQzJCVkxlS3FtQWFmRWRaZE5ZV2Nhd0FtOGZSWlM1dGNYeGZkNGhSblZaTkJxU2ZQNmlvYlFBMk92WjM4ZThPbThkZ1BLWHBYLWNCczFGaTJuVFRDbmVwc05HUUd5eGpuLUxfSTNqVGtsYmFtNUhta0F3LWowQThVRGpaVXE5eGlhVHpVZ0Jjb284?oc=5\" target=\"_blank\"&gt;Pizza Hut China expects more than 800 new stores a year in 2027-28&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmE3cTk1UUlhbU9pb1F6T3JKMHBoWE90VlNlWlVoVmdab3dobTNHNUxOQzJCVkxlS3FtQWFmRWRaZE5ZV2Nhd0FtOGZSWlM1dGNYeGZkNGhSblZaTkJxU2ZQNmlvYlFBMk92WjM4ZThPbThkZ1BLWHBYLWNCczFGaTJuVFRDbmVwc05HUUd5eGpuLUxfSTNqVGtsYmFtNUhta0F3LWowQThVRGpaVXE5eGlhVHpVZ0Jjb284?oc=5",
-      "source": "Stock Titan",
-      "date": "2026-08-07",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "New pub set to open in former Pizza Hut site in Wiltshire - The Wiltshire Gazette and Herald",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWZQb2R5Zm8wVklCVGtreVZ3Z0VCZEhxdFZUNlhzNnk4dE44SGpWekJ5cG4waEdlX2NoZzd3d1RiZ0E4TjlibjFPanF6SGxKdTBUUEN6S0daVFVTRnc2T3B6MUxGek9wUWJnaDdqSWQtUDFjQ3A3c3Y2ZDVDSzY3b0hpSHExcXpOXzVBMUtxbXY2RUM2Uk0tdkFjbEZVNE85OEFn?oc=5\" target=\"_blank\"&gt;New pub set to open in former Pizza Hut site in Wiltshire&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Wiltshire Gazette and Herald&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWZQb2R5Zm8wVklCVGtreVZ3Z0VCZEhxdFZUNlhzNnk4dE44SGpWekJ5cG4waEdlX2NoZzd3d1RiZ0E4TjlibjFPanF6SGxKdTBUUEN6S0daVFVTRnc2T3B6MUxGek9wUWJnaDdqSWQtUDFjQ3A3c3Y2ZDVDSzY3b0hpSHExcXpOXzVBMUtxbXY2RUM2Uk0tdkFjbEZVNE85OEFn?oc=5",
-      "source": "The Wiltshire Gazette and Herald",
-      "date": "2026-08-07",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-08-06",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Plans submitted for drive-thru restaurant for US fast food brand - former Pizza Hut unit to be redeveloped - Insider Media Ltd",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWJiaUdoMk90NXBVczRzR2t2MnZ1OC1rVE9tV1YtMUo0enJfaUdITUVYaElPdmhXVlhOOS1kcFlzck9hbDdRcU13NmtnT1dyMHA2UkxBTEFSeU13V2JZSUtGSWR5X21KMW52azNQNjQtbWJWUkl3dHhFSEdQVm1GdzRia25aZTh0MTJiM1ktZHE4QThnT3ZScTFEVFhFV01ra2FTR3Q2S1RoVFp3OGhtVTdadTBsWFZIYUNaYm00bTR6MVB5MFF4VlNRcGRaZDRjQ29tVjVmOGYyUEUzcVh6UXRR?oc=5\" target=\"_blank\"&gt;Plans submitted for drive-thru restaurant for US fast food brand - former Pizza Hut unit to be redeveloped&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Insider Media Ltd&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWJiaUdoMk90NXBVczRzR2t2MnZ1OC1rVE9tV1YtMUo0enJfaUdITUVYaElPdmhXVlhOOS1kcFlzck9hbDdRcU13NmtnT1dyMHA2UkxBTEFSeU13V2JZSUtGSWR5X21KMW52azNQNjQtbWJWUkl3dHhFSEdQVm1GdzRia25aZTh0MTJiM1ktZHE4QThnT3ZScTFEVFhFV01ra2FTR3Q2S1RoVFp3OGhtVTdadTBsWFZIYUNaYm00bTR6MVB5MFF4VlNRcGRaZDRjQ29tVjVmOGYyUEUzcVh6UXRR?oc=5",
-      "source": "Insider Media Ltd",
-      "date": "2026-08-06",
-      "impact": "medium",
       "buyerId": null,
       "sentiment": "neutral"
     }
