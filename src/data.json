@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T13:00:15.344Z",
+  "lastUpdated": "2026-08-25T13:00:10.666Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -823,6 +823,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-24",
+      "event": "This former Pizza Hut is now one of Fort Collins' coolest cafes - AOL.com",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-08-20",
       "event": "Pizza Hut Classic: Can the Nostalgia Factor Revive the Chain’s Flagging Sales? - PMQ Pizza",
       "impact": "low",
@@ -1115,15 +1121,23 @@
       "event": "Yum Brands sells Pizza Hut in $2.7B split deal - MSN",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-17",
-      "event": "Will Yum! Brands' $2.7 Billion Pizza Hut Sale Unlock More Value? - TradingView",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-25",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "This former Pizza Hut is now one of Fort Collins' coolest cafes - AOL.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5wQmZqczFWS0VUNWt3VTRfcTh4WVFaTnJnNUZoaUJuWnlPT0tKbVJSa0NwVnFfdXI5SjFDT3ozaDQtVmRpcGpmQk9QVUFMVmY1cUNNUUhTY2J1WGtYNU9yUVl2bkpNVjE1dE8wTkVwTXo1Y0YxV253?oc=5\" target=\"_blank\"&gt;This former Pizza Hut is now one of Fort Collins' coolest cafes&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wQmZqczFWS0VUNWt3VTRfcTh4WVFaTnJnNUZoaUJuWnlPT0tKbVJSa0NwVnFfdXI5SjFDT3ozaDQtVmRpcGpmQk9QVUFMVmY1cUNNUUhTY2J1WGtYNU9yUVl2bkpNVjE1dE8wTkVwTXo1Y0YxV253?oc=5",
+      "source": "AOL.com",
+      "date": "2026-08-24",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-21",
       "summary": "Found 3 relevant news items. No specific buyers mentioned."
@@ -1259,26 +1273,6 @@
     {
       "date": "2026-08-07",
       "summary": "Found 5 relevant news items. No specific buyers mentioned."
-    },
-    {
-      "title": "Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending - Stock Titan",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5\" target=\"_blank\"&gt;Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5",
-      "source": "Stock Titan",
-      "date": "2026-08-07",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending - Stock Titan",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5\" target=\"_blank\"&gt;Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Stock Titan&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5",
-      "source": "Stock Titan",
-      "date": "2026-08-07",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
     }
   ],
   "watchList": {
