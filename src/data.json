@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T13:00:10.666Z",
+  "lastUpdated": "2026-08-26T13:00:11.598Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -823,6 +823,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-25",
+      "event": "New late-night bid submitted for Swindon McDonald’s set to replace former Pizza Hut - Swindon Advert",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-08-24",
       "event": "This former Pizza Hut is now one of Fort Collins' coolest cafes - AOL.com",
       "impact": "medium",
@@ -1115,15 +1121,23 @@
       "event": "Yum Brands to sell Pizza Hut for $2.7 billion in split deal - MSN",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-18",
-      "event": "Yum Brands sells Pizza Hut in $2.7B split deal - MSN",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-26",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "New late-night bid submitted for Swindon McDonald’s set to replace former Pizza Hut - Swindon Advertiser",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkh4NWpyR1ZqMmp4Z2RBcEZ2RExjVVl1ZnYzWkk5Y3RrYmxQUDgtNThsLWdUdEFjVEZyWF9Cd2JoT0ZoOFlGS0FRdXdfMjIyX3llRWZ6bkRSVzE2bWNMbTdWRkhOcDVpTWxWcHA0UHNyS2VKRTctVXo5eG5GU0lCajlxYVF5WXlmcEd3bzhhQW5iYV8tdFhMVk1BaEJTMElkeFlCR1VPUGV6aFE?oc=5\" target=\"_blank\"&gt;New late-night bid submitted for Swindon McDonald’s set to replace former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Swindon Advertiser&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkh4NWpyR1ZqMmp4Z2RBcEZ2RExjVVl1ZnYzWkk5Y3RrYmxQUDgtNThsLWdUdEFjVEZyWF9Cd2JoT0ZoOFlGS0FRdXdfMjIyX3llRWZ6bkRSVzE2bWNMbTdWRkhOcDVpTWxWcHA0UHNyS2VKRTctVXo5eG5GU0lCajlxYVF5WXlmcEd3bzhhQW5iYV8tdFhMVk1BaEJTMElkeFlCR1VPUGV6aFE?oc=5",
+      "source": "Swindon Advertiser",
+      "date": "2026-08-25",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-25",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1259,20 +1273,6 @@
     {
       "date": "2026-08-11",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Yum China completes $1.2bn acquisition of Pizza Hut brand in China - verdictfoodservice.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWZWTUxNakE0Rk10U0ZQZ3pzVHZmQU5JR0sycVFfS2I1cVhBTVE4V1NYMWlsUklyV2MzVy1RSzNUTVVaTTJZdEUyVUExV2o0MEJVeXV2VWhSOFA3Y05ha1NoYVNxMVVzdUFNMkx0eW90NVVJcFVEazV3X1JNc1Qyb09NbXdaRWVfdzNOUFQtSGlUZw?oc=5\" target=\"_blank\"&gt;Yum China completes $1.2bn acquisition of Pizza Hut brand in China&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;verdictfoodservice.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWZWTUxNakE0Rk10U0ZQZ3pzVHZmQU5JR0sycVFfS2I1cVhBTVE4V1NYMWlsUklyV2MzVy1RSzNUTVVaTTJZdEUyVUExV2o0MEJVeXV2VWhSOFA3Y05ha1NoYVNxMVVzdUFNMkx0eW90NVVJcFVEazV3X1JNc1Qyb09NbXdaRWVfdzNOUFQtSGlUZw?oc=5",
-      "source": "verdictfoodservice.com",
-      "date": "2026-08-10",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-08-07",
-      "summary": "Found 5 relevant news items. No specific buyers mentioned."
     }
   ],
   "watchList": {
