@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T13:00:10.938Z",
+  "lastUpdated": "2026-08-31T13:00:15.429Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -823,6 +823,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-08-31",
+      "event": "Weekly Recap: Ex-Pizza Hut 2Q26 growth and $0.75 quarterly dividend - TradingView",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-08-25",
       "event": "New late-night bid submitted for Swindon McDonald’s set to replace former Pizza Hut - Swindon Advert",
       "impact": "medium",
@@ -1115,15 +1121,23 @@
       "event": "Yum! Brands (YUM) Sells Pizza Hut In $2.7 Billion Deal To Refocus Its Portfolio - Yahoo Finance Sing",
       "impact": "low",
       "type": "news"
-    },
-    {
-      "date": "2026-06-18",
-      "event": "Yum Brands to sell Pizza Hut for $2.7 billion in split deal - MSN",
-      "impact": "low",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-08-31",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Weekly Recap: Ex-Pizza Hut 2Q26 growth and $0.75 quarterly dividend - TradingView",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNb3F6SEQ2SjhMUEVkT2FQdnR5c1JXcnI3MWZUNk0zRGZKNzJYWVVVWGhUUWVTM1lSb3Z1Rk9ESjhTaHlhc3Z6LXNLM2FEVWYwTXkwQlM5UDBybkVMd1dpVDQ1TVBselJ5ZDRTQXQzOGstMERwNFdrYmYwYkhVRWJNTldocnlUMHhrN2VreHdKMVQwYVdRdHdKa1dONlVVQVdQN2xrOWJxNUQ2Q1dNV1ZVOW1paGsteWUxYk9FYXYtNzhQR1dxSVE?oc=5\" target=\"_blank\"&gt;Weekly Recap: Ex-Pizza Hut 2Q26 growth and $0.75 quarterly dividend&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;TradingView&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb3F6SEQ2SjhMUEVkT2FQdnR5c1JXcnI3MWZUNk0zRGZKNzJYWVVVWGhUUWVTM1lSb3Z1Rk9ESjhTaHlhc3Z6LXNLM2FEVWYwTXkwQlM5UDBybkVMd1dpVDQ1TVBselJ5ZDRTQXQzOGstMERwNFdrYmYwYkhVRWJNTldocnlUMHhrN2VreHdKMVQwYVdRdHdKa1dONlVVQVdQN2xrOWJxNUQ2Q1dNV1ZVOW1paGsteWUxYk9FYXYtNzhQR1dxSVE?oc=5",
+      "source": "TradingView",
+      "date": "2026-08-31",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-08-26",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1258,20 +1272,6 @@
     },
     {
       "date": "2026-08-12",
-      "summary": "Found 1 relevant news item. No specific buyers mentioned."
-    },
-    {
-      "title": "Rapidly expanding Boss Pizza to take over former Pizza Hut as it opens new Bletchley store - Milton Keynes Citizen",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONC1PeTJxV2ZyeHdaY2lsSGtyM0ZoUVBoMzhuckJFbm82SkItY0s1NXAtanV2VGdEbGlaZ3pud3J2RjQxU1RCUjhjNGdzVVlaYmVNbzVwUE9iSHNhNFhXODJYRzRSU1Vxa1ZJbmp3UWRVTUNOVld2a21sYkl1ZVBnZ0xwT0h4UlBZSHVQSEh4SlUxdzQzVjNTUHVNLWRxSExubG1XZjFZQXZLc3c2UkRFS1JVb3o0dU5mUHlhOENrYlpVcGFVSG8tT01mbHFhckRIZnotZUd4Yw?oc=5\" target=\"_blank\"&gt;Rapidly expanding Boss Pizza to take over former Pizza Hut as it opens new Bletchley store&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Milton Keynes Citizen&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONC1PeTJxV2ZyeHdaY2lsSGtyM0ZoUVBoMzhuckJFbm82SkItY0s1NXAtanV2VGdEbGlaZ3pud3J2RjQxU1RCUjhjNGdzVVlaYmVNbzVwUE9iSHNhNFhXODJYRzRSU1Vxa1ZJbmp3UWRVTUNOVld2a21sYkl1ZVBnZ0xwT0h4UlBZSHVQSEh4SlUxdzQzVjNTUHVNLWRxSExubG1XZjFZQXZLc3c2UkRFS1JVb3o0dU5mUHlhOENrYlpVcGFVSG8tT01mbHFhckRIZnotZUd4Yw?oc=5",
-      "source": "Milton Keynes Citizen",
-      "date": "2026-08-11",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "date": "2026-08-11",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     }
   ],
