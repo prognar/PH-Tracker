@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T13:00:14.461Z",
+  "lastUpdated": "2026-09-05T13:00:10.507Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -1135,6 +1135,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-09-05",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
       "date": "2026-09-04",
       "summary": "Found 6 relevant news items. No specific buyers mentioned."
     },
@@ -1320,16 +1324,6 @@
       "date": "2026-09-02",
       "impact": "medium",
       "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pizza Hut’s sale to LongRange Capital is complete - Yahoo Finance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPV0tYZGV4THhsTHVxMkJwbHVnTjNxbzd6M2tHbzFqVFBvamRybjh0OThOS2tvM216cF9RMGdMcXFFTVc5MmV0djBGT1B0bl9uNWlidkFvQmsxLTRXcjJpVzNsY2RnSXI4aTJoWUx5NEFBMWxURHFvSFZZeW5LVm1yN19RaTZOY3J1anJzQzlEU21peng1eFJva1JObkNNUQ?oc=5\" target=\"_blank\"&gt;Pizza Hut’s sale to LongRange Capital is complete&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0tYZGV4THhsTHVxMkJwbHVnTjNxbzd6M2tHbzFqVFBvamRybjh0OThOS2tvM216cF9RMGdMcXFFTVc5MmV0djBGT1B0bl9uNWlidkFvQmsxLTRXcjJpVzNsY2RnSXI4aTJoWUx5NEFBMWxURHFvSFZZeW5LVm1yN19RaTZOY3J1anJzQzlEU21peng1eFJva1JObkNNUQ?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-09-01",
-      "impact": "high",
-      "buyerId": "longrange-capital",
       "sentiment": "neutral"
     }
   ],
