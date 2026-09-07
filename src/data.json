@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T13:00:10.507Z",
+  "lastUpdated": "2026-09-07T13:00:09.902Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -833,6 +833,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-09-07",
+      "event": "Hugely popular coffee chain could open at former Pizza Hut - Daily Echo",
+      "impact": "medium",
+      "type": "news"
+    },
+    {
       "date": "2026-09-04",
       "event": "Car crashes into vacant Cape Coral building, damaging former Pizza Hut - Gulf Coast News and Weather",
       "impact": "medium",
@@ -1125,15 +1131,23 @@
       "event": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says - AOL.com",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-07-09",
-      "event": "Pizza Hut franchisees are reviving classic red-roof dine-in restaurants — and they're becoming top p",
-      "impact": "medium",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-09-07",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
+      "title": "Hugely popular coffee chain could open at former Pizza Hut - Daily Echo",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmJlVXlUX3ZJVmpFVlRpLXNWTzJIM1ZnMGpiVnREMlVGUWdwSGZqX2FieGF6TkZIUWp2a3h3d2ZTdnF5VWpOZ1VLSEltRC16MkY1dzVtX0puTkdUdzRYWU9faGVFUDNHRVFFSWJvT1ZITXdQSjdBUmJ6NmFBZ1ZnRVZlbGpmdk1kOXB0dXhEWUJKNnEwNWw1X3pB?oc=5\" target=\"_blank\"&gt;Hugely popular coffee chain could open at former Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Echo&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmJlVXlUX3ZJVmpFVlRpLXNWTzJIM1ZnMGpiVnREMlVGUWdwSGZqX2FieGF6TkZIUWp2a3h3d2ZTdnF5VWpOZ1VLSEltRC16MkY1dzVtX0puTkdUdzRYWU9faGVFUDNHRVFFSWJvT1ZITXdQSjdBUmJ6NmFBZ1ZnRVZlbGpmdk1kOXB0dXhEWUJKNnEwNWw1X3pB?oc=5",
+      "source": "Daily Echo",
+      "date": "2026-09-07",
+      "impact": "medium",
+      "buyerId": null,
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-09-05",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1304,26 +1318,6 @@
       "date": "2026-09-01",
       "impact": "high",
       "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum says Pizza Hut CEO Aaron Powell resigns - Reuters",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWG5oeGhjNnZncE1hZVozcV9QTkZqMzBFR2xoZ3d4TEpXUm1wWGVlOVBWdXFOTEJUZFZla3Z6TFVuUFJfaFBCbS1LQWxQTHVBRlc2QndXNzl1SVlqRDhLcWd4R0hLbjlqZTRlNHNqRzNsYXFnWjFSQUltN3FISHQ5b2kyZWtuNXpKMHJnQkJaN3Y0QQ?oc=5\" target=\"_blank\"&gt;Yum says Pizza Hut CEO Aaron Powell resigns&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Reuters&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWG5oeGhjNnZncE1hZVozcV9QTkZqMzBFR2xoZ3d4TEpXUm1wWGVlOVBWdXFOTEJUZFZla3Z6TFVuUFJfaFBCbS1LQWxQTHVBRlc2QndXNzl1SVlqRDhLcWd4R0hLbjlqZTRlNHNqRzNsYXFnWjFSQUltN3FISHQ5b2kyZWtuNXpKMHJnQkJaN3Y0QQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-09-01",
-      "impact": "medium",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Aaron Powell steps down as Pizza Hut CEO - bestmediainfo.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3RQQ3NLZzdOcHhpZWpTallDQkhZZmw1WDRhVXdLbnJCSzAzMXFyLTRpV2M3ei1vaGlYTms2eDRPZUxJR3YxR0RGRDRXVU9xVzhFWFhSemVPeHNFcVlKNTV4RXVXMnRRaUZSb251TWozSmYwbm1fWEh3SU03ZVVoRXMyeGlJX0hValcxWjRUMWZDbkQ1STd1Q0UtZUdBbVpEZkV3T29qUXHSAagBQVVfeXFMUE90UENzS2c3TnB4aWVqU2pZQ0JIWWZsNVg0YVV3S25yQkswMzFxci00aVdjN3otb2hpWE5rNng0T2VMSUd2MUdERkQ0V1VPcVc4RVhYUnplT3hzRXFZSjU1eEV1VzJ0UWlGUm9udU1qM0pmMG5tX1hId0lNN2VVaEVzMnhpSV9IVWpXMVo0VDFmQ25ENUk3dUNFLWVHQW1aRGZFd09valFx?oc=5\" target=\"_blank\"&gt;Aaron Powell steps down as Pizza Hut CEO&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;bestmediainfo.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3RQQ3NLZzdOcHhpZWpTallDQkhZZmw1WDRhVXdLbnJCSzAzMXFyLTRpV2M3ei1vaGlYTms2eDRPZUxJR3YxR0RGRDRXVU9xVzhFWFhSemVPeHNFcVlKNTV4RXVXMnRRaUZSb251TWozSmYwbm1fWEh3SU03ZVVoRXMyeGlJX0hValcxWjRUMWZDbkQ1STd1Q0UtZUdBbVpEZkV3T29qUXHSAagBQVVfeXFMUE90UENzS2c3TnB4aWVqU2pZQ0JIWWZsNVg0YVV3S25yQkswMzFxci00aVdjN3otb2hpWE5rNng0T2VMSUd2MUdERkQ0V1VPcVc4RVhYUnplT3hzRXFZSjU1eEV1VzJ0UWlGUm9udU1qM0pmMG5tX1hId0lNN2VVaEVzMnhpSV9IVWpXMVo0VDFmQ25ENUk3dUNFLWVHQW1aRGZFd09valFx?oc=5",
-      "source": "bestmediainfo.com",
-      "date": "2026-09-02",
-      "impact": "medium",
-      "buyerId": null,
       "sentiment": "neutral"
     }
   ],
