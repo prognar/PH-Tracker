@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T13:00:09.902Z",
+  "lastUpdated": "2026-09-08T13:00:10.012Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -1135,6 +1135,10 @@
   ],
   "recentNews": [
     {
+      "date": "2026-09-08",
+      "summary": "Found 1 relevant news item. No specific buyers mentioned."
+    },
+    {
       "date": "2026-09-07",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
     },
@@ -1308,16 +1312,6 @@
       "date": "2026-09-01",
       "impact": "low",
       "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "LongRange Capital completes acquisition of Pizza Hut - Investing.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3I1RDJHdTExVEZ5OUxDdlpfb1ZSRXlJZ3h2YXptWWhMOW9QQnJQczc3QS03c0Vwcks1cjkwU2k5WjlWNmZ0dHFCeWtFcVY1ejREdXYwNlVIZmk5Vms1UXNMMjRYR0pNS3NRWkZqRnh3bkFIUVRNR1R2UDZDZjNSYlIteHpFV2Rla09MNXJQS01uS19TMi1vdHBRRXdqa2NGWnJGUDc1REFONDJVWHc?oc=5\" target=\"_blank\"&gt;LongRange Capital completes acquisition of Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Investing.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3I1RDJHdTExVEZ5OUxDdlpfb1ZSRXlJZ3h2YXptWWhMOW9QQnJQczc3QS03c0Vwcks1cjkwU2k5WjlWNmZ0dHFCeWtFcVY1ejREdXYwNlVIZmk5Vms1UXNMMjRYR0pNS3NRWkZqRnh3bkFIUVRNR1R2UDZDZjNSYlIteHpFV2Rla09MNXJQS01uS19TMi1vdHBRRXdqa2NGWnJGUDc1REFONDJVWHc?oc=5",
-      "source": "Investing.com",
-      "date": "2026-09-01",
-      "impact": "high",
-      "buyerId": "longrange-capital",
       "sentiment": "neutral"
     }
   ],
