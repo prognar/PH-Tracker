@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T13:00:10.012Z",
+  "lastUpdated": "2026-09-09T13:00:10.832Z",
   "dealStatus": "announced",
   "estimatedValuation": {
     "low": 3500000000,
@@ -179,6 +179,11 @@
           "date": "2026-09-02",
           "likelihood": 95,
           "note": "Mentioned in news (8 mentions)"
+        },
+        {
+          "date": "2026-09-09",
+          "likelihood": 95,
+          "note": "Mentioned in news (1 mention)"
         }
       ]
     },
@@ -833,6 +838,12 @@
   ],
   "timeline": [
     {
+      "date": "2026-09-08",
+      "event": "Pizza Hut Sold to LongRange Capital - foodserviceandhospitality.com",
+      "impact": "high",
+      "type": "news"
+    },
+    {
       "date": "2026-09-07",
       "event": "Hugely popular coffee chain could open at former Pizza Hut - Daily Echo",
       "impact": "medium",
@@ -1125,15 +1136,23 @@
       "event": "Analysts see upside for Yum China after Pizza Hut deal - MSN",
       "impact": "high",
       "type": "news"
-    },
-    {
-      "date": "2026-07-10",
-      "event": "Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says - AOL.com",
-      "impact": "high",
-      "type": "news"
     }
   ],
   "recentNews": [
+    {
+      "date": "2026-09-09",
+      "summary": "Found 1 relevant news item. Buyers mentioned: LongRange Capital."
+    },
+    {
+      "title": "Pizza Hut Sold to LongRange Capital - foodserviceandhospitality.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmhBZ3R6MEVmRWVHTVhPa0ZnQ25DRUZ4VXU5VkxZbjlGMnZhVmpvelhiRTZQN2dxX1ltZS16clZ5M3pwSnBJRjJOMjd6U1k1S05EcG1PVlVGZnllOTJwLWU1TlJYOXR1TFVTXzZwTDF3NVA4WXI1dF9LRUlmdm1vdUFpdEM?oc=5\" target=\"_blank\"&gt;Pizza Hut Sold to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;foodserviceandhospitality.com&lt;/font&gt;",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmhBZ3R6MEVmRWVHTVhPa0ZnQ25DRUZ4VXU5VkxZbjlGMnZhVmpvelhiRTZQN2dxX1ltZS16clZ5M3pwSnBJRjJOMjd6U1k1S05EcG1PVlVGZnllOTJwLWU1TlJYOXR1TFVTXzZwTDF3NVA4WXI1dF9LRUlmdm1vdUFpdEM?oc=5",
+      "source": "foodserviceandhospitality.com",
+      "date": "2026-09-08",
+      "impact": "high",
+      "buyerId": "longrange-capital",
+      "sentiment": "neutral"
+    },
     {
       "date": "2026-09-08",
       "summary": "Found 1 relevant news item. No specific buyers mentioned."
@@ -1289,26 +1308,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmxoWjY2VVZYYTEtQmpFR1F5dVRqZUROalN0ZDJTTzhUWElnRnVRRHIxOHFDRWNxOWF6TzZTb0Y1UEpSM05NckdTNUYyZWpwYS1rX2dNMnlhanIyb2k1R1VJRjJjZGhrU002N3B3bjd4MlpSTHdrMnlqQW51NVpQSkpvYmJILWZISFhpWnoyN291YzlkbVk2QXV4MUtXSFNzTWs1UFBBYlN3SDh5TnRaS0Q4ckFQanRyYmF5M2psbw?oc=5\" target=\"_blank\"&gt;Yum! Brands completes Pizza Hut sale for total of $2.7 billion&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;WHAS11&lt;/font&gt;",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmxoWjY2VVZYYTEtQmpFR1F5dVRqZUROalN0ZDJTTzhUWElnRnVRRHIxOHFDRWNxOWF6TzZTb0Y1UEpSM05NckdTNUYyZWpwYS1rX2dNMnlhanIyb2k1R1VJRjJjZGhrU002N3B3bjd4MlpSTHdrMnlqQW51NVpQSkpvYmJILWZISFhpWnoyN291YzlkbVk2QXV4MUtXSFNzTWs1UFBBYlN3SDh5TnRaS0Q4ckFQanRyYmF5M2psbw?oc=5",
       "source": "WHAS11",
-      "date": "2026-09-01",
-      "impact": "low",
-      "buyerId": null,
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yum Brands Completes $1.5 Billion Pizza Hut Sale to LongRange Capital - finance.biggo.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9hcWVfOWxxS3dUZXVvbUZIYzNTc2x0N1E2bUxweXFmQ0JzanBwQkVaWjRxWGxkNzQ5cE1na05mNUNGTlRzZUFHaENuVU9NVE9aVmsyTUNCRk43ZFZzZzVhQkF3WTNjMnNlVVBPLTQzODBMV0VTdEE?oc=5\" target=\"_blank\"&gt;Yum Brands Completes $1.5 Billion Pizza Hut Sale to LongRange Capital&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hcWVfOWxxS3dUZXVvbUZIYzNTc2x0N1E2bUxweXFmQ0JzanBwQkVaWjRxWGxkNzQ5cE1na05mNUNGTlRzZUFHaENuVU9NVE9aVmsyTUNCRk43ZFZzZzVhQkF3WTNjMnNlVVBPLTQzODBMV0VTdEE?oc=5",
-      "source": "finance.biggo.com",
-      "date": "2026-09-02",
-      "impact": "high",
-      "buyerId": "longrange-capital",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Done Deal: Yum Brands completes $1.5 billion sale of Pizza Hut - Chain Store Age",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxObDd2eTlRdlR5YncxUUtlVEppRkwzZjdpU01ZekVNa1Y1Ml9BbEpkUUtRMm5JSmY0VjNxUWUxMUdwVG0tdV94bFJCWVNLMElQbEFfNE9weHg2RFNnQTI3LWpBY05iUXFXMU5vdnBOVlJLU29EUWZXN3FqbjVKampRODhQMTUyUl8tWnc?oc=5\" target=\"_blank\"&gt;Done Deal: Yum Brands completes $1.5 billion sale of Pizza Hut&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Chain Store Age&lt;/font&gt;",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDd2eTlRdlR5YncxUUtlVEppRkwzZjdpU01ZekVNa1Y1Ml9BbEpkUUtRMm5JSmY0VjNxUWUxMUdwVG0tdV94bFJCWVNLMElQbEFfNE9weHg2RFNnQTI3LWpBY05iUXFXMU5vdnBOVlJLU29EUWZXN3FqbjVKampRODhQMTUyUl8tWnc?oc=5",
-      "source": "Chain Store Age",
       "date": "2026-09-01",
       "impact": "low",
       "buyerId": null,
